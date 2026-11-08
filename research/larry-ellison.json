@@ -148,18 +148,22 @@
       "claim": "In November 2005, more than ten years ago, a San Mateo County court approved Ellison's settlement of a shareholder derivative suit alleging insider trading in his sale of about $900 million of Oracle stock in January 2001. He agreed to give $100 million to charity in Oracle's name and pay $22 million in legal fees; the report records no admission of wrongdoing.",
       "evidence_type": "settlement",
       "date": "2005-11-22",
-      "source_ids": ["infoworld-2005-settlement"]
+      "source_ids": [
+        "infoworld-2005-settlement"
+      ]
     },
     {
       "id": "f2",
-      "direction": "concern",
+      "direction": "counterweight",
       "theme": "legal",
       "level": "individual",
       "entity": "Larry Ellison",
-      "claim": "Oracle shareholders alleged that Ellison, a large holder in both companies, pushed Oracle to overpay for NetSuite in 2016. After a trial, the Court of Chancery ruled for the defendants in 2023, and the Delaware Supreme Court affirmed in January 2025, finding the special committee's negotiation untainted by his influence.",
+      "claim": "Oracle shareholders alleged in a derivative suit that Ellison, a co-founder and large holder in both companies, forced Oracle to overpay for NetSuite in 2016. After trial the Court of Chancery ruled for the defendants in 2023, finding the special committee's negotiation untainted by his influence, and the Delaware Supreme Court affirmed in January 2025.",
       "evidence_type": "final_ruling",
       "date": "2025-01-21",
-      "source_ids": ["delaware-netsuite"]
+      "source_ids": [
+        "delaware-netsuite"
+      ]
     },
     {
       "id": "f3",
@@ -170,7 +174,9 @@
       "claim": "In September 2022 the SEC found that Oracle subsidiaries in Turkey, the UAE and India used off-book slush funds in 2016 to 2019 to bribe foreign officials, and Oracle paid over $23 million without admitting or denying the findings. It was Oracle's second FCPA resolution, after a 2012 case over Oracle India.",
       "evidence_type": "regulatory_penalty",
       "date": "2022-09-27",
-      "source_ids": ["sec-fcpa-2022"]
+      "source_ids": [
+        "sec-fcpa-2022"
+      ]
     },
     {
       "id": "f4",
@@ -181,7 +187,9 @@
       "claim": "In 2024 Oracle agreed to pay $115 million to settle a federal class action (Katz-Lacabe v. Oracle America) alleging it captured, compiled and sold people's online and offline data without consent. Oracle denies the allegations and any wrongdoing, and agreed to stop capturing certain user data.",
       "evidence_type": "settlement",
       "date": "2024-09-11",
-      "source_ids": ["katz-privacy-settlement"]
+      "source_ids": [
+        "katz-privacy-settlement"
+      ]
     },
     {
       "id": "f5",
@@ -192,7 +200,9 @@
       "claim": "Business Insider reported in May 2023 that Ellison had given about $35 million to Opportunity Matters Fund, a super PAC backing Senator Tim Scott: $5 million in October 2020 and about $30 million in 2021 and 2022, over three-quarters of what the PAC raised. He also gave $5 million to a pro-Rubio super PAC in 2016.",
       "evidence_type": "investigative_reporting",
       "date": "2023-05-22",
-      "source_ids": ["bi-scott-super-pac"]
+      "source_ids": [
+        "bi-scott-super-pac"
+      ]
     },
     {
       "id": "f6",
@@ -200,10 +210,13 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Larry Ellison",
-      "claim": "Under the FCC-approved Skydance–Paramount merger of July 2025, Ellison holds about 35.5% of the family's voting interest in the company that owns CBS, which his son runs. In December 2025 he personally guaranteed $40.4 billion of equity for Paramount's bid for Warner Bros. Discovery, owner of CNN.",
+      "claim": "TheWrap reported in July 2025, citing an FCC order on the Skydance–Paramount merger, that Ellison would hold a minority voting interest of about 35.5% in the combined company, with his son David as CEO. In December 2025 he gave an irrevocable personal guarantee for $40.4 billion of equity financing for Paramount's bid for Warner Bros. Discovery, owner of CNN.",
       "evidence_type": "investigative_reporting",
       "date": "2025-12-22",
-      "source_ids": ["wrap-paramount-voting", "ap-wbd-guarantee"]
+      "source_ids": [
+        "wrap-paramount-voting",
+        "ap-wbd-guarantee"
+      ]
     },
     {
       "id": "f7",
@@ -211,10 +224,12 @@
       "theme": "politics",
       "level": "foundation",
       "entity": "The Larry Ellison Foundation",
-      "claim": "A September 2025 investigation reported that Ellison's foundation has given or pledged at least £257m to the Tony Blair Institute since 2021, and former staff said the institute promoted Oracle's interests to governments. It states there is no suggestion of illegality; the institute denies advocating for Oracle.",
+      "claim": "A September 2025 investigation by Democracy for Sale and Lighthouse Reports said Ellison's foundation has donated or pledged at least £257m to the Tony Blair Institute since 2021, without saying how much was paid. Former staff said the institute pushed Oracle technology to governments; it states there is no suggestion of illegality, and the institute denies advocating for Oracle.",
       "evidence_type": "investigative_reporting",
       "date": "2025-09-24",
-      "source_ids": ["dfs-tbi"]
+      "source_ids": [
+        "dfs-tbi"
+      ]
     },
     {
       "id": "f8",
@@ -225,7 +240,9 @@
       "claim": "IRS filings summarised by ProPublica show the Larry Ellison Foundation, with Ellison as sole director, disbursed about $76.4 million in 2024, $54.7 million in 2023 and $45.2 million in 2022. The summary does not name recipients.",
       "evidence_type": "documented_giving",
       "date": "2024",
-      "source_ids": ["propublica-foundation"]
+      "source_ids": [
+        "propublica-foundation"
+      ]
     },
     {
       "id": "f9",
@@ -233,10 +250,13 @@
       "theme": "finance",
       "level": "company",
       "entity": "Oracle",
-      "claim": "In 2026 Oracle faces two pending investor class actions over its AI data-centre spending: a January bondholder suit in New York state court naming Ellison among the defendants, alleging the offering documents hid planned borrowing, and a February securities suit in Delaware federal court. These are allegations; no liability has been found.",
+      "claim": "In January and February 2026 investors filed two proposed class actions over Oracle's AI data-centre spending: a bondholder suit in New York state court naming Ellison among the defendants, alleging offering documents hid planned borrowing, and a securities suit in Delaware federal court. These are allegations; no liability has been found.",
       "evidence_type": "pending_case",
       "date": "2026-02-05",
-      "source_ids": ["reuters-bondholders", "investmentnews-barrows"]
+      "source_ids": [
+        "reuters-bondholders",
+        "investmentnews-barrows"
+      ]
     }
   ],
   "proposal": {
@@ -244,29 +264,92 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Major Republican donor: about $35 million to a super PAC backing Senator Tim Scott in 2020–2022, per reporting on FEC data. Holds about 35.5% of the family's voting interest in Paramount Skydance, owner of CBS, and guaranteed $40.4 billion for its Warner Bros. Discovery bid. His foundation has given or pledged at least £257m to the Tony Blair Institute; no illegality is alleged.",
-        "finding_ids": ["f5", "f6", "f7"]
+        "reason": "Major Republican donor: about $35 million in 2020–2022 to a super PAC backing Senator Tim Scott, as reported by Business Insider. Set to hold a minority voting interest of about 35.5% in the merged Paramount Skydance, and personally guaranteed $40.4 billion of equity for its bid for Warner Bros. Discovery, owner of CNN. His foundation has donated or pledged at least £257m to the Tony Blair Institute, amount paid not stated; no illegality is alleged.",
+        "finding_ids": [
+          "f5",
+          "f6",
+          "f7"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Oracle paid $115 million in 2024 to settle a class action alleging it collected and sold people's data without consent; it denies wrongdoing. Other labour and market-power concerns are not sourced here.",
-        "finding_ids": ["f4"]
+        "reason": "Oracle agreed in 2024 to pay $115 million to settle a class action alleging it collected and sold people's data without consent; it denies wrongdoing. Other labour and market-power concerns are not sourced here.",
+        "finding_ids": [
+          "f4"
+        ]
       },
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Oracle paid over $23 million to settle SEC bribery charges in 2022, its second such case. In 2005 Ellison personally paid $122 million to settle a shareholder suit alleging insider trading, without admitting wrongdoing. Delaware courts ruled for him in 2023 and 2025 in a suit over Oracle's NetSuite purchase.",
-        "finding_ids": ["f1", "f2", "f3"]
+        "reason": "Oracle paid more than $23 million in 2022 to resolve SEC charges that subsidiaries bribed foreign officials, its second FCPA resolution. In 2005 Ellison agreed to give $100 million to charity in Oracle's name and pay $22 million in fees to settle a shareholder suit alleging insider trading; no admission was reported. Delaware courts ruled for him in 2023 and 2025 in a suit over Oracle's NetSuite purchase.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
       },
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "Pending investor class actions filed in 2026 allege Oracle misled investors about its AI data-centre spending and borrowing; Ellison is named in the bondholder suit. No court has ruled on the claims.",
-        "finding_ids": ["f9"]
+        "reason": "Investor class actions filed in early 2026 allege Oracle misled investors about its AI data-centre spending and borrowing; Ellison is named in the bondholder suit. These are allegations and no ruling on them was found.",
+        "finding_ids": [
+          "f9"
+        ]
       }
     },
     "counterweights": "The Larry Ellison Foundation disbursed about $76 million in 2024 and $55 million in 2023, per its IRS filings.",
-    "rationale": "Politics 1→2: tens of millions to one super PAC plus a controlling-family stake in CBS meet 'major donor, owner of influential media'; 3 is arguable if the reviewer weighs the TBI reporting. Social 1→2: a $115m consumer privacy settlement. Legal 0→1: SEC FCPA penalty; the 2005 personal settlement involved no finding of liability, though a reviewer could read it as level 3. Unresolved 0→2: pending company suits; Ellison is a named defendant in one, which could support 3."
+    "rationale": "Politics 1→2: tens of millions to one super PAC plus a large voting stake in Paramount meet 'major donor, owner of influential media'; 3 is arguable if the reviewer weighs the TBI reporting. Social 1→2: a $115m consumer privacy settlement. Legal 0→1: SEC FCPA penalty; the 2005 personal settlement involved no finding of liability, though a reviewer could read it as level 3. The NetSuite ruling went his way and adds nothing. Unresolved 0→2: pending company suits; Ellison is a named defendant in one, which could support 3."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "InfoWorld (22 Nov 2005) confirms San Mateo court approval, $100m to charity in Oracle's name, $22m fees, ~$900m January 2001 sale, insider-trading allegation; it reports no admission."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: direction changed from concern to counterweight, since the courts ruled for Ellison; the untainted-committee finding attributed to the Court of Chancery, which the Supreme Court affirmed (opinion of 21 Jan 2025). Legal reason and rationale state the ruling went his way."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "SEC release 2022-173: Turkey, UAE, India subsidiaries, slush funds 2016-2019, more than $23m, without admitting or denying, prior 2012 Oracle India case."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Court-ordered notice issued by settlement administrator Angeion Group via PR Newswire (11 Sep 2024): $115m proposed settlement, Katz-Lacabe v. Oracle America (N.D. Cal.), denial of wrongdoing, data-capture changes. publisher_type 'other' is accurate. Social reason changed from 'paid' to 'agreed to pay', as the notice predates final approval."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Business Insider via Yahoo (22 May 2023): $5m Oct 2020, ~$30m 2021-22, over 75% of ~$45m raised, $5m pro-Rubio PAC in 2016. Politics reason no longer says 'per FEC data', which was not checked."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: TheWrap's body gives a ~35.5% minority voting interest in the combined company on closing (headline says 'of family's voting rights'), citing an FCC order but not stating approval; neither source mentions CBS. Removed 'FCC-approved', 'family's' and CBS from the claim and the politics reason. AP guarantee details confirmed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: the source says 'donated or pledged at least £257m' with no split between paid and pledged; the claim now says so, and names the publishers. Staff accounts, no-illegality statement and TBI denial confirmed. Politics reason also notes the amount paid is not stated."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "ProPublica: charitable disbursements $76.36m (2024), $54.73m (2023), $45.23m (2022); Ellison sole director; no recipients named. The claim does not connect these sums to the Tony Blair Institute."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: framed as suits filed in Jan and Feb 2026 rather than 'faces', since current status is not confirmed by the sources. Reuters (Ellison named, NY state court, Securities Act) and InvestmentNews (Barrows v. Oracle, D. Del.; Ellison not named) confirmed. Unresolved reason adjusted."
+      }
+    ]
   }
 }
