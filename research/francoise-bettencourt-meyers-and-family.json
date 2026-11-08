@@ -48,6 +48,16 @@
       "accessed": "2026-11-08"
     },
     {
+      "id": "jdd-2019",
+      "label": "Le JDD: Bettencourt affair definitively closed by dismissal order (2019)",
+      "url": "https://www.lejdd.fr/Societe/cette-fois-laffaire-bettencourt-est-definitivement-terminee-3896665",
+      "publisher": "Le Journal du Dimanche",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2019-05-05",
+      "accessed": "2026-11-08"
+    },
+    {
       "id": "az-complaint-2026",
       "label": "State of Arizona: Consumer fraud complaint against L'Oréal over hair relaxers (2026)",
       "url": "https://www.courthousenews.com/wp-content/uploads/2026/09/arizona-loreal-usa-complaint.pdf",
@@ -108,11 +118,12 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Françoise Bettencourt Meyers",
-      "claim": "In July 2016 a Paris investigating judge placed Françoise Bettencourt Meyers under formal investigation (mise en examen) for witness tampering, over a €300,000 loan to her mother's former accountant, on a complaint by François-Marie Banier. She denied the allegation and appealed; the outcome is not established by the sources in this file.",
+      "claim": "In July 2016 investigating judge Roger Le Loire placed Françoise Bettencourt Meyers under formal investigation (mise en examen, not a conviction) for suspected witness tampering over a €300,000 loan to her mother’s former accountant, on a complaint by François-Marie Banier; she contested the facts. In 2019 judge Dominique Blanc dismissed the case (non-lieu) for her and six others.",
       "evidence_type": "indictment",
       "date": "2016-07-07",
       "source_ids": [
-        "franceinfo-2016"
+        "franceinfo-2016",
+        "jdd-2019"
       ]
     },
     {
@@ -161,7 +172,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Fondation Bettencourt Schueller",
-      "claim": "The family foundation, chaired by Françoise Bettencourt Meyers, reports €85.1 million of philanthropic activity in 2024, including €78.9 million in grants and prizes. Of this, €16.3 million went to restoring Notre-Dame de Paris, within a €100 million pledge from the family holding Téthys.",
+      "claim": "The foundation chaired by Françoise Bettencourt Meyers reports €85.1 million of philanthropic activity in 2024, including €78.9 million of support (prizes and donations), €16.3 million of it for restoring Notre-Dame de Paris under a €100 million commitment by Téthys. These are 2024 amounts, not pledges; the report does not say how much was paid out.",
       "evidence_type": "documented_giving",
       "date": "2024",
       "source_ids": [
@@ -174,7 +185,7 @@
       "ecology": {
         "value": 1,
         "basis": "documented",
-        "reason": "Cosmetics and consumer goods: indirect footprint. L'Oréal reports Scope 1 and 2 emissions 58% below 2019 in 2025, but its targeted Scope 3 emissions, the bulk of the footprint, were 5% above 2019. These are company disclosures. No major environmental incident was found.",
+        "reason": "Cosmetics and consumer goods: indirect footprint. L’Oréal reports Scope 1 and 2 emissions 58% below 2019 in 2025, but its targeted Scope 3 emissions were 5% above 2019 and total Scope 1 to 3 emissions 1% above. These are company disclosures. No major environmental incident was found.",
         "finding_ids": [
           "f4",
           "f5"
@@ -192,7 +203,7 @@
       "legal": {
         "value": 3,
         "basis": "documented",
-        "reason": "Françoise Bettencourt Meyers was placed under formal investigation for witness tampering in 2016, which she denied; its outcome is not established here. At company level, a Paris court upheld a €189.5 million cartel fine on L'Oréal in 2020.",
+        "reason": "Françoise Bettencourt Meyers was placed under formal investigation for witness tampering in 2016, which she contested; in 2019 an investigating judge dismissed the case (non-lieu) and she was never tried. At company level, a Paris court upheld a €189.5 million cartel fine on L’Oréal in 2020.",
         "finding_ids": [
           "f1",
           "f2"
@@ -201,13 +212,49 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "L'Oréal faces a 2026 consumer fraud suit by Arizona and more than 12,000 pending US suits alleging that its hair relaxers carry undisclosed cancer risks. The company denies the claims. No ruling on the merits yet.",
+        "reason": "L’Oréal faces a 2026 consumer fraud suit by Arizona alleging that its hair relaxers carry undisclosed cancer risks, and Reuters reports more than 12,000 similar US suits consolidated in federal court in Chicago. The company denies the claims. No ruling on the merits yet.",
         "finding_ids": [
           "f3"
         ]
       }
     },
     "counterweights": "The family foundation reports €85.1 million of philanthropy in 2024, including €16.3 million towards Notre-Dame's restoration. L'Oréal reports Scope 1 and 2 emissions 58% below 2019 (company disclosure).",
-    "rationale": "Legal 0 to 3: the rubric scores a personal indictment at 3 even if later dropped; the 2016 mise en examen is personal. Unconfirmed reporting says it was dismissed around 2019; the verifier should check. Social 1 to 2: a court-upheld cartel finding is documented market-power harm. Unresolved 0 to 2: pending company-level relaxer litigation. Ecology stays 1; the old reason wrongly said pharmaceuticals."
+    "rationale": "Legal 0 to 3: the rubric scores a personal indictment at 3 even if later dropped; the 2016 mise en examen (closest French equivalent) was dismissed by a non-lieu in 2019 (Le JDD). Reviewer may judge that a dismissed mise en examen warrants less; f1 alone supports 2. Social 1 to 2: court-upheld cartel finding. Unresolved 0 to 2: pending company-level relaxer litigation. Ecology stays 1; old reason wrongly said pharmaceuticals."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Paris Court of Appeal ruling of 18 June 2020 (RG 19/08826) confirms the 22 Jan 2003 to 3 Feb 2006 hygiene-products cartel, information exchanges on dealings with supermarkets, the €189,494,000 fine on L’Oréal and a 23% cut to Lascad’s base amount."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: franceinfo (7 July 2016) supports the mise en examen, loan, complainant and that she contested the facts; it reports only that her lawyer announced an appeal, so 'appealed' was dropped. Added Le JDD (5 May 2019, opened): judge Dominique Blanc of the Paris court issued a non-lieu for her and six others; the claim now states the dismissal."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Complaint (Maricopa County Superior Court) names L’Oréal USA, Inc., L’Oréal USA Products, Inc., L’Oréal S.A. and SoftSheen-Carson under the Arizona Consumer Fraud Act and alleges undisclosed uterine and ovarian cancer risk. Reuters (14 Sept 2026) supports the denial and the 12,000+ MDL suits in Chicago. Company level, pending."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "URD 2025 section 4.2.5.1 table: Scopes 1 & 2 at -58% vs 2019 in 2025 (-51% in 2024), against a 2030 target of -57% vs 2019."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Same table: targeted Scope 3 (purchased goods and services, upstream transport, business travel) at +5% vs 2019 in 2025 against a -28% 2030 target; Scopes 1, 2 & 3 at +1% vs 2019. The unsourced 'bulk of the footprint' wording was removed from the ecology reason."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: report confirms €85.1M of activity, €78.9M of support (€11.8M prizes, €67.1M donations), €16.3M to Notre-Dame in 2024 and a €100M Téthys commitment, with Françoise Bettencourt Meyers as president. It does not call Téthys the family holding or say whether 2024 amounts were paid or awarded; the claim now says so."
+      }
+    ]
   }
 }
