@@ -122,7 +122,7 @@
       "theme": "platforms",
       "level": "company",
       "entity": "Tencent (WeChat)",
-      "claim": "A 2020 Citizen Lab technical study found that WeChat surveilled files and images exchanged only between accounts registered outside China and used them to build its censorship index for China-registered accounts. Tencent's policies did not clearly disclose this, and it did not answer the researchers' letter.",
+      "claim": "A 2020 Citizen Lab technical study found that WeChat screened files and images sent only between accounts registered outside China, and used those it flagged as politically sensitive to build up its censorship of China-registered accounts. Tencent's policies did not clearly disclose this and it did not answer the researchers; the study did not establish why.",
       "evidence_type": "investigative_reporting",
       "date": "2020-05-07",
       "source_ids": [
@@ -135,7 +135,7 @@
       "theme": "military",
       "level": "company",
       "entity": "Tencent",
-      "claim": "In January 2025 the US Defense Department added Tencent to its Section 1260H list of Chinese military companies, and its June 2026 list keeps it there as indirectly affiliated with the PLA. Tencent calls the listing a mistake and says it is not a military company or supplier.",
+      "claim": "In January 2025 the US Defense Department added Tencent to its Section 1260H list of Chinese military companies, and its June 2026 list keeps it there as indirectly affiliated with the PLA. Tencent called the 2025 listing a mistake and said it is not a military company or supplier.",
       "evidence_type": "official_report",
       "date": "2026-06-10",
       "source_ids": [
@@ -149,7 +149,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Ma Huateng",
-      "claim": "Ma Huateng served two five-year terms as a deputy to China's National People's Congress and was absent from the delegate list published in March 2023, Reuters reported.",
+      "claim": "Ma Huateng had served two five-year terms as a deputy to China's National People's Congress and was absent from the delegate list for its 2023 session, Reuters reported in March 2023.",
       "evidence_type": "investigative_reporting",
       "date": "2023-03-03",
       "source_ids": [
@@ -162,7 +162,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "Tencent",
-      "claim": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025, and 82.9% in owned data centres, against a 2030 target of 100%. The emission cuts it reports are measured against a business-as-usual scenario; these are company figures.",
+      "claim": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025, and 82.9% in owned data centres, against a 2030 target of 100%. These are Tencent's own figures, and the emission cuts it reports are measured against a business-as-usual scenario.",
       "evidence_type": "company_disclosure",
       "date": "2026-08",
       "source_ids": [
@@ -175,7 +175,7 @@
       "ecology": {
         "value": 1,
         "basis": "documented",
-        "reason": "Footprint is indirect, mainly data-centre electricity. Tencent reports green electricity rose to 48.5% of its consumption in 2025, targeting 100% by 2030; its reported emission cuts are measured against a business-as-usual scenario. These are company figures, not independently audited here.",
+        "reason": "Footprint is indirect, mainly data-centre electricity. Tencent reports that green electricity rose to 48.5% of its consumption in 2025, against a target of 100% by 2030, and measures its reported emission cuts against a business-as-usual scenario. These are Tencent's own figures, not independently verified.",
         "finding_ids": [
           "f6"
         ]
@@ -183,16 +183,16 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Ma Huateng sat for two five-year terms as a deputy to China's National People's Congress, ending in 2023, per Reuters. Since January 2025 the US Defense Department has listed Tencent as a Chinese military company, renewed in June 2026; Tencent says the listing is a mistake. No individual donations or lobbying record was checked.",
+        "reason": "Ma Huateng served two five-year terms as a deputy to China's National People's Congress and was not on the 2023 delegate list, per Reuters. Since January 2025 the US Defense Department has listed Tencent as a Chinese military company under Section 1260H, a listing kept in June 2026; Tencent called it a mistake. No individual donations or lobbying record was checked.",
         "finding_ids": [
           "f5",
           "f4"
         ]
       },
       "social": {
-        "value": 3,
+        "value": 2,
         "basis": "documented",
-        "reason": "China's market regulator found in 2021 that Tencent held over 80% of exclusive music rights and ordered it to end exclusivity. A 2020 Citizen Lab study found WeChat surveilled files exchanged by users outside China to feed its censorship of China-registered accounts. No labour findings were checked.",
+        "reason": "China's market regulator said in 2021 that Tencent held over 80% of exclusive music library resources and ordered it to end exclusive licensing. A 2020 Citizen Lab technical study found that WeChat screened files shared between users outside China and used flagged ones to build up its censorship of China-registered accounts. No labour findings were checked.",
         "finding_ids": [
           "f1",
           "f3"
@@ -208,7 +208,43 @@
         ]
       }
     },
-    "counterweights": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025 (82.9% in owned data centres), against a 2030 target of 100%. These are the company's own figures.",
-    "rationale": "Politics 1 to 3: a decade as an NPC deputy is documented proximity to an authoritarian state, reinforced by the company's 1260H listing. Social 1 to 3: the rubric puts surveillance at 3; this rests on a 2020 academic report, so 2 (market power alone) is the fallback. Legal 0 to 1: two company regulatory fines, both under $1 billion. Ecology unchanged. Ma's 2016 share pledge was left out: pledged, not disbursed."
+    "counterweights": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025 (82.9% in owned data centres), against a 2030 target of 100%. These are Tencent's own figures.",
+    "rationale": "Politics 1 to 3: two terms as an NPC deputy is documented proximity to an authoritarian state; the 1260H listing is company-level and disputed by Tencent. Social 1 to 2, not 3: SAMR's market-power finding fits level 2. The surveillance finding is a single academic technical study, with no regulator or court finding and no documented harm, so it does not meet level 3 serious documented harm. Legal 0 to 1: two company regulatory fines, both under $1 billion. Ecology unchanged."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "CNBC (24 Jul 2021) attributes the over-80% share to a SAMR statement, with the 30-day order to give up exclusive rights and the 500,000-yuan fine. Company level, regulatory penalty."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "TechCrunch (7 Jul 2023): People's Bank of China fined Tencent and Tenpay about 2.99 billion yuan ($410 million) for past payment-service breaches, as disclosed in a Tencent filing."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the study says only files flagged as politically sensitive feed the censorship system, not all files; added that it does not establish why (it offers three explanations and finds no evidence of government direction). Level company, names_subject true; academic publisher correct."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: Tencent's denial put in the past tense and dated to 2025, as Reuters reported it. FR Doc. 2026-11571 is the DoD 1260H notice, dated 5 Jun 2026, published 10 Jun 2026, and lists Tencent as indirectly affiliated with the PLA. Reuters (6-7 Jan 2025) confirms the January 2025 addition."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: Reuters (3 Mar 2023) says he had served two five-year terms and is absent from the delegate list for this year's sessions; it does not give a list publication date, so the claim now refers to the 2023 session list."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Tencent Carbon Neutrality Mid-Term Report (PDF dated Aug 2026) gives 22.0% to 48.5% green electricity, 82.9% in owned data centres, a 100% target by 2030, and reductions against a BAU scenario. Wording now says these are Tencent's own figures."
+      }
+    ]
   }
 }
