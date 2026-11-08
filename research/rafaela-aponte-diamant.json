@@ -64,21 +64,11 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "gcaptain-sa-price-fixing",
-      "label": "gCaptain: South Africa brings price-fixing case against shipping lines (2025)",
-      "url": "https://gcaptain.com/south-africa-hits-global-shipping-giants-with-price-fixing-case",
-      "publisher": "gCaptain",
-      "publisher_type": "press",
-      "names_subject": true,
-      "published": "2025-12-02",
-      "accessed": "2026-11-08"
-    },
-    {
-      "id": "baird-sa-price-fixing",
-      "label": "Baird Maritime: South Africa flags eight shipping lines for alleged price-fixing (2025)",
-      "url": "https://www.bairdmaritime.com/shipping/boxships/south-african-authorities-flag-eight-shipping-lines-for-alleged-price-fixing",
-      "publisher": "Baird Maritime",
-      "publisher_type": "press",
+      "id": "compcom-shipping-referral",
+      "label": "Competition Commission SA: eight cargo shipping companies referred for price-fixing (2025)",
+      "url": "https://www.compcom.co.za/wp-content/uploads/2025/12/Media-Statement-Shipping-Referral-02-December-2025.pdf",
+      "publisher": "Competition Commission of South Africa",
+      "publisher_type": "regulator",
       "names_subject": true,
       "published": "2025-12-02",
       "accessed": "2026-11-08"
@@ -101,7 +91,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "MSC Mediterranean Shipping Company",
-      "claim": "Kerala is suing MSC for Rs 9,531 crore over the May 2025 sinking of the MSC Elsa 3 off the Kerala coast, which carried fuel and hazardous cargo; most of the claim is for environmental damage. The High Court set interim security at Rs 1,227.62 crore, posted by bank guarantee in December 2025; liability is left for trial.",
+      "claim": "Kerala has filed an admiralty suit claiming Rs 9,531 crore, mostly for environmental damage, over the May 2025 sinking off its coast of the MSC Elsa 3, which carried fuel and hazardous cargo, and had the MSC Akiteta II arrested as a sister ship. The High Court cut the security to Rs 1,227.62 crore, given by bank guarantee in December 2025; liability is left for trial.",
       "evidence_type": "pending_case",
       "date": "2025-12",
       "source_ids": [
@@ -115,7 +105,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "MSC Mediterranean Shipping Company",
-      "claim": "The US Federal Maritime Commission assessed $22.67 million in civil penalties against MSC in January 2026 for Shipping Act violations: billing parties not involved in the cargo, tariff omissions, and overcharging on about 23% of non-operating reefer bills in 2021.",
+      "claim": "After contested proceedings, the US Federal Maritime Commission assessed $22.67 million in civil penalties against MSC in January 2026 for Shipping Act violations: billing customs agents not involved in the cargo, tariff omissions, and overcharging on about 23% of non-operating reefer bills in 2021.",
       "evidence_type": "regulatory_penalty",
       "date": "2026-01",
       "source_ids": [
@@ -128,8 +118,8 @@
       "theme": "climate",
       "level": "company",
       "entity": "MSC Mediterranean Shipping Company",
-      "claim": "The NGO Shipbreaking Platform named MSC the worst corporate dumper of 2024, for the second year running, after 16 of its ships were beached for scrapping in India. It counts more than 100 MSC ships beached in South Asia since 2009.",
-      "evidence_type": "investigative_reporting",
+      "claim": "The NGO Shipbreaking Platform, from its own ship-sale data, named MSC its worst corporate dumper of 2024, for a second year running: by its count 16 MSC ships were beached in India in 2024, and more than 100 in South Asia since 2009. This is an NGO's characterisation, not an official finding.",
+      "evidence_type": "allegation",
       "date": "2025-02",
       "source_ids": [
         "shipbreaking-list-2024"
@@ -140,13 +130,12 @@
       "direction": "concern",
       "theme": "legal",
       "level": "company",
-      "entity": "MSC Mediterranean Shipping Company",
-      "claim": "In December 2025 South Africa's Competition Commission referred MSC and seven other carriers to the Competition Tribunal over alleged collusion on general rate increases on South Africa-Asia and West Africa routes from 2008 to 2018. These are allegations; the Tribunal has not ruled.",
+      "entity": "Mediterranean Shipping Company (Pty) Ltd (MSC South Africa)",
+      "claim": "On 2 December 2025 South Africa's Competition Commission referred MSC's South African company and seven other carriers to the Competition Tribunal, alleging they fixed general rate increases on South Africa-Asia and South Africa-West Africa routes from 2008 to 2018. These are allegations; the Tribunal has not ruled.",
       "evidence_type": "pending_case",
-      "date": "2025-12",
+      "date": "2025-12-02",
       "source_ids": [
-        "gcaptain-sa-price-fixing",
-        "baird-sa-price-fixing"
+        "compcom-shipping-referral"
       ]
     },
     {
@@ -155,7 +144,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "MSC Foundation",
-      "claim": "UNICEF reports that the MSC Foundation, set up by the Aponte family in 2018, has raised a cumulative $17 million for UNICEF in a partnership begun in 2009, alongside donated freight. UNICEF does not say how much was company money rather than other donors' gifts.",
+      "claim": "UNICEF says the MSC Foundation, MSC Group's philanthropic arm set up by the Aponte family in 2018, has raised a cumulative $17 million for UNICEF in a partnership begun in 2009, and that MSC Group donated ocean freight. UNICEF does not say how much of the $17 million was MSC's own money, and the freight is not valued.",
       "evidence_type": "documented_giving",
       "date": "2025-12",
       "source_ids": [
@@ -168,7 +157,7 @@
       "ecology": {
         "value": 3,
         "basis": "documented",
-        "reason": "Global container shipping at the largest scale. Kerala is suing MSC over the 2025 sinking of the MSC Elsa 3, which carried fuel and hazardous cargo; liability is not yet decided. An NGO names MSC the leading seller of end-of-life ships to South Asian beaching yards.",
+        "reason": "Global container shipping at the largest scale. Kerala is suing over the 2025 sinking of the MSC Elsa 3, which carried fuel and hazardous cargo; liability is not yet decided. The NGO Shipbreaking Platform counts more than 100 MSC ships beached in South Asia since 2009, the most of any owner.",
         "finding_ids": [
           "f1",
           "f3"
@@ -177,7 +166,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "The US maritime regulator found MSC overcharged customers on detention and demurrage bills. A price-fixing case in South Africa is an allegation, not yet decided. No finding against the Aponte family personally.",
+        "reason": "The US Federal Maritime Commission found MSC overcharged on about 23% of its non-operating reefer bills in 2021 and billed customs agents not involved in the cargo. A South African price-fixing referral is an allegation, not yet decided. No finding against the Aponte family personally.",
         "finding_ids": [
           "f2",
           "f4"
@@ -201,7 +190,38 @@
         ]
       }
     },
-    "counterweights": "UNICEF reports that the MSC Foundation has raised a cumulative $17 million for it since 2009, plus donated freight. How much came from the company itself is not stated.",
+    "counterweights": "UNICEF says the MSC Foundation has raised $17 million for it since 2009 and that MSC Group donated ocean freight. How much of that was MSC's own money is not stated, and the freight is not valued.",
     "rationale": "Ecology stays 3, now documented. Social 1 to 2: an FMC finding of customer overcharging is a documented company-level consumer problem. Legal 0 to 1: the $22.67m FMC civil penalty is regulatory action; the Kerala order is interim, not a court finding of liability. Unresolved 0 to 2: two pending company-level cases (Kerala suit, South African tribunal referral). Politics not addressed: no specific source opened."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: names the defendant precisely (the MSC Akiteta II, arrested as a sister ship) instead of 'suing MSC'. LiveLaw and The Week confirm Rs 9,531 crore claim (Rs 8,626.12 crore environmental), security cut to Rs 1,227.62 crore, bank guarantee deposited December 2025, liability for trial. No ruling or settlement found; still pending."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: added 'after contested proceedings'. FMC release (28 Jan 2026) shows penalties imposed by Commission order of 6 Jan 2026 reviewing an ALJ decision, not a settlement or compromise; regulatory_penalty is correct. $65,000 + $9.46m + $13.145m = $22.67m. No court appeal found."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: labelled as the NGO's characterisation from its own data; evidence_type changed from investigative_reporting to allegation. Source gives 16 MSC ships beached in India in 2024 and more than 100 in South Asia since 2009; 'for scrapping' dropped."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: replaced the gCaptain and Baird Maritime sources with the Commission's own media statement of 2 December 2025, which names Mediterranean Shipping Company (Pty) Ltd among eight respondents, GRI fixing on SA-Asia and SA-West Africa routes, 2008 to 2018. Entity set to the South African unit; stays an allegation, no Tribunal ruling found."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: UNICEF says the MSC Foundation 'raised' $17 million cumulatively; it does not say it is MSC's own money. Claim and counterweights text now say so, and that the in-kind freight is unvalued."
+      }
+    ],
+    "passed": true
   }
 }

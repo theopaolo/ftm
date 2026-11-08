@@ -16,7 +16,7 @@
 // - checked: false -> true when a finding cites a source naming the subject and at
 //   least one score is documented after the merge. Never true -> false automatically.
 
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { dirname, join, relative, resolve } from 'node:path';
 import { ROOT, DIMS, RESEARCH_DIR, loadDataset, listResearchFiles, readJSON, totalOf, bandOf } from './lib.mjs';
@@ -190,9 +190,23 @@ function review() {
   L.push(`- Grey profiles that now show a colour: ${log.switches.length}.`);
   L.push(`- Findings deleted during verification: ${log.deleted.length}. Claims rewritten down: ${log.rewritten.length}.`, '');
 
+  // Hand-written notes from the research run (judgement calls for the reviewer), kept
+  // in review-notes.md so that regenerating this file does not lose them.
+  const notesPath = join(ROOT, 'review-notes.md');
+  if (existsSync(notesPath)) L.push(readFileSync(notesPath, 'utf8').trim(), '');
+
   L.push('## 1. Proposed score changes (not applied)', '');
   L.push('The merge kept the current value, basis and reason for each of these dimensions. "If accepted" assumes the whole proposal for that person is accepted and the profile is checked.', '');
   L.push('A profile marked **held** was grey and stays grey: none of its score text was applied either, because a colour computed now would rest on values its own research disputes.', '');
+  if (log.valueChanges.length) {
+    const short = { ecology: 'eco', politics: 'pol', social: 'soc', legal: 'leg', unresolved: 'unr' };
+    L.push('| Person | Proposed value changes | Total now → if accepted | Band if accepted |', '|---|---|---|---|');
+    for (const v of log.valueChanges) {
+      const changes = v.changes.map((c) => `${short[c.dim]} ${c.from.value}→${c.to.value}`).join(', ');
+      L.push(`| ${v.name}${v.held ? ' (held)' : ''} | ${changes} | ${v.totalNow} → ${v.totalIfAccepted} | ${v.bandIfAccepted} |`);
+    }
+    L.push('');
+  }
   const item = (v, c, note = '') => {
     L.push(`- **${label(c.dim)}: ${score(c.from)} → ${score(c.to)}**${note}`);
     L.push(`  - Current reason: ${c.from.reason}`);
