@@ -56,13 +56,13 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "elciudadano-scjn-2022",
-      "label": "El Ciudadano: Supreme Court rejects Telcel challenge on damages to rivals (2022)",
-      "url": "https://www.elciudadano.com/?p=911767",
-      "publisher": "El Ciudadano",
+      "id": "elfinanciero-appeal-2018",
+      "label": "El Financiero: América Móvil appeals ruling on monopolistic practices (2018)",
+      "url": "https://www.elfinanciero.com.mx/empresas/america-movil-apela-fallo-sobre-supuestas-practicas-monopolicas",
+      "publisher": "El Financiero",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2022-10-27",
+      "published": "2018-10-18",
       "accessed": "2026-11-08"
     },
     {
@@ -136,7 +136,9 @@
       "claim": "Mexico's telecoms regulator IFT designated the América Móvil economic interest group a 'preponderant agent' in 2014, allowing stricter asymmetric regulation. In March 2021 Mexico's Supreme Court upheld the designation and its measures as constitutional.",
       "evidence_type": "final_ruling",
       "date": "2021-03-03",
-      "source_ids": ["reuters-preponderance-2021"]
+      "source_ids": [
+        "reuters-preponderance-2021"
+      ]
     },
     {
       "id": "f2",
@@ -144,10 +146,13 @@
       "theme": "legal",
       "level": "company",
       "entity": "Telcel (América Móvil)",
-      "claim": "In April 2011 Mexico's competition authority fined Telcel 11,989 million pesos over monopolistic practices in mobile call termination, where Telcel held just over 70% of the market. The fine was later dropped after Telcel accepted commitments, including lower interconnection rates.",
+      "claim": "In April 2011 Mexico's competition authority fined América Móvil's Telcel 11,989 million pesos over monopolistic practices in mobile call termination; Telcel then held just over 70% of the mobile market. The fine was later revoked after Telcel accepted commitments, including lower interconnection rates.",
       "evidence_type": "regulatory_penalty",
       "date": "2011-04-15",
-      "source_ids": ["expansion-cfc-fine-2011", "xataka-damages-2018"]
+      "source_ids": [
+        "expansion-cfc-fine-2011",
+        "xataka-damages-2018"
+      ]
     },
     {
       "id": "f3",
@@ -155,10 +160,13 @@
       "theme": "legal",
       "level": "company",
       "entity": "Telcel (América Móvil)",
-      "claim": "In September 2018 a federal civil tribunal upheld a suit by Total Play and held Telcel liable for damages over interconnection charges from 2006 to 2012. El Ciudadano reported in October 2022 that the Supreme Court rejected Telcel's challenge; the amount was left to a district court and is not established in these sources.",
-      "evidence_type": "final_ruling",
-      "date": "2022-10",
-      "source_ids": ["xataka-damages-2018", "elciudadano-scjn-2022"]
+      "claim": "In September 2018 a federal unitary civil tribunal ruled, in a 2014 suit led by Total Play, that Telcel must compensate rivals for interconnection charges from June 2006 to April 2012, leaving the amount to a district court. América Móvil appealed in October 2018; the final outcome and amount are not established in these sources.",
+      "evidence_type": "pending_case",
+      "date": "2018-10-18",
+      "source_ids": [
+        "xataka-damages-2018",
+        "elfinanciero-appeal-2018"
+      ]
     },
     {
       "id": "f4",
@@ -169,7 +177,11 @@
       "claim": "The IFT fined Telcel 90.6 million pesos in September 2024 for exclusivity deals with distributors in three western states, and 1,782.6 million pesos in June 2025 for incentives that kept Oxxo stores from selling rivals' SIM cards. Telcel called the 2025 fine arbitrary and said it would use every legal remedy.",
       "evidence_type": "regulatory_penalty",
       "date": "2025-06-17",
-      "source_ids": ["dplnews-west-fine-2025", "expansion-ift-fine-2025", "xataka-oxxo-2025"]
+      "source_ids": [
+        "dplnews-west-fine-2025",
+        "expansion-ift-fine-2025",
+        "xataka-oxxo-2025"
+      ]
     },
     {
       "id": "f5",
@@ -180,7 +192,10 @@
       "claim": "In May 2021 a Mexico City Metro Line 12 overpass, in a section built by a consortium including Grupo Carso, collapsed and killed 26; a DNV report released by the city cited missing bolts and poor welding. Carso denied responsibility but agreed in October 2021 to rebuild the section at no cost to the government and offered to join a victims' fund.",
       "evidence_type": "settlement",
       "date": "2021-10-20",
-      "source_ids": ["aljazeera-line12-2021", "reuters-carso-line12-2021"]
+      "source_ids": [
+        "aljazeera-line12-2021",
+        "reuters-carso-line12-2021"
+      ]
     },
     {
       "id": "f6",
@@ -188,34 +203,83 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Fundación Carlos Slim",
-      "claim": "By August 2019 Fundación Carlos Slim reported having spent over 946 million pesos rebuilding homes, schools, hospitals and heritage sites after the 2017 earthquakes, out of about 2,474 million pesos committed. The figures come from the foundation's own report, not an independent audit.",
+      "claim": "In October 2019 Fundación Carlos Slim reported having spent about 946 million pesos by August 2019 on rebuilding after the 2017 earthquakes, including 210 schools and repairs to 579 homes, from a programme of about 2,474 million pesos that includes matched public donations. The figures are the foundation's own, not an independent audit.",
       "evidence_type": "documented_giving",
       "date": "2019-10-17",
-      "source_ids": ["larazon-foundation-2019"]
+      "source_ids": [
+        "larazon-foundation-2019"
+      ]
     }
   ],
   "proposal": {
     "scores": {
       "social": {
-        "value": 3,
+        "value": 2,
         "basis": "documented",
-        "reason": "América Móvil was designated Mexico's preponderant telecom operator in 2014, upheld by the Supreme Court in 2021. A federal tribunal held Telcel liable for damages over 2006-2012 interconnection charges, and the IFT fined it again in 2024 and 2025 for exclusivity practices. A Line 12 metro section built with Grupo Carso collapsed in 2021, killing 26; Carso denies responsibility.",
-        "finding_ids": ["f1", "f2", "f3", "f4", "f5"]
+        "reason": "Company-level market power is documented: the IFT designated the América Móvil group Mexico's preponderant telecom operator in 2014, upheld by the Supreme Court in 2021, and fined Telcel for exclusivity practices in 2024 and 2025. A 2018 federal tribunal ruling held Telcel liable for 2006-2012 interconnection charges; América Móvil appealed. A Line 12 metro section built with Grupo Carso collapsed in 2021, killing 26; Carso denies responsibility.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f5"
+        ]
       },
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Company-level record: a court finding of Telcel's liability for monopolistic interconnection charges, a 2011 competition fine of 11,989 million pesos later dropped for commitments, IFT fines in 2024 and 2025, and a 2021 reparation agreement by Grupo Carso over Line 12. No personal legal action against Carlos Slim was found.",
-        "finding_ids": ["f2", "f3", "f4", "f5"]
+        "reason": "Company-level record: a 2018 federal tribunal ruling holding Telcel liable for monopolistic interconnection charges, appealed by América Móvil; a 2011 competition fine of 11,989 million pesos later revoked for commitments; IFT fines in 2024 and 2025; and a 2021 agreement by Grupo Carso to rebuild the collapsed Line 12 section. No personal legal action against Carlos Slim was found.",
+        "finding_ids": [
+          "f2",
+          "f3",
+          "f4",
+          "f5"
+        ]
       },
       "unresolved": {
         "value": 2,
         "basis": "estimate",
-        "reason": "Telcel said in 2025 it would contest the IFT's 1,782.6 million peso fine, and the damages owed to rivals under the 2018 ruling had not been set in the sources found. The current status of both was not confirmed. No pending personal matter was found.",
+        "reason": "Telcel said in 2025 it would contest the IFT's 1,782.6 million peso fine, and América Móvil appealed the 2018 damages ruling, whose amount had not been set in the sources found. The current status of both was not confirmed. No pending personal matter was found.",
         "finding_ids": []
       }
     },
-    "counterweights": "Fundación Carlos Slim reported spending over 946 million pesos by August 2019 on rebuilding homes, schools and hospitals after the 2017 earthquakes, out of about 2,474 million committed (foundation's own figures).",
-    "rationale": "Social 2 to 3: a Supreme Court-upheld dominance designation plus a court finding of liability for monopolistic practices fits 'court-established monopoly'; not 4, since Line 12 was operated by the city and Carso's responsibility is unproven. Legal 0 to 2: a court finding against Telcel and repeated fines are major company outcomes; nothing personal. Unresolved 0 to 2 (estimate): a recent fine under announced challenge and unset damages; status unconfirmed."
+    "counterweights": "Fundación Carlos Slim reported in 2019 that it had spent about 946 million pesos rebuilding schools, homes and other sites after the 2017 earthquakes, from a programme of about 2,474 million pesos that includes matched public donations (foundation's own figures).",
+    "rationale": "Social stays at 2, documented: the findings establish company-level market power (a regulatory dominance designation upheld by the Supreme Court, IFT fines) but not a final court finding of monopoly. The 2018 damages ruling was under appeal and the reported Supreme Court rejection could not be confirmed from a major outlet or the court. Legal 0 to 2: a court ruling of liability against Telcel, under appeal, and repeated fines; nothing personal. Unresolved 0 to 2 (estimate): a contested fine and an appealed ruling; status unconfirmed."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Reuters (via Yahoo) confirms the 2014 preponderant-agent label and the 3 March 2021 Supreme Court ruling upholding it and its measures as constitutional. Company level."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: Expansión gives the 70% share for the mobile market as a whole, not call termination, and reports the fine against América Móvil/Telcel; claim adjusted. Xataka and El Financiero confirm the fine was later revoked after Telcel's commitments."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the Supreme Court rejection rested only on El Ciudadano, an unbylined outlet that cites no court document or other outlet; Milenio's report could not be opened (403) and no SCJN record was found, so that step and the El Ciudadano source were dropped. Claim reduced to the September 2018 tribunal ruling (Xataka) and América Móvil's appeal (El Financiero, added source). Evidence type changed from final_ruling to pending_case, since both sources say the ruling was not final."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "DPL News confirms the 90.6m peso September 2024 fine on Radiomóvil Dipsa (Colima, Jalisco, Michoacán); Expansión confirms the 1,782.6m peso June 2025 fine and Telcel calling it arbitrary; Xataka confirms the Oxxo incentive conduct. Company level."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Al Jazeera confirms the 26 deaths, the city-released DNV report (missing bolts, poor welding) and the ICA-Carso-Alstom consortium; Reuters confirms the October 2021 rebuilding agreement, Carso's denial and its interest in a victims' fund. Written at company level."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: La Razón reports no completed hospital or heritage figures, and the 2,474m peso programme includes public donations multiplied by the foundation's commitment; claim now cites schools and homes and says the total includes matched donations. Figures are the foundation's own."
+      }
+    ],
+    "passed": true
   }
 }
