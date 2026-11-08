@@ -101,9 +101,9 @@
     },
     {
       "id": "pbs-h20",
-      "label": "PBS NewsHour: US to get 15% cut of Nvidia and AMD chip sales to China (2025)",
+      "label": "AP (via PBS NewsHour): US to get 15% cut of Nvidia and AMD chip sales to China (2025)",
       "url": "https://www.pbs.org/newshour/politics/under-new-unusual-agreement-u-s-will-get-a-15-cut-of-nvidia-and-amd-chip-sales-to-china",
-      "publisher": "PBS NewsHour",
+      "publisher": "Associated Press, republished by PBS NewsHour",
       "publisher_type": "press",
       "names_subject": true,
       "published": "2025-08-11",
@@ -170,7 +170,9 @@
       "claim": "In May 2022 the SEC found that Nvidia's quarterly filings for fiscal 2018 reported gaming revenue growth without disclosing that cryptomining drove a significant part of it. Nvidia paid a $5.5 million penalty without admitting or denying the findings; no individual was charged.",
       "evidence_type": "regulatory_penalty",
       "date": "2022-05-06",
-      "source_ids": ["sec-2022"]
+      "source_ids": [
+        "sec-2022"
+      ]
     },
     {
       "id": "f2",
@@ -181,7 +183,12 @@
       "claim": "A shareholder class action alleges that Nvidia and Huang misled investors in 2017-2018 about how much revenue came from crypto mining. Revived by the Ninth Circuit in 2023, it survived a Supreme Court appeal dismissed in December 2024 and a class was certified in March 2026; these are allegations and liability has not been decided.",
       "evidence_type": "pending_case",
       "date": "2026-03-25",
-      "source_ids": ["lii-ohman", "scotusblog-ohman", "theblock-classcert", "nvda-10q-2026"]
+      "source_ids": [
+        "lii-ohman",
+        "scotusblog-ohman",
+        "theblock-classcert",
+        "nvda-10q-2026"
+      ]
     },
     {
       "id": "f3",
@@ -189,10 +196,12 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Jensen Huang",
-      "claim": "Nvidia's mid-2026 quarterly filing lists shareholder derivative suits naming Huang among officers and directors, filed in 2019 and 2023 in federal court and in Delaware. They seek damages, governance reforms and disgorgement of stock-sale profits, and are stayed until the securities class action is resolved.",
+      "claim": "Nvidia's mid-2026 quarterly filing lists derivative suits over the same alleged misstatements, three of them captioned against Huang, filed in 2019 in federal court in Delaware and in 2023 in the Delaware Court of Chancery. They seek damages or disgorgement of stock-sale profits and governance reforms, and are stayed until the securities class action is resolved.",
       "evidence_type": "pending_case",
       "date": "2026-07-26",
-      "source_ids": ["nvda-10q-2026"]
+      "source_ids": [
+        "nvda-10q-2026"
+      ]
     },
     {
       "id": "f4",
@@ -203,7 +212,9 @@
       "claim": "In September 2025 China's market regulator SAMR said a preliminary investigation found Nvidia had violated the Anti-Monopoly Law and the conditions of its 2020 approval of the Mellanox takeover, without specifying the conduct. It moved to a further investigation before any penalty; no final decision was found.",
       "evidence_type": "pending_case",
       "date": "2025-09-15",
-      "source_ids": ["register-samr"]
+      "source_ids": [
+        "register-samr"
+      ]
     },
     {
       "id": "f5",
@@ -211,10 +222,12 @@
       "theme": "legal",
       "level": "company",
       "entity": "Nvidia",
-      "claim": "Reuters reported in October 2026, citing two people familiar with the matter, that the US Justice Department's conduct investigation of Nvidia, open since the Biden administration, is examining its acquisitions and whether it tied larger chip allocations to purchases of its other products. No enforcement action has been filed.",
-      "evidence_type": "pending_case",
-      "date": "2026-10-29",
-      "source_ids": ["reuters-doj"]
+      "claim": "Reuters reported in October 2026, citing two people familiar with the matter, that the Justice Department is questioning Nvidia's planned $12.9 billion Hugging Face purchase within a wider review, begun under Biden, of its deals and sales practices, including whether it offered bigger chip allocations to buyers of its other products. No enforcement action has been reported.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-10",
+      "source_ids": [
+        "reuters-doj"
+      ]
     },
     {
       "id": "f6",
@@ -222,10 +235,12 @@
       "theme": "politics",
       "level": "company",
       "entity": "Nvidia",
-      "claim": "In August 2025 Nvidia agreed to pay the US government 15% of its revenue from H20 chip sales to China in exchange for export licences. President Trump said he had asked for 20% and that Huang negotiated it down; members of Congress questioned the legal basis of the arrangement.",
+      "claim": "AP reported in August 2025 that Nvidia and AMD agreed to give the US government 15% of revenue from certain chip sales to China, including Nvidia's H20, to secure export licences. President Trump said he first wanted 20% and credited Huang with negotiating it down; Nvidia did not comment on the details, and members of Congress questioned the legal basis.",
       "evidence_type": "investigative_reporting",
       "date": "2025-08-11",
-      "source_ids": ["pbs-h20"]
+      "source_ids": [
+        "pbs-h20"
+      ]
     },
     {
       "id": "f7",
@@ -233,10 +248,12 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Jensen Huang",
-      "claim": "In October 2025 Huang said publicly that he had donated to fund the construction of President Trump's White House ballroom; the amount of his personal gift was not disclosed.",
+      "claim": "Huang told reporters in Washington in October 2025 that he had donated to fund President Trump's White House ballroom. Reuters gave no amount, and Nvidia was not on the White House's public donor list at the time.",
       "evidence_type": "investigative_reporting",
       "date": "2025-10-28",
-      "source_ids": ["reuters-ballroom"]
+      "source_ids": [
+        "reuters-ballroom"
+      ]
     },
     {
       "id": "f8",
@@ -244,10 +261,12 @@
       "theme": "politics",
       "level": "company",
       "entity": "Nvidia",
-      "claim": "A confidential fundraising spreadsheet obtained by the Washington Post in October 2026 lists Nvidia as giving $25 million to the White House ballroom, tied for the largest donation. Nvidia said it gave to a nonpartisan trust and that its support was separate from its business interests.",
+      "claim": "The Next Web reported in October 2026 that an internal fundraising spreadsheet, obtained confidentially by the Washington Post, lists Nvidia as giving $25 million to the White House ballroom, tied for the largest amount. Nvidia said it was proud to give to a nonpartisan trust and that its support was separate from its business interests.",
       "evidence_type": "investigative_reporting",
       "date": "2026-10-15",
-      "source_ids": ["tnw-ballroom"]
+      "source_ids": [
+        "tnw-ballroom"
+      ]
     },
     {
       "id": "f9",
@@ -258,7 +277,9 @@
       "claim": "Nvidia reports that it matched 100% of its global electricity use with clean electricity in fiscal 2025 and 2026, using on-site solar, power purchase agreements, green tariffs and energy attribute certificates. Its market-based Scope 1 and 2 emissions were about 10,400 tonnes in fiscal 2026.",
       "evidence_type": "company_disclosure",
       "date": "2026",
-      "source_ids": ["nvda-sr-fy26"]
+      "source_ids": [
+        "nvda-sr-fy26"
+      ]
     },
     {
       "id": "f10",
@@ -266,10 +287,12 @@
       "theme": "climate",
       "level": "company",
       "entity": "Nvidia",
-      "claim": "Nvidia's own figures show Scope 3 emissions rising from 6.9 million to 10.7 million tonnes CO2e between fiscal 2025 and 2026, mostly from purchased goods and services. Location-based Scope 2 emissions rose from about 228,000 to 309,000 tonnes over the same year.",
+      "claim": "Nvidia's own figures show Scope 3 emissions rising from 6.9 million to 10.7 million tonnes CO2e between fiscal 2025 and 2026, mostly from purchased goods and services, whose calculation method it revised in fiscal 2026. Location-based Scope 2 emissions rose from about 228,000 to 309,000 tonnes over the same year.",
       "evidence_type": "company_disclosure",
       "date": "2026",
-      "source_ids": ["nvda-sr-fy26"]
+      "source_ids": [
+        "nvda-sr-fy26"
+      ]
     },
     {
       "id": "f11",
@@ -277,10 +300,12 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Jen-Hsun & Lori Huang Foundation",
-      "claim": "The Huangs' foundation gave $50 million to Oregon State University in 2022 and held over $9.1 billion in 2025. In 2023, 77% of its disbursements went to a donor-advised fund at Schwab; reporting on the NYT investigation says such a fund need not disclose how it spends the money.",
+      "claim": "CNBC reported in June 2025 that the Huangs' foundation gave $50 million to Oregon State University in 2022 and held more than $9.1 billion, per FoundationMark. In 2023 it gave $46 million, 77% of its disbursements, to a donor-advised fund at Schwab; such funds need not disclose their recipients.",
       "evidence_type": "documented_giving",
       "date": "2025-06-12",
-      "source_ids": ["cnbc-foundation", "toms-estate"]
+      "source_ids": [
+        "cnbc-foundation"
+      ]
     },
     {
       "id": "f12",
@@ -288,10 +313,12 @@
       "theme": "tax",
       "level": "individual",
       "entity": "Jensen Huang",
-      "claim": "The New York Times reported in December 2024 that trusts set up by Huang and his wife in 2012 and 2016, holding Nvidia shares, could cut their family's estate and gift taxes by about $8 billion. The reporting describes these techniques as legal; no wrongdoing is alleged.",
+      "claim": "Tom's Hardware reported in December 2024, relaying a New York Times analysis, that tax strategies already in place, including a 2012 trust and four 2016 annuity trusts holding Nvidia shares, would cut the Huang family's estate tax bill by roughly $8 billion. The article says the strategies are legal and no laws are being broken.",
       "evidence_type": "investigative_reporting",
-      "date": "2024-12-05",
-      "source_ids": ["toms-estate"]
+      "date": "2024-12-09",
+      "source_ids": [
+        "toms-estate"
+      ]
     }
   ],
   "proposal": {
@@ -299,35 +326,118 @@
       "ecology": {
         "value": 1,
         "basis": "documented",
-        "reason": "Nvidia designs chips and outsources their manufacture, so its footprint is indirect. It reports matching all its electricity use with clean power, partly through certificates. Its reported Scope 3 emissions, mostly from suppliers, rose by about half in a year to 10.7 million tonnes. The electricity demand of the AI data centres its chips power is not settled by these figures.",
-        "finding_ids": ["f9", "f10"]
+        "reason": "Nvidia designs chips and outsources their manufacture, so its footprint is indirect. It reports matching all its electricity use with clean power, partly through certificates. Its reported Scope 3 emissions, mostly from suppliers, rose by about half in a year to 10.7 million tonnes, partly under a revised method. The electricity demand of the AI data centres its chips power is not settled by these figures.",
+        "finding_ids": [
+          "f9",
+          "f10"
+        ]
       },
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Nvidia gave $25 million to the White House ballroom fund, tied for the largest gift on a list obtained by the Washington Post, and Huang said he donated personally. In 2025 Nvidia agreed to pay the US government 15% of certain China chip revenue in exchange for export licences, a deal the President said Huang negotiated. No finding of an improper favour has been made.",
-        "finding_ids": ["f6", "f7", "f8"]
+        "reason": "Nvidia gave $25 million to the White House ballroom fund, tied for the largest gift on an internal donor list obtained by the Washington Post, and Huang said in 2025 that he had donated, without a disclosed amount. In 2025 Nvidia and AMD were reported to have agreed to pay the US government 15% of certain China chip revenue for export licences; the President said Huang negotiated the rate down. No finding of an improper favour has been made.",
+        "finding_ids": [
+          "f6",
+          "f7",
+          "f8"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Nvidia's market power is under regulatory scrutiny. China's regulator issued a preliminary finding in 2025 that Nvidia breached its anti-monopoly law and the conditions of the Mellanox approval, and the US Justice Department is reported to be investigating its sales practices. Neither has reached a final decision. Labour and supply-chain conditions were not checked.",
-        "finding_ids": ["f4", "f5"]
+        "reason": "Nvidia's market power is under regulatory scrutiny. China's regulator issued a preliminary finding in 2025 that Nvidia breached its anti-monopoly law and the conditions of the Mellanox approval, and Reuters reports that the US Justice Department is examining its deals and sales practices. Neither has reached a final decision. Labour and supply-chain conditions were not checked.",
+        "finding_ids": [
+          "f4",
+          "f5"
+        ]
       },
       "legal": {
         "value": 1,
         "basis": "documented",
         "reason": "In 2022 Nvidia paid a $5.5 million SEC penalty over undisclosed cryptomining revenue, without admitting or denying the findings. No individual was charged. No court finding against the company or Huang was found.",
-        "finding_ids": ["f1"]
+        "finding_ids": [
+          "f1"
+        ]
       },
       "unresolved": {
         "value": 3,
         "basis": "documented",
-        "reason": "Huang is a named defendant in a certified shareholder class action alleging that he and Nvidia misled investors about crypto-mining revenue in 2017-2018, and in related derivative suits; these are allegations not yet tried. At company level, antitrust investigations in China and the US are open.",
-        "finding_ids": ["f2", "f3", "f4", "f5"]
+        "reason": "Huang is a named defendant in a certified shareholder class action alleging that he and Nvidia misled investors about crypto-mining revenue in 2017-2018, and in related derivative suits; these are allegations not yet tried. At company level, China's antitrust investigation is open and a US Justice Department inquiry is reported.",
+        "finding_ids": [
+          "f2",
+          "f3",
+          "f4",
+          "f5"
+        ]
       }
     },
-    "counterweights": "The Jen-Hsun & Lori Huang Foundation gave $50 million to Oregon State University in 2022, but in 2023 most of its payouts went to a donor-advised fund that does not disclose its grants. Nvidia reports matching all its electricity use with clean power in fiscal 2025 and 2026.",
-    "rationale": "Ecology 2 to 1: the rubric places data centres and electronics at level 1; Nvidia is fabless and its own operations run on matched clean power, though supply-chain emissions grow fast. Politics 1 to 2: a $25M company gift to a presidential project plus a personally negotiated export deal. Social 1 to 2: market power under regulatory findings, though preliminary. Legal 0 to 1: SEC penalty. Unresolved 0 to 3: Huang is personally a defendant in a pending, certified securities class action."
+    "counterweights": "The Jen-Hsun & Lori Huang Foundation gave $50 million to Oregon State University in 2022, but in 2023 most of its payouts went to a donor-advised fund, which need not disclose its grants. Nvidia reports matching all its electricity use with clean power in fiscal 2025 and 2026.",
+    "rationale": "Ecology 2 to 1: the rubric places data centres and electronics at level 1; Nvidia is fabless and its own operations run on matched clean power, though supply-chain emissions grow fast. Politics 1 to 2: a $25M company gift to a presidential project plus an export deal the President said Huang negotiated. Social 1 to 2: market power under a preliminary finding in China and a reported US inquiry. Legal 0 to 1: SEC penalty. Unresolved 0 to 3: Huang is personally a defendant in a pending, certified securities class action."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "SEC release 2022-79 confirms two FY2018 10-Qs, $5.5M penalty, no admit/deny; no individual named or charged."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "LII names Huang as defendant and the Ninth Circuit reversal as to him; SCOTUSblog confirms Aug 2023 ruling and Dec 2024 DIG; The Block and the 10-Q confirm class certification on 25 March 2026. Correctly a pending case."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the 10-Q names Huang only in the captions of the Delaware federal (2019) and Chancery (2023) suits; the N.D. Cal. derivative case does not name him in the text and is administratively closed, not stayed. Claim narrowed to the stayed Delaware suits."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "The Register (15 Sept 2025) confirms SAMR preliminary finding, Mellanox conditions, no conduct specified, escalation to further investigation. No final decision found in a fresh search."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: evidence_type changed from pending_case to investigative_reporting (anonymous-source report, no official action); \"conduct investigation\" and \"tied\" softened to what the report says; Hugging Face context added. Deccan Chronicle carries the Reuters byline and matches other coverage of the Reuters story; label is honest."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: the deal is attributed to AP reporting resting on Trump's remarks, the 20% and Huang-negotiated points are attributed to Trump, and Nvidia's non-confirmation is added. Page is an AP story on PBS, so label and publisher now credit AP."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: the Reuters story (faithfully reposted by The Star, Reuters byline) says Huang donated but does not say \"personal\"; claim now states exactly that, with no amount, and that Nvidia was not on the public list then."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: TNW calls it an internal spreadsheet obtained confidentially by the Post, published 15 Oct 2026; attribution to TNW added. Gift kept at company level."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Sustainability report FY26: 100% clean electricity match in FY25 and FY26 with the listed instruments; Scope 1+2 market-based 10,390 t."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: figures confirmed (Scope 3 6,912,577 to 10,700,940 t; Cat. 1 largest; location-based Scope 2 228,378 to 308,891 t), but the report says Cat. 1 methodology changed in FY26; caveat added."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Rewritten: CNBC/NBC page confirms $50M to OSU (2022), >$9.1B per FoundationMark (no as-of date), $46M = 77% to a Schwab DAF in 2023, DAFs need not disclose recipients. Dropped toms-estate as second source (it gives a different 84% figure via NYT); claim attributed to CNBC."
+      },
+      {
+        "finding_id": "f12",
+        "verdict": "supported",
+        "comment": "Rewritten: the NYT is not cited directly; claim now attributes to Tom's Hardware (Yahoo repost carries its logo and credit, faithful) relaying the NYT, says \"estate tax\" as the page does, and dates it to the cited page (9 Dec 2024)."
+      }
+    ],
+    "passed": true
   }
 }

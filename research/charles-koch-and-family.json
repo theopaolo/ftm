@@ -68,7 +68,7 @@
     },
     {
       "id": "opensecrets-afp-action",
-      "label": "OpenSecrets: Koch network super PAC pours money into 2024 elections (2024)",
+      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
       "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
       "publisher": "OpenSecrets (republished by Raw Story)",
       "publisher_type": "ngo",
@@ -80,8 +80,8 @@
       "id": "standtogether-forbes-gift",
       "label": "Stand Together: Forbes exclusive on Charles Koch’s philanthropic work (2023)",
       "url": "https://standtogether.org/newsroom/insights/in-the-news-forbes-exclusive-with-charles-koch-on-his-philanthropic-work",
-      "publisher": "Stand Together",
-      "publisher_type": "ngo",
+      "publisher": "Stand Together (Koch-founded philanthropic network)",
+      "publisher_type": "company",
       "names_subject": true,
       "published": "2023-10-10",
       "accessed": "2026-11-08"
@@ -187,7 +187,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Charles Koch",
-      "claim": "Charles Koch disclosed in October 2023 that he had moved about $5.3 billion of nonvoting Koch Industries stock to two 501(c)(4) nonprofits over four years, including $4.3 billion to Believe in People. Such groups may lobby and spend on politics as long as it is not their primary purpose.",
+      "claim": "Charles Koch told Forbes in October 2023 that over four years he had moved about $5.3 billion of nonvoting Koch Industries stock to two nonprofits, including $4.3 billion to the 501(c)(4) Believe in People. Such groups may lobby and spend on politics if politics is not their primary focus; the figures are his own.",
       "evidence_type": "company_disclosure",
       "date": "2023-10-10",
       "source_ids": [
@@ -250,7 +250,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC (OpenSecrets, from FEC filings). Charles Koch disclosed in 2023 that he moved $5.3 billion in stock to two 501(c)(4) groups that may engage in politics; how they spend it is not public. His foundation’s older George Mason agreements gave it a say in hiring.",
+        "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC (OpenSecrets). Charles Koch told Forbes in 2023 that he moved $5.3 billion in stock to two nonprofits, including $4.3 billion to the 501(c)(4) Believe in People, which may engage in politics; how it spends the money is not public. Older Charles Koch Foundation agreements let it appoint members of a committee recommending Mercatus Center professors at George Mason.",
         "finding_ids": [
           "f4",
           "f5",
@@ -269,7 +269,7 @@
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "Koch Industries is privately held and discloses little. The two 501(c)(4) groups that received $5.3 billion in Koch stock had little public reporting of their activities as of 2023; press reports argue the structure avoided tax, which is not an official finding.",
+        "reason": "Believe in People, which Charles Koch says received $4.3 billion in Koch Industries stock, had no public filings as of October 2023, so how the gift is used is not known. Popular Information argues the structure avoided gift and capital gains taxes; that is press analysis, not an official finding.",
         "finding_ids": [
           "f5",
           "f6"
@@ -277,6 +277,52 @@
       }
     },
     "counterweights": "The Charles Koch Foundation reported about $423 million in charitable disbursements from 2020 to 2024 (IRS filings).",
-    "rationale": "Legal 0 to 2: the rubric places a corporate plea at level 2, and a Koch unit pleaded guilty in 2001 (DOJ, EPA); the 2000 penalty was then a record. Both are old, which could argue for a lower value. Ecology 4, politics 3 and open questions 1 are unchanged, now documented. Politics combines the company’s super PAC money with Charles Koch’s own disclosed 501(c)(4) gifts."
+    "rationale": "Legal 0 to 2: the rubric places a corporate plea at level 2, and a Koch unit pleaded guilty in 2001 (DOJ, EPA); the 2000 penalty was then a record. Both are old, which could argue for a lower value. Ecology 4, politics 3 and open questions 1 are unchanged, now documented. Politics combines the company’s super PAC money with the stock gifts Charles Koch himself disclosed to Forbes, as relayed by his own network and by Sludge."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "EPA enforcement page (19 Jan 2025 snapshot): settlement filed 13 Jan 2000; Koch Industries, Inc. to pay a $30 million civil penalty, described by EPA as the largest civil fine then imposed on a company under any federal environmental law, over more than 300 spills from pipelines and oil facilities in TX, OK, KS, MO, LA and AL. Company level and settlement type correct."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "DOJ release 01-153 (9 Apr 2001): Koch Petroleum Group, L.P. pleaded guilty over concealing 1995 Clean Air Act benzene violations at the Corpus Christi West Plant; $10 million criminal fine, $10 million for local projects, five years probation. EPA release (13 Apr 2001) names Koch Industries, Inc. and Koch Petroleum Group as pleading, which supports \"with Koch Industries\". Guilty plea, company level."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "EPA enforcement page (snapshot): announced 20 Mar 2014; complaint alleges violations at three steam-assisted flares at the FHR Port Arthur chemical plant causing excess VOC and HAP (incl. benzene) emissions; $350,000 civil penalty; about 1,900 tons a year of reductions; page says FHR is ultimately owned by Charles and David Koch of Koch Industries."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Raw Story page carries the OpenSecrets article by Maia Cook (with Anna Massoglia), 12 Aug 2024, with the notice that it originally appeared in OpenSecrets; no Raw Story commentary added. opensecrets.org and the Wayback Machine could not be fetched, but an independent republication (InDepthNH) gives the same figures: Koch Industries $25M to AFP Action in 2024, about $62M supporting Republicans as of 6 Aug 2024, none supporting Democrats. Judged faithful. Label changed to \"OpenSecrets via Raw Story\" so the republication shows; publisher_type ngo kept for the author, publisher field names Raw Story. The article does not name FEC filings, so \"from FEC filings\" was removed from the politics reason."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: Stand Together (10 Oct 2023) is Koch-founded, so publisher_type changed from ngo to company. It relays the Forbes exclusive: $5.3B of nonvoting stock to two nonprofits over four years, $4.3B to Believe in People, the largest disclosed 501(c)(4) gift. Sludge (10 Oct 2023) cites Koch telling Forbes and gives the 501(c)(4) rule. Neither calls the second recipient (CCKc4, $975M in 2020) a 501(c)(4), so \"two 501(c)(4) nonprofits\" became \"two nonprofits\"; the claim now says the figures are his own statement. Level individual and company_disclosure (self-disclosure via his own network) kept."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Popular Information (Legum and Zekeria, 11 Oct 2023): the 501(c)(4) gift-tax exemption was put into a December 2015 omnibus spending law; Believe in People has no publicly available filings; it argues the gifts were structured to avoid capital gains or gift taxes. Claim correctly labels that as press analysis. Proposal reasons no longer say both groups lacked filings."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "AP (Matthew Barakat) via Christian Science Monitor, 4 May 2018: released documents show the Koch Foundation could appoint members of a selection committee recommending Mercatus Center professors and of an advisory board that could recommend dismissals; President Cabrera said the agreements fall short of academic-independence standards; GMU and the foundation say newer agreements lack those provisions. Foundation level correct."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "ProPublica Nonprofit Explorer (990-PF data): \"Charitable Disbursements\" of $108.7M (2020), $99.4M (2021), $69.1M (2022), $77.7M (2023), $67.8M (2024), total about $422.7M, so \"about $423 million\" holds; Charles G Koch listed as chair or director/chairman each year. This is the 990-PF charitable-disbursements figure (money paid out), not total expenses; a grants-paid line alone was not shown."
+      }
+    ],
+    "passed": true
   }
 }

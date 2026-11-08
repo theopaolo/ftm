@@ -68,7 +68,7 @@
     },
     {
       "id": "opensecrets-afp-action",
-      "label": "OpenSecrets: Koch network super PAC pours money into 2024 elections (2024)",
+      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
       "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
       "publisher": "OpenSecrets (republished by Raw Story)",
       "publisher_type": "ngo",
@@ -157,7 +157,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Julia Koch Family Foundation",
-      "claim": "The Julia Koch Family Foundation, a 501(c)(4) with Julia Koch as a director, reported expenses of about $5.1 million in 2023 and $36.7 million in 2024. In February 2024 she gave $75 million through it to NYU Langone Health for a West Palm Beach outpatient centre; how much has been paid out is not stated.",
+      "claim": "The Chronicle of Philanthropy reported in February 2024 that Julia Koch gave $75 million through the Julia Koch Family Foundation, a 501(c)(4) of which she is a director, to NYU Langone Health for a West Palm Beach outpatient centre. The sources do not show how much of it has been paid out.",
       "evidence_type": "documented_giving",
       "date": "2024",
       "source_ids": [
@@ -181,7 +181,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC, which spent heavily for Republican candidates (OpenSecrets, from FEC filings). The network is among the largest political funders in the US. No personal political spending by Julia Koch was checked here.",
+        "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC, which by early August 2024 had spent about $62 million supporting Republican candidates and none supporting Democrats (OpenSecrets). No personal political spending by Julia Koch was checked here.",
         "finding_ids": [
           "f4"
         ]
@@ -196,7 +196,38 @@
         ]
       }
     },
-    "counterweights": "The Julia Koch Family Foundation reported $36.7 million in expenses in 2024, and in 2024 she gave $75 million through it to NYU Langone Health for a Florida outpatient centre.",
-    "rationale": "Legal 0 to 2: the rubric places a corporate plea at level 2, and a Koch unit pleaded guilty in 2001 (DOJ, EPA); the 2000 penalty was then a record. Both are old, which could argue for keeping a lower value. Ecology 4 and politics 3 are unchanged, now documented at company level. Politics rests on Koch Industries, not on Julia Koch personally."
+    "counterweights": "",
+    "rationale": "Legal 0 to 2: the rubric places a corporate plea at level 2, and a Koch unit pleaded guilty in 2001 (DOJ, EPA); the 2000 penalty was then a record. Both are old, which could argue for keeping a lower value. Ecology 4 and politics 3 are unchanged, now documented at company level. Politics rests on Koch Industries, not on Julia Koch personally. No counterweight text: the $75 million NYU Langone gift is reported, but no amount actually paid out is documented."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "EPA enforcement page (19 Jan 2025 snapshot): settlement filed 13 Jan 2000; Koch Industries, Inc. to pay a $30 million civil penalty, described by EPA as the largest civil fine then imposed on a company under any federal environmental law, over more than 300 spills from pipelines and oil facilities in TX, OK, KS, MO, LA and AL. Company level and settlement type correct."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "DOJ release 01-153 (9 Apr 2001): Koch Petroleum Group, L.P. pleaded guilty over concealing 1995 Clean Air Act benzene violations at the Corpus Christi West Plant; $10 million criminal fine, $10 million for local projects, five years probation. EPA release (13 Apr 2001) names Koch Industries, Inc. and Koch Petroleum Group as pleading, which supports \"with Koch Industries\". Guilty plea, company level."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "EPA enforcement page (snapshot): announced 20 Mar 2014; complaint alleges violations at three steam-assisted flares at the FHR Port Arthur chemical plant causing excess VOC and HAP (incl. benzene) emissions; $350,000 civil penalty; about 1,900 tons a year of reductions; page says FHR is ultimately owned by Charles and David Koch of Koch Industries."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Raw Story page carries the OpenSecrets article by Maia Cook (with Anna Massoglia), 12 Aug 2024, with the notice that it originally appeared in OpenSecrets; no Raw Story commentary added. opensecrets.org and the Wayback Machine could not be fetched, but an independent republication (InDepthNH) gives the same figures: Koch Industries $25M to AFP Action in 2024, about $62M supporting Republicans as of 6 Aug 2024, none supporting Democrats. Judged faithful. Label changed to \"OpenSecrets via Raw Story\" so the republication shows; publisher_type ngo kept for the author, publisher field names Raw Story. The article does not name FEC filings, so \"from FEC filings\" was removed from the politics reason."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: dropped the 2023 and 2024 total-expense figures ($5.1M, $36.7M), which ProPublica shows as total expenses with no grants-paid line, so they are not amounts disbursed; full 990s and PDFs could not be loaded. Kept the Chronicle of Philanthropy report (26 Feb 2024) of a $75M gift through the foundation to NYU Langone Health for a West Palm Beach outpatient centre, and the ProPublica facts (501(c)(4), Julia F Koch listed as director). Neither source says how much has been paid. Proposal counterweights set to \"\" for the same reason."
+      }
+    ],
+    "passed": true
   }
 }
