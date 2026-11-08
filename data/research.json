@@ -362,6 +362,976 @@
       "label": "UBS (2025): Billionaire Ambitions Report",
       "url": "https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html",
       "kind": "research"
+    },
+    "larry-ellison-infoworld-2005-settlement": {
+      "label": "InfoWorld: Court OKs Ellison shareholder settlement (2005)",
+      "url": "https://www.infoworld.com/article/2220877/court-oks-ellison-22-million-shareholder-settlement.html",
+      "kind": "case"
+    },
+    "larry-ellison-delaware-netsuite": {
+      "label": "Delaware Supreme Court: In re Oracle Corp. Derivative Litigation (2025)",
+      "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=374260",
+      "kind": "case"
+    },
+    "larry-ellison-sec-fcpa-2022": {
+      "label": "SEC: Oracle charged with violating the FCPA a second time (2022)",
+      "url": "https://www.sec.gov/news/press-release/2022-173",
+      "kind": "case"
+    },
+    "larry-ellison-katz-privacy-settlement": {
+      "label": "Angeion Group: $115 million Oracle privacy class settlement notice (2024)",
+      "url": "https://prnewswire.com/news-releases/settlement-administrator-angeion-group-announces-115-million-proposed-class-action-settlement-involving-oracle-america-inc-302245710.html",
+      "kind": "case"
+    },
+    "larry-ellison-bi-scott-super-pac": {
+      "label": "Business Insider: Tim Scott's biggest financial backer (2023)",
+      "url": "https://www.yahoo.com/news/tim-scotts-biggest-financial-backer-171935563.html",
+      "kind": "case"
+    },
+    "larry-ellison-wrap-paramount-voting": {
+      "label": "TheWrap: Larry Ellison to hold 35.5% of family voting rights in Paramount (2025)",
+      "url": "https://www.thewrap.com/larry-ellison-paramount-skydance-merger-voting-rights/",
+      "kind": "case"
+    },
+    "larry-ellison-ap-wbd-guarantee": {
+      "label": "AP: Larry Ellison guarantees $40.4 billion in Paramount bid for Warner (2025)",
+      "url": "https://www.news4jax.com/business/2025/12/22/larry-ellison-guarantees-404-billion-in-paramounts-hostile-bid-for-warner-bros-discovery/",
+      "kind": "case"
+    },
+    "larry-ellison-dfs-tbi": {
+      "label": "Democracy for Sale: Larry Ellison's £257m bet on Tony Blair (2025)",
+      "url": "https://democracyforsale.substack.com/p/inside-the-tony-blair-institute-larry-ellison-peter-kyle-starmer",
+      "kind": "case"
+    },
+    "larry-ellison-propublica-foundation": {
+      "label": "ProPublica Nonprofit Explorer: The Larry Ellison Foundation, IRS filings",
+      "url": "https://projects.propublica.org/nonprofits/organizations/943269827",
+      "kind": "case"
+    },
+    "larry-ellison-reuters-bondholders": {
+      "label": "Reuters: Oracle sued by bondholders over losses tied to AI buildout (2026)",
+      "url": "https://amp.insurancejournal.com/news/national/2026/01/15/854381.htm",
+      "kind": "case"
+    },
+    "larry-ellison-investmentnews-barrows": {
+      "label": "InvestmentNews: Investors sue Oracle over AI spending statements (2026)",
+      "url": "https://www.investmentnews.com/regulation-legal-compliance/investors-sue-oracle-allege-executives-dumped-187b-amid-ai-hype/265164",
+      "kind": "case"
+    },
+    "jensen-huang-sec-2022": {
+      "label": "SEC: Nvidia charged over inadequate cryptomining disclosures (2022)",
+      "url": "https://www.sec.gov/news/press-release/2022-79",
+      "kind": "case"
+    },
+    "jensen-huang-lii-ohman": {
+      "label": "Cornell LII: Nvidia v. E. Ohman J:or Fonder AB, case preview (2024)",
+      "url": "https://www.law.cornell.edu/supct/cert/23-970",
+      "kind": "case"
+    },
+    "jensen-huang-scotusblog-ohman": {
+      "label": "SCOTUSblog: Nvidia Corp. v. E. Ohman J:or Fonder AB, case file (2024)",
+      "url": "https://www.scotusblog.com/cases/nvidia-corp-v-e-ohman-jor-fonder-ab/",
+      "kind": "case"
+    },
+    "jensen-huang-theblock-classcert": {
+      "label": "The Block: Nvidia faces certified class action over crypto revenue (2026)",
+      "url": "https://www.theblock.co/post/395248/nvidia-faces-certified-class-action-over-crypto-revenue-disclosures",
+      "kind": "case"
+    },
+    "jensen-huang-nvda-10q-2026": {
+      "label": "Nvidia: Form 10-Q, quarter ended 26 July 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm",
+      "kind": "case"
+    },
+    "jensen-huang-register-samr": {
+      "label": "The Register: China turns the screws on Nvidia with antitrust probe (2025)",
+      "url": "https://www.theregister.com/2025/09/15/china_nvidia_antitrust/",
+      "kind": "case"
+    },
+    "jensen-huang-reuters-doj": {
+      "label": "Reuters (via Deccan Chronicle): DOJ questions Nvidia on Hugging Face deal (2026)",
+      "url": "https://www.deccanchronicle.com/amp/technology/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-report-1999918",
+      "kind": "case"
+    },
+    "jensen-huang-pbs-h20": {
+      "label": "AP (via PBS NewsHour): US to get 15% cut of Nvidia and AMD chip sales to China (2025)",
+      "url": "https://www.pbs.org/newshour/politics/under-new-unusual-agreement-u-s-will-get-a-15-cut-of-nvidia-and-amd-chip-sales-to-china",
+      "kind": "case"
+    },
+    "jensen-huang-reuters-ballroom": {
+      "label": "Reuters (via The Star): Nvidia's Huang joins tech titans funding Trump's ballroom (2025)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2025/10/30/nvidia039s-huang-joins-tech-titans-funding-trump039s-ballroom",
+      "kind": "case"
+    },
+    "jensen-huang-tnw-ballroom": {
+      "label": "The Next Web: Nvidia and Apple each gave $25M to Trump's ballroom (2026)",
+      "url": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
+      "kind": "case"
+    },
+    "jensen-huang-nvda-sr-fy26": {
+      "label": "Nvidia: Sustainability Report, fiscal year 2026 (2026)",
+      "url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+      "kind": "case"
+    },
+    "jensen-huang-cnbc-foundation": {
+      "label": "CNBC (via NBC News): Huang's charitable foundation balloons on Nvidia gains (2025)",
+      "url": "https://www.nbcnews.com/business/personal-finance/jensen-huangs-charitable-foundation-balloons-nvidia-stock-gains-rcna212755",
+      "kind": "case"
+    },
+    "jensen-huang-toms-estate": {
+      "label": "Tom's Hardware (via Yahoo Finance): NYT report on Huang estate tax planning (2024)",
+      "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-accused-170213361.html",
+      "kind": "case"
+    },
+    "warren-buffett-brk-ar-2025": {
+      "label": "Berkshire Hathaway: 2025 Annual Report (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106284/d948018dars.pdf",
+      "kind": "case"
+    },
+    "warren-buffett-doj-pacificorp-2026": {
+      "label": "US Justice Department: PacifiCorp agrees to pay $575M over six wildfires (2026)",
+      "url": "https://www.justice.gov/opa/pr/pacificorp-agrees-pay-575m-settle-claims-damage-caused-six-wildfires-california-and-oregon",
+      "kind": "case"
+    },
+    "warren-buffett-opb-james-2026": {
+      "label": "OPB: Oregon Supreme Court hears PacifiCorp wildfire case (2026)",
+      "url": "https://opb.org/article/2026/11/04/wildfire-survivors-lawsuit-utility-company-fire-oregon/",
+      "kind": "case"
+    },
+    "warren-buffett-spokesman-bnsf-2025": {
+      "label": "Spokesman-Review: Swinomish tribe settles BNSF oil train trespass suit (2025)",
+      "url": "https://www.spokesman.com/stories/2025/nov/04/washington-tribe-settles-lawsuit-over-oil-train-tr/",
+      "kind": "case"
+    },
+    "warren-buffett-ofac-2020": {
+      "label": "OFAC: Settlement with Berkshire Hathaway over Iran sanctions (2020)",
+      "url": "https://ofac.treasury.gov/media/48756/download",
+      "kind": "case"
+    },
+    "warren-buffett-ap-gift-2025": {
+      "label": "AP: Buffett gives $6 billion to five foundations (2025)",
+      "url": "https://www.click2houston.com/business/2025/06/28/warren-buffett-announces-6-billion-in-donations-to-five-foundations/",
+      "kind": "case"
+    },
+    "warren-buffett-brk-gift-2026": {
+      "label": "Berkshire Hathaway: News release on Buffett share gifts (2026)",
+      "url": "https://berkshirehathaway.com/news/jul1426.pdf",
+      "kind": "case"
+    },
+    "warren-buffett-propublica-irs-2021": {
+      "label": "ProPublica: The Secret IRS Files (2021)",
+      "url": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax",
+      "kind": "case"
+    },
+    "amancio-ortega-agenciabrasil-2014": {
+      "label": "Agência Brasil: Court rejects Zara's appeal over slavery notification (2014)",
+      "url": "https://agenciabrasil.ebc.com.br/en/geral/noticia/2014-04/court-rejects-zaras-appeal-over-slavery-notification",
+      "kind": "case"
+    },
+    "amancio-ortega-somo-brazil": {
+      "label": "SOMO: Zara fights sanctions for forced labour in Brazilian supply chain",
+      "url": "https://www.mindthegap.ngo/harmful-strategies/constructing-deniability/hiding-behind-complex-supply-chains/zara-fights-sanctions-for-forced-labour-in-brazilian-supply-chain/",
+      "kind": "case"
+    },
+    "amancio-ortega-earthsight-2024": {
+      "label": "Earthsight: Fashion Crimes, executive summary (2024)",
+      "url": "https://www.earthsight.org.uk/fashioncrimes-summary",
+      "kind": "case"
+    },
+    "amancio-ortega-bettercotton-audit-2024": {
+      "label": "Better Cotton: Summary of findings of the independent audit (2024)",
+      "url": "https://bettercotton.org/wp-content/uploads/2024/04/Earthsight-Audit-Summary_April-2024.pdf",
+      "kind": "case"
+    },
+    "amancio-ortega-reuters-emissions-2025": {
+      "label": "Reuters: Zara owner Inditex's transport emissions jump in 2024 (2025)",
+      "url": "https://srnnews.com/zara-owner-inditexs-transport-emissions-jump-in-2024/",
+      "kind": "case"
+    },
+    "amancio-ortega-uokik-2026": {
+      "label": "UOKiK: Bolt, Tchibo and Zara face greenwashing allegations (2026)",
+      "url": "https://uokik.gov.pl/en/gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-prezesa-uokik",
+      "kind": "case"
+    },
+    "amancio-ortega-bhrrc-uyghur-2023": {
+      "label": "BHRRC: French judge asked to examine fashion groups over Uyghur labour (2023)",
+      "url": "https://business-humanrights.org/en/latest-news/france-investigating-judge-to-examine-connection-between-fashion-groups-and-uyghur-forced-labour",
+      "kind": "case"
+    },
+    "amancio-ortega-fashionunited-uyghur-2025": {
+      "label": "FashionUnited: Uyghur forced labour complaint in France ruled inadmissible (2025)",
+      "url": "https://fashionunited.fr/actualite/business/travail-force-des-ouighours-une-plainte-en-france-declaree-irrecevable-mais-une-autre-bientot-deposee/2025020637187",
+      "kind": "case"
+    },
+    "amancio-ortega-greens-efa-tax-2016": {
+      "label": "Greens/EFA: Tax shopping, report on Inditex (2016)",
+      "url": "https://www.greens-efa.eu/en/article/press/corporate-tax-avoidance",
+      "kind": "case"
+    },
+    "amancio-ortega-industriall-gfa-2019": {
+      "label": "IndustriALL: IndustriALL and Inditex create a global union committee (2019)",
+      "url": "https://www.industriall-union.org/industriall-and-inditex-create-a-global-union-committee",
+      "kind": "case"
+    },
+    "amancio-ortega-faortega-oncology": {
+      "label": "Fundación Amancio Ortega: Public oncology support program (2015-2025)",
+      "url": "https://www.faortega.org/en/project/public-oncology-support-program",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-reuters-preponderance-2021": {
+      "label": "Reuters: Mexico top court sides with regulator over América Móvil label (2021)",
+      "url": "https://ca.news.yahoo.com/mexico-top-court-sides-regulator-005438985.html",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-expansion-cfc-fine-2011": {
+      "label": "Expansión: Competition authority fines América Móvil 11,989m pesos (2011)",
+      "url": "https://expansion.mx/negocios/2011/04/15/la-cfc-multa-a-amovil-con-11989-mdp",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-xataka-damages-2018": {
+      "label": "Xataka México: Telcel must pay rivals for 2006-2012 monopolistic practices (2018)",
+      "url": "https://www.xataka.com.mx/telecomunicaciones/telcel-tendra-que-pagar-a-competidores-mexico-practicas-monopolicas-2006-a-2012",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-elfinanciero-appeal-2018": {
+      "label": "El Financiero: América Móvil appeals ruling on monopolistic practices (2018)",
+      "url": "https://www.elfinanciero.com.mx/empresas/america-movil-apela-fallo-sobre-supuestas-practicas-monopolicas",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-expansion-ift-fine-2025": {
+      "label": "Expansión: IFT fines Telcel for monopolistic practices (2025)",
+      "url": "https://expansion.mx/tecnologia/2025/06/17/ift-multa-a-telcel-por-practicas-monopolicas",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-xataka-oxxo-2025": {
+      "label": "Xataka México: Telcel fined for blocking AT&T SIM sales at Oxxo (2025)",
+      "url": "https://www.xataka.com.mx/celulares-y-smartphones/telcel-recibe-multa-millonaria-bloquear-a-at-t-oxxo-18-millones-mexicanos-se-quedaron-sim/amp",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-dplnews-west-fine-2025": {
+      "label": "DPL News: Telcel ends exclusivity practices fined by IFT in western Mexico (2025)",
+      "url": "https://dplnews.com/?p=261215",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-aljazeera-line12-2021": {
+      "label": "Al Jazeera: Missing bolts contributed to Mexico City metro collapse (2021)",
+      "url": "https://www.aljazeera.com/news/2021/9/7/missing-bolts-contributed-mexico-city-metro-collapse-report",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-reuters-carso-line12-2021": {
+      "label": "Reuters: Grupo Carso agrees to repair Mexico City's collapsed metro line (2021)",
+      "url": "https://finance.yahoo.com/news/1-grupo-carso-agrees-repair-000502976.html",
+      "kind": "case"
+    },
+    "carlos-slim-helu-and-family-larazon-foundation-2019": {
+      "label": "La Razón: Fundación Carlos Slim spends 946.2m pesos on quake rebuilding (2019)",
+      "url": "https://www.razon.com.mx/negocios/2019/10/17/fundacion-carlos-slim-ejerce-9462-mdp-en-reconstruccion-por-sismos/",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-ca-paris-2020": {
+      "label": "Cour d'appel de Paris: L'Oréal hygiene products cartel fine, ruling on remand (2020)",
+      "url": "https://www.autoritedelaconcurrence.fr/sites/default/files/appealsd/2020-06/ca2_14d19.pdf",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-franceinfo-2016": {
+      "label": "franceinfo: Françoise Bettencourt Meyers charged with witness tampering (2016)",
+      "url": "https://www.franceinfo.fr/politique/affaire/affaire-bettencourt/affaire-bettencourt-francoise-bettencourt-meyers-mise-en-examen-pour-subornation-de-temoin_1536061.html",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-jdd-2019": {
+      "label": "Le JDD: Bettencourt affair definitively closed by dismissal order (2019)",
+      "url": "https://www.lejdd.fr/Societe/cette-fois-laffaire-bettencourt-est-definitivement-terminee-3896665",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-az-complaint-2026": {
+      "label": "State of Arizona: Consumer fraud complaint against L'Oréal over hair relaxers (2026)",
+      "url": "https://www.courthousenews.com/wp-content/uploads/2026/09/arizona-loreal-usa-complaint.pdf",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-reuters-relaxer-2026": {
+      "label": "Reuters: Arizona sues L'Oréal over hair relaxer cancer risks (2026)",
+      "url": "https://www.insurancejournal.com/news/west/2026/09/14/884862.htm",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-loreal-urd-2025": {
+      "label": "L'Oréal: 2025 Universal Registration Document, climate outcomes (2026)",
+      "url": "https://www.loreal-finance.com/eng/2025-universal-registration-document/en/article/210/",
+      "kind": "case"
+    },
+    "francoise-bettencourt-meyers-and-family-fbs-report-2024": {
+      "label": "Fondation Bettencourt Schueller: Rapport d'activité 2024 (2026)",
+      "url": "https://www.fondationbs.org/sites/default/files/2026-01/FBS-Rapport-Activite-2024-VF.pdf",
+      "kind": "case"
+    },
+    "mukesh-ambani-scconline-rpl-2021": {
+      "label": "SCC Online: SEBI fines RIL and Mukesh Ambani over 2007 RPL trades (2021)",
+      "url": "https://www.scconline.com/blog/post/2021/01/06/sebi-reliance-industries-ltd-and-its-md-mukesh-d-ambani-found-indulged-in-fraudulent-trade-practises-an-exemplary-penalty-of-rs-25-crore-and-15-crore-imposed-respectively-by-sebi/",
+      "kind": "case"
+    },
+    "mukesh-ambani-etvbharat-sc-2024": {
+      "label": "ETV Bharat: Supreme Court dismisses SEBI appeal in RPL case (2024)",
+      "url": "https://www.etvbharat.com/amp/en/!bharat/supreme-court-sebi-mukesh-ambani-reliance-rpl-case-enn24111106045",
+      "kind": "case"
+    },
+    "mukesh-ambani-businesstoday-sc-2024": {
+      "label": "Business Today: SC junks SEBI's pleas against two SAT orders (2024)",
+      "url": "https://www.businesstoday.in/amp/latest/corporate/story/sc-junks-sebis-pleas-against-two-sat-orders-against-mukesh-ambani-others-453307-2024-11-11",
+      "kind": "case"
+    },
+    "mukesh-ambani-livelaw-rpl-2026": {
+      "label": "LiveLaw: Supreme Court sets aside SEBI's ₹447 crore disgorgement order (2026)",
+      "url": "https://www.livelaw.in/supreme-court/supreme-court-grants-relief-to-reliance-industries-in-2007-rpl-futures-trading-case-sets-aside-sebis-447-crore-disgorgement-order-536100",
+      "kind": "case"
+    },
+    "mukesh-ambani-theweek-takeover-2021": {
+      "label": "The Week: SEBI fines Ambani brothers and others in 2000 takeover matter (2021)",
+      "url": "https://www.theweek.in/news/biz-tech/2021/04/07/sebi-slaps-rs-25-cr-fine-on-ambani-brothers-others-in-two-decade-old-matter.amp.html",
+      "kind": "case"
+    },
+    "mukesh-ambani-businesstoday-sat-2023": {
+      "label": "Business Today: SAT sets aside SEBI's ₹25 crore penalty on Mukesh Ambani (2023)",
+      "url": "https://businesstoday.in/latest/corporate/story/sat-sets-aside-sebis-rs-25-crore-penalty-on-mukesh-ambani-391657-2023-07-28",
+      "kind": "case"
+    },
+    "mukesh-ambani-theprint-kgd6-2026": {
+      "label": "ThePrint (PTI): SC declines to postpone final hearing in KG basin dispute (2026)",
+      "url": "https://theprint.in/india/sc-declines-to-postpone-final-hearing-in-kg-basin-gas-migration-dispute/2936746/",
+      "kind": "case"
+    },
+    "mukesh-ambani-dtnext-kgd6-mediator-2026": {
+      "label": "DT Next: SC appoints former judge as sole mediator in KG basin dispute (2026)",
+      "url": "https://www.dtnext.in/news/business/sc-appoints-former-judge-ranjana-prakash-desai-as-sole-mediator-in-kg-basin-dispute",
+      "kind": "case"
+    },
+    "mukesh-ambani-theprint-qwik-2024": {
+      "label": "ThePrint (PTI): Reliance-linked Qwik Supply third largest electoral bond buyer (2024)",
+      "url": "https://theprint.in/economy/reliance-linked-qwik-supply-third-largest-electoral-bond-buyer-reliance-says-co-not-its-subsidiary/2002057",
+      "kind": "case"
+    },
+    "mukesh-ambani-outlook-qwik-2024": {
+      "label": "Outlook Business: Reliance-linked Qwik Supply funnelled ₹385 crore to BJP (2024)",
+      "url": "https://www.outlookbusiness.com/news/electoral-bonds-reliance-linked-qwik-supply-funneled-rs-385-crore-to-bjp-rs-25-crore-to-shiv-sena",
+      "kind": "case"
+    },
+    "mukesh-ambani-rsf-india-2026": {
+      "label": "RSF: India country profile, World Press Freedom Index (2026)",
+      "url": "https://rsf.org/en/country/india",
+      "kind": "case"
+    },
+    "mukesh-ambani-ril-natural-capital-2026": {
+      "label": "Reliance Industries: Integrated Annual Report 2025-26, Natural Capital (2026)",
+      "url": "https://www.ril.com/ar2025-26/natural-capital.html",
+      "kind": "case"
+    },
+    "mukesh-ambani-ril-natural-capital-2025": {
+      "label": "Reliance Industries: Integrated Annual Report 2024-25, Natural Capital (2025)",
+      "url": "https://www.ril.com/ar2024-25/natural-capital.html",
+      "kind": "case"
+    },
+    "mukesh-ambani-ril-social-capital-2025": {
+      "label": "Reliance Industries: Annual Report 2024-25, Social and Relationship Capital (2025)",
+      "url": "https://www.ril.com/ar2024-25/social-and-relationship-capital.html",
+      "kind": "case"
+    },
+    "thomas-peterffy-sec-2020": {
+      "label": "SEC: Interactive Brokers charged over failure to file suspicious activity reports (2020)",
+      "url": "https://www.sec.gov/news/press-release/2020-178",
+      "kind": "case"
+    },
+    "thomas-peterffy-ofac-2025": {
+      "label": "OFAC: Interactive Brokers settles apparent sanctions violations for $11.8M (2025)",
+      "url": "https://ofac.treasury.gov/media/934501/download",
+      "kind": "case"
+    },
+    "thomas-peterffy-ibkr-10k-2025": {
+      "label": "Interactive Brokers: Form 10-K, fiscal year 2025 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/ibkr-20251231.htm",
+      "kind": "case"
+    },
+    "thomas-peterffy-ibkr-10q-2026q3": {
+      "label": "Interactive Brokers: Form 10-Q, quarter ended 30 September 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000163/ibkr-20260930.htm",
+      "kind": "case"
+    },
+    "thomas-peterffy-nbc-youngkin": {
+      "label": "NBC News: GOP megadonor Peterffy gives another $1 million to Youngkin PAC (2023)",
+      "url": "https://www.nbcnews.com/politics/2024-election/gop-megadonor-thomas-peterffy-donates-another-1-million-glenn-youngkin-rcna97011",
+      "kind": "case"
+    },
+    "thomas-peterffy-whyy-keystone": {
+      "label": "WHYY: Megadonor money floods Pa. Senate race (2024)",
+      "url": "https://whyy.org/articles/bob-casey-dave-mccormick-campaign-finance-senate-race-megadonors",
+      "kind": "case"
+    },
+    "thomas-peterffy-banner-marylands-future": {
+      "label": "Baltimore Banner: Pro-Hogan super PAC Maryland's Future fundraising (2024)",
+      "url": "https://www.thebanner.com/politics-power/national-politics/hogan-alsobrooks-marylands-future-fundraising-YH3GA3MXLVCY3DVAZAGNGEEFHE/",
+      "kind": "case"
+    },
+    "koch-epa-oil-spills": {
+      "label": "EPA: Koch Industries oil spills settlement (2000)",
+      "url": "https://19january2025snapshot.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement",
+      "kind": "case"
+    },
+    "koch-doj-refinery-plea": {
+      "label": "US Justice Department: Koch pleads guilty to covering up refinery violations (2001)",
+      "url": "https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm",
+      "kind": "case"
+    },
+    "koch-epa-refinery-plea": {
+      "label": "EPA: Koch Industries to pay $20 million for Clean Air Act violations (2001)",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/0dbb0beb2a2d70d885256a2d0072a509.html",
+      "kind": "case"
+    },
+    "koch-epa-port-arthur": {
+      "label": "EPA: Flint Hills Resources Port Arthur Clean Air Act settlement (2014)",
+      "url": "https://19january2025snapshot.epa.gov/enforcement/flint-hills-resources-port-arthur-clean-air-act-settlement",
+      "kind": "case"
+    },
+    "koch-opensecrets-afp-action": {
+      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
+      "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
+      "kind": "case"
+    },
+    "koch-chronicle-nyu-langone": {
+      "label": "Chronicle of Philanthropy: Julia Koch gives $75 million for medical center (2024)",
+      "url": "https://www.philanthropy.com/news/julia-koch-gives-75-million-for-new-west-palm-beach-medical-center/",
+      "kind": "case"
+    },
+    "koch-propublica-jkff": {
+      "label": "ProPublica Nonprofit Explorer: Julia Koch Family Foundation filings (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/921599313",
+      "kind": "case"
+    },
+    "koch-standtogether-forbes-gift": {
+      "label": "Stand Together: Forbes exclusive on Charles Koch’s philanthropic work (2023)",
+      "url": "https://standtogether.org/newsroom/insights/in-the-news-forbes-exclusive-with-charles-koch-on-his-philanthropic-work",
+      "kind": "case"
+    },
+    "koch-sludge-c4-gift": {
+      "label": "Sludge: Charles Koch makes biggest known political advocacy donation (2023)",
+      "url": "https://readsludge.com/2023/10/10/charles-koch-makes-biggest-known-political-advocacy-donation/",
+      "kind": "case"
+    },
+    "koch-popinfo-tax": {
+      "label": "Popular Information: Charles Koch’s $5 billion tax loophole (2023)",
+      "url": "https://popular.info/p/charles-kochs-5-billion-tax-loophole",
+      "kind": "case"
+    },
+    "koch-ap-gmu-agreements": {
+      "label": "AP via Christian Science Monitor: George Mason faculty seek Koch agreements (2018)",
+      "url": "https://www.csmonitor.com/USA/Education/2018/0504/George-Mason-faculty-wants-disclosure-of-Koch-agreements",
+      "kind": "case"
+    },
+    "koch-propublica-ckf": {
+      "label": "ProPublica Nonprofit Explorer: Charles Koch Foundation filings (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/480918408",
+      "kind": "case"
+    },
+    "zhang-yiming-dpc-2025": {
+      "label": "Irish DPC: TikTok fined €530 million over data transfers to China (2025)",
+      "url": "https://www.dataprotection.ie/en/news-media/latest-news/irish-data-protection-commission-fines-tiktok-eu530-million-and-orders-corrective-measures-following",
+      "kind": "case"
+    },
+    "zhang-yiming-dpc-2023": {
+      "label": "Irish DPC: €345 million fine of TikTok over children's data (2023)",
+      "url": "https://www.dataprotection.ie/en/news-media/press-releases/DPC-announces-345-million-euro-fine-of-TikTok",
+      "kind": "case"
+    },
+    "zhang-yiming-dpc-fines": {
+      "label": "Irish DPC: register of fines, appeal status (2026)",
+      "url": "https://www.dataprotection.ie/en/dpc-guidance/decisions/fines",
+      "kind": "case"
+    },
+    "zhang-yiming-doj-2026": {
+      "label": "US DOJ: $400M settlement with TikTok and ByteDance on children's privacy (2026)",
+      "url": "https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy",
+      "kind": "case"
+    },
+    "zhang-yiming-ec-2026": {
+      "label": "European Commission: TikTok 'For You' feed preliminarily in breach of DSA (2026)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2361/IP_26_2361_EN.pdf",
+      "kind": "case"
+    },
+    "zhang-yiming-scotus-2025": {
+      "label": "US Supreme Court: TikTok Inc. v. Garland, per curiam opinion (2025)",
+      "url": "https://www.supremecourt.gov/opinions/24pdf/24-656_ca7d.pdf",
+      "kind": "case"
+    },
+    "zhang-yiming-reuters-jv": {
+      "label": "Reuters (via Yahoo Finance): TikTok seals deal for new US joint venture (2026)",
+      "url": "https://finance.yahoo.com/news/tiktok-reaches-deal-us-joint-010506658.html",
+      "kind": "case"
+    },
+    "zhang-yiming-bloomberg-stake": {
+      "label": "Bloomberg (via BusinessDay): Beijing takes stake and board seat in ByteDance unit (2021)",
+      "url": "https://www.businessday.co.za/bd/companies/2021-08-17-beijing-tightens-grip-with-1-stake-and-seat-on-board-of-bytedance-unit/",
+      "kind": "case"
+    },
+    "zhang-yiming-bloomberg-gift": {
+      "label": "Bloomberg (via The Star): ByteDance founder donates $77 million to education fund (2021)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2021/06/22/bytedance-founder-donates-us77mil-to-education-fund",
+      "kind": "case"
+    },
+    "zhong-shanshan-nongfu-sr-2025": {
+      "label": "Nongfu Spring: 2025 Sustainability Report (2026)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0417/2026041701451.pdf",
+      "kind": "case"
+    },
+    "zhong-shanshan-chinanews-2014": {
+      "label": "China News Service: Nongfu Spring fined RMB100,000 over pH comparison promotion (2014)",
+      "url": "https://www.chinanews.com.cn/cj/2014/08-14/6492818.shtml",
+      "kind": "case"
+    },
+    "zhong-shanshan-nzherald-2025": {
+      "label": "NZ Herald: Ōtākiri Springs wins Supreme Court case over water bottling plant (2025)",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/otakiri-springs-wins-supreme-court-case-over-water-bottling-plant/MIB2ENUBPVAR3KJ6RFTGW33O5M",
+      "kind": "case"
+    },
+    "zhong-shanshan-nzsc-otakiri": {
+      "label": "Supreme Court of New Zealand: Sustainable Otakiri v Whakatāne District Council (2025)",
+      "url": "https://www.courtsofnz.govt.nz/cases/sustainable-otariki-incorporated-v-whakatane-district-council-and-creswell-nz-limited",
+      "kind": "case"
+    },
+    "dieter-schwarz-bkarta-2015": {
+      "label": "Bundeskartellamt: Vertical resale price maintenance in food retail (2015)",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2015/18_06_2015_Vertikalfall.html",
+      "kind": "case"
+    },
+    "dieter-schwarz-bkarta-2016": {
+      "label": "Bundeskartellamt: Resale price maintenance fines concluded in beer segment (2016)",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2016/09_05_2016_Bier.html",
+      "kind": "case"
+    },
+    "dieter-schwarz-cbnews-2025": {
+      "label": "CB News (AFP): Pubs trompeuses, Lidl va se pourvoir en cassation (2025)",
+      "url": "https://www.cbnews.fr/cb/pubs-trompeuses-lidl-va-se-pourvoir-cassation",
+      "kind": "case"
+    },
+    "dieter-schwarz-lemondedudroit-2025": {
+      "label": "Le Monde du Droit: Lidl devra verser 43 millions d'euros à Intermarché (2025)",
+      "url": "https://www.lemondedudroit.fr/decryptages/379-actualite-juridique/99952-pratiques-commerciales-trompeuses-lidl-devra-verser-43-millions-d-euros-a-intermarche.html",
+      "kind": "case"
+    },
+    "dieter-schwarz-freitag-2025": {
+      "label": "der Freitag: Wie sich Angestellte gegen den Discounter Lidl wehren (2025)",
+      "url": "https://www.freitag.de/autoren/joscha-frahm/lidl-macht-uns-kaputt-wie-sich-angestellte-gegen-den-discounter-wehren",
+      "kind": "case"
+    },
+    "dieter-schwarz-lobbyregister-2026": {
+      "label": "Bundestag Lobbyregister: Lidl Dienstleistung GmbH & Co. KG, R001738 (2026)",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
+      "kind": "case"
+    },
+    "dieter-schwarz-tum-2022": {
+      "label": "TUM: Dieter Schwarz Foundation finances 10 additional professorships (2022)",
+      "url": "https://tum.de/en/news-and-events/all-news/press-releases/details/ausbau-des-tum-campus-heilbronn-for-the-digital-age",
+      "kind": "case"
+    },
+    "dieter-schwarz-tum-2019": {
+      "label": "TUM: Dieter Schwarz Foundation hands over new building to TUM (2019)",
+      "url": "https://www.tum.de/en/about-tum/news/press-releases/details/35230",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-gtr-cbp-2021": {
+      "label": "GTR: Uniqlo's Washington spat a Xinjiang alarm bell for clothing supply chains (2021)",
+      "url": "https://www.gtreview.com/news/asia/95059/",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-taipeitimes-cbp-2021": {
+      "label": "Bloomberg (via Taipei Times): US blocked Uniqlo shirts over Xinjiang concerns (2021)",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2021/05/20/2003757704",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-fla-jaba-2023": {
+      "label": "Fair Labor Association: Jaba Garmindo update and closing (2023)",
+      "url": "https://fairlabor.org/wp-content/uploads/2021/07/Jaba-Garmindo-Final-Report.pdf",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-ccc-jaba-2023": {
+      "label": "Clean Clothes Campaign: s.Oliver pays Jaba Garmindo workers, but where is Uniqlo? (2023)",
+      "url": "https://cleanclothes.org/news/2023/soliver-gives-100k-euros-to-jaba-garmindo-workers-owed-55-million-but-where-is-uniqlo",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-toyokeizai-libel-2014": {
+      "label": "Toyo Keizai: Uniqlo loses libel appeal against Bungeishunju (2014)",
+      "url": "https://toyokeizai.net/articles/-/33900",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-jcast-libel-2014": {
+      "label": "J-CAST News: Uniqlo's loss final at Supreme Court over labour reporting (2014)",
+      "url": "https://www.j-cast.com/2014/12/11222995.html",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-joongang-kftc-2022": {
+      "label": "Korea JoongAng Daily: FTC raises stink about Uniqlo's deodorizing claims (2022)",
+      "url": "https://www.koreajoongangdaily.com/business/ftc-raises-stink-about-uniqlos-deodorizing-garments-claims/10080318",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-uniqlo-goals": {
+      "label": "Uniqlo: Sustainability goals and progress (2025)",
+      "url": "https://www.uniqlo.com/us/en/special-feature/sustainability/sustainability-goals",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-dempa-ips-2025": {
+      "label": "Dempa Shimbun: iPS cell production site opens, Yanai expects mass production (2025)",
+      "url": "https://dempa-digital.com/?p=669560",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-fashionsnap-ips-2025": {
+      "label": "Fashionsnap: Yanai attends opening of iPS facility funded by his gift (2025)",
+      "url": "https://www.fashionsnap.com/article/2025-06-23/ips-yanai-donation-new/",
+      "kind": "case"
+    },
+    "tadashi-yanai-and-family-kyotou-2020": {
+      "label": "Kyoto University: Press conference on gifts from Tadashi Yanai (2020)",
+      "url": "https://www.kyoto-u.ac.jp/ja/news/2020-06-24",
+      "kind": "case"
+    },
+    "ma-huateng-cnbc-samr-music": {
+      "label": "CNBC: China's regulator orders Tencent to give up exclusive music rights (2021)",
+      "url": "https://www.cnbc.com/2021/07/24/china-crackdown-antitrust-regulator-orders-tencent-music-to-give-up-music-label-rights.html",
+      "kind": "case"
+    },
+    "ma-huateng-techcrunch-tenpay": {
+      "label": "TechCrunch: China fines Tencent and Alibaba to wrap up fintech crackdown (2023)",
+      "url": "https://techcrunch.com/2023/07/07/china-wraps-up-fintech-crackdown-with-big-fines-on-tencent-and-alibaba/",
+      "kind": "case"
+    },
+    "ma-huateng-citizenlab-wechat": {
+      "label": "Citizen Lab: We Chat, They Watch (2020)",
+      "url": "https://citizenlab.ca/2020/05/we-chat-they-watch/",
+      "kind": "case"
+    },
+    "ma-huateng-reuters-1260h-2025": {
+      "label": "Reuters (via Daily Maverick): US adds Tencent, CATL to Chinese military list (2025)",
+      "url": "https://www.dailymaverick.co.za/article/2025-01-07-us-adds-tencent-catl-to-list-of-chinese-firms-allegedly-aiding-beijings-military",
+      "kind": "case"
+    },
+    "ma-huateng-dod-1260h-2026": {
+      "label": "US Department of Defense: Designation of Chinese military companies (2026)",
+      "url": "https://public-inspection.federalregister.gov/2026-11571.pdf",
+      "kind": "case"
+    },
+    "ma-huateng-reuters-npc-2023": {
+      "label": "Reuters (via TechCentral): Tencent founder absent from China's parliament list (2023)",
+      "url": "https://techcentral.co.za/tencent-founder-appears-to-lose-political-clout-in-china/222898/",
+      "kind": "case"
+    },
+    "ma-huateng-tencent-carbon-2026": {
+      "label": "Tencent: Carbon Neutrality Mid-Term Report (2026)",
+      "url": "https://www.tencent.com/climate/assets/pdf/Tencent_Carbon_Neutrality_Mid-Term_Report_EN.pdf",
+      "kind": "case"
+    },
+    "robin-zeng-bloomberg-relief-2026": {
+      "label": "Bloomberg (via Transport Topics): CATL seeks removal from Pentagon list (2026)",
+      "url": "https://www.ttnews.com/articles/catl-pentagon-china-blacklist",
+      "kind": "case"
+    },
+    "robin-zeng-chinadaily-cppcc-2026": {
+      "label": "China Daily: Fujian political adviser on new energy sector (2026)",
+      "url": "https://www.chinaservicesinfo.com/s/202603/05/WS69a9125d498e23165e06dd80/fujian-political-adviser-attributes-new-energy-sector-rise-to-policy-innovation.html",
+      "kind": "case"
+    },
+    "robin-zeng-gasgoo-cppcc-2026": {
+      "label": "Gasgoo: Zeng Yuqun speaks at CPPCC Members' Passage (2026)",
+      "url": "https://autonews.gasgoo.com/articles/ev/2026-two-sessions-zeng-yuqun-speaks-at-members-passage-catl-leads-new-energy-sector-with-innovation-2029511270770790400",
+      "kind": "case"
+    },
+    "robin-zeng-congress-uflpa-letter-2024": {
+      "label": "US lawmakers: Letter asking DHS to add CATL to UFLPA Entity List (2024)",
+      "url": "https://moolenaar.house.gov/sites/evo-subsites/moolenaar.house.gov/files/evo-media-document/Moolenaar-Letter-To-DHS-CATL.pdf",
+      "kind": "case"
+    },
+    "robin-zeng-pvmag-denial-2024": {
+      "label": "pv magazine USA: CATL, Gotion deny U.S. accusations of forced labor (2024)",
+      "url": "https://pv-magazine-usa.com/2024/06/13/catl-gotion-deny-u-s-accusations-of-forced-labor/",
+      "kind": "case"
+    },
+    "robin-zeng-catl-esg-2025": {
+      "label": "CATL: 2025 Environmental, Social and Governance Report (2026)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0309/2026030901390.pdf",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-cooperativa-el-mauro-2015": {
+      "label": "Cooperativa: Court orders Los Pelambres to demolish El Mauro tailings dam (2015)",
+      "url": "https://cooperativa.cl/noticias/pais/region-de-coquimbo/justicia-ordeno-a-minera-los-pelambres-demoler-tranque-de-rela/2015-03-09/122235.html",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-df-el-mauro-2016": {
+      "label": "Diario Financiero: Appeals court revokes El Mauro demolition order (2016)",
+      "url": "https://www.df.cl/empresas/mineria/corte-de-apelaciones-revoca-orden-de-demolicion-de-tranque-el-mauro-de",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-reporteminero-sma-pelambres-2023": {
+      "label": "Reporte Minero: SMA fines Los Pelambres over tailings incident (2023)",
+      "url": "https://www.reporteminero.cl/noticia/noticias/2023/02/sma-aplica-multa-minera-los-pelambres-incidente-manejo-relaves",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-df-sma-centinela-2026": {
+      "label": "Diario Financiero: SMA fines Minera Centinela 675m pesos (2026)",
+      "url": "https://www.df.cl/empresas/mineria/sma-aplica-multa-a-la-empresa-minera-centinela-tras-constatar",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-doi-twin-metals-2022": {
+      "label": "US Interior Department: Mineral leases near Boundary Waters cancelled (2022)",
+      "url": "https://www.doi.gov/pressreleases/interior-department-takes-action-mineral-leases-improperly-renewed-watershed-boundary",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-ap-twin-metals-2018": {
+      "label": "AP (via CBS Minnesota): Twin Metals mineral leases reinstated (2018)",
+      "url": "https://www.cbsnews.com/minnesota/news/twin-metals-lease-renewed",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-minnpost-twin-metals-2026": {
+      "label": "MinnPost: Walz halts state action on Twin Metals mine (2026)",
+      "url": "https://civicmedia.us/news/2026/08/19/walz-halts-state-action-on-twin-metals-but-fed-process-still-on-track",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-antofagasta-climate-plan-2024": {
+      "label": "Antofagasta plc: Climate Action Plan (2024)",
+      "url": "https://www.antofagasta.co.uk/media/4684/antofagasta-plc-climate-action-plan-2023.pdf",
+      "kind": "case"
+    },
+    "iris-fontbona-and-family-antofagasta-climate-page": {
+      "label": "Antofagasta plc: Climate change (undated web page)",
+      "url": "https://www.antofagasta.co.uk/sustainability/climate-change/",
+      "kind": "case"
+    },
+    "masayoshi-son-cnbc-khashoggi-2018": {
+      "label": "CNBC: SoftBank's Son breaks silence on Khashoggi killing, keeps Saudi ties (2018)",
+      "url": "https://www.cnbc.com/2018/11/05/softbank-ceo-masayoshi-son-breaks-silence-on-death-of-saudi-journalist.html",
+      "kind": "case"
+    },
+    "masayoshi-son-warren-library-2026": {
+      "label": "Sen. Warren (via Capitol Releases): inquiry into SoftBank's $50M library gift (2026)",
+      "url": "https://capitolreleases.com/releases/3f6a6199-0290-476b-925e-4ad35c2af16c",
+      "kind": "case"
+    },
+    "masayoshi-son-softbank-wework-2021": {
+      "label": "SoftBank: Settlement with Adam Neumann and WeWork Special Committee (2021)",
+      "url": "https://group.softbank/en/news/press/20210301",
+      "kind": "case"
+    },
+    "masayoshi-son-afp-wework-2021": {
+      "label": "AFP (via Tech Xplore): SoftBank reaches deal with WeWork (2021)",
+      "url": "https://techxplore.com/news/2021-02-softbank-wework.html",
+      "kind": "case"
+    },
+    "masayoshi-son-ft-sidedeals-2022": {
+      "label": "FT (via Irish Times): Masayoshi Son owes $4.7bn to SoftBank after tech rout (2022)",
+      "url": "https://www.irishtimes.com/business/2022/11/18/masayoshi-son-owes-47bn-to-softbank-following-tech-rout/",
+      "kind": "case"
+    },
+    "masayoshi-son-impress-donation-2011": {
+      "label": "Impress Internet Watch: Son personally donates ¥10 billion plus future pay (2011)",
+      "url": "https://internet.watch.impress.co.jp/docs/news/437197.html",
+      "kind": "case"
+    },
+    "masayoshi-son-softbank-donations-2012": {
+      "label": "SoftBank: Masayoshi Son's personal earthquake donations and their use (2012)",
+      "url": "https://group.softbank/donations/list_son",
+      "kind": "case"
+    },
+    "mars-ap-osha-chocolate-tank": {
+      "label": "AP via CBS News: OSHA fines Mars Wrigley after workers fall into chocolate tank (2023)",
+      "url": "https://www.cbsnews.com/amp/pittsburgh/news/osha-mars-wrigley-candy-factory-fined-elizabethtown-pennsylvania",
+      "kind": "case"
+    },
+    "mars-cbs-ghana-cocoa": {
+      "label": "CBS News: Children harvesting cocoa for Mars suppliers in Ghana (2023)",
+      "url": "https://cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana",
+      "kind": "case"
+    },
+    "mars-ftc-vca-order": {
+      "label": "FTC: Final consent order on Mars’ acquisition of VCA (2017)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2017/12/ftc-alters-final-consent-order-response-public-comments-preserving-competition-specialty-emergency",
+      "kind": "case"
+    },
+    "mars-mars-emissions-2024": {
+      "label": "Mars: Record carbon emissions reduction, 2023 report (2024)",
+      "url": "https://prnewswire.com/news-releases/mars-delivers-record-carbon-emissions-reduction-302204704.html",
+      "kind": "case"
+    },
+    "mars-confectionerynews-emissions-2026": {
+      "label": "ConfectioneryNews: Mars cuts emissions and hits US renewables target (2026)",
+      "url": "https://www.confectionerynews.com/Article/2026/06/17/mars-hits-renewable-energy-target-and-cuts-emissions-while-driving-growth/",
+      "kind": "case"
+    },
+    "mars-brynmawr-gift": {
+      "label": "Bryn Mawr College: $10 million gift from Jacquie Mars ’61 (2026)",
+      "url": "https://www.brynmawr.edu/news/10-million-gift-jacquie-mars-61-expands-access-bryn-mawr",
+      "kind": "case"
+    },
+    "li-ka-shing-ap-panama-ruling": {
+      "label": "AP (via NBC News): Panama court rules CK Hutchison port concession unconstitutional (2026)",
+      "url": "https://www.nbcnews.com/world/asia/hong-kong-company-concession-panama-canal-ports-ruled-unconstitutional-rcna256664",
+      "kind": "case"
+    },
+    "li-ka-shing-aljazeera-panama-ruling": {
+      "label": "Al Jazeera: Panama court rules Chinese control of canal ports unconstitutional (2026)",
+      "url": "https://www.aljazeera.com/news/2026/1/30/panama-court-rules-chinese-control-of-canal-ports-unconstitutional",
+      "kind": "case"
+    },
+    "li-ka-shing-reuters-ppc-arbitration": {
+      "label": "Reuters (via The Standard): CK Hutchison unit's Panama claim tops $2 billion (2026)",
+      "url": "https://www.thestandard.com.hk/finance/article/327620/CK-Hutchison-unit-says-Panama-arbitration-claim-now-tops-US2-billion",
+      "kind": "case"
+    },
+    "li-ka-shing-reuters-samr-review": {
+      "label": "Reuters (via Malay Mail): China to run antitrust review of CK Hutchison ports deal (2025)",
+      "url": "https://www.malaymail.com/news/money/2025/03/29/after-beijings-ire-ck-hutchison-baulks-on-panama-ports-sale-to-blackrock-consortium/171278",
+      "kind": "case"
+    },
+    "li-ka-shing-standard-husky-cenovus": {
+      "label": "The Standard: Cenovus Energy to buy CK Hutchison's Husky Energy (2020)",
+      "url": "https://www.thestandard.com.hk/finance/article/158087/Cenovus-Energy-to-buy-CK-Hutchisons-Husky-Energy-in-US29b-deal",
+      "kind": "case"
+    },
+    "li-ka-shing-sec-cenovus-13d": {
+      "label": "SEC: CK Hutchison Schedule 13D/A on Cenovus Energy shares (2023)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1475260/000134100423000155/sc13da1.htm",
+      "kind": "case"
+    },
+    "li-ka-shing-standard-forbes-philanthropy": {
+      "label": "The Standard: Li, Chau among Forbes Asia Heroes of Philanthropy (2024)",
+      "url": "https://www.thestandard.com.hk/breaking-news/article/68497/Li-Chau-among-top-philanthropists-honored",
+      "kind": "case"
+    },
+    "mark-mateschitz-ec-2025": {
+      "label": "European Commission: Formal antitrust investigation into Red Bull (2025)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/it/ip_25_2671/IP_25_2671_EN.pdf",
+      "kind": "case"
+    },
+    "mark-mateschitz-vfgh-2026": {
+      "label": "VfGH: Servus TV broadcasts breached objectivity rule only in part, E 1838/2026 (2026)",
+      "url": "https://www.vfgh.gv.at/medien/Social-Media-Accounts.de.php",
+      "kind": "case"
+    },
+    "mark-mateschitz-orf-2026": {
+      "label": "ORF: Verletztes Objektivitätsgebot, VfGH-Spruch zu Wegscheider (2026)",
+      "url": "https://orf.at/stories/3447184/",
+      "kind": "case"
+    },
+    "mark-mateschitz-trend-2023": {
+      "label": "trend: Mark Mateschitz, der Red-Bull-Erbe und reichste Österreicher (2023)",
+      "url": "https://www.trend.at/personen/mark-mateschitz",
+      "kind": "case"
+    },
+    "mark-mateschitz-apa-2026": {
+      "label": "Vienna.at (APA): Diese Sendungen dominierten die TV-Quoten 2025 (2026)",
+      "url": "https://www.vienna.at/diese-sendungen-dominierten-die-tv-quoten-2025/9899174",
+      "kind": "case"
+    },
+    "mark-mateschitz-fia-2022": {
+      "label": "FIA: Red Bull Racing accepted breach agreement, 2021 cost cap (2022)",
+      "url": "https://www.fia.com/sites/default/files/rbr_public_summary_aba_-_article_6.32_1.pdf",
+      "kind": "case"
+    },
+    "mark-mateschitz-fia-2022-news": {
+      "label": "FIA: Accepted Breach Agreement between Red Bull Racing and the FIA (2022)",
+      "url": "https://www.fia.com/news/accepted-breach-agreement-between-red-bull-racing-team-and-fia-breach-2021-fia-formula-one",
+      "kind": "case"
+    },
+    "mark-mateschitz-wfl-uk-2024": {
+      "label": "Wings for Life UK: Annual report and financial statements (2024)",
+      "url": "https://opencharities.uk/ew/1138804/files/2024-12-31-accounts.html",
+      "kind": "case"
+    },
+    "msc-livelaw-elsa3-security": {
+      "label": "LiveLaw: Kerala High Court cuts security in State suit over MSC Elsa 3 (2025)",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-state-admiralty-suit-msc-elsa-compensation-305173",
+      "kind": "case"
+    },
+    "msc-theweek-elsa3-deposit": {
+      "label": "The Week (PTI): MSC Elsa III owners deposit Rs 1,227 crore in Kerala High Court (2026)",
+      "url": "https://www.theweek.in/wire-updates/national/2026/01/08/msc-elsa-iii-owners-deposit-rs-1227-cr-in-kerala-hc-for-release-of-sister-vessel.html",
+      "kind": "case"
+    },
+    "msc-fmc-civil-penalty": {
+      "label": "FMC: MSC assessed civil penalties totaling $22.67 million (2026)",
+      "url": "https://www.fmc.gov/articles/msc-assessed-civil-penalties-totaling-22-67-million/",
+      "kind": "case"
+    },
+    "msc-shipbreaking-list-2024": {
+      "label": "NGO Shipbreaking Platform: list of ships dismantled worldwide in 2024 (2025)",
+      "url": "https://shipbreakingplatform.org/platform-publishes-list-2024/",
+      "kind": "case"
+    },
+    "msc-compcom-shipping-referral": {
+      "label": "Competition Commission SA: eight cargo shipping companies referred for price-fixing (2025)",
+      "url": "https://www.compcom.co.za/wp-content/uploads/2025/12/Media-Statement-Shipping-Referral-02-December-2025.pdf",
+      "kind": "case"
+    },
+    "msc-unicef-msc-foundation": {
+      "label": "UNICEF: MSC Foundation partnership (2025)",
+      "url": "https://www.unicef.org/partnerships/msc-foundation",
+      "kind": "case"
+    },
+    "andrea-pignataro-sole24ore-2025": {
+      "label": "Il Sole 24 Ore: Pignataro to pay EUR 280 million in tax agency agreement (2025)",
+      "url": "https://en.ilsole24ore.com/art/tax-agency-agreement-andrea-pignataro-will-pay-280-million-AHRvoPAB",
+      "kind": "case"
+    },
+    "andrea-pignataro-ilpost-2025-06": {
+      "label": "Il Post: The tax evasion investigation into Andrea Pignataro (2025)",
+      "url": "https://www.ilpost.it/2025/06/09/evasione-fiscale-indagine-andrea-pignataro/",
+      "kind": "case"
+    },
+    "andrea-pignataro-ilpost-2025-10": {
+      "label": "Il Post: Tax evasion investigation into Pignataro dismissed (2025)",
+      "url": "https://www.ilpost.it/2025/10/22/antonio-pignataro-archiviata-indagine-evasione-fiscale/",
+      "kind": "case"
+    },
+    "andrea-pignataro-reuters-2024-01": {
+      "label": "Reuters: Pignataro's ION draws scrutiny from Italy's central bank (2024)",
+      "url": "https://uk.marketscreener.com/quote/stock/ILLIMITY-BANK-S-P-A-55462615/news/Pignataro-s-ION-draws-scrutiny-from-Italy-s-central-bank-sources-45814721",
+      "kind": "case"
+    },
+    "andrea-pignataro-reuters-2024-03": {
+      "label": "Reuters: Italy approves Prelios deal after ION discloses loan terms (2024)",
+      "url": "https://swissinfo.ch/eng/exclusive-italy-approves-prelios-deal-after-ion-discloses-loan-terms,-sources-say/73612472",
+      "kind": "case"
+    },
+    "chanel-adlc-perfume-2006": {
+      "label": "Autorité de la concurrence: Vertical agreements in the luxury perfume sector (2006)",
+      "url": "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/14-march-2006-vertical-agreements-luxury-perfume-sector",
+      "kind": "case"
+    },
+    "chanel-lalibre-perfume-appeal-2012": {
+      "label": "La Libre Belgique: Paris appeal court upholds perfume price-fixing fines (2012)",
+      "url": "https://www.lalibre.be/lifestyle/mode/2012/01/27/grosse-amende-pour-de-grands-noms-du-parfum-NWIWZCHVHBFZHIQ3DBN4HZHIOQ/",
+      "kind": "case"
+    },
+    "chanel-retailgazette-italy-probe": {
+      "label": "Retail Gazette: Italian police search Chanel offices in luxury labour probe (2026)",
+      "url": "https://www.retailgazette.co.uk/blog/2026/07/italian-police-search-chanel-offices-in-luxury-labour-probe/",
+      "kind": "case"
+    },
+    "chanel-euronews-italy-raids": {
+      "label": "Euronews: Italian police raid luxury brands in labour abuse probe (2026)",
+      "url": "https://www.euronews.com/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
+      "kind": "case"
+    },
+    "chanel-chanel-slb-2024": {
+      "label": "Chanel: Sustainability-Linked Bond Update 2024 (2024)",
+      "url": "https://www.chanel.cn/puls-img/1758023141952-chanel-sustainability-linked-bond-update-2024.pdf",
+      "kind": "case"
+    },
+    "chanel-fondation-chanel-accounts-2024": {
+      "label": "Fondation CHANEL: Report and accounts to 9 July 2024 (2025)",
+      "url": "https://opencharities.uk/ew/1195353/files/2024-07-09-accounts.md",
+      "kind": "case"
+    },
+    "chanel-fortune-dividends-2024": {
+      "label": "Fortune (Bloomberg): Chanel owners’ dividends reach $12.4 billion in 3 years (2024)",
+      "url": "https://fortune.com/europe/2024/06/06/chanel-family-personal-wealth-jumped-12-4-billion-3-years-billionaire-brothers-wertheimers/",
+      "kind": "case"
+    },
+    "chanel-fortune-dividend-2025": {
+      "label": "Fortune: Chanel holds off on dividend after 2024 profit fall (2025)",
+      "url": "https://fortune.com/europe/2025/05/23/chanel-dividend-2024-earnings/",
+      "kind": "case"
     }
   },
   "people": [
@@ -625,31 +1595,100 @@
           "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Major Republican donor: about $35 million in 2020–2022 to a super PAC backing Senator Tim Scott, as reported by Business Insider. Set to hold a minority voting interest of about 35.5% in the merged Paramount Skydance, and personally guaranteed $40.4 billion of equity for its bid for Warner Bros. Discovery, owner of CNN. His foundation has donated or pledged at least £257m to the Tony Blair Institute, amount paid not stated; no illegality is alleged."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Oracle agreed in 2024 to pay $115 million to settle a class action alleging it collected and sold people's data without consent; it denies wrongdoing. Other labour and market-power concerns are not sourced here."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Oracle paid more than $23 million in 2022 to resolve SEC charges that subsidiaries bribed foreign officials, its second FCPA resolution. In 2005 Ellison agreed to give $100 million to charity in Oracle's name and pay $22 million in fees to settle a shareholder suit alleging insider trading; no admission was reported. Delaware courts ruled for him in 2023 and 2025 in a suit over Oracle's NetSuite purchase."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Investor class actions filed in early 2026 allege Oracle misled investors about its AI data-centre spending and borrowing; Ellison is named in the bondholder suit. These are allegations and no ruling on them was found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "The Larry Ellison Foundation disbursed about $76 million in 2024 and $55 million in 2023, per its IRS filings.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "larry-ellison-infoworld-2005-settlement",
+        "larry-ellison-delaware-netsuite",
+        "larry-ellison-sec-fcpa-2022",
+        "larry-ellison-katz-privacy-settlement",
+        "larry-ellison-bi-scott-super-pac",
+        "larry-ellison-wrap-paramount-voting",
+        "larry-ellison-ap-wbd-guarantee",
+        "larry-ellison-dfs-tbi",
+        "larry-ellison-propublica-foundation",
+        "larry-ellison-reuters-bondholders",
+        "larry-ellison-investmentnews-barrows"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-02-05",
+          "nature": "Investor class actions (Oracle; Ellison named in one)",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "Oracle",
+          "summary": "In January and February 2026 investors filed two proposed class actions over Oracle's AI data-centre spending: a bondholder suit in New York state court naming Ellison among the defendants, alleging offering documents hid planned borrowing, and a securities suit in Delaware federal court. These are allegations; no liability has been found.",
+          "sources": [
+            "larry-ellison-reuters-bondholders",
+            "larry-ellison-investmentnews-barrows"
+          ]
+        },
+        {
+          "date": "2025-01-21",
+          "nature": "Derivative suit over the NetSuite purchase (personal)",
+          "outcome": "Ruled for the defendants 2023; affirmed 2025",
+          "level": "individual",
+          "entity": "Larry Ellison",
+          "summary": "Oracle shareholders alleged in a derivative suit that Ellison, a co-founder and large holder in both companies, forced Oracle to overpay for NetSuite in 2016. After trial the Court of Chancery ruled for the defendants in 2023, finding the special committee's negotiation untainted by his influence, and the Delaware Supreme Court affirmed in January 2025.",
+          "sources": [
+            "larry-ellison-delaware-netsuite"
+          ]
+        },
+        {
+          "date": "2024-09-11",
+          "nature": "Privacy class action (Oracle)",
+          "outcome": "Settled 2024: $115m, wrongdoing denied",
+          "level": "company",
+          "entity": "Oracle America",
+          "summary": "In 2024 Oracle agreed to pay $115 million to settle a federal class action (Katz-Lacabe v. Oracle America) alleging it captured, compiled and sold people's online and offline data without consent. Oracle denies the allegations and any wrongdoing, and agreed to stop capturing certain user data.",
+          "sources": [
+            "larry-ellison-katz-privacy-settlement"
+          ]
+        },
+        {
+          "date": "2022-09-27",
+          "nature": "SEC foreign-bribery charges (Oracle)",
+          "outcome": "Resolved 2022: over $23m, neither admitted nor denied",
+          "level": "company",
+          "entity": "Oracle",
+          "summary": "In September 2022 the SEC found that Oracle subsidiaries in Turkey, the UAE and India used off-book slush funds in 2016 to 2019 to bribe foreign officials, and Oracle paid over $23 million without admitting or denying the findings. It was Oracle's second FCPA resolution, after a 2012 case over Oracle India.",
+          "sources": [
+            "larry-ellison-sec-fcpa-2022"
+          ]
+        },
+        {
+          "date": "2005-11-22",
+          "nature": "Shareholder suit alleging insider trading (personal)",
+          "outcome": "Settled 2005: $100m to charity, $22m in fees, no admission",
+          "level": "individual",
+          "entity": "Larry Ellison",
+          "summary": "In November 2005, more than ten years ago, a San Mateo County court approved Ellison's settlement of a shareholder derivative suit alleging insider trading in his sale of about $900 million of Oracle stock in January 2001. He agreed to give $100 million to charity in Oracle's name and pay $22 million in legal fees; the report records no admission of wrongdoing.",
+          "sources": [
+            "larry-ellison-infoworld-2005-settlement"
+          ]
+        }
       ]
     },
     {
@@ -712,36 +1751,109 @@
       "history": "Co-founded Nvidia in 1993.",
       "scores": {
         "ecology": {
-          "value": 2,
-          "basis": "estimate",
-          "reason": "AI chips and data centres: fast-growing electricity demand."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Nvidia designs chips and outsources their manufacture, so its footprint is indirect. It reports matching all its electricity use with clean power, partly through certificates. Its reported Scope 3 emissions, mostly from suppliers, rose by about half in a year to 10.7 million tonnes, partly under a revised method. The electricity demand of the AI data centres its chips power is not settled by these figures."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Nvidia gave $25 million to the White House ballroom fund, tied for the largest gift on an internal donor list obtained by the Washington Post, and Huang said in 2025 that he had donated, without a disclosed amount. In 2025 Nvidia and AMD were reported to have agreed to pay the US government 15% of certain China chip revenue for export licences; the President said Huang negotiated the rate down. No finding of an improper favour has been made."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Nvidia's market power is under regulatory scrutiny. China's regulator issued a preliminary finding in 2025 that Nvidia breached its anti-monopoly law and the conditions of the Mellanox approval, and Reuters reports that the US Justice Department is examining its deals and sales practices. Neither has reached a final decision. Labour and supply-chain conditions were not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "In 2022 Nvidia paid a $5.5 million SEC penalty over undisclosed cryptomining revenue, without admitting or denying the findings. No individual was charged. No court finding against the company or Huang was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Huang is a named defendant in a certified shareholder class action alleging that he and Nvidia misled investors about crypto-mining revenue in 2017-2018, and in related derivative suits; these are allegations not yet tried. At company level, China's antitrust investigation is open and a US Justice Department inquiry is reported."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "The Jen-Hsun & Lori Huang Foundation gave $50 million to Oregon State University in 2022, but in 2023 most of its payouts went to a donor-advised fund, which need not disclose its grants. Nvidia reports matching all its electricity use with clean power in fiscal 2025 and 2026.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "jensen-huang-sec-2022",
+        "jensen-huang-lii-ohman",
+        "jensen-huang-scotusblog-ohman",
+        "jensen-huang-theblock-classcert",
+        "jensen-huang-nvda-10q-2026",
+        "jensen-huang-register-samr",
+        "jensen-huang-reuters-doj",
+        "jensen-huang-pbs-h20",
+        "jensen-huang-reuters-ballroom",
+        "jensen-huang-tnw-ballroom",
+        "jensen-huang-nvda-sr-fy26",
+        "jensen-huang-cnbc-foundation",
+        "jensen-huang-toms-estate"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10",
+          "nature": "US Justice Department inquiry (Nvidia), reported",
+          "outcome": "Reported only; no enforcement action",
+          "level": "company",
+          "entity": "Nvidia",
+          "summary": "Reuters reported in October 2026, citing two people familiar with the matter, that the Justice Department is questioning Nvidia's planned $12.9 billion Hugging Face purchase within a wider review, begun under Biden, of its deals and sales practices, including whether it offered bigger chip allocations to buyers of its other products. No enforcement action has been reported.",
+          "sources": [
+            "jensen-huang-reuters-doj"
+          ]
+        },
+        {
+          "date": "2026-07-26",
+          "nature": "Derivative suits (three captioned against Huang)",
+          "outcome": "Pending, stayed",
+          "level": "individual",
+          "entity": "Jensen Huang",
+          "summary": "Nvidia's mid-2026 quarterly filing lists derivative suits over the same alleged misstatements, three of them captioned against Huang, filed in 2019 in federal court in Delaware and in 2023 in the Delaware Court of Chancery. They seek damages or disgorgement of stock-sale profits and governance reforms, and are stayed until the securities class action is resolved.",
+          "sources": [
+            "jensen-huang-nvda-10q-2026"
+          ]
+        },
+        {
+          "date": "2026-03-25",
+          "nature": "Securities class action (Nvidia and Huang)",
+          "outcome": "Pending; class certified March 2026",
+          "level": "individual",
+          "entity": "Jensen Huang and Nvidia",
+          "summary": "A shareholder class action alleges that Nvidia and Huang misled investors in 2017-2018 about how much revenue came from crypto mining. Revived by the Ninth Circuit in 2023, it survived a Supreme Court appeal dismissed in December 2024 and a class was certified in March 2026; these are allegations and liability has not been decided.",
+          "sources": [
+            "jensen-huang-lii-ohman",
+            "jensen-huang-scotusblog-ohman",
+            "jensen-huang-theblock-classcert",
+            "jensen-huang-nvda-10q-2026"
+          ]
+        },
+        {
+          "date": "2025-09-15",
+          "nature": "Chinese anti-monopoly investigation (Nvidia)",
+          "outcome": "Preliminary violation finding 2025; investigation continues",
+          "level": "company",
+          "entity": "Nvidia",
+          "summary": "In September 2025 China's market regulator SAMR said a preliminary investigation found Nvidia had violated the Anti-Monopoly Law and the conditions of its 2020 approval of the Mellanox takeover, without specifying the conduct. It moved to a further investigation before any penalty; no final decision was found.",
+          "sources": [
+            "jensen-huang-register-samr"
+          ]
+        },
+        {
+          "date": "2022-05-06",
+          "nature": "SEC disclosure charges (Nvidia)",
+          "outcome": "Settled 2022: $5.5m, neither admitted nor denied",
+          "level": "company",
+          "entity": "Nvidia",
+          "summary": "In May 2022 the SEC found that Nvidia's quarterly filings for fiscal 2018 reported gaming revenue growth without disclosing that cryptomining drove a significant part of it. Nvidia paid a $5.5 million penalty without admitting or denying the findings; no individual was charged.",
+          "sources": [
+            "jensen-huang-sec-2022"
+          ]
+        }
       ]
     },
     {
@@ -758,8 +1870,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Berkshire owns large utility, railway and energy businesses; portfolio emissions research covers billionaires like him."
+          "basis": "documented",
+          "reason": "Berkshire’s utilities own about 6,900 MW of coal capacity and BNSF had about $3 billion in coal freight revenue in 2025. US Forest Service reports found power lines of PacifiCorp, a Berkshire Hathaway Energy subsidiary, caused or probably caused two 2020 wildfires; PacifiCorp agreed to pay $575 million to settle federal claims over six fires and denies liability. Berkshire reports a 30% cut in its energy unit’s emissions since 2005."
         },
         "politics": {
           "value": 1,
@@ -767,27 +1879,94 @@
           "reason": "Not checked individually. Default for a large company."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level problems are documented at Berkshire subsidiaries: a 2023 federal jury found HomeServices of America took part in a conspiracy that had the purpose or effect of inflating home sellers’ commissions, and a federal judge found BNSF knowingly ran oil trains across Swinomish land beyond its easement. Both later settled. No finding against him personally."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company outcomes at Berkshire and its subsidiaries; no personal record found. Court findings against BNSF (trespass, nearly $400 million, settled 2025) and HomeServices (commission conspiracy, $1.8 billion jointly, settled for $250 million). PacifiCorp agreed to pay $575 million to the US over wildfires, denying liability. OFAC fined Berkshire $4.1 million in 2020 over a subsidiary’s Iran sales."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending at company level: the Oregon Supreme Court heard argument in November 2026 on a 2023 jury verdict against PacifiCorp, a Berkshire Hathaway Energy subsidiary, over four 2020 wildfires. The Court of Appeals reversed the verdict earlier in 2026, and about 2,000 further claims may depend on the outcome. Nothing personal found."
         }
       },
-      "checked": false,
-      "counterweights": "Gives most of his fortune away, in large part through annual gifts to the Gates Foundation.",
+      "checked": true,
+      "counterweights": "Has given five foundations, including the Gates Foundation, Berkshire shares worth roughly $60 billion when given since 2006, per AP; his 2026 gift went to four family foundations only. Berkshire reports a 30% emissions cut at its energy unit since 2005.",
       "status_note": "",
       "sources": [
         "forbes",
-        "bua-2026"
+        "warren-buffett-brk-ar-2025",
+        "warren-buffett-doj-pacificorp-2026",
+        "warren-buffett-opb-james-2026",
+        "warren-buffett-spokesman-bnsf-2025",
+        "warren-buffett-ofac-2020",
+        "warren-buffett-ap-gift-2025",
+        "warren-buffett-brk-gift-2026",
+        "warren-buffett-propublica-irs-2021"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-11-03",
+          "nature": "Wildfire class action (PacifiCorp)",
+          "outcome": "Jury verdict 2023, reversed on appeal 2026; before the Oregon Supreme Court",
+          "level": "company",
+          "entity": "PacifiCorp (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+          "summary": "In 2023 an Oregon jury found PacifiCorp, a Berkshire Hathaway Energy subsidiary, grossly negligent, reckless and willful over four 2020 fires; awards so far exceed $1 billion to about 200 survivors. The Court of Appeals reversed the verdict earlier in 2026, and the Oregon Supreme Court heard argument on 3 November 2026; about 2,000 further claims may depend on it.",
+          "sources": [
+            "warren-buffett-opb-james-2026",
+            "warren-buffett-brk-ar-2025"
+          ]
+        },
+        {
+          "date": "2026-02-20",
+          "nature": "US claims over fires started by power lines (PacifiCorp)",
+          "outcome": "Settled 2026: $575m, liability denied",
+          "level": "company",
+          "entity": "PacifiCorp (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+          "summary": "US Forest Service reports found that power lines of PacifiCorp, a Berkshire Hathaway Energy subsidiary, caused the 2020 Slater fire and were the probable cause of the Archie Creek fire. In February 2026 PacifiCorp agreed to pay $575 million to settle US claims that its lines negligently started six 2020 and 2022 fires on public land; it denies liability.",
+          "sources": [
+            "warren-buffett-doj-pacificorp-2026",
+            "warren-buffett-brk-ar-2025"
+          ]
+        },
+        {
+          "date": "2025-11-04",
+          "nature": "Trespass suit by the Swinomish tribe (BNSF)",
+          "outcome": "Judge found trespass 2023; settled 2025 on confidential terms",
+          "level": "company",
+          "entity": "BNSF Railway (Berkshire Hathaway’s railroad subsidiary)",
+          "summary": "A federal judge found in 2023 that BNSF, Berkshire Hathaway’s railroad, knowingly ran crude oil trains across the Swinomish reservation beyond its 1991 easement, and in 2024 ordered it to pay nearly $400 million in profits. BNSF appealed, then settled on confidential terms in November 2025; Berkshire’s annual report says BNSF apologised.",
+          "sources": [
+            "warren-buffett-spokesman-bnsf-2025",
+            "warren-buffett-brk-ar-2025"
+          ]
+        },
+        {
+          "date": "2024-04-25",
+          "nature": "Commission conspiracy suit (HomeServices)",
+          "outcome": "Jury found liability 2023; settled 2024 for $250m",
+          "level": "company",
+          "entity": "HomeServices of America (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+          "summary": "In October 2023 a Missouri federal jury found HomeServices of America, a Berkshire Hathaway Energy subsidiary, and co-defendants took part in a conspiracy that had the purpose or effect of inflating home sellers’ commissions, with $1.8 billion in damages jointly. HomeServices settled in April 2024 for $250 million over four years.",
+          "sources": [
+            "warren-buffett-brk-ar-2025"
+          ]
+        },
+        {
+          "date": "2020-10-20",
+          "nature": "Iran sanctions violations (Iscar Turkey)",
+          "outcome": "Settled 2020: $4.1m to OFAC",
+          "level": "company",
+          "entity": "Berkshire Hathaway Inc.",
+          "summary": "In October 2020 Berkshire agreed to pay OFAC $4.1 million over 144 apparent Iran sanctions violations by its Turkish subsidiary Iscar Turkey between 2012 and 2016. OFAC called the case egregious and found local managers hid the sales from Berkshire, which self-disclosed them.",
+          "sources": [
+            "warren-buffett-ofac-2020"
+          ]
+        }
       ]
     },
     {
@@ -804,8 +1983,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Fast fashion at global scale: textile volume, water, chemicals and waste."
+          "basis": "documented",
+          "reason": "Fast fashion at global scale. Inditex's own figures put 2024 supply-chain (scope 3) emissions at about 13.4 million tonnes CO2e, no lower than in 2018, against a target of halving them by 2030. Earthsight has linked Zara's cotton to deforestation in Brazil; this is an allegation, and an audit for the certifier found no breach on the farms it checked."
         },
         "politics": {
           "value": 1,
@@ -813,26 +1992,74 @@
           "reason": "Not checked individually. Default for a large company."
         },
         "social": {
-          "value": 2,
-          "basis": "estimate",
-          "reason": "Garment supply chains carry documented sector-wide labour risks; not checked for this company."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Brazilian labour inspectors found workers in conditions analogous to slavery in workshops making Zara clothes in 2011, and courts upheld the sanctions against Zara Brasil, with the case closed in 2017. A French complaint over Uyghur forced labour remains an allegation with no investigation open. Inditex has a global framework agreement with IndustriALL."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level court finding: Brazilian courts upheld fines against Zara Brasil over slave-like labour in its supply chain, found by inspectors in 2011; the case closed in 2017. No personal legal record for Amancio Ortega was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Poland’s consumer regulator charged Zara with suspected greenwashing in January 2026; no decision yet. In France, courts declined jurisdiction over a forced-labour complaint against Inditex, upheld on appeal in 2025, and a new filing was announced. Nothing personal is pending."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "The Fundación Amancio Ortega reports €310 million invested in 450 cancer diagnosis and radiotherapy machines for Spain's public hospitals (2015 to 2025). Inditex has held a global framework agreement with the IndustriALL union federation since 2007.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "amancio-ortega-agenciabrasil-2014",
+        "amancio-ortega-somo-brazil",
+        "amancio-ortega-earthsight-2024",
+        "amancio-ortega-bettercotton-audit-2024",
+        "amancio-ortega-reuters-emissions-2025",
+        "amancio-ortega-uokik-2026",
+        "amancio-ortega-bhrrc-uyghur-2023",
+        "amancio-ortega-fashionunited-uyghur-2025",
+        "amancio-ortega-greens-efa-tax-2016",
+        "amancio-ortega-industriall-gfa-2019",
+        "amancio-ortega-faortega-oncology"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-01",
+          "nature": "Greenwashing charges by Poland's consumer regulator (Zara)",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "Zara (Inditex)",
+          "summary": "In January 2026 Poland's consumer regulator UOKiK charged Zara over suspected greenwashing in its Join Life communications, such as zero-waste and net-zero claims without stated scope. No decision has been issued; fines could reach 10% of turnover per practice if confirmed.",
+          "sources": [
+            "amancio-ortega-uokik-2026"
+          ]
+        },
+        {
+          "date": "2025-02",
+          "nature": "Criminal complaints over forced Uyghur labour (Inditex), France",
+          "outcome": "Probe dropped for lack of jurisdiction; refusal to investigate upheld 2025; new complaint announced",
+          "level": "company",
+          "entity": "Inditex",
+          "summary": "NGOs alleged in French complaints from 2021 that Inditex and three other groups sold goods made partly with forced Uyghur labour, which Inditex calls unfounded. Prosecutors dropped a 2021 probe for lack of jurisdiction in 2023, and in February 2025 the Paris appeal court upheld a refusal to open a judicial investigation; a new complaint was announced.",
+          "sources": [
+            "amancio-ortega-bhrrc-uyghur-2023",
+            "amancio-ortega-fashionunited-uyghur-2025"
+          ]
+        },
+        {
+          "date": "2017-11",
+          "nature": "Labour fines for slave-like conditions (Zara Brasil)",
+          "outcome": "Upheld in court; closed 2017",
+          "level": "company",
+          "entity": "Zara Brasil (Inditex)",
+          "summary": "In 2011 Brazilian inspectors found 15 migrant workers in conditions classed as analogous to slavery in São Paulo workshops making Zara garments, and fined Zara Brasil. Its court challenge failed in 2014 and on appeal, and the case closed in November 2017; the facts are now over ten years old.",
+          "sources": [
+            "amancio-ortega-agenciabrasil-2014",
+            "amancio-ortega-somo-brazil"
+          ]
+        }
       ]
     },
     {
@@ -1093,25 +2320,97 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Telecom markets with high concentration; not checked for this company."
+          "basis": "documented",
+          "reason": "Company-level market power is documented: the IFT designated the América Móvil group Mexico's preponderant telecom operator in 2014, upheld by the Supreme Court in 2021, and fined Telcel for exclusivity practices in 2024 and 2025. A 2018 federal tribunal ruling held Telcel liable for 2006-2012 interconnection charges; América Móvil appealed. A Line 12 metro section built with Grupo Carso collapsed in 2021, killing 26; Carso denies responsibility."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level record: a 2018 federal tribunal ruling holding Telcel liable for monopolistic interconnection charges, appealed by América Móvil; a 2011 competition fine of 11,989 million pesos later revoked for commitments; IFT fines in 2024 and 2025; and a 2021 agreement by Grupo Carso to rebuild the collapsed Line 12 section. No personal legal action against Carlos Slim was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Telcel said in 2025 it would contest the IFT's 1,782.6 million peso fine, and América Móvil appealed the 2018 damages ruling, whose amount had not been set in the sources found. The current status of both was not confirmed. No pending personal matter was found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Fundación Carlos Slim reported in 2019 that it had spent about 946 million pesos rebuilding schools, homes and other sites after the 2017 earthquakes, from a programme of about 2,474 million pesos that includes matched public donations (foundation's own figures).",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "carlos-slim-helu-and-family-reuters-preponderance-2021",
+        "carlos-slim-helu-and-family-expansion-cfc-fine-2011",
+        "carlos-slim-helu-and-family-xataka-damages-2018",
+        "carlos-slim-helu-and-family-elfinanciero-appeal-2018",
+        "carlos-slim-helu-and-family-expansion-ift-fine-2025",
+        "carlos-slim-helu-and-family-xataka-oxxo-2025",
+        "carlos-slim-helu-and-family-dplnews-west-fine-2025",
+        "carlos-slim-helu-and-family-aljazeera-line12-2021",
+        "carlos-slim-helu-and-family-reuters-carso-line12-2021",
+        "carlos-slim-helu-and-family-larazon-foundation-2019"
+      ],
+      "legal_record": [
+        {
+          "date": "2025-06-17",
+          "nature": "Competition fines over exclusivity (Telcel)",
+          "outcome": "Imposed 2024 and 2025; the 2025 fine is contested",
+          "level": "company",
+          "entity": "Telcel (Radiomóvil Dipsa, América Móvil)",
+          "summary": "The IFT fined Telcel 90.6 million pesos in September 2024 for exclusivity deals with distributors in three western states, and 1,782.6 million pesos in June 2025 for incentives that kept Oxxo stores from selling rivals' SIM cards. Telcel called the 2025 fine arbitrary and said it would use every legal remedy.",
+          "sources": [
+            "carlos-slim-helu-and-family-dplnews-west-fine-2025",
+            "carlos-slim-helu-and-family-expansion-ift-fine-2025",
+            "carlos-slim-helu-and-family-xataka-oxxo-2025"
+          ]
+        },
+        {
+          "date": "2021-10-20",
+          "nature": "Metro Line 12 collapse (Grupo Carso consortium)",
+          "outcome": "Responsibility denied; rebuilt at no cost under a 2021 agreement",
+          "level": "company",
+          "entity": "Grupo Carso (CICSA)",
+          "summary": "In May 2021 a Mexico City Metro Line 12 overpass, in a section built by a consortium including Grupo Carso, collapsed and killed 26; a DNV report released by the city cited missing bolts and poor welding. Carso denied responsibility but agreed in October 2021 to rebuild the section at no cost to the government and offered to join a victims' fund.",
+          "sources": [
+            "carlos-slim-helu-and-family-aljazeera-line12-2021",
+            "carlos-slim-helu-and-family-reuters-carso-line12-2021"
+          ]
+        },
+        {
+          "date": "2021-03-03",
+          "nature": "Designation as dominant ('preponderant') operator (América Móvil)",
+          "outcome": "Upheld by the Supreme Court 2021",
+          "level": "company",
+          "entity": "América Móvil (Telcel and other subsidiaries)",
+          "summary": "Mexico's telecoms regulator IFT designated the América Móvil economic interest group a 'preponderant agent' in 2014, allowing stricter asymmetric regulation. In March 2021 Mexico's Supreme Court upheld the designation and its measures as constitutional.",
+          "sources": [
+            "carlos-slim-helu-and-family-reuters-preponderance-2021"
+          ]
+        },
+        {
+          "date": "2018-10-18",
+          "nature": "Damages suit by rivals over interconnection (Telcel)",
+          "outcome": "Liability ruling 2018; under appeal",
+          "level": "company",
+          "entity": "Telcel (América Móvil)",
+          "summary": "In September 2018 a federal unitary civil tribunal ruled, in a 2014 suit led by Total Play, that Telcel must compensate rivals for interconnection charges from June 2006 to April 2012, leaving the amount to a district court. América Móvil appealed in October 2018; the final outcome and amount are not established in these sources.",
+          "sources": [
+            "carlos-slim-helu-and-family-xataka-damages-2018",
+            "carlos-slim-helu-and-family-elfinanciero-appeal-2018"
+          ]
+        },
+        {
+          "date": "2011-04-15",
+          "nature": "Competition fine over call termination (Telcel)",
+          "outcome": "Revoked after commitments",
+          "level": "company",
+          "entity": "Telcel (América Móvil)",
+          "summary": "In April 2011 Mexico's competition authority fined América Móvil's Telcel 11,989 million pesos over monopolistic practices in mobile call termination; Telcel then held just over 70% of the mobile market. The fine was later revoked after Telcel accepted commitments, including lower interconnection rates.",
+          "sources": [
+            "carlos-slim-helu-and-family-expansion-cfc-fine-2011",
+            "carlos-slim-helu-and-family-xataka-damages-2018"
+          ]
+        }
       ]
     },
     {
@@ -1270,8 +2569,8 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Healthcare and pharmaceuticals: moderate direct footprint."
+          "basis": "documented",
+          "reason": "Cosmetics and consumer goods: indirect footprint. L’Oréal reports Scope 1 and 2 emissions 58% below 2019 in 2025, but its targeted Scope 3 emissions were 5% above 2019 and total Scope 1 to 3 emissions 1% above. These are company disclosures. No major environmental incident was found."
         },
         "politics": {
           "value": 1,
@@ -1279,26 +2578,70 @@
           "reason": "Not checked individually. Default for a large company."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "L'Oréal was found by the French competition authority, upheld in court, to have joined a 2003-2006 cartel on hygiene products sold to supermarkets. US hair relaxer suits allege undisclosed cancer risks; these are allegations, contested by the company, with no ruling on the merits."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Françoise Bettencourt Meyers was placed under formal investigation for witness tampering in 2016, which she contested; in 2019 an investigating judge dismissed the case (non-lieu) and she was never tried. At company level, a Paris court upheld a €189.5 million cartel fine on L’Oréal in 2020."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "L’Oréal faces a 2026 consumer fraud suit by Arizona alleging that its hair relaxers carry undisclosed cancer risks, and Reuters reports more than 12,000 similar US suits consolidated in federal court in Chicago. The company denies the claims. No ruling on the merits yet."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "The family foundation reports €85.1 million of philanthropy in 2024, including €16.3 million towards Notre-Dame's restoration. L'Oréal reports Scope 1 and 2 emissions 58% below 2019 (company disclosure).",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "francoise-bettencourt-meyers-and-family-ca-paris-2020",
+        "francoise-bettencourt-meyers-and-family-franceinfo-2016",
+        "francoise-bettencourt-meyers-and-family-jdd-2019",
+        "francoise-bettencourt-meyers-and-family-az-complaint-2026",
+        "francoise-bettencourt-meyers-and-family-reuters-relaxer-2026",
+        "francoise-bettencourt-meyers-and-family-loreal-urd-2025",
+        "francoise-bettencourt-meyers-and-family-fbs-report-2024"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-09",
+          "nature": "Consumer fraud suit over hair relaxers (L'Oréal)",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "L'Oréal S.A. and L'Oréal USA",
+          "summary": "In September 2026 Arizona's Attorney General sued L'Oréal S.A. and US subsidiaries under the state Consumer Fraud Act, alleging they sold hair relaxers without disclosing uterine and ovarian cancer risks. These are allegations; L'Oréal says the claims lack merit, and Reuters reports more than 12,000 similar suits pending in a federal MDL in Chicago.",
+          "sources": [
+            "francoise-bettencourt-meyers-and-family-az-complaint-2026",
+            "francoise-bettencourt-meyers-and-family-reuters-relaxer-2026"
+          ]
+        },
+        {
+          "date": "2020-06-18",
+          "nature": "Cartel fine (L'Oréal)",
+          "outcome": "Upheld by the Paris Court of Appeal 2020",
+          "level": "company",
+          "entity": "L'Oréal S.A.",
+          "summary": "France's competition authority found in 2014 that L'Oréal and its subsidiary Lascad took part in a 2003-2006 cartel on hygiene and personal care products sold to supermarkets, exchanging sensitive commercial information. On remand in June 2020, the Paris Court of Appeal upheld the €189.494 million fine on L'Oréal, reducing only Lascad's share.",
+          "sources": [
+            "francoise-bettencourt-meyers-and-family-ca-paris-2020"
+          ]
+        },
+        {
+          "date": "2016-07-07",
+          "nature": "Criminal investigation for witness tampering (personal; mise en examen)",
+          "outcome": "Dismissed (non-lieu) 2019",
+          "level": "individual",
+          "entity": "Françoise Bettencourt Meyers",
+          "summary": "In July 2016 investigating judge Roger Le Loire placed Françoise Bettencourt Meyers under formal investigation (mise en examen, not a conviction) for suspected witness tampering over a €300,000 loan to her mother’s former accountant, on a complaint by François-Marie Banier; she contested the facts. In 2019 judge Dominique Blanc dismissed the case (non-lieu) for her and six others.",
+          "sources": [
+            "francoise-bettencourt-meyers-and-family-franceinfo-2016",
+            "francoise-bettencourt-meyers-and-family-jdd-2019"
+          ]
+        }
       ]
     },
     {
@@ -1315,13 +2658,13 @@
       "scores": {
         "ecology": {
           "value": 4,
-          "basis": "estimate",
-          "reason": "Reliance’s core businesses include oil refining and petrochemicals."
+          "basis": "documented",
+          "reason": "Oil refining and petrochemicals are Reliance's core business. Its own reports put scope 1 and 2 emissions of these businesses at about 45.5 million tonnes CO2e a year, roughly flat since 2022-23, with renewables about 1% of their energy use. It targets net carbon zero by 2035; no scope 3 figure is published on those pages."
         },
         "politics": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Owns major Indian media and telecom assets; not checked."
+          "basis": "documented",
+          "reason": "The press-freedom NGO Reporters Without Borders says Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians. Qwik Supply Chain, a firm press reports link to Reliance, was India's third-largest electoral bond buyer (₹410 crore, mostly to the BJP); the link is disputed, and Reliance says Qwik is not a subsidiary of any Reliance entity. No personal donation is documented."
         },
         "social": {
           "value": 1,
@@ -1329,21 +2672,87 @@
           "reason": "No specific concern checked yet."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "No personal penalty stands. SEBI's two penalties naming Mukesh Ambani (₹15 crore over 2007 Reliance Petroleum trades, and a joint ₹25 crore with other promoters over a 2000 takeover) were set aside on appeal, and the Supreme Court dismissed SEBI's appeals in 2024. At company level, the Supreme Court in 2026 set aside SEBI's fraud finding and ₹447 crore disgorgement against Reliance but upheld a breach of position-limit disclosure rules."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "The government's claim of about US$1.55 billion against the Reliance-led KG-D6 consortium over gas migration from ONGC blocks is pending before the Supreme Court, which referred it to mediation in October 2026. Nothing personal is pending."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, on rural development, education, healthcare and other programmes.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "mukesh-ambani-scconline-rpl-2021",
+        "mukesh-ambani-etvbharat-sc-2024",
+        "mukesh-ambani-businesstoday-sc-2024",
+        "mukesh-ambani-livelaw-rpl-2026",
+        "mukesh-ambani-theweek-takeover-2021",
+        "mukesh-ambani-businesstoday-sat-2023",
+        "mukesh-ambani-theprint-kgd6-2026",
+        "mukesh-ambani-dtnext-kgd6-mediator-2026",
+        "mukesh-ambani-theprint-qwik-2024",
+        "mukesh-ambani-outlook-qwik-2024",
+        "mukesh-ambani-rsf-india-2026",
+        "mukesh-ambani-ril-natural-capital-2026",
+        "mukesh-ambani-ril-natural-capital-2025",
+        "mukesh-ambani-ril-social-capital-2025"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10",
+          "nature": "Government gas claim, KG-D6 (Reliance consortium)",
+          "outcome": "Pending; in mediation since October 2026",
+          "level": "company",
+          "entity": "Reliance Industries (KG-D6 consortium with BP and Niko)",
+          "summary": "India's government claims about US$1.55 billion from the Reliance-led KG-D6 consortium over gas it says migrated from neighbouring ONGC blocks. An arbitral tribunal rejected the claim in 2018, the Delhi High Court reversed that in February 2025, and in October 2026 the Supreme Court sent the pending appeals to mediation.",
+          "sources": [
+            "mukesh-ambani-theprint-kgd6-2026",
+            "mukesh-ambani-dtnext-kgd6-mediator-2026"
+          ]
+        },
+        {
+          "date": "2026-05",
+          "nature": "SEBI fraud finding and disgorgement (Reliance)",
+          "outcome": "Fraud finding set aside 2026; disclosure breach upheld",
+          "level": "company",
+          "entity": "Reliance Industries",
+          "summary": "SEBI found Reliance Industries' November 2007 trades in Reliance Petroleum fraudulent, ordered ₹447.27 crore disgorged and in 2021 fined it ₹25 crore; the tribunal upheld the company penalty. In May 2026 the Supreme Court set aside the fraud finding and the disgorgement but upheld a breach of position-limit disclosure rules.",
+          "sources": [
+            "mukesh-ambani-scconline-rpl-2021",
+            "mukesh-ambani-businesstoday-sc-2024",
+            "mukesh-ambani-livelaw-rpl-2026"
+          ]
+        },
+        {
+          "date": "2024-11",
+          "nature": "SEBI penalty of ₹15 crore (personal)",
+          "outcome": "Set aside 2023; SEBI's appeal dismissed 2024",
+          "level": "individual",
+          "entity": "Mukesh Ambani",
+          "summary": "A ₹15 crore SEBI penalty on Mukesh Ambani no longer stands: the Securities Appellate Tribunal set it aside in December 2023 and the Supreme Court dismissed SEBI's appeal in November 2024. SEBI had imposed it in January 2021, holding him responsible as managing director for Reliance's November 2007 trades in Reliance Petroleum shares, which it called manipulative.",
+          "sources": [
+            "mukesh-ambani-scconline-rpl-2021",
+            "mukesh-ambani-etvbharat-sc-2024"
+          ]
+        },
+        {
+          "date": "2024-11",
+          "nature": "Joint SEBI penalty of ₹25 crore (personal, with others)",
+          "outcome": "Set aside 2023; SEBI's appeal dismissed 2024",
+          "level": "individual",
+          "entity": "Mukesh Ambani and other Reliance promoters",
+          "summary": "A joint ₹25 crore SEBI penalty on Mukesh Ambani, Anil Ambani, other family members and promoter entities no longer stands: the tribunal set it aside in July 2023 and the Supreme Court dismissed SEBI's appeal in November 2024. SEBI had imposed it in April 2021 for not making an open offer after a 2000 share acquisition, over 25 years ago.",
+          "sources": [
+            "mukesh-ambani-theweek-takeover-2021",
+            "mukesh-ambani-businesstoday-sat-2023",
+            "mukesh-ambani-businesstoday-sc-2024"
+          ]
+        }
       ]
     },
     {
@@ -1410,31 +2819,74 @@
           "reason": "Finance: the footprint depends on what the money funds; holdings not assessed."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Press reports based on federal campaign filings say Peterffy gave $2.8 million to the super PAC backing Dave McCormick's 2024 Pennsylvania Senate bid and $1.5 million in mid-2024 to a pro-Hogan super PAC in Maryland. NBC News reported two $1 million gifts to Virginia Governor Youngkin's PAC in 2023. His full 2024-cycle total was not established from a citable source. No documented political favour was found."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Social effects depend on how capital is allocated; not checked."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A customer class action over Interactive Brokers' automated liquidation of margin accounts was settled in 2026 for $5 million plus about $1.8 million in forgiven debts, without admission of liability. In regulatory settlements the company also paid penalties over unfiled suspicious activity reports on microcap trading and over apparent sanctions violations, including services to customers in sanctioned jurisdictions. Labour conditions were not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Interactive Brokers paid $38 million in 2020 to the SEC, FINRA and the CFTC over anti-money-laundering failures, and $11.8 million to OFAC in 2025 over 12,367 apparent sanctions violations. Both are company settlements of regulatory actions; no individual was charged and no action against Peterffy personally was found."
         },
         "unresolved": {
           "value": 0,
           "basis": "estimate",
-          "reason": "Not checked yet."
+          "reason": "The company's 2026 filings describe its long-running customer class action as settled and the OFAC matter as concluded. No specific pending case against the company or Peterffy was found; the filings mention only unspecified ordinary-course proceedings. Peterffy controls about 73.7% of the group's voting power through a holding company, which the company discloses."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "thomas-peterffy-sec-2020",
+        "thomas-peterffy-ofac-2025",
+        "thomas-peterffy-ibkr-10k-2025",
+        "thomas-peterffy-ibkr-10q-2026q3",
+        "thomas-peterffy-nbc-youngkin",
+        "thomas-peterffy-whyy-keystone",
+        "thomas-peterffy-banner-marylands-future"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-06-17",
+          "nature": "Customer class action over margin liquidations (Interactive Brokers)",
+          "outcome": "Settled 2026: $5m plus about $1.8m in forgiven debts, no admission",
+          "level": "company",
+          "entity": "Interactive Brokers",
+          "summary": "A 2015 customer class action alleged flaws in the automated system Interactive Brokers uses to liquidate margin-deficient accounts; a class was certified in 2023. A settlement approved in June 2026 paid the class $5 million and forgave about $1.8 million of customer debts, with no admission of liability.",
+          "sources": [
+            "thomas-peterffy-ibkr-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2025-07-15",
+          "nature": "Sanctions violations (Interactive Brokers)",
+          "outcome": "Settled 2025: $11.8m to OFAC",
+          "level": "company",
+          "entity": "Interactive Brokers LLC",
+          "summary": "In July 2025 Interactive Brokers paid OFAC $11.8 million over 12,367 apparent sanctions violations from 2016 to 2024, including services to customers located in Iran, Cuba, Syria and Crimea and transfers to blocked Russian banks. OFAC found them non-egregious and voluntarily self-disclosed; the company says the matter is concluded.",
+          "sources": [
+            "thomas-peterffy-ofac-2025",
+            "thomas-peterffy-ibkr-10k-2025"
+          ]
+        },
+        {
+          "date": "2020-08-10",
+          "nature": "Anti-money-laundering penalties (Interactive Brokers)",
+          "outcome": "Settled 2020: $38m, neither admitted nor denied",
+          "level": "company",
+          "entity": "Interactive Brokers LLC",
+          "summary": "In August 2020 Interactive Brokers paid $38 million in penalties to the SEC, FINRA and the CFTC over anti-money-laundering failures, including not filing more than 150 suspicious activity reports on potentially manipulative microcap trades. It settled without admitting or denying the SEC's findings; no individual was charged.",
+          "sources": [
+            "thomas-peterffy-sec-2020"
+          ]
+        }
       ]
     },
     {
@@ -1451,13 +2903,13 @@
       "scores": {
         "ecology": {
           "value": 4,
-          "basis": "estimate",
-          "reason": "Oil and gas extraction or processing is the core business."
+          "basis": "documented",
+          "reason": "Koch Industries runs oil refineries, pipelines and chemical plants through units such as Flint Hills Resources. It paid a then-record $30 million civil penalty in 2000 over more than 300 oil spills, a unit pleaded guilty in 2001 to concealing benzene violations at a Texas refinery, and a 2014 EPA settlement covered flare emissions. The group’s current emissions are not quantified here."
         },
         "politics": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "The Koch network is among the most influential political funding networks in the US; amounts not checked here."
+          "basis": "documented",
+          "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC, which by early August 2024 had spent about $62 million supporting Republican candidates and none supporting Democrats (OpenSecrets). No personal political spending by Julia Koch was checked here."
         },
         "social": {
           "value": 1,
@@ -1465,9 +2917,9 @@
           "reason": "No specific concern checked yet."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A Koch Industries unit pleaded guilty in 2001 to concealing Clean Air Act violations at its Corpus Christi refinery, and Koch Industries paid a then-record $30 million environmental civil penalty in 2000. Both are more than 25 years old; the later EPA settlement found here is small. No personal legal record was found."
         },
         "unresolved": {
           "value": 1,
@@ -1475,12 +2927,54 @@
           "reason": "Koch Industries is privately held and discloses little."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
         "forbes",
-        "oxfam-power"
+        "koch-epa-oil-spills",
+        "koch-doj-refinery-plea",
+        "koch-epa-refinery-plea",
+        "koch-epa-port-arthur",
+        "koch-opensecrets-afp-action",
+        "koch-chronicle-nyu-langone",
+        "koch-propublica-jkff"
+      ],
+      "legal_record": [
+        {
+          "date": "2014-03-20",
+          "nature": "Excess emissions claims (Flint Hills Resources)",
+          "outcome": "Settled 2014: $350,000 penalty",
+          "level": "company",
+          "entity": "Flint Hills Resources (Koch Industries)",
+          "summary": "In March 2014 Flint Hills Resources, a Koch Industries company, settled US claims of excess benzene and other hazardous emissions from flares at its Port Arthur, Texas chemical plant, with a $350,000 civil penalty and controls EPA expected to cut about 1,900 tons of pollutants a year.",
+          "sources": [
+            "koch-epa-port-arthur"
+          ]
+        },
+        {
+          "date": "2001-04-09",
+          "nature": "Clean Air Act benzene violations (Koch Petroleum Group)",
+          "outcome": "Guilty plea 2001: $10m criminal fines",
+          "level": "company",
+          "entity": "Koch Petroleum Group (Koch Industries)",
+          "summary": "In April 2001 Koch Petroleum Group, with Koch Industries, pleaded guilty to concealing Clean Air Act benzene violations at its Corpus Christi refinery in 1995, and agreed to $10 million in criminal fines, $10 million for local environmental projects and five years of probation.",
+          "sources": [
+            "koch-doj-refinery-plea",
+            "koch-epa-refinery-plea"
+          ]
+        },
+        {
+          "date": "2000-01-13",
+          "nature": "EPA oil-spill penalty (Koch Industries)",
+          "outcome": "Settled 2000: $30m",
+          "level": "company",
+          "entity": "Koch Industries",
+          "summary": "In January 2000 Koch Industries agreed to a $30 million civil penalty, which EPA called the largest then imposed on a company under any federal environmental law, over more than 300 oil spills from its pipelines and facilities in six states. The settlement is more than 25 years old.",
+          "sources": [
+            "koch-epa-oil-spills"
+          ]
+        }
       ]
     },
     {
@@ -1497,13 +2991,13 @@
       "scores": {
         "ecology": {
           "value": 4,
-          "basis": "estimate",
-          "reason": "Oil and gas extraction or processing is the core business."
+          "basis": "documented",
+          "reason": "Koch Industries runs oil refineries, pipelines and chemical plants through units such as Flint Hills Resources. It paid a then-record $30 million civil penalty in 2000 over more than 300 oil spills, a unit pleaded guilty in 2001 to concealing benzene violations at a Texas refinery, and a 2014 EPA settlement covered flare emissions. The group’s current emissions are not quantified here."
         },
         "politics": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "The Koch network is among the most influential political funding networks in the US; amounts not checked here."
+          "basis": "documented",
+          "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC (OpenSecrets). Charles Koch told Forbes in 2023 that he moved $5.3 billion in stock to two nonprofits, including $4.3 billion to the 501(c)(4) Believe in People, which may engage in politics; how it spends the money is not public. Older Charles Koch Foundation agreements let it appoint members of a committee recommending Mercatus Center professors at George Mason."
         },
         "social": {
           "value": 1,
@@ -1511,22 +3005,67 @@
           "reason": "No specific concern checked yet."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A Koch Industries unit pleaded guilty in 2001 to concealing Clean Air Act violations at its Corpus Christi refinery, and Koch Industries paid a then-record $30 million environmental civil penalty in 2000. Both are more than 25 years old; the later EPA settlement found here is small. No personal legal record was found."
         },
         "unresolved": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Koch Industries is privately held and discloses little."
+          "basis": "documented",
+          "reason": "Believe in People, which Charles Koch says received $4.3 billion in Koch Industries stock, had no public filings as of October 2023, so how the gift is used is not known. Popular Information argues the structure avoided gift and capital gains taxes; that is press analysis, not an official finding."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "The Charles Koch Foundation reported about $423 million in charitable disbursements from 2020 to 2024 (IRS filings).",
       "status_note": "",
       "sources": [
         "forbes",
-        "oxfam-power"
+        "koch-epa-oil-spills",
+        "koch-doj-refinery-plea",
+        "koch-epa-refinery-plea",
+        "koch-epa-port-arthur",
+        "koch-opensecrets-afp-action",
+        "koch-standtogether-forbes-gift",
+        "koch-sludge-c4-gift",
+        "koch-popinfo-tax",
+        "koch-ap-gmu-agreements",
+        "koch-propublica-ckf"
+      ],
+      "legal_record": [
+        {
+          "date": "2014-03-20",
+          "nature": "Excess emissions claims (Flint Hills Resources)",
+          "outcome": "Settled 2014: $350,000 penalty",
+          "level": "company",
+          "entity": "Flint Hills Resources (Koch Industries)",
+          "summary": "In March 2014 Flint Hills Resources, a Koch Industries company, settled US claims of excess benzene and other hazardous emissions from flares at its Port Arthur, Texas chemical plant, with a $350,000 civil penalty and controls EPA expected to cut about 1,900 tons of pollutants a year.",
+          "sources": [
+            "koch-epa-port-arthur"
+          ]
+        },
+        {
+          "date": "2001-04-09",
+          "nature": "Clean Air Act benzene violations (Koch Petroleum Group)",
+          "outcome": "Guilty plea 2001: $10m criminal fines",
+          "level": "company",
+          "entity": "Koch Petroleum Group (Koch Industries)",
+          "summary": "In April 2001 Koch Petroleum Group, with Koch Industries, pleaded guilty to concealing Clean Air Act benzene violations at its Corpus Christi refinery in 1995, and agreed to $10 million in criminal fines, $10 million for local environmental projects and five years of probation.",
+          "sources": [
+            "koch-doj-refinery-plea",
+            "koch-epa-refinery-plea"
+          ]
+        },
+        {
+          "date": "2000-01-13",
+          "nature": "EPA oil-spill penalty (Koch Industries)",
+          "outcome": "Settled 2000: $30m",
+          "level": "company",
+          "entity": "Koch Industries",
+          "summary": "In January 2000 Koch Industries agreed to a $30 million civil penalty, which EPA called the largest then imposed on a company under any federal environmental law, over more than 300 oil spills from its pipelines and facilities in six states. The settlement is more than 25 years old.",
+          "sources": [
+            "koch-epa-oil-spills"
+          ]
+        }
       ]
     },
     {
@@ -1548,30 +3087,99 @@
         },
         "politics": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "TikTok’s ownership is the subject of national-security disputes in several countries."
+          "basis": "documented",
+          "reason": "The US Supreme Court upheld a law barring TikTok in the US unless its US operation was severed from Chinese control, noting a congressional report that ByteDance is subject to Chinese laws on cooperation with state intelligence work; ByteDance kept 19.9% of the US joint venture formed in 2026. In 2021 Chinese state bodies took 1% and a board seat in ByteDance's main domestic subsidiary. These are company-level facts; no personal political act by Zhang Yiming is documented."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level problems over children and users: an Irish GDPR fine over child users' settings (pending appeal), a $400 million US settlement over children's privacy with no determination of liability, and EU preliminary findings on addictive design and harmful recommendations, still open."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level regulatory penalties: Irish GDPR fines of €530 million (data access from China, 2025) and €345 million (children's data, 2023), both pending appeal, and a $400 million US settlement in 2026 with no determination of liability. No court finding, plea or single settlement above $1 billion; nothing personal against Zhang Yiming was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending at company level: the European Commission's Digital Services Act proceedings against TikTok, with three sets of preliminary findings in 2026, and TikTok's appeals against both Irish GDPR fines. No personal matter was found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "In 2021 Zhang Yiming transferred 500 million yuan (about $77 million) to an education fund in his home city of Longyan, as reported by Bloomberg; how it has been spent is not documented.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "zhang-yiming-dpc-2025",
+        "zhang-yiming-dpc-2023",
+        "zhang-yiming-dpc-fines",
+        "zhang-yiming-doj-2026",
+        "zhang-yiming-ec-2026",
+        "zhang-yiming-scotus-2025",
+        "zhang-yiming-reuters-jv",
+        "zhang-yiming-bloomberg-stake",
+        "zhang-yiming-bloomberg-gift"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-11-06",
+          "nature": "Digital Services Act proceedings (TikTok)",
+          "outcome": "Preliminary findings 2026; open",
+          "level": "company",
+          "entity": "TikTok (ByteDance group)",
+          "summary": "In November 2026 the European Commission preliminarily found TikTok's 'For You' feed in breach of the Digital Services Act over 'rabbit hole' effects, after preliminary findings on addictive design (February 2026) and minors' safety (July 2026). The proceedings are open; findings do not prejudge the outcome, and a final decision could carry a fine of up to 6% of turnover.",
+          "sources": [
+            "zhang-yiming-ec-2026"
+          ]
+        },
+        {
+          "date": "2026-08-21",
+          "nature": "US Justice Department children's privacy suit (TikTok, ByteDance)",
+          "outcome": "Settled 2026: $400m, no determination of liability",
+          "level": "company",
+          "entity": "TikTok and ByteDance Ltd.",
+          "summary": "In August 2026 TikTok, ByteDance and affiliates agreed to pay $400 million to resolve a 2024 US Justice Department suit over compliance with the children's online privacy law (COPPA). The department states the claims are allegations only and there has been no determination of liability.",
+          "sources": [
+            "zhang-yiming-doj-2026"
+          ]
+        },
+        {
+          "date": "2025-05-02",
+          "nature": "GDPR fine over data transfers to China (TikTok)",
+          "outcome": "€530m, 2025; under appeal",
+          "level": "company",
+          "entity": "TikTok Technology Limited (ByteDance group)",
+          "summary": "In May 2025 Ireland's data regulator announced a €530 million fine on TikTok, finding it had not shown that EEA user data accessed remotely by staff in China was protected to EU standards, and that its privacy notice did not name China. It also said TikTok had told the inquiry no EEA data was stored in China, which TikTok later corrected; the fine is pending appeal.",
+          "sources": [
+            "zhang-yiming-dpc-2025",
+            "zhang-yiming-dpc-fines"
+          ]
+        },
+        {
+          "date": "2025-01-17",
+          "nature": "Challenge to the US divest-or-ban law (TikTok)",
+          "outcome": "Law upheld by the Supreme Court 2025",
+          "level": "company",
+          "entity": "ByteDance Ltd.",
+          "summary": "In January 2025 the US Supreme Court unanimously upheld a law barring TikTok in the US unless its US operation was severed from Chinese control, noting a congressional report that ByteDance is subject to Chinese laws requiring cooperation with state intelligence work. ByteDance said in January 2026 it had finalised a US joint venture, keeping a 19.9% stake, Reuters reported.",
+          "sources": [
+            "zhang-yiming-scotus-2025",
+            "zhang-yiming-reuters-jv"
+          ]
+        },
+        {
+          "date": "2023-09-01",
+          "nature": "GDPR fine over child users (TikTok)",
+          "outcome": "€345m, 2023; under appeal",
+          "level": "company",
+          "entity": "TikTok Technology Limited (ByteDance group)",
+          "summary": "In September 2023 Ireland's data regulator fined TikTok €345 million for GDPR breaches concerning child users in the second half of 2020, including public-by-default account settings and age verification. TikTok has appealed the decision.",
+          "sources": [
+            "zhang-yiming-dpc-2023",
+            "zhang-yiming-dpc-fines"
+          ]
+        }
       ]
     },
     {
@@ -1588,8 +3196,8 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Bottled drinks: plastic packaging and water extraction."
+          "basis": "documented",
+          "reason": "Nongfu Spring reports about 1.08 million tonnes of plastic packaging, 57 million tonnes of natural water withdrawn and 5.2 million tonnes CO2e across its value chain in 2025. Consents for a large aquifer bottling expansion in New Zealand, linked to a Nongfu subsidiary, were upheld by the Supreme Court in 2025 against iwi and residents’ appeals. No environmental penalty found."
         },
         "politics": {
           "value": 1,
@@ -1602,9 +3210,9 @@
           "reason": "No specific concern checked yet."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 in 2013 for disparaging a rival in promotions; a first-instance court upheld it, and the appeal outcome was not found. No other penalty and no personal case found."
         },
         "unresolved": {
           "value": 0,
@@ -1612,11 +3220,28 @@
           "reason": "Not checked yet."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Zhong Shanshan gave RMB100 million through his Zhong Ziyi Education Foundation to a school fund in Zhuji in 2025, according to Nongfu Spring's report.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "zhong-shanshan-nongfu-sr-2025",
+        "zhong-shanshan-chinanews-2014",
+        "zhong-shanshan-nzherald-2025",
+        "zhong-shanshan-nzsc-otakiri"
+      ],
+      "legal_record": [
+        {
+          "date": "2013",
+          "nature": "Unfair competition fine (Nongfu Spring)",
+          "outcome": "Upheld on review and at first instance; appeal outcome unknown",
+          "level": "company",
+          "entity": "Nongfu Spring",
+          "summary": "In 2013 Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 for unfair competition, finding that in-store pH tests disparaged rival C'estbon; a provincial review and a first-instance court upheld the penalty. The appeal was pending in August 2014 and its outcome was not found. The case is over ten years old.",
+          "sources": [
+            "zhong-shanshan-chinanews-2014"
+          ]
+        }
       ]
     },
     {
@@ -1686,31 +3311,64 @@
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Ordinary corporate lobbying: one Lidl service company declares about €600,000 of lobbying in 2025/26 in the Bundestag register, on labour, energy, tax and farm policy. No political donations by Dieter Schwarz or the group were found in this research."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Retail labour and supplier pressure; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Documented company-level problems in market conduct: Kaufland and Lidl settled German fines for resale price maintenance in 2015 and 2016, more than ten years ago, and a Paris appeal court found in 2025 that hundreds of Lidl TV ads misled consumers; Lidl announced a cassation appeal. Union figures on thin works-council coverage in Germany are reported, and Lidl denies intimidation. Supplier conditions were not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level record: Bundeskartellamt fines on Kaufland and Lidl for vertical price fixing, settled in 2015 and 2016, and a 2025 Paris appeal ruling ordering Lidl to pay €43 million to Intermarché over misleading ads. Lidl announced a cassation appeal against it; its outcome is not established. No personal legal record for Dieter Schwarz was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Lidl announced an appeal to France's Cour de cassation against the 2025 ruling; whether it is pending or decided was not established. Labour concerns in Germany rest on press and union accounts; Lidl does not dispute the works-council figures but denies intimidation. Nothing personal is pending."
         }
       },
-      "checked": false,
-      "counterweights": "Large science and education philanthropy.",
+      "checked": true,
+      "counterweights": "The Dieter Schwarz Stiftung has endowed 41 TUM professorships since 2018, 32 of them in Heilbronn, fully financed for an initial 30 years, and handed TUM a teaching building in 2019. No euro amounts paid out are published in these sources.",
       "status_note": "",
       "sources": [
         "forbes",
-        "oxfam"
+        "dieter-schwarz-bkarta-2015",
+        "dieter-schwarz-bkarta-2016",
+        "dieter-schwarz-cbnews-2025",
+        "dieter-schwarz-lemondedudroit-2025",
+        "dieter-schwarz-freitag-2025",
+        "dieter-schwarz-lobbyregister-2026",
+        "dieter-schwarz-tum-2022",
+        "dieter-schwarz-tum-2019"
+      ],
+      "legal_record": [
+        {
+          "date": "2025-07-04",
+          "nature": "Misleading advertising suit by Intermarché (Lidl)",
+          "outcome": "Ordered to pay €43m on appeal 2025; cassation appeal announced",
+          "level": "company",
+          "entity": "Lidl (France)",
+          "summary": "On 4 July 2025 the Paris appeal court, overturning a 2022 first-instance dismissal, ordered Lidl to pay Intermarché's group (ITM) €43 million, finding 374 TV ads aired in 2017-2023 misleading because promoted items were not available in all stores, and treating this as unfair competition. Lidl announced a cassation appeal; its outcome is not established.",
+          "sources": [
+            "dieter-schwarz-cbnews-2025",
+            "dieter-schwarz-lemondedudroit-2025"
+          ]
+        },
+        {
+          "date": "2016-05-09",
+          "nature": "Resale price maintenance fines (Kaufland, Lidl)",
+          "outcome": "Settled 2015 and 2016; amounts not published",
+          "level": "company",
+          "entity": "Kaufland Stiftung & Co. KG; Lidl Stiftung & Co. KG",
+          "summary": "In June 2015 and May 2016, now more than ten years ago, Germany's competition authority fined Kaufland (deals with three manufacturers) and Lidl Stiftung (Haribo sweets) for resale price maintenance with brand makers. The fines were settlements and individual amounts were not published; the whole case series totalled about €242 million.",
+          "sources": [
+            "dieter-schwarz-bkarta-2015",
+            "dieter-schwarz-bkarta-2016"
+          ]
+        }
       ]
     },
     {
@@ -1830,25 +3488,87 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Garment supply chains carry documented sector-wide labour risks; not checked for this company."
+          "basis": "documented",
+          "reason": "Documented company-level labour problems. US Customs blocked Uniqlo shirts in 2021, finding its evidence insufficient to show they were free of Xinjiang forced labour. A campaign says workers of a bankrupt Indonesian supplier are owed $5.5 million in severance; an FLA investigation found no violation by Fast Retailing. Japanese courts dismissed Uniqlo's defamation suit over reporting on long store hours, holding its key parts true (final 2014). French forced-labour complaints remain allegations."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Regulatory record at company level: a provisional fine of 153 million won on Uniqlo's Korean operator for misleading garment ads (2022) and the 2021 US customs detention of Uniqlo shirts. Fast Retailing also lost a defamation suit it brought over labour reporting (final 2014). No personal legal record for Tadashi Yanai was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "No pending case or investigation was confirmed. Concerns raised by NGOs remain open: a campaign for unpaid severance at a former Indonesian supplier, to which Fast Retailing has declined to contribute, and forced-labour complaints in France that courts declined to investigate, with a new filing announced. Nothing personal is pending."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Tadashi Yanai personally supports research at Kyoto University, including ¥500 million a year from FY2021 committed to its iPS cell foundation, whose site funded by his gift opened in 2025. Fast Retailing reports cutting supply-chain emissions 18.6% and its own 83.3% by FY2024 (its own figures).",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "tadashi-yanai-and-family-gtr-cbp-2021",
+        "tadashi-yanai-and-family-taipeitimes-cbp-2021",
+        "amancio-ortega-bhrrc-uyghur-2023",
+        "amancio-ortega-fashionunited-uyghur-2025",
+        "tadashi-yanai-and-family-fla-jaba-2023",
+        "tadashi-yanai-and-family-ccc-jaba-2023",
+        "tadashi-yanai-and-family-toyokeizai-libel-2014",
+        "tadashi-yanai-and-family-jcast-libel-2014",
+        "tadashi-yanai-and-family-joongang-kftc-2022",
+        "tadashi-yanai-and-family-uniqlo-goals",
+        "tadashi-yanai-and-family-dempa-ips-2025",
+        "tadashi-yanai-and-family-fashionsnap-ips-2025",
+        "tadashi-yanai-and-family-kyotou-2020"
+      ],
+      "legal_record": [
+        {
+          "date": "2025-02",
+          "nature": "Criminal complaints over forced Uyghur labour (Uniqlo), France",
+          "outcome": "Inquiry closed; refusal to investigate upheld 2025; new complaint announced",
+          "level": "company",
+          "entity": "Uniqlo France (Fast Retailing)",
+          "summary": "NGOs and a Uyghur woman alleged in French complaints of 2021 and 2023 that Uniqlo and three other groups sold goods made partly with forced Uyghur labour; all four deny it. Prosecutors closed an initial inquiry, citing lack of jurisdiction, and a judge refused to open a judicial investigation, upheld on appeal in February 2025; a new complaint was announced.",
+          "sources": [
+            "amancio-ortega-bhrrc-uyghur-2023",
+            "amancio-ortega-fashionunited-uyghur-2025"
+          ]
+        },
+        {
+          "date": "2022-10",
+          "nature": "Misleading advertising fine (FRL Korea)",
+          "outcome": "Provisional fine 2022",
+          "level": "company",
+          "entity": "FRL Korea (51% Fast Retailing)",
+          "summary": "In October 2022 South Korea's Fair Trade Commission imposed a provisional fine of 153 million won on FRL Korea, Uniqlo's Korean operator, for overstating antibacterial and deodorising claims for AIRism and DRY-EX garments in ads run from 2018 to 2020.",
+          "sources": [
+            "tadashi-yanai-and-family-joongang-kftc-2022"
+          ]
+        },
+        {
+          "date": "2021-05",
+          "nature": "US customs detention of shirts over Xinjiang cotton (Uniqlo)",
+          "outcome": "Protest rejected 2021; later withdrawn",
+          "level": "company",
+          "entity": "Uniqlo (Fast Retailing)",
+          "summary": "US Customs detained Uniqlo cotton shirts at Los Angeles in January 2021 under an order on Xinjiang Production and Construction Corps cotton, and in May 2021 rejected Uniqlo's protest, finding its evidence insufficient to show no forced labour was involved. Uniqlo cited cotton from Australia, Brazil and the US; CBP later took the rulings off its website, saying Uniqlo had withdrawn its protests.",
+          "sources": [
+            "tadashi-yanai-and-family-gtr-cbp-2021",
+            "tadashi-yanai-and-family-taipeitimes-cbp-2021"
+          ]
+        },
+        {
+          "date": "2014-12",
+          "nature": "Defamation suit brought by Uniqlo against a publisher",
+          "outcome": "Dismissed; final 2014",
+          "level": "company",
+          "entity": "Fast Retailing and Uniqlo",
+          "summary": "Tokyo courts dismissed Fast Retailing and Uniqlo's ¥220 million defamation suit against publisher Bungeishunju in October 2013 and on appeal in March 2014, holding the important parts of its reporting on long hours in Japanese stores to be true. The Supreme Court declined to hear a further appeal in December 2014, making the rulings final; they are over ten years old.",
+          "sources": [
+            "tadashi-yanai-and-family-toyokeizai-libel-2014",
+            "tadashi-yanai-and-family-jcast-libel-2014"
+          ]
+        }
       ]
     },
     {
@@ -1865,23 +3585,23 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
+          "basis": "documented",
+          "reason": "Footprint is indirect, mainly data-centre electricity. Tencent reports that green electricity rose to 48.5% of its consumption in 2025, against a target of 100% by 2030, and measures its reported emission cuts against a business-as-usual scenario. These are Tencent's own figures, not independently verified."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Ma Huateng served two five-year terms as a deputy to China's National People's Congress and was not on the 2023 delegate list, per Reuters. Since January 2025 the US Defense Department has listed Tencent as a Chinese military company under Section 1260H, a listing kept in June 2026; Tencent called it a mistake. No individual donations or lobbying record was checked."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "China's market regulator said in 2021 that Tencent held over 80% of exclusive music library resources and ordered it to end exclusive licensing. A 2020 Citizen Lab technical study found that WeChat screened files shared between users outside China and used flagged ones to build up its censorship of China-registered accounts. No labour findings were checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level regulatory penalties: a 500,000-yuan fine and remedies from SAMR over the 2016 China Music deal (2021), and a 2.99-billion-yuan (about $410 million) fine on Tenpay from the People's Bank of China (2023). No court finding or personal liability found."
         },
         "unresolved": {
           "value": 0,
@@ -1889,11 +3609,42 @@
           "reason": "Not checked yet."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025 (82.9% in owned data centres), against a 2030 target of 100%. These are Tencent's own figures.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "ma-huateng-cnbc-samr-music",
+        "ma-huateng-techcrunch-tenpay",
+        "ma-huateng-citizenlab-wechat",
+        "ma-huateng-reuters-1260h-2025",
+        "ma-huateng-dod-1260h-2026",
+        "ma-huateng-reuters-npc-2023",
+        "ma-huateng-tencent-carbon-2026"
+      ],
+      "legal_record": [
+        {
+          "date": "2023-07-07",
+          "nature": "Payment regulation fine (Tencent, Tenpay)",
+          "outcome": "About 2.99bn yuan, 2023",
+          "level": "company",
+          "entity": "Tencent (Tenpay)",
+          "summary": "In July 2023 the People's Bank of China fined Tencent and its payments unit Tenpay about 2.99 billion yuan (roughly $410 million) for past regulatory breaches in payment services in mainland China, as Tencent disclosed in a filing.",
+          "sources": [
+            "ma-huateng-techcrunch-tenpay"
+          ]
+        },
+        {
+          "date": "2021-07-24",
+          "nature": "Anti-monopoly order on music exclusivity (Tencent)",
+          "outcome": "Order and fine 2021",
+          "level": "company",
+          "entity": "Tencent",
+          "summary": "In July 2021 China's market regulator SAMR found that Tencent held over 80% of exclusive music library resources after its 2016 China Music acquisition, ordered it to end exclusive licensing within 30 days and fined it 500,000 yuan.",
+          "sources": [
+            "ma-huateng-cnbc-samr-music"
+          ]
+        }
       ]
     },
     {
@@ -1910,18 +3661,18 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Battery manufacturing: mined inputs and energy, while enabling electrification."
+          "basis": "documented",
+          "reason": "Battery manufacturing at global scale. CATL reports its core battery bases were certified carbon neutral in 2025, partly by offsetting residual emissions with 1.55 million tonnes of purchased credits, and battery-base emissions of 1.75 MtCO2e. It reports company-wide zero-carbon power of 74.22% and value-chain emissions of about 111 MtCO2e, which dominate its footprint. These are CATL's own figures, not independently checked here."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Zeng Yuqun sits on the National Committee of the CPPCC, China's top political advisory body, and is a vice-chairman of the All-China Federation of Industry and Commerce. Since January 2025 the US Defense Department has listed CATL as a Chinese military company under Section 1260H, a listing kept in June 2026; CATL called it a mistake. No individual donations or lobbying record was checked."
         },
         "social": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "basis": "documented",
+          "reason": "Five US lawmakers alleged in 2024 that CATL has supplier links to the Xinjiang Production and Construction Corps, a US-sanctioned body accused of using Uyghur forced labour, and asked DHS to add CATL to its forced-labour entity list; CATL denies this. No official forced-labour finding against CATL was found."
         },
         "legal": {
           "value": 0,
@@ -1929,17 +3680,26 @@
           "reason": "No record checked yet."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Two contested questions at company level: the US military-company designation, which CATL disputes and is seeking to have lifted, and lawmakers' forced-labour allegations about its suppliers, which CATL denies. No pending case or investigation was found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "CATL reports its core battery bases were certified carbon neutral in 2025, a result that relies partly on 1.55 million tonnes of purchased carbon credits for residual emissions; company-wide zero-carbon power was 74.22%. These are the company's own figures.",
       "status_note": "",
       "sources": [
-        "forbes"
-      ]
+        "forbes",
+        "ma-huateng-reuters-1260h-2025",
+        "ma-huateng-dod-1260h-2026",
+        "robin-zeng-bloomberg-relief-2026",
+        "robin-zeng-chinadaily-cppcc-2026",
+        "robin-zeng-gasgoo-cppcc-2026",
+        "robin-zeng-congress-uflpa-letter-2024",
+        "robin-zeng-pvmag-denial-2024",
+        "robin-zeng-catl-esg-2025"
+      ],
+      "legal_record": []
     },
     {
       "id": 35,
@@ -1955,8 +3715,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Mining and metals: energy-intensive extraction with land and water impacts."
+          "basis": "documented",
+          "reason": "Antofagasta runs large copper mines in Chile. Chile's Supreme Court ordered its Los Pelambres mine in 2014 to restore a stream cut by its El Mauro tailings dam (a 2015 demolition order was annulled on appeal in 2016), and the regulator SMA fined Los Pelambres in 2023 and Centinela in 2026 over a process-water spill and missed water monitoring. No major environmental disaster was found."
         },
         "politics": {
           "value": 1,
@@ -1965,13 +3725,13 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mining carries sector-wide safety and community risks; not checked for this company."
+          "basis": "documented",
+          "reason": "A company-level community conflict is documented: Chile's Supreme Court found in 2014 that Los Pelambres' El Mauro tailings dam had cut the Caimanes community's stream and ordered the flow restored. A 2015 demolition order was annulled on appeal in 2016. No deaths or mass harm were found in the sources checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level record: in 2014 Chile's Supreme Court ruled against Minera Los Pelambres and ordered the Pupío stream's natural flow to Caimanes restored past its El Mauro dam. A 2015 local demolition order was annulled on appeal in 2016; the company then pursued works to comply with the 2014 ruling. SMA fined Los Pelambres (2023) and Centinela (2026), and the US cancelled Twin Metals' leases in 2022. No personal legal action against family members was found."
         },
         "unresolved": {
           "value": 0,
@@ -1979,12 +3739,59 @@
           "reason": "Not checked yet."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Antofagasta reports that all its mining operations have had renewable electricity contracts since April 2022 and that it cut Scope 1 and 2 emissions 30% from 2020 by 2022, ahead of its 2025 target (company figures).",
       "status_note": "",
       "sources": [
         "forbes",
-        "bua-2026"
+        "iris-fontbona-and-family-cooperativa-el-mauro-2015",
+        "iris-fontbona-and-family-df-el-mauro-2016",
+        "iris-fontbona-and-family-reporteminero-sma-pelambres-2023",
+        "iris-fontbona-and-family-df-sma-centinela-2026",
+        "iris-fontbona-and-family-doi-twin-metals-2022",
+        "iris-fontbona-and-family-ap-twin-metals-2018",
+        "iris-fontbona-and-family-minnpost-twin-metals-2026",
+        "iris-fontbona-and-family-antofagasta-climate-plan-2024",
+        "iris-fontbona-and-family-antofagasta-climate-page"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-01-23",
+          "nature": "Environmental fines (Los Pelambres, Centinela)",
+          "outcome": "Imposed 2023 and 2026",
+          "level": "company",
+          "entity": "Minera Los Pelambres and Minera Centinela (Antofagasta)",
+          "summary": "Chile's environmental regulator SMA fined Los Pelambres 211.9 UTA (about 157 million pesos) in February 2023 over a 2021 process-water spill and tailings drainage control failures, and fined Centinela 809 UTA (over 675 million pesos) in January 2026 for missed water monitoring at El Tesoro, an infraction rated minor.",
+          "sources": [
+            "iris-fontbona-and-family-reporteminero-sma-pelambres-2023",
+            "iris-fontbona-and-family-df-sma-centinela-2026"
+          ]
+        },
+        {
+          "date": "2022-01-26",
+          "nature": "Cancellation of federal mineral leases (Twin Metals)",
+          "outcome": "Cancelled 2022; not restored as of August 2026",
+          "level": "company",
+          "entity": "Twin Metals Minnesota (Antofagasta)",
+          "summary": "In January 2022 the US Interior Department cancelled two mineral leases held by Antofagasta's Twin Metals Minnesota next to the Boundary Waters wilderness, after its Solicitor found their 2019 renewal legally deficient. MinnPost reported in August 2026 that the leases had not been restored, although Congress lifted a federal mining moratorium on the area in April 2026.",
+          "sources": [
+            "iris-fontbona-and-family-doi-twin-metals-2022",
+            "iris-fontbona-and-family-ap-twin-metals-2018",
+            "iris-fontbona-and-family-minnpost-twin-metals-2026"
+          ]
+        },
+        {
+          "date": "2014-10-21",
+          "nature": "Community suit over the El Mauro tailings dam (Los Pelambres)",
+          "outcome": "Supreme Court restoration order 2014; demolition order annulled 2016",
+          "level": "company",
+          "entity": "Minera Los Pelambres (Antofagasta)",
+          "summary": "On 21 October 2014 Chile's Supreme Court ordered Minera Los Pelambres to restore the natural flow of the Pupío stream to the Caimanes community, cut by its El Mauro tailings dam, by demolition or other works. A local court ordered demolition in March 2015; the La Serena appeals court annulled that order in August 2016.",
+          "sources": [
+            "iris-fontbona-and-family-cooperativa-el-mauro-2015",
+            "iris-fontbona-and-family-df-el-mauro-2016"
+          ]
+        }
       ]
     },
     {
@@ -2005,9 +3812,9 @@
           "reason": "Finance: the footprint depends on what the money funds; holdings not assessed."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level ties to the Saudi state: its sovereign fund supplied $45 billion of SoftBank's $100 billion Vision Fund, and after the 2018 Khashoggi killing Son said he had met the crown prince to raise concerns and that SoftBank could not turn its back on the Saudi people. Politico reported in 2026 that SoftBank gave $50 million to the Trump presidential library project; three lawmakers asked whether it sought favour, and no wrongdoing has been found."
         },
         "social": {
           "value": 1,
@@ -2015,21 +3822,42 @@
           "reason": "Social effects depend on how capital is allocated; not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "In 2021 SoftBank settled two Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion tender offer, saying it would pay about $1.6 billion in transactions with WeWork shareholders, with no admission of liability. This is a settlement, not a court finding. No personal legal record for Masayoshi Son was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Opacity raised by reporting: Son held personal stakes in company-run funds that SoftBank financed, and in 2022 owed the company about $4.7 billion, secured on fund stakes, SoftBank shares and a personal guarantee. Three lawmakers asked in 2026 whether the library gift was made in exchange for promises; that is not an official investigation and no finding exists. No pending personal matter was found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "After the 2011 Tohoku earthquake Masayoshi Son pledged ¥10 billion of his own money plus his future SoftBank pay. SoftBank's own report says the full ¥10 billion went to prefectures, the Red Cross, child charities and a recovery foundation (company-reported, 2012).",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "masayoshi-son-cnbc-khashoggi-2018",
+        "masayoshi-son-warren-library-2026",
+        "masayoshi-son-softbank-wework-2021",
+        "masayoshi-son-afp-wework-2021",
+        "masayoshi-son-ft-sidedeals-2022",
+        "masayoshi-son-impress-donation-2011",
+        "masayoshi-son-softbank-donations-2012"
+      ],
+      "legal_record": [
+        {
+          "date": "2021-02-25",
+          "nature": "WeWork suits over a withdrawn tender offer (SoftBank)",
+          "outcome": "Settled 2021, no admission",
+          "level": "company",
+          "entity": "SoftBank Group",
+          "summary": "In February 2021 SoftBank settled two Delaware Chancery suits filed in 2020 by a WeWork board committee and founder Adam Neumann over SoftBank's withdrawal from a $3 billion share purchase. SoftBank said it would pay about $1.6 billion under the deal, with no admission of liability; AFP, citing the WSJ, reported about $1.5 billion of share purchases.",
+          "sources": [
+            "masayoshi-son-softbank-wework-2021",
+            "masayoshi-son-afp-wework-2021"
+          ]
+        }
       ]
     },
     {
@@ -2093,8 +3921,8 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Industrial food and drink: farmland, water and packaging."
+          "basis": "documented",
+          "reason": "Mars is a global food, confectionery and pet care group, a material footprint under the rubric. It reports a 16.9% absolute cut in value-chain emissions since 2015, self-reported, against a 50% target for 2030. No major environmental incident was found in this research."
         },
         "politics": {
           "value": 1,
@@ -2103,25 +3931,55 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Agricultural supply chains carry documented sector-wide labour risks; not checked for this company."
+          "basis": "documented",
+          "reason": "OSHA fined Mars Wrigley in 2023 after two untrained contractor workers fell into a chocolate tank at its Pennsylvania plant. CBS News reported in 2023 child labour on Ghanaian farms supplying Mars and flawed monitoring lists; Mars condemned child labour. No official child labour finding against Mars was found."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Regulatory actions at company level: an FTC consent order, a settlement, requiring divestment of 12 veterinary clinics to clear the VCA purchase (2017), and an OSHA penalty of more than $14,500 (2023). No court finding or personal matter was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "CBS News reporting in 2023 questioned the accuracy of child labour monitoring lists in Mars's Ghana supply chain, finding listed children still working and some fabricated names. This rests on reporting, not an official finding."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Mars reports a 16.9% absolute cut in value-chain emissions since 2015 (self-reported). Jacqueline Mars gave Bryn Mawr College $10 million for need-based scholarships in 2026.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "mars-ap-osha-chocolate-tank",
+        "mars-cbs-ghana-cocoa",
+        "mars-ftc-vca-order",
+        "mars-mars-emissions-2024",
+        "mars-confectionerynews-emissions-2026",
+        "mars-brynmawr-gift"
+      ],
+      "legal_record": [
+        {
+          "date": "2023-02",
+          "nature": "Workplace safety citation (Mars Wrigley)",
+          "outcome": "Fined 2023: more than $14,500",
+          "level": "company",
+          "entity": "Mars Wrigley (Mars Inc.)",
+          "summary": "In February 2023 OSHA fined Mars Wrigley more than $14,500 after two workers from an outside contractor fell into a partially filled chocolate tank at its Elizabethtown, Pennsylvania plant in June 2022. OSHA said the workers were not authorised to work in the tanks and had not been trained on the equipment's safety procedures.",
+          "sources": [
+            "mars-ap-osha-chocolate-tank"
+          ]
+        },
+        {
+          "date": "2017-12-19",
+          "nature": "Merger review of the VCA purchase (Mars)",
+          "outcome": "FTC consent order 2017: 12 clinics divested",
+          "level": "company",
+          "entity": "Mars Inc.",
+          "summary": "In December 2017 the FTC finalised a consent order requiring Mars to divest 12 specialty and emergency veterinary clinics as a condition of its $9.1 billion acquisition of VCA, after alleging the deal would lessen competition in 10 US localities. This was a negotiated order, not a court finding.",
+          "sources": [
+            "mars-ftc-vca-order"
+          ]
+        }
       ]
     },
     {
@@ -2138,8 +3996,8 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Industrial food and drink: farmland, water and packaging."
+          "basis": "documented",
+          "reason": "Mars is a global food, confectionery and pet care group, a material footprint under the rubric. It reports a 16.9% absolute cut in value-chain emissions since 2015, self-reported, against a 50% target for 2030. No major environmental incident was found in this research."
         },
         "politics": {
           "value": 1,
@@ -2148,25 +4006,54 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Agricultural supply chains carry documented sector-wide labour risks; not checked for this company."
+          "basis": "documented",
+          "reason": "OSHA fined Mars Wrigley in 2023 after two untrained contractor workers fell into a chocolate tank at its Pennsylvania plant. CBS News reported in 2023 child labour on Ghanaian farms supplying Mars and flawed monitoring lists; Mars condemned child labour. No official child labour finding against Mars was found."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Regulatory actions at company level: an FTC consent order, a settlement, requiring divestment of 12 veterinary clinics to clear the VCA purchase (2017), and an OSHA penalty of more than $14,500 (2023). No court finding or personal matter was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "CBS News reporting in 2023 questioned the accuracy of child labour monitoring lists in Mars's Ghana supply chain, finding listed children still working and some fabricated names. This rests on reporting, not an official finding."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Mars reports a 16.9% absolute cut in value-chain emissions since 2015, against a 50% target for 2030; the figures are self-reported.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "mars-ap-osha-chocolate-tank",
+        "mars-cbs-ghana-cocoa",
+        "mars-ftc-vca-order",
+        "mars-mars-emissions-2024",
+        "mars-confectionerynews-emissions-2026"
+      ],
+      "legal_record": [
+        {
+          "date": "2023-02",
+          "nature": "Workplace safety citation (Mars Wrigley)",
+          "outcome": "Fined 2023: more than $14,500",
+          "level": "company",
+          "entity": "Mars Wrigley (Mars Inc.)",
+          "summary": "In February 2023 OSHA fined Mars Wrigley more than $14,500 after two workers from an outside contractor fell into a partially filled chocolate tank at its Elizabethtown, Pennsylvania plant in June 2022. OSHA said the workers were not authorised to work in the tanks and had not been trained on the equipment's safety procedures.",
+          "sources": [
+            "mars-ap-osha-chocolate-tank"
+          ]
+        },
+        {
+          "date": "2017-12-19",
+          "nature": "Merger review of the VCA purchase (Mars)",
+          "outcome": "FTC consent order 2017: 12 clinics divested",
+          "level": "company",
+          "entity": "Mars Inc.",
+          "summary": "In December 2017 the FTC finalised a consent order requiring Mars to divest 12 specialty and emergency veterinary clinics as a condition of its $9.1 billion acquisition of VCA, after alleging the deal would lessen competition in 10 US localities. This was a negotiated order, not a court finding.",
+          "sources": [
+            "mars-ftc-vca-order"
+          ]
+        }
       ]
     },
     {
@@ -2276,8 +4163,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Conglomerate with heavy-industry or fossil-linked assets."
+          "basis": "documented",
+          "reason": "Fossil-fuel exposure through a holding, not operations: in a June 2023 SEC filing CK Hutchison entities reported holding 16.7% of oil producer Cenovus, received when Cenovus bought Husky Energy, then 40.2% held by Hutchison Whampoa. Oil is a minority stake, not the core business. No environmental incident or group emissions data was checked."
         },
         "politics": {
           "value": 1,
@@ -2290,21 +4177,65 @@
           "reason": "No specific concern checked yet."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "In January 2026 Panama's Supreme Court ruled unconstitutional the concession under which CK Hutchison's Panama Ports Company ran two canal terminals. It is a constitutional ruling on the contract, not a finding of wrongdoing by the company. The comptroller's audit allegations of unpaid sums remain allegations, denied by the company. No personal liability found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level matters are pending: Panama Ports Company's ICC arbitration claim of over $2 billion against Panama, and China's antitrust review, announced in March 2025, of CK Hutchison's planned sale of its ports business to a BlackRock-led group. No outcome of either was found. No personal matter found."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Li Ka-shing has given away more than HK$30 billion through the Li Ka Shing Foundation, set up in 1980, The Standard reported in December 2024.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "li-ka-shing-ap-panama-ruling",
+        "li-ka-shing-aljazeera-panama-ruling",
+        "li-ka-shing-reuters-ppc-arbitration",
+        "li-ka-shing-reuters-samr-review",
+        "li-ka-shing-standard-husky-cenovus",
+        "li-ka-shing-sec-cenovus-13d",
+        "li-ka-shing-standard-forbes-philanthropy"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-03-25",
+          "nature": "ICC arbitration against Panama (Panama Ports Company)",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "Panama Ports Company (CK Hutchison)",
+          "summary": "After the ruling Panama took over the two terminals and handed temporary concessions to APM Terminals and an MSC unit. By March 2026 Panama Ports Company had raised its ICC arbitration claim against Panama to over $2 billion; Panama's president rejected its accusations, and the case is pending.",
+          "sources": [
+            "li-ka-shing-reuters-ppc-arbitration"
+          ]
+        },
+        {
+          "date": "2026-01-29",
+          "nature": "Constitutional challenge to the Panama ports concession (CK Hutchison)",
+          "outcome": "Concession ruled unconstitutional 2026; no wrongdoing found",
+          "level": "company",
+          "entity": "Panama Ports Company (CK Hutchison)",
+          "summary": "On 29 January 2026 Panama's Supreme Court ruled unconstitutional the concession under which CK Hutchison's Panama Ports Company ran the Balboa and Cristobal terminals, a ruling on the contract, not a finding of wrongdoing by the company. It followed a comptroller audit alleging unpaid sums and irregularities in the 2021 extension, which the company denied; it said the ruling lacked legal basis.",
+          "sources": [
+            "li-ka-shing-ap-panama-ruling",
+            "li-ka-shing-aljazeera-panama-ruling"
+          ]
+        },
+        {
+          "date": "2025-03-29",
+          "nature": "Chinese antitrust review of the ports sale (CK Hutchison)",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "CK Hutchison",
+          "summary": "In March 2025 China's market regulator said it would conduct an antitrust review of CK Hutchison's planned sale of its ports business, including the Panama terminals, to a BlackRock-led group, after pro-Beijing commentaries reposted by a central government office called the deal a betrayal. No decision on the review was found; Reuters said in March 2026 the sale was still under discussion.",
+          "sources": [
+            "li-ka-shing-reuters-samr-review",
+            "li-ka-shing-reuters-ppc-arbitration"
+          ]
+        }
       ]
     },
     {
@@ -2325,31 +4256,76 @@
           "reason": "Industrial food and drink: farmland, water and packaging."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Indirect part-owner of influential media: Mark Mateschitz inherited the company holding 49% of Red Bull, whose Red Bull Media House runs ServusTV, Austria's most-watched domestic private channel in 2025. Austria's Constitutional Court confirmed in 2026 that some Covid statements on its show Der Wegscheider breached the objectivity rule. trend reported in 2023 that he had no operational role; no political donations by him were found in this research."
         },
         "social": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "basis": "documented",
+          "reason": "Competition concerns are specific but unproven: the European Commission is investigating whether Red Bull used retailer incentives and its category-manager role to have rival energy drinks delisted or disadvantaged. No finding has been made. Labour and consumer conditions were not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level record only: Red Bull Racing accepted a $7 million FIA penalty in 2022 for breaching the 2021 Formula 1 cost cap, and Austria's Constitutional Court upheld in part findings that ServusTV broadcasts breached the objectivity rule. No personal legal record for Mark Mateschitz was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A formal EU antitrust investigation into Red Bull, opened in November 2025, is pending; the Commission says the opening does not prejudge the outcome. Nothing personal is pending."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "mark-mateschitz-ec-2025",
+        "mark-mateschitz-vfgh-2026",
+        "mark-mateschitz-orf-2026",
+        "mark-mateschitz-trend-2023",
+        "mark-mateschitz-apa-2026",
+        "mark-mateschitz-fia-2022",
+        "mark-mateschitz-fia-2022-news",
+        "mark-mateschitz-wfl-uk-2024"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10-06",
+          "nature": "Media-law objectivity case (ServusTV)",
+          "outcome": "Breaches partly upheld by the Constitutional Court 2026",
+          "level": "company",
+          "entity": "Red Bull Media House GmbH (ServusTV)",
+          "summary": "In a decision of 6 October 2026 (E 1838/2026), published 4 November, Austria's Constitutional Court held that some Covid statements on ServusTV's show Der Wegscheider in late 2021 breached the objectivity rule, notably accusing politicians of knowingly lying. It partly rejected Red Bull Media House's complaint against KommAustria and court rulings, finding one statement protected.",
+          "sources": [
+            "mark-mateschitz-vfgh-2026",
+            "mark-mateschitz-orf-2026"
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "nature": "EU abuse-of-dominance investigation (Red Bull)",
+          "outcome": "Opened 2025; pending",
+          "level": "company",
+          "entity": "Red Bull GmbH",
+          "summary": "On 13 November 2025 the European Commission opened a formal abuse-of-dominance investigation into Red Bull, suspecting that, at least in the Netherlands, it gave retailers monetary and non-monetary incentives to delist or disadvantage rival energy drinks above 250ml and misused its category-manager role. These are allegations; the Commission says the opening does not prejudge the outcome.",
+          "sources": [
+            "mark-mateschitz-ec-2025"
+          ]
+        },
+        {
+          "date": "2022-10-26",
+          "nature": "Formula 1 cost-cap breach (Red Bull Racing)",
+          "outcome": "Accepted 2022: $7m penalty",
+          "level": "company",
+          "entity": "Red Bull Racing F1 Team",
+          "summary": "In October 2022 Red Bull Racing accepted an FIA agreement that it misreported its 2021 costs and exceeded the Formula 1 cost cap by £1.86 million (1.6%), with a $7 million financial penalty and a 10% cut in aerodynamic testing. The FIA said there was no evidence of bad faith or concealment.",
+          "sources": [
+            "mark-mateschitz-fia-2022",
+            "mark-mateschitz-fia-2022-news"
+          ]
+        }
       ]
     },
     {
@@ -2366,8 +4342,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Global shipping and logistics: heavy-fuel transport at scale."
+          "basis": "documented",
+          "reason": "Global container shipping at the largest scale. Kerala is suing over the 2025 sinking of the MSC Elsa 3, which carried fuel and hazardous cargo; liability is not yet decided. The NGO Shipbreaking Platform counts more than 100 MSC ships beached in South Asia since 2009, the most of any owner."
         },
         "politics": {
           "value": 1,
@@ -2375,26 +4351,68 @@
           "reason": "Not checked individually. Default for a large company."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "The US Federal Maritime Commission found MSC overcharged on about 23% of its non-operating reefer bills in 2021 and billed customs agents not involved in the cargo. A South African price-fixing referral is an allegation, not yet decided. No finding against the Aponte family personally."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level regulatory record: a $22.67 million US Federal Maritime Commission civil penalty against MSC (2026). No personal legal record found for the Aponte family."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Two pending company-level cases: Kerala's Rs 9,531 crore admiralty suit over the MSC Elsa 3 sinking, and a South African price-fixing referral covering 2008 to 2018. Neither has reached a ruling."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "msc-livelaw-elsa3-security",
+        "msc-theweek-elsa3-deposit",
+        "msc-fmc-civil-penalty",
+        "msc-shipbreaking-list-2024",
+        "msc-compcom-shipping-referral",
+        "msc-unicef-msc-foundation"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-01",
+          "nature": "Shipping Act violations (MSC)",
+          "outcome": "Penalty of $22.67m imposed 2026",
+          "level": "company",
+          "entity": "MSC Mediterranean Shipping Company",
+          "summary": "After contested proceedings, the US Federal Maritime Commission assessed $22.67 million in civil penalties against MSC in January 2026 for Shipping Act violations: billing customs agents not involved in the cargo, tariff omissions, and overcharging on about 23% of non-operating reefer bills in 2021.",
+          "sources": [
+            "msc-fmc-civil-penalty"
+          ]
+        },
+        {
+          "date": "2025-12-02",
+          "nature": "Price-fixing referral in South Africa (MSC)",
+          "outcome": "Before the Competition Tribunal",
+          "level": "company",
+          "entity": "Mediterranean Shipping Company (Pty) Ltd (MSC South Africa)",
+          "summary": "On 2 December 2025 South Africa's Competition Commission referred MSC's South African company and seven other carriers to the Competition Tribunal, alleging they fixed general rate increases on South Africa-Asia and South Africa-West Africa routes from 2008 to 2018. These are allegations; the Tribunal has not ruled.",
+          "sources": [
+            "msc-compcom-shipping-referral"
+          ]
+        },
+        {
+          "date": "2025-12",
+          "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "MSC Mediterranean Shipping Company",
+          "summary": "Kerala has filed an admiralty suit claiming Rs 9,531 crore, mostly for environmental damage, over the May 2025 sinking off its coast of the MSC Elsa 3, which carried fuel and hazardous cargo, and had the MSC Akiteta II arrested as a sister ship. The High Court cut the security to Rs 1,227.62 crore, given by bank guarantee in December 2025; liability is left for trial.",
+          "sources": [
+            "msc-livelaw-elsa3-security",
+            "msc-theweek-elsa3-deposit"
+          ]
+        }
       ]
     },
     {
@@ -2411,8 +4429,8 @@
       "scores": {
         "ecology": {
           "value": 3,
-          "basis": "estimate",
-          "reason": "Global shipping and logistics: heavy-fuel transport at scale."
+          "basis": "documented",
+          "reason": "Global container shipping at the largest scale. Kerala is suing over the 2025 sinking of the MSC Elsa 3, which carried fuel and hazardous cargo; liability is not yet decided. The NGO Shipbreaking Platform counts more than 100 MSC ships beached in South Asia since 2009, the most of any owner."
         },
         "politics": {
           "value": 1,
@@ -2420,26 +4438,68 @@
           "reason": "Not checked individually. Default for a large company."
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "The US Federal Maritime Commission found MSC overcharged on about 23% of its non-operating reefer bills in 2021 and billed customs agents not involved in the cargo. A South African price-fixing referral is an allegation, not yet decided. No finding against the Aponte family personally."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level regulatory record: a $22.67 million US Federal Maritime Commission civil penalty against MSC (2026). No personal legal record found for the Aponte family."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Two pending company-level cases: Kerala's Rs 9,531 crore admiralty suit over the MSC Elsa 3 sinking, and a South African price-fixing referral covering 2008 to 2018. Neither has reached a ruling."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "msc-livelaw-elsa3-security",
+        "msc-theweek-elsa3-deposit",
+        "msc-fmc-civil-penalty",
+        "msc-shipbreaking-list-2024",
+        "msc-compcom-shipping-referral",
+        "msc-unicef-msc-foundation"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-01",
+          "nature": "Shipping Act violations (MSC)",
+          "outcome": "Penalty of $22.67m imposed 2026",
+          "level": "company",
+          "entity": "MSC Mediterranean Shipping Company",
+          "summary": "After contested proceedings, the US Federal Maritime Commission assessed $22.67 million in civil penalties against MSC in January 2026 for Shipping Act violations: billing customs agents not involved in the cargo, tariff omissions, and overcharging on about 23% of non-operating reefer bills in 2021.",
+          "sources": [
+            "msc-fmc-civil-penalty"
+          ]
+        },
+        {
+          "date": "2025-12-02",
+          "nature": "Price-fixing referral in South Africa (MSC)",
+          "outcome": "Before the Competition Tribunal",
+          "level": "company",
+          "entity": "Mediterranean Shipping Company (Pty) Ltd (MSC South Africa)",
+          "summary": "On 2 December 2025 South Africa's Competition Commission referred MSC's South African company and seven other carriers to the Competition Tribunal, alleging they fixed general rate increases on South Africa-Asia and South Africa-West Africa routes from 2008 to 2018. These are allegations; the Tribunal has not ruled.",
+          "sources": [
+            "msc-compcom-shipping-referral"
+          ]
+        },
+        {
+          "date": "2025-12",
+          "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking",
+          "outcome": "Pending",
+          "level": "company",
+          "entity": "MSC Mediterranean Shipping Company",
+          "summary": "Kerala has filed an admiralty suit claiming Rs 9,531 crore, mostly for environmental damage, over the May 2025 sinking off its coast of the MSC Elsa 3, which carried fuel and hazardous cargo, and had the MSC Akiteta II arrested as a sister ship. The High Court cut the security to Rs 1,227.62 crore, given by bank guarantee in December 2025; liability is left for trial.",
+          "sources": [
+            "msc-livelaw-elsa3-security",
+            "msc-theweek-elsa3-deposit"
+          ]
+        }
       ]
     },
     {
@@ -2470,21 +4530,52 @@
           "reason": "Social effects depend on how capital is allocated; not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "In 2025 Pignataro agreed to pay the Italian tax agency EUR 280 million to close an assessment over his tax residence for 2013 to 2023, against an original claim of about EUR 1.2 billion; his lawyers said the deal implies no admission of evasion and that no penalties were applied. A parallel criminal tax investigation was dismissed by a Bologna judge in October 2025 without charges."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "No pending personal matter was found: the criminal tax investigation was dismissed in 2025 and the tax claim settled. Reuters reported in 2024, citing sources, that the Bank of Italy was examining ION's complex ownership structure, which spans several countries."
         }
       },
-      "checked": false,
+      "checked": true,
       "counterweights": "",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "andrea-pignataro-sole24ore-2025",
+        "andrea-pignataro-ilpost-2025-06",
+        "andrea-pignataro-ilpost-2025-10",
+        "andrea-pignataro-reuters-2024-01",
+        "andrea-pignataro-reuters-2024-03"
+      ],
+      "legal_record": [
+        {
+          "date": "2025-10",
+          "nature": "Criminal tax evasion investigation (personal)",
+          "outcome": "Dismissed without charges, October 2025",
+          "level": "individual",
+          "entity": "Andrea Pignataro",
+          "summary": "In October 2025 a Bologna preliminary investigations judge dismissed a criminal tax evasion investigation into Pignataro, finding his business and interests were centred abroad; it closed at the investigation stage without charges or trial. Prosecutors had opened it in April 2025, alleging about EUR 500 million evaded over 2013 to 2023.",
+          "sources": [
+            "andrea-pignataro-ilpost-2025-06",
+            "andrea-pignataro-ilpost-2025-10"
+          ]
+        },
+        {
+          "date": "2025-06",
+          "nature": "Tax residence assessment, 2013 to 2023 (personal)",
+          "outcome": "Settled 2025: €280m, no admission, no penalties",
+          "level": "individual",
+          "entity": "Andrea Pignataro",
+          "summary": "In June 2025 Pignataro agreed to pay the Italian Revenue Agency EUR 280 million in five instalments, closing an assessment that treated him as Italian tax resident for 2013 to 2023; the original claim was reported at about EUR 1.2 billion with interest. His lawyers said the deal implies no admission of evasion and that penalties were not applied.",
+          "sources": [
+            "andrea-pignataro-sole24ore-2025",
+            "andrea-pignataro-ilpost-2025-06"
+          ]
+        }
       ]
     },
     {
@@ -2594,8 +4685,8 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Luxury goods: leather, textiles, metals and global retail."
+          "basis": "documented",
+          "reason": "Chanel makes and sells fashion, leather goods, fragrance, cosmetics and jewellery worldwide, with a self-reported footprint of about 950,000 tonnes CO2e in 2024. It reports a 42% cut in own-operations emissions since 2018 but a 12% rise in value-chain emissions; the figures cite no independent assurance. No major environmental incident was found."
         },
         "politics": {
           "value": 1,
@@ -2604,25 +4695,59 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Garment supply chains carry documented sector-wide labour risks; not checked for this company."
+          "basis": "documented",
+          "reason": "France's competition council fined Chanel in 2006 for fixing luxury perfume retail prices with retailers in 1997-2000, upheld on appeal in 2012. In 2026 Italian police searched Chanel's offices in a probe of workshops accused of exploiting workers; Chanel is not under formal investigation and says it moved to drop the subcontractor. No labour finding against Chanel was found."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Regulatory action at company level: a €3 million fine from France's competition council in 2006, more than ten years ago, for perfume retail price agreements from 1997 to 2000; the decision was upheld on appeal in 2012. No court finding of scale, settlement above $1 billion or personal matter was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Chanel is privately held; Bloomberg reported that its dividends, $12.4 billion over three years, go to a Cayman Islands holding company of the Wertheimer brothers, unnamed in that reporting. A 2026 Milan labour probe reached Chanel's supply chain, but Chanel is not formally under investigation."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Fondation CHANEL, funded solely by the Chanel group, recorded US$25.9 million of grant expenditure in 2023. Chanel reports a 42% cut in own-operations emissions since 2018, self-reported; value-chain emissions rose 12%.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "chanel-adlc-perfume-2006",
+        "chanel-lalibre-perfume-appeal-2012",
+        "chanel-retailgazette-italy-probe",
+        "chanel-euronews-italy-raids",
+        "chanel-chanel-slb-2024",
+        "chanel-fondation-chanel-accounts-2024",
+        "chanel-fortune-dividends-2024",
+        "chanel-fortune-dividend-2025"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-07-16",
+          "nature": "Milan labour probe into suppliers' workshops",
+          "outcome": "Offices searched 2026; Chanel not under investigation",
+          "level": "company",
+          "entity": "Chanel supply chain (Italy)",
+          "summary": "In July 2026 Italian police searched Chanel offices in a Milan prosecutors' labour probe; Chanel was one of nine brands ordered to hand over supply-chain documents after police accused two Chinese-owned workshops of exploiting undocumented workers to make bags for luxury suppliers. Chanel is not formally under investigation and says it moved to drop the subcontractor in May.",
+          "sources": [
+            "chanel-retailgazette-italy-probe",
+            "chanel-euronews-italy-raids"
+          ]
+        },
+        {
+          "date": "2006-03",
+          "nature": "Perfume price-fixing fine (Chanel)",
+          "outcome": "€3m, 2006; upheld on appeal 2012",
+          "level": "company",
+          "entity": "Chanel",
+          "summary": "In March 2006, more than ten years ago, France's competition council fined Chanel €3 million, one of 13 perfume suppliers and 3 retail chains fined €45.4 million in all, for agreements with retailers in 1997-2000 that fixed luxury perfume retail prices. The Paris Court of Appeal upheld the decision in 2012, cutting total fines to about €40 million.",
+          "sources": [
+            "chanel-adlc-perfume-2006",
+            "chanel-lalibre-perfume-appeal-2012"
+          ]
+        }
       ]
     },
     {
@@ -2639,8 +4764,8 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Luxury goods: leather, textiles, metals and global retail."
+          "basis": "documented",
+          "reason": "Chanel makes and sells fashion, leather goods, fragrance, cosmetics and jewellery worldwide, with a self-reported footprint of about 950,000 tonnes CO2e in 2024. It reports a 42% cut in own-operations emissions since 2018 but a 12% rise in value-chain emissions; the figures cite no independent assurance. No major environmental incident was found."
         },
         "politics": {
           "value": 1,
@@ -2649,25 +4774,59 @@
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Garment supply chains carry documented sector-wide labour risks; not checked for this company."
+          "basis": "documented",
+          "reason": "France's competition council fined Chanel in 2006 for fixing luxury perfume retail prices with retailers in 1997-2000, upheld on appeal in 2012. In 2026 Italian police searched Chanel's offices in a probe of workshops accused of exploiting workers; Chanel is not under formal investigation and says it moved to drop the subcontractor. No labour finding against Chanel was found."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Regulatory action at company level: a €3 million fine from France's competition council in 2006, more than ten years ago, for perfume retail price agreements from 1997 to 2000; the decision was upheld on appeal in 2012. No court finding of scale, settlement above $1 billion or personal matter was found."
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Chanel is privately held; Bloomberg reported that its dividends, $12.4 billion over three years, go to a Cayman Islands holding company of the Wertheimer brothers, unnamed in that reporting. A 2026 Milan labour probe reached Chanel's supply chain, but Chanel is not formally under investigation."
         }
       },
-      "checked": false,
-      "counterweights": "",
+      "checked": true,
+      "counterweights": "Fondation CHANEL, funded solely by the Chanel group, recorded US$25.9 million of grant expenditure in 2023. Chanel reports a 42% cut in own-operations emissions since 2018, self-reported; value-chain emissions rose 12%.",
       "status_note": "",
       "sources": [
-        "forbes"
+        "forbes",
+        "chanel-adlc-perfume-2006",
+        "chanel-lalibre-perfume-appeal-2012",
+        "chanel-retailgazette-italy-probe",
+        "chanel-euronews-italy-raids",
+        "chanel-chanel-slb-2024",
+        "chanel-fondation-chanel-accounts-2024",
+        "chanel-fortune-dividends-2024",
+        "chanel-fortune-dividend-2025"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-07-16",
+          "nature": "Milan labour probe into suppliers' workshops",
+          "outcome": "Offices searched 2026; Chanel not under investigation",
+          "level": "company",
+          "entity": "Chanel supply chain (Italy)",
+          "summary": "In July 2026 Italian police searched Chanel offices in a Milan prosecutors' labour probe; Chanel was one of nine brands ordered to hand over supply-chain documents after police accused two Chinese-owned workshops of exploiting undocumented workers to make bags for luxury suppliers. Chanel is not formally under investigation and says it moved to drop the subcontractor in May.",
+          "sources": [
+            "chanel-retailgazette-italy-probe",
+            "chanel-euronews-italy-raids"
+          ]
+        },
+        {
+          "date": "2006-03",
+          "nature": "Perfume price-fixing fine (Chanel)",
+          "outcome": "€3m, 2006; upheld on appeal 2012",
+          "level": "company",
+          "entity": "Chanel",
+          "summary": "In March 2006, more than ten years ago, France's competition council fined Chanel €3 million, one of 13 perfume suppliers and 3 retail chains fined €45.4 million in all, for agreements with retailers in 1997-2000 that fixed luxury perfume retail prices. The Paris Court of Appeal upheld the decision in 2012, cutting total fines to about €40 million.",
+          "sources": [
+            "chanel-adlc-perfume-2006",
+            "chanel-lalibre-perfume-appeal-2012"
+          ]
+        }
       ]
     },
     {
