@@ -37,7 +37,7 @@
     },
     {
       "id": "doj-pacificorp-2026",
-      "label": "US Justice Department: PacifiCorp pays $575M over six wildfires (2026)",
+      "label": "US Justice Department: PacifiCorp agrees to pay $575M over six wildfires (2026)",
       "url": "https://www.justice.gov/opa/pr/pacificorp-agrees-pay-575m-settle-claims-damage-caused-six-wildfires-california-and-oregon",
       "publisher": "US Department of Justice, Office of Public Affairs",
       "publisher_type": "government",
@@ -88,8 +88,8 @@
     {
       "id": "brk-gift-2026",
       "label": "Berkshire Hathaway: News release on Buffett share gifts (2026)",
-      "url": "https://stocks.observer-reporter.com/observerreporter/article/bizwire-2026-7-14-berkshire-hathaway-inc-news-release",
-      "publisher": "Berkshire Hathaway Inc. (via Business Wire)",
+      "url": "https://berkshirehathaway.com/news/jul1426.pdf",
+      "publisher": "Berkshire Hathaway Inc.",
       "publisher_type": "company",
       "names_subject": true,
       "published": "2026-07-14",
@@ -112,8 +112,8 @@
       "direction": "concern",
       "theme": "climate",
       "level": "company",
-      "entity": "PacifiCorp (Berkshire Hathaway Energy)",
-      "claim": "US Forest Service reports found PacifiCorp power lines caused the 2020 Slater fire and probably caused the Archie Creek fire. In February 2026 PacifiCorp paid $575 million to settle US claims that its lines negligently started six 2020 and 2022 fires burning about 290,000 acres of public land, denying liability.",
+      "entity": "PacifiCorp (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+      "claim": "US Forest Service reports found that power lines of PacifiCorp, a Berkshire Hathaway Energy subsidiary, caused the 2020 Slater fire and were the probable cause of the Archie Creek fire. In February 2026 PacifiCorp agreed to pay $575 million to settle US claims that its lines negligently started six 2020 and 2022 fires on public land; it denies liability.",
       "evidence_type": "settlement",
       "date": "2026-02-20",
       "source_ids": [
@@ -126,8 +126,8 @@
       "direction": "concern",
       "theme": "legal",
       "level": "company",
-      "entity": "PacifiCorp (Berkshire Hathaway Energy)",
-      "claim": "A 2023 Oregon jury found PacifiCorp grossly negligent, reckless and willful over four 2020 fires; awards since then exceed $1 billion for about 200 survivors. The Court of Appeals reversed that verdict in April 2026; the Oregon Supreme Court heard argument on 3 November 2026, with about 2,000 claims pending.",
+      "entity": "PacifiCorp (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+      "claim": "In 2023 an Oregon jury found PacifiCorp, a Berkshire Hathaway Energy subsidiary, grossly negligent, reckless and willful over four 2020 fires; awards so far exceed $1 billion to about 200 survivors. The Court of Appeals reversed the verdict earlier in 2026, and the Oregon Supreme Court heard argument on 3 November 2026; about 2,000 further claims may depend on it.",
       "evidence_type": "pending_case",
       "date": "2026-11-03",
       "source_ids": [
@@ -140,8 +140,8 @@
       "direction": "concern",
       "theme": "legal",
       "level": "company",
-      "entity": "HomeServices of America (Berkshire Hathaway Energy)",
-      "claim": "In October 2023 a federal jury in Missouri found HomeServices and co-defendants took part in a conspiracy that inflated commissions paid by home sellers, with $1.8 billion in damages jointly. HomeServices settled in April 2024 for $250 million over four years; appeals of the settlements were pending in early 2026.",
+      "entity": "HomeServices of America (subsidiary of Berkshire Hathaway Energy, which Berkshire Hathaway wholly owns)",
+      "claim": "In October 2023 a Missouri federal jury found HomeServices of America, a Berkshire Hathaway Energy subsidiary, and co-defendants took part in a conspiracy that had the purpose or effect of inflating home sellers’ commissions, with $1.8 billion in damages jointly. HomeServices settled in April 2024 for $250 million over four years.",
       "evidence_type": "settlement",
       "date": "2024-04-25",
       "source_ids": [
@@ -153,8 +153,8 @@
       "direction": "concern",
       "theme": "legal",
       "level": "company",
-      "entity": "BNSF Railway (Berkshire Hathaway)",
-      "claim": "A federal judge found in 2023 that BNSF knowingly ran crude oil trains across the Swinomish reservation beyond its 1991 easement, and in 2024 ordered it to pay nearly $400 million in profits. BNSF appealed, then settled confidentially in November 2025; Berkshire's annual report says BNSF apologised.",
+      "entity": "BNSF Railway (Berkshire Hathaway’s railroad subsidiary)",
+      "claim": "A federal judge found in 2023 that BNSF, Berkshire Hathaway’s railroad, knowingly ran crude oil trains across the Swinomish reservation beyond its 1991 easement, and in 2024 ordered it to pay nearly $400 million in profits. BNSF appealed, then settled on confidential terms in November 2025; Berkshire’s annual report says BNSF apologised.",
       "evidence_type": "settlement",
       "date": "2025-11-04",
       "source_ids": [
@@ -181,7 +181,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "Berkshire Hathaway Energy and BNSF",
-      "claim": "Berkshire's 2025 annual report lists 11,272 MW of coal plant capacity at PacifiCorp and MidAmerican (6,856 MW owned) and names coal and gas plants as BHE's main source of greenhouse gases. BNSF earned about $3.0 billion from hauling coal in 2025.",
+      "claim": "Berkshire’s 2025 annual report lists 11,272 MW of coal plant capacity at PacifiCorp and MidAmerican (6,856 MW owned) and names coal and gas plants as BHE’s main source of greenhouse gases. BNSF had about $3.0 billion in coal freight revenue in 2025.",
       "evidence_type": "company_disclosure",
       "date": "2026-03",
       "source_ids": [
@@ -207,7 +207,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Warren Buffett",
-      "claim": "In June 2025 Buffett gave about $6 billion in Berkshire stock to five foundations, 9.4 million shares of it to the Gates Foundation Trust; AP put his giving since 2006 at roughly $60 billion. In July 2026 Berkshire announced a gift of 12 million shares to four family foundations only.",
+      "claim": "In June 2025 Buffett gave about $6 billion in Berkshire stock to five foundations, 9.4 million of about 12.4 million shares to the Gates Foundation Trust; AP put his gifts to them since 2006 at roughly $60 billion at the time of giving. In July 2026 Berkshire announced his gift of 12 million shares to four family foundations; the Gates Foundation was not among them.",
       "evidence_type": "documented_giving",
       "date": "2026-07-14",
       "source_ids": [
@@ -221,7 +221,7 @@
       "theme": "tax",
       "level": "individual",
       "entity": "Warren Buffett",
-      "claim": "ProPublica reported from leaked IRS data in 2021 that Buffett paid $23.7 million in federal income tax for 2014–2018 while his wealth grew $24.3 billion, the lowest such ratio among the 25 richest Americans. No illegality is alleged; he said he paid the taxes he owed.",
+      "claim": "ProPublica reported in 2021, from IRS records it obtained without saying how, that Buffett reported paying $23.7 million in taxes for 2014–2018 while Forbes estimated his wealth grew $24.3 billion, the lowest such rate among the 25 richest Americans. No illegality is alleged; he said he paid the taxes he owed.",
       "evidence_type": "investigative_reporting",
       "date": "2021-06-08",
       "source_ids": [
@@ -234,7 +234,7 @@
       "ecology": {
         "value": 3,
         "basis": "documented",
-        "reason": "Berkshire’s utilities own about 6,900 MW of coal capacity and BNSF earned about $3 billion hauling coal in 2025. US Forest Service reports found PacifiCorp power lines caused or probably caused two 2020 wildfires; PacifiCorp paid $575 million to settle federal claims over six fires without admitting liability. Berkshire reports a 30% cut in its energy unit’s emissions since 2005.",
+        "reason": "Berkshire’s utilities own about 6,900 MW of coal capacity and BNSF had about $3 billion in coal freight revenue in 2025. US Forest Service reports found power lines of PacifiCorp, a Berkshire Hathaway Energy subsidiary, caused or probably caused two 2020 wildfires; PacifiCorp agreed to pay $575 million to settle federal claims over six fires and denies liability. Berkshire reports a 30% cut in its energy unit’s emissions since 2005.",
         "finding_ids": [
           "f1",
           "f6",
@@ -244,7 +244,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Company-level problems are documented: a 2023 federal jury found HomeServices of America took part in a conspiracy that inflated home sellers’ commissions, and a federal judge found BNSF knowingly ran oil trains across Swinomish land beyond its easement. Both later settled. No finding against him personally.",
+        "reason": "Company-level problems are documented at Berkshire subsidiaries: a 2023 federal jury found HomeServices of America took part in a conspiracy that had the purpose or effect of inflating home sellers’ commissions, and a federal judge found BNSF knowingly ran oil trains across Swinomish land beyond its easement. Both later settled. No finding against him personally.",
         "finding_ids": [
           "f3",
           "f4"
@@ -253,7 +253,7 @@
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Company outcomes, no personal record found. Court findings against BNSF (trespass, about $400 million, settled 2025) and HomeServices (commission conspiracy, $1.8 billion jointly, settled for $250 million). PacifiCorp paid $575 million to the US over wildfires, denying liability. OFAC fined Berkshire $4.1 million in 2020 for a subsidiary’s Iran sales.",
+        "reason": "Company outcomes at Berkshire and its subsidiaries; no personal record found. Court findings against BNSF (trespass, nearly $400 million, settled 2025) and HomeServices (commission conspiracy, $1.8 billion jointly, settled for $250 million). PacifiCorp agreed to pay $575 million to the US over wildfires, denying liability. OFAC fined Berkshire $4.1 million in 2020 over a subsidiary’s Iran sales.",
         "finding_ids": [
           "f1",
           "f3",
@@ -264,14 +264,64 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "Pending at company level: the Oregon Supreme Court heard argument in November 2026 on a 2023 jury verdict against PacifiCorp over 2020 wildfires, reversed on appeal in April 2026, with about 2,000 claims depending on it. Appeals of the HomeServices commission settlements were pending in 2026. Nothing personal found.",
+        "reason": "Pending at company level: the Oregon Supreme Court heard argument in November 2026 on a 2023 jury verdict against PacifiCorp, a Berkshire Hathaway Energy subsidiary, over four 2020 wildfires. The Court of Appeals reversed the verdict earlier in 2026, and about 2,000 further claims may depend on the outcome. Nothing personal found.",
         "finding_ids": [
-          "f2",
-          "f3"
+          "f2"
         ]
       }
     },
-    "counterweights": "Has given Berkshire shares worth roughly $60 billion at the time of giving to five foundations since 2006, most to the Gates Foundation; his 2026 gift went to four family foundations only. Berkshire reports a 30% emissions cut at its energy unit since 2005.",
-    "rationale": "Legal 0→2: court findings against BNSF and HomeServices (subsidiaries) meet level 2. Unresolved 0→2: the PacifiCorp James case is pending before Oregon’s Supreme Court. Social 1→2: the same two findings are documented company-level problems; fatalities in fires near PacifiCorp lines could be read under level 4, but causation and liability are contested. Ecology stays 3 (coal, rail, wildfires). Politics not assessed. The tax finding (f9) maps to no dimension."
+    "counterweights": "Has given five foundations, including the Gates Foundation, Berkshire shares worth roughly $60 billion when given since 2006, per AP; his 2026 gift went to four family foundations only. Berkshire reports a 30% emissions cut at its energy unit since 2005.",
+    "rationale": "Legal 0→2: court findings against BNSF and HomeServices (Berkshire subsidiaries) meet level 2. Unresolved 0→2: the PacifiCorp James case is pending before Oregon’s Supreme Court. Social 1→2: the same two findings are documented company-level problems; deaths in the 2020 and 2022 fires could be read under level 4, but causation and liability are contested and settled without admission. Ecology stays 3 (coal, rail, wildfires). Politics not assessed. The tax finding (f9) maps to no dimension."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: \"paid\" changed to \"agreed to pay\" (DOJ release, annual report: payment due after 20 Feb 2026 effective date); Forest Service wording (caused Slater, probable cause Archie Creek) taken from the annual report, as the DOJ release gives no cause findings; acreage dropped; entity and claim now state PacifiCorp is a BHE subsidiary (annual report: PacifiCorp wholly owned by BHE, BHE wholly owned by Berkshire)."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: \"April 2026\" removed, OPB says only \"earlier this year\" and the annual report predates the reversal; \"awards since then\" changed to \"awards so far\" (OPB counts all awards); \"about 2,000 claims pending\" changed to further claims that may depend on the ruling, as OPB says. Jury wording (grossly negligent, reckless, willful; four fires) confirmed by the annual report. Subsidiary status added."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: jury finding stated as in the annual report (conspiracy with the purpose or effect of inflating commissions); \"appeals pending in early 2026\" removed because press reports say the Eighth Circuit affirmed the settlements in August 2026, so the clause is stale; subsidiary status added (annual report: HomeServices wholly owned by BHE)."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: entity and claim now state BNSF is Berkshire’s railroad (annual report lists it as Berkshire’s railroad business; the Spokesman-Review does not mention Berkshire); \"settled confidentially\" kept as confidential terms. Ruling (2023, knowingly), 1991 easement, nearly $400 million (June 2024), appeal and November 2025 settlement confirmed by the Spokesman-Review; apology confirmed by the CEO letter in the annual report."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "OFAC release confirms $4,144,651, 144 orders, Iscar Turkey, Dec 2012 to Jan 2016, egregious, concealment from Berkshire, voluntary self-disclosure."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: BNSF \"earned $3.0 billion\" changed to coal freight revenue of $3.0 billion, which is what the report states. Coal capacity figures and GHG wording confirmed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Annual report confirms $38.0 billion cumulative renewable and storage investment, 22 coal units ceased, 30% GHG cut versus 2005."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: AP figure scoped to gifts to these five foundations at value when received, as AP states. AP mirror (KPRC Click2Houston) carries AP byline and copyright and matches another AP copy (WOWT); label is honest. The 2026 Berkshire release mirror matched the original word for word, so the source URL now points to the original on berkshirehathaway.com."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: \"$23.7 million in federal income tax\" changed to \"reported paying $23.7 million in taxes\", ProPublica’s wording; \"leaked IRS data\" changed to IRS records ProPublica obtained without saying how, as ProPublica does not call them leaked; wealth growth attributed to Forbes estimates. Lowest rate among the 25 richest and his statement that he paid what he owed confirmed."
+      }
+    ],
+    "passed": true
   }
 }
