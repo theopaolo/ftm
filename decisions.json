@@ -18,267 +18,966 @@
   ],
   "people": {
     "larry-ellison": {
-      "politics": { "value": 2, "accept": true, "why": "Tens of millions to a super PAC plus media holdings: 'major donor, owner of influential media'." },
-      "social": { "value": 2, "accept": true, "why": "$115m consumer privacy settlement at company level." },
-      "legal": { "value": 2, "accept": false, "why": "R3: the 2005 personal settlement ($100m to charity, $22m in fees, no admission) is a personal civil settlement with no penalty. Not 1, which would treat it as modest; not 3, which needs a penalty or liability." },
-      "unresolved": { "value": 3, "accept": false, "why": "R6: Ellison is a named defendant in the pending 2026 bondholder suit, as Huang is in his class action." }
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Tens of millions to a super PAC plus media holdings: 'major donor, owner of influential media'."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "$115m consumer privacy settlement at company level."
+      },
+      "legal": {
+        "value": 2,
+        "accept": false,
+        "why": "R3: the 2005 personal settlement ($100m to charity, $22m in fees, no admission) is a personal civil settlement with no penalty. Not 1, which would treat it as modest; not 3, which needs a penalty or liability."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": false,
+        "why": "R6: Ellison is a named defendant in the pending 2026 bondholder suit, as Huang is in his class action."
+      }
     },
     "jensen-huang": {
-      "ecology": { "value": 1, "accept": true, "why": "The rubric puts data centres and electronics at 1; Nvidia does not make its own chips." },
-      "politics": { "value": 2, "accept": true, "why": "Nvidia's $25m ballroom gift and the China revenue-share deal: documented political dealings." },
-      "social": { "value": 2, "accept": true, "why": "SAMR's preliminary anti-monopoly finding: documented market-power problem at company level." },
-      "legal": { "value": 1, "accept": true, "why": "$5.5m SEC penalty, company level." },
-      "unresolved": { "value": 3, "accept": true, "why": "R6: named defendant in a certified, pending securities class action." }
+      "ecology": {
+        "value": 1,
+        "accept": true,
+        "why": "The rubric puts data centres and electronics at 1; Nvidia does not make its own chips."
+      },
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Nvidia's $25m ballroom gift and the China revenue-share deal: documented political dealings."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "SAMR's preliminary anti-monopoly finding: documented market-power problem at company level."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "$5.5m SEC penalty, company level."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in a certified, pending securities class action."
+      }
     },
     "warren-buffett": {
-      "social": { "value": 2, "accept": true, "why": "Court findings against HomeServices (commission conspiracy) and BNSF (trespass). Wildfire deaths are not documented in the findings as written, so not 4." },
-      "legal": { "value": 2, "accept": true, "why": "R5: a jury finding against HomeServices and a judge's finding against BNSF, both Berkshire subsidiaries." },
-      "unresolved": { "value": 2, "accept": true, "why": "PacifiCorp's James case is pending before the Oregon Supreme Court." }
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Court findings against HomeServices (commission conspiracy) and BNSF (trespass). Wildfire deaths are not documented in the findings as written, so not 4."
+      },
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: a jury finding against HomeServices and a judge's finding against BNSF, both Berkshire subsidiaries."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "PacifiCorp's James case is pending before the Oregon Supreme Court."
+      }
     },
     "amancio-ortega": {
-      "social": { "value": 3, "accept": true, "why": "The rubric's 'forced or child labour findings': Brazilian slave-like labour fines on Zara Brasil, upheld in court." },
-      "legal": { "value": 2, "accept": false, "why": "R5: a court upheld the slave-labour fines in a contested case, which is a court finding of serious wrongdoing at company level.", "reason": "Company-level court finding: Brazilian courts upheld fines against Zara Brasil over slave-like labour in its supply chain, found by inspectors in 2011; the case closed in 2017. No personal legal record for Amancio Ortega was found." },
-      "unresolved": { "value": 2, "accept": true, "why": "Pending consumer-regulator charges in Poland." }
+      "social": {
+        "value": 3,
+        "accept": true,
+        "why": "The rubric's 'forced or child labour findings': Brazilian slave-like labour fines on Zara Brasil, upheld in court."
+      },
+      "legal": {
+        "value": 2,
+        "accept": false,
+        "why": "R5: a court upheld the slave-labour fines in a contested case, which is a court finding of serious wrongdoing at company level.",
+        "reason": "Company-level court finding: Brazilian courts upheld fines against Zara Brasil over slave-like labour in its supply chain, found by inspectors in 2011; the case closed in 2017. No personal legal record for Amancio Ortega was found."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending consumer-regulator charges in Poland."
+      }
     },
     "carlos-slim-helu-and-family": {
-      "legal": { "value": 2, "accept": true, "why": "R5: a federal tribunal held Telcel liable to rivals for interconnection charges (under appeal), and the Supreme Court upheld the dominance regime." },
-      "unresolved": { "value": 2, "accept": true, "why": "Company-level pending matters: the appeal of the 2018 damages ruling and Telcel's challenge to the 2025 fine. Documented on findings f3 and f4 rather than estimated.", "basis": "documented", "finding_ids": ["f3", "f4"] }
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: a federal tribunal held Telcel liable to rivals for interconnection charges (under appeal), and the Supreme Court upheld the dominance regime."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Company-level pending matters: the appeal of the 2018 damages ruling and Telcel's challenge to the 2025 fine. Documented on findings f3 and f4 rather than estimated.",
+        "basis": "documented",
+        "finding_ids": [
+          "f3",
+          "f4"
+        ]
+      }
     },
     "francoise-bettencourt-meyers-and-family": {
-      "social": { "value": 2, "accept": true, "why": "Court-upheld cartel fine on L'Oréal: a documented company-level competition problem." },
-      "legal": { "value": 3, "accept": true, "why": "R2: a personal mise en examen (2016), dismissed in 2019, falls under 'personal indictment even if later dropped', as Adani's dismissed indictment does. The reason states the dismissal." },
-      "unresolved": { "value": 2, "accept": true, "why": "Pending US hair-relaxer litigation against L'Oréal." }
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Court-upheld cartel fine on L'Oréal: a documented company-level competition problem."
+      },
+      "legal": {
+        "value": 3,
+        "accept": true,
+        "why": "R2: a personal mise en examen (2016), dismissed in 2019, falls under 'personal indictment even if later dropped', as Adani's dismissed indictment does. The reason states the dismissal."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending US hair-relaxer litigation against L'Oréal."
+      }
     },
     "mukesh-ambani": {
-      "legal": { "value": 1, "accept": true, "why": "R4: both personal SEBI penalties were set aside and SEBI's appeals dismissed. At company level, the Supreme Court set aside the fraud finding and upheld only a disclosure breach. The personal matters stay in his legal record." },
-      "unresolved": { "value": 2, "accept": true, "why": "The KG-D6 gas claim is pending (in mediation)." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "R4: both personal SEBI penalties were set aside and SEBI's appeals dismissed. At company level, the Supreme Court set aside the fraud finding and upheld only a disclosure breach. The personal matters stay in his legal record."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "The KG-D6 gas claim is pending (in mediation)."
+      }
     },
     "thomas-peterffy": {
-      "politics": { "value": 2, "accept": true, "why": "Multi-million personal gifts to Republican committees and PACs: 'major donor'. The cycle total could not be sourced, so not 3." },
-      "social": { "value": 2, "accept": true, "why": "Penalties for anti-money-laundering and sanctions failures plus a customer class settlement." },
-      "legal": { "value": 1, "accept": true, "why": "Regulatory penalties at company level." }
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Multi-million personal gifts to Republican committees and PACs: 'major donor'. The cycle total could not be sourced, so not 3."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Penalties for anti-money-laundering and sanctions failures plus a customer class settlement."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Regulatory penalties at company level."
+      }
     },
     "julia-koch-and-family": {
-      "legal": { "value": 2, "accept": true, "why": "R5: corporate guilty plea (2001). More than 25 years old, which the reason says." }
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: corporate guilty plea (2001). More than 25 years old, which the reason says."
+      }
     },
     "charles-koch-and-family": {
-      "legal": { "value": 2, "accept": true, "why": "R5: corporate guilty plea (2001), the same company-level record as Julia Koch's." }
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: corporate guilty plea (2001), the same company-level record as Julia Koch's."
+      }
     },
     "zhang-yiming": {
-      "politics": { "value": 2, "accept": false, "why": "R7: the state's board seat and the Supreme Court's national-security ruling are company-level; Zhang has no documented personal role. The current value stays, now documented with the proposed text." },
-      "social": { "value": 2, "accept": true, "why": "GDPR fine over child users and the $400m COPPA settlement." },
-      "legal": { "value": 1, "accept": true, "why": "Regulatory fines under appeal and a settlement below $1bn with no determination of liability." },
-      "unresolved": { "value": 2, "accept": true, "why": "Open Digital Services Act proceedings and pending appeals." }
+      "politics": {
+        "value": 2,
+        "accept": false,
+        "why": "R7: the state's board seat and the Supreme Court's national-security ruling are company-level; Zhang has no documented personal role. The current value stays, now documented with the proposed text."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "GDPR fine over child users and the $400m COPPA settlement."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Regulatory fines under appeal and a settlement below $1bn with no determination of liability."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Open Digital Services Act proceedings and pending appeals."
+      }
     },
     "zhong-shanshan": {
-      "legal": { "value": 1, "accept": true, "why": "A small regulatory fine from 2013, upheld at first instance." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "A small regulatory fine from 2013, upheld at first instance."
+      }
     },
     "dieter-schwarz": {
-      "social": { "value": 2, "accept": true, "why": "Settled competition fines and an appeal-court finding of misleading advertising." },
-      "legal": { "value": 1, "accept": true, "why": "R5: settled fines with no published amounts and a commercial unfair-competition ruling still under cassation appeal." },
-      "unresolved": { "value": 1, "accept": true, "why": "Whether the cassation appeal is pending was not established, so 2 ('pending case') is not documented. Labour concerns rest on reporting." }
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Settled competition fines and an appeal-court finding of misleading advertising."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "R5: settled fines with no published amounts and a commercial unfair-competition ruling still under cassation appeal."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Whether the cassation appeal is pending was not established, so 2 ('pending case') is not documented. Labour concerns rest on reporting."
+      }
     },
     "tadashi-yanai-and-family": {
-      "legal": { "value": 1, "accept": true, "why": "A provisional regulatory fine in Korea. The defamation suit Uniqlo lost is not a finding against it (R5)." },
-      "unresolved": { "value": 1, "accept": true, "why": "Allegations in closed or refused complaints and a closed FLA case: concerns raised by reporting." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "A provisional regulatory fine in Korea. The defamation suit Uniqlo lost is not a finding against it (R5)."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Allegations in closed or refused complaints and a closed FLA case: concerns raised by reporting."
+      }
     },
     "ma-huateng": {
-      "politics": { "value": 3, "accept": true, "why": "R7: two terms as a National People's Congress deputy, plus Tencent's 1260H listing, which it disputes." },
-      "social": { "value": 2, "accept": true, "why": "SAMR's order on music exclusivity: a documented market-power problem." },
-      "legal": { "value": 1, "accept": true, "why": "Regulatory fines at company level." }
+      "politics": {
+        "value": 3,
+        "accept": true,
+        "why": "R7: two terms as a National People's Congress deputy, plus Tencent's 1260H listing, which it disputes."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "SAMR's order on music exclusivity: a documented market-power problem."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Regulatory fines at company level."
+      }
     },
     "robin-zeng": {
-      "politics": { "value": 3, "accept": true, "why": "R7: a member of the CPPCC National Committee and a vice-chairman of the ACFIC, plus CATL's 1260H listing, which it disputes." },
-      "unresolved": { "value": 1, "accept": true, "why": "A disputed listing and denied allegations, with no pending case." }
+      "politics": {
+        "value": 3,
+        "accept": true,
+        "why": "R7: a member of the CPPCC National Committee and a vice-chairman of the ACFIC, plus CATL's 1260H listing, which it disputes."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "A disputed listing and denied allegations, with no pending case."
+      }
     },
     "iris-fontbona-and-family": {
-      "legal": { "value": 2, "accept": true, "why": "R5: Chile's Supreme Court ordered Los Pelambres to restore the stream. The later annulment hit only the demolition order." }
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: Chile's Supreme Court ordered Los Pelambres to restore the stream. The later annulment hit only the demolition order."
+      }
     },
     "masayoshi-son": {
-      "politics": { "value": 2, "accept": false, "why": "R7: the Saudi ties are commercial and company-level, and the $50m library gift is SoftBank's. 'Documented political favours / major donor' fits; a personal role in an authoritarian state's institutions is not documented." },
-      "legal": { "value": 1, "accept": false, "why": "R5: the WeWork settlement was paid largely through share purchases and had no admission. It settled a contract dispute and paid no damages for wrongdoing.", "reason": "In 2021 SoftBank settled two Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion tender offer, saying it would pay about $1.6 billion in transactions with WeWork shareholders, with no admission of liability. This is a settlement, not a court finding. No personal legal record for Masayoshi Son was found." },
-      "unresolved": { "value": 1, "accept": true, "why": "The FT's reporting on his debts to SoftBank, and lawmakers' questions that do not amount to an investigation." }
+      "politics": {
+        "value": 2,
+        "accept": false,
+        "why": "R7: the Saudi ties are commercial and company-level, and the $50m library gift is SoftBank's. 'Documented political favours / major donor' fits; a personal role in an authoritarian state's institutions is not documented."
+      },
+      "legal": {
+        "value": 1,
+        "accept": false,
+        "why": "R5: the WeWork settlement was paid largely through share purchases and had no admission. It settled a contract dispute and paid no damages for wrongdoing.",
+        "reason": "In 2021 SoftBank settled two Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion tender offer, saying it would pay about $1.6 billion in transactions with WeWork shareholders, with no admission of liability. This is a settlement, not a court finding. No personal legal record for Masayoshi Son was found."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "The FT's reporting on his debts to SoftBank, and lawmakers' questions that do not amount to an investigation."
+      }
     },
     "jacqueline-mars": {
-      "legal": { "value": 1, "accept": true, "why": "An OSHA fine and an FTC consent order: regulatory action." },
-      "unresolved": { "value": 1, "accept": true, "why": "Child-labour concerns raised by reporting; a private company with little disclosure." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "An OSHA fine and an FTC consent order: regulatory action."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Child-labour concerns raised by reporting; a private company with little disclosure."
+      }
     },
     "john-mars": {
-      "legal": { "value": 1, "accept": true, "why": "Same company-level record as Jacqueline Mars." },
-      "unresolved": { "value": 1, "accept": true, "why": "Same as Jacqueline Mars." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Same company-level record as Jacqueline Mars."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Same as Jacqueline Mars."
+      }
     },
     "li-ka-shing": {
-      "legal": { "value": 1, "accept": false, "why": "R5: the Panama ruling concerns the constitutionality of the concession, not wrongdoing by the company. The comptroller's audit allegations are denied and untested." },
-      "unresolved": { "value": 2, "accept": true, "why": "Pending ICC arbitration and the SAMR review." }
+      "legal": {
+        "value": 1,
+        "accept": false,
+        "why": "R5: the Panama ruling concerns the constitutionality of the concession, not wrongdoing by the company. The comptroller's audit allegations are denied and untested."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending ICC arbitration and the SAMR review."
+      }
     },
     "mark-mateschitz": {
-      "politics": { "value": 2, "accept": true, "why": "Co-owner (49%) of the group that owns ServusTV, Austria's most-watched domestic private channel: 'owner of influential media'." },
-      "legal": { "value": 1, "accept": true, "why": "An FIA penalty and a partial Constitutional Court finding under media law at company level." },
-      "unresolved": { "value": 2, "accept": true, "why": "The European Commission's formal abuse-of-dominance investigation is open." }
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Co-owner (49%) of the group that owns ServusTV, Austria's most-watched domestic private channel: 'owner of influential media'."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "An FIA penalty and a partial Constitutional Court finding under media law at company level."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "The European Commission's formal abuse-of-dominance investigation is open."
+      }
     },
     "gianluigi-aponte": {
-      "social": { "value": 2, "accept": true, "why": "FMC penalties for overcharging and a price-fixing referral." },
-      "legal": { "value": 1, "accept": true, "why": "A regulatory penalty at company level." },
-      "unresolved": { "value": 2, "accept": true, "why": "The Kerala suit and the Competition Tribunal referral are pending." }
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "FMC penalties for overcharging and a price-fixing referral."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "A regulatory penalty at company level."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "The Kerala suit and the Competition Tribunal referral are pending."
+      }
     },
     "rafaela-aponte-diamant": {
-      "social": { "value": 2, "accept": true, "why": "Same company-level record as Gianluigi Aponte." },
-      "legal": { "value": 1, "accept": true, "why": "Same as Gianluigi Aponte." },
-      "unresolved": { "value": 2, "accept": true, "why": "Same as Gianluigi Aponte." }
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Same company-level record as Gianluigi Aponte."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Same as Gianluigi Aponte."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Same as Gianluigi Aponte."
+      }
     },
     "andrea-pignataro": {
-      "legal": { "value": 2, "accept": false, "why": "R3: a €280m personal tax settlement with no penalty, following the Simons precedent. The criminal investigation was dismissed before any charge, so it is not an indictment (R2)." },
-      "unresolved": { "value": 1, "accept": true, "why": "Opacity of the private structure; Bank of Italy scrutiny reported." }
+      "legal": {
+        "value": 2,
+        "accept": false,
+        "why": "R3: a €280m personal tax settlement with no penalty, following the Simons precedent. The criminal investigation was dismissed before any charge, so it is not an indictment (R2)."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Opacity of the private structure; Bank of Italy scrutiny reported."
+      }
     },
     "alain-wertheimer": {
-      "legal": { "value": 1, "accept": true, "why": "R5: Chanel's €3m share of a 2006 cartel fine, upheld in 2012: old and small." },
-      "unresolved": { "value": 1, "accept": true, "why": "Milan supplier probe, in which Chanel is not under investigation, and an opaque offshore holding structure." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "R5: Chanel's €3m share of a 2006 cartel fine, upheld in 2012: old and small."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Milan supplier probe, in which Chanel is not under investigation, and an opaque offshore holding structure."
+      }
     },
     "gerard-wertheimer": {
-      "legal": { "value": 1, "accept": true, "why": "Same as Alain Wertheimer." },
-      "unresolved": { "value": 1, "accept": true, "why": "Same as Alain Wertheimer." }
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Same as Alain Wertheimer."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Same as Alain Wertheimer."
+      }
     }
   },
   "counterweights": {
-    "gianluigi-aponte": { "keep": false, "why": "R8: UNICEF reports money the MSC Foundation raised; MSC's own share and the value of donated freight are not stated." },
-    "rafaela-aponte-diamant": { "keep": false, "why": "Same as Gianluigi Aponte." },
-    "mark-mateschitz": { "keep": false, "why": "R8: Wings for Life UK's grants are mostly committed, not paid, and are funded largely by corporate sponsors; there is no giving by Mateschitz or an amount Red Bull paid." },
-    "dieter-schwarz": { "keep": true, "why": "41 endowed professorships, documented by TUM, are operating giving; the text says no euro amounts are published." },
-    "alain-wertheimer": { "keep": true, "why": "Grant expenditure in the foundation's filed accounts, worded as such." },
-    "gerard-wertheimer": { "keep": true, "why": "Same as Alain Wertheimer." }
+    "gianluigi-aponte": {
+      "keep": false,
+      "why": "R8: UNICEF reports money the MSC Foundation raised; MSC's own share and the value of donated freight are not stated."
+    },
+    "rafaela-aponte-diamant": {
+      "keep": false,
+      "why": "Same as Gianluigi Aponte."
+    },
+    "mark-mateschitz": {
+      "keep": false,
+      "why": "R8: Wings for Life UK's grants are mostly committed, not paid, and are funded largely by corporate sponsors; there is no giving by Mateschitz or an amount Red Bull paid."
+    },
+    "dieter-schwarz": {
+      "keep": true,
+      "why": "41 endowed professorships, documented by TUM, are operating giving; the text says no euro amounts are published."
+    },
+    "alain-wertheimer": {
+      "keep": true,
+      "why": "Grant expenditure in the foundation's filed accounts, worded as such."
+    },
+    "gerard-wertheimer": {
+      "keep": true,
+      "why": "Same as Alain Wertheimer."
+    }
   },
   "legal_record": {
     "larry-ellison": [
-      { "f": "f1", "nature": "Shareholder suit alleging insider trading (personal)", "outcome": "Settled 2005: $100m to charity, $22m in fees, no admission" },
-      { "f": "f2", "nature": "Derivative suit over the NetSuite purchase (personal)", "outcome": "Ruled for the defendants 2023; affirmed 2025" },
-      { "f": "f3", "nature": "SEC foreign-bribery charges (Oracle)", "outcome": "Resolved 2022: over $23m, neither admitted nor denied" },
-      { "f": "f4", "nature": "Privacy class action (Oracle)", "outcome": "Settled 2024: $115m, wrongdoing denied" },
-      { "f": "f9", "nature": "Investor class actions (Oracle; Ellison named in one)", "outcome": "Pending" }
+      {
+        "f": "f1",
+        "nature": "Shareholder suit alleging insider trading",
+        "outcome": "Settled 2005: $100m to charity, $22m in fees, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Derivative suit over the NetSuite purchase",
+        "outcome": "Ruled for the defendants 2023; affirmed 2025",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f3",
+        "nature": "SEC foreign-bribery charges (Oracle)",
+        "outcome": "Resolved 2022: over $23m, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Privacy class action (Oracle)",
+        "outcome": "Settled 2024: $115m, wrongdoing denied",
+        "status": "settled"
+      },
+      {
+        "f": "f9",
+        "nature": "Investor class actions (Oracle; Ellison named in one)",
+        "outcome": "Pending",
+        "status": "pending"
+      }
     ],
     "jensen-huang": [
-      { "f": "f1", "nature": "SEC disclosure charges (Nvidia)", "outcome": "Settled 2022: $5.5m, neither admitted nor denied" },
-      { "f": "f2", "nature": "Securities class action (Nvidia and Huang)", "outcome": "Pending; class certified March 2026" },
-      { "f": "f3", "nature": "Derivative suits (three captioned against Huang)", "outcome": "Pending, stayed" },
-      { "f": "f4", "nature": "Chinese anti-monopoly investigation (Nvidia)", "outcome": "Preliminary violation finding 2025; investigation continues" },
-      { "f": "f5", "nature": "US Justice Department inquiry (Nvidia), reported", "outcome": "Reported only; no enforcement action" }
+      {
+        "f": "f1",
+        "nature": "SEC disclosure charges (Nvidia)",
+        "outcome": "Settled 2022: $5.5m, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Securities class action (Nvidia and Huang)",
+        "outcome": "Pending; class certified March 2026",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "Derivative suits (three captioned against Huang)",
+        "outcome": "Pending, stayed",
+        "status": "pending"
+      },
+      {
+        "f": "f4",
+        "nature": "Chinese anti-monopoly investigation (Nvidia)",
+        "outcome": "Preliminary violation finding 2025; investigation continues",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "US Justice Department inquiry (Nvidia), reported",
+        "outcome": "Reported only; no enforcement action",
+        "status": "reported"
+      }
     ],
     "warren-buffett": [
-      { "f": "f1", "nature": "US claims over fires started by power lines (PacifiCorp)", "outcome": "Settled 2026: $575m, liability denied" },
-      { "f": "f2", "nature": "Wildfire class action (PacifiCorp)", "outcome": "Jury verdict 2023, reversed on appeal 2026; before the Oregon Supreme Court" },
-      { "f": "f3", "nature": "Commission conspiracy suit (HomeServices)", "outcome": "Jury found liability 2023; settled 2024 for $250m" },
-      { "f": "f4", "nature": "Trespass suit by the Swinomish tribe (BNSF)", "outcome": "Judge found trespass 2023; settled 2025 on confidential terms" },
-      { "f": "f5", "nature": "Iran sanctions violations (Iscar Turkey)", "outcome": "Settled 2020: $4.1m to OFAC" }
+      {
+        "f": "f1",
+        "nature": "US claims over fires started by power lines (PacifiCorp)",
+        "outcome": "Settled 2026: $575m, liability denied",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Wildfire class action (PacifiCorp)",
+        "outcome": "Jury verdict 2023, reversed on appeal 2026; before the Oregon Supreme Court",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "Commission conspiracy suit (HomeServices)",
+        "outcome": "Jury found liability 2023; settled 2024 for $250m",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Trespass suit by the Swinomish tribe (BNSF)",
+        "outcome": "Judge found trespass 2023; settled 2025 on confidential terms",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "Iran sanctions violations (Iscar Turkey)",
+        "outcome": "Settled 2020: $4.1m to OFAC",
+        "status": "settled"
+      }
     ],
     "amancio-ortega": [
-      { "f": "f1", "nature": "Labour fines for slave-like conditions (Zara Brasil)", "outcome": "Upheld in court; closed 2017" },
-      { "f": "f2", "nature": "Criminal complaints over forced Uyghur labour (Inditex), France", "outcome": "Probe dropped for lack of jurisdiction; refusal to investigate upheld 2025; new complaint announced" },
-      { "f": "f5", "nature": "Greenwashing charges by Poland's consumer regulator (Zara)", "outcome": "Pending" }
+      {
+        "f": "f1",
+        "nature": "Labour fines for slave-like conditions (Zara Brasil)",
+        "outcome": "Upheld in court; closed 2017",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Criminal complaints over forced Uyghur labour (Inditex), France",
+        "outcome": "Probe dropped for lack of jurisdiction; refusal to investigate upheld 2025; new complaint announced",
+        "status": "dismissed"
+      },
+      {
+        "f": "f5",
+        "nature": "Greenwashing charges by Poland's consumer regulator (Zara)",
+        "outcome": "Pending",
+        "status": "pending"
+      }
     ],
     "carlos-slim-helu-and-family": [
-      { "f": "f1", "nature": "Designation as dominant ('preponderant') operator (América Móvil)", "outcome": "Upheld by the Supreme Court 2021" },
-      { "f": "f2", "nature": "Competition fine over call termination (Telcel)", "outcome": "Revoked after commitments" },
-      { "f": "f3", "nature": "Damages suit by rivals over interconnection (Telcel)", "outcome": "Liability ruling 2018; under appeal" },
-      { "f": "f4", "nature": "Competition fines over exclusivity (Telcel)", "outcome": "Imposed 2024 and 2025; the 2025 fine is contested" },
-      { "f": "f5", "nature": "Metro Line 12 collapse (Grupo Carso consortium)", "outcome": "Responsibility denied; rebuilt at no cost under a 2021 agreement" }
+      {
+        "f": "f1",
+        "nature": "Designation as dominant ('preponderant') operator (América Móvil)",
+        "outcome": "Upheld by the Supreme Court 2021",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Competition fine over call termination (Telcel)",
+        "outcome": "Revoked after commitments",
+        "status": "dismissed"
+      },
+      {
+        "f": "f3",
+        "nature": "Damages suit by rivals over interconnection (Telcel)",
+        "outcome": "Liability ruling 2018; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f4",
+        "nature": "Competition fines over exclusivity (Telcel)",
+        "outcome": "Imposed 2024 and 2025; the 2025 fine is contested",
+        "status": "penalty"
+      },
+      {
+        "f": "f5",
+        "nature": "Metro Line 12 collapse (Grupo Carso consortium)",
+        "outcome": "Responsibility denied; rebuilt at no cost under a 2021 agreement",
+        "status": "other"
+      }
     ],
     "francoise-bettencourt-meyers-and-family": [
-      { "f": "f1", "nature": "Cartel fine (L'Oréal)", "outcome": "Upheld by the Paris Court of Appeal 2020" },
-      { "f": "f2", "nature": "Criminal investigation for witness tampering (personal; mise en examen)", "outcome": "Dismissed (non-lieu) 2019" },
-      { "f": "f3", "nature": "Consumer fraud suit over hair relaxers (L'Oréal)", "outcome": "Pending" }
+      {
+        "f": "f1",
+        "nature": "Cartel fine (L'Oréal)",
+        "outcome": "Upheld by the Paris Court of Appeal 2020",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Criminal investigation for witness tampering (mise en examen)",
+        "outcome": "Dismissed (non-lieu) 2019",
+        "status": "dismissed"
+      },
+      {
+        "f": "f3",
+        "nature": "Consumer fraud suit over hair relaxers (L'Oréal)",
+        "outcome": "Pending",
+        "status": "pending"
+      }
     ],
     "mukesh-ambani": [
-      { "f": "f1", "nature": "SEBI penalty of ₹15 crore (personal)", "outcome": "Set aside 2023; SEBI's appeal dismissed 2024" },
-      { "f": "f3", "nature": "Joint SEBI penalty of ₹25 crore (personal, with others)", "outcome": "Set aside 2023; SEBI's appeal dismissed 2024" },
-      { "f": "f2", "nature": "SEBI fraud finding and disgorgement (Reliance)", "outcome": "Fraud finding set aside 2026; disclosure breach upheld" },
-      { "f": "f4", "nature": "Government gas claim, KG-D6 (Reliance consortium)", "outcome": "Pending; in mediation since October 2026" }
+      {
+        "f": "f1",
+        "nature": "SEBI penalty of ₹15 crore",
+        "outcome": "Set aside 2023; SEBI's appeal dismissed 2024",
+        "status": "dismissed"
+      },
+      {
+        "f": "f3",
+        "nature": "Joint SEBI penalty of ₹25 crore (joint, with others)",
+        "outcome": "Set aside 2023; SEBI's appeal dismissed 2024",
+        "status": "dismissed"
+      },
+      {
+        "f": "f2",
+        "nature": "SEBI fraud finding and disgorgement (Reliance)",
+        "outcome": "Fraud finding set aside 2026; disclosure breach upheld",
+        "status": "finding"
+      },
+      {
+        "f": "f4",
+        "nature": "Government gas claim, KG-D6 (Reliance consortium)",
+        "outcome": "Pending; in mediation since October 2026",
+        "status": "pending"
+      }
     ],
     "thomas-peterffy": [
-      { "f": "f1", "nature": "Anti-money-laundering penalties (Interactive Brokers)", "outcome": "Settled 2020: $38m, neither admitted nor denied" },
-      { "f": "f2", "nature": "Sanctions violations (Interactive Brokers)", "outcome": "Settled 2025: $11.8m to OFAC" },
-      { "f": "f3", "nature": "Customer class action over margin liquidations (Interactive Brokers)", "outcome": "Settled 2026: $5m plus about $1.8m in forgiven debts, no admission" }
+      {
+        "f": "f1",
+        "nature": "Anti-money-laundering penalties (Interactive Brokers)",
+        "outcome": "Settled 2020: $38m, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Sanctions violations (Interactive Brokers)",
+        "outcome": "Settled 2025: $11.8m to OFAC",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Customer class action over margin liquidations (Interactive Brokers)",
+        "outcome": "Settled 2026: $5m plus about $1.8m in forgiven debts, no admission",
+        "status": "settled"
+      }
     ],
     "julia-koch-and-family": [
-      { "f": "f1", "nature": "EPA oil-spill penalty (Koch Industries)", "outcome": "Settled 2000: $30m" },
-      { "f": "f2", "nature": "Clean Air Act benzene violations (Koch Petroleum Group)", "outcome": "Guilty plea 2001: $10m criminal fines" },
-      { "f": "f3", "nature": "Excess emissions claims (Flint Hills Resources)", "outcome": "Settled 2014: $350,000 penalty" }
+      {
+        "f": "f1",
+        "nature": "EPA oil-spill penalty (Koch Industries)",
+        "outcome": "Settled 2000: $30m",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Clean Air Act benzene violations (Koch Petroleum Group)",
+        "outcome": "Guilty plea 2001: $10m criminal fines",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f3",
+        "nature": "Excess emissions claims (Flint Hills Resources)",
+        "outcome": "Settled 2014: $350,000 penalty",
+        "status": "settled"
+      }
     ],
     "charles-koch-and-family": [
-      { "f": "f1", "nature": "EPA oil-spill penalty (Koch Industries)", "outcome": "Settled 2000: $30m" },
-      { "f": "f2", "nature": "Clean Air Act benzene violations (Koch Petroleum Group)", "outcome": "Guilty plea 2001: $10m criminal fines" },
-      { "f": "f3", "nature": "Excess emissions claims (Flint Hills Resources)", "outcome": "Settled 2014: $350,000 penalty" }
+      {
+        "f": "f1",
+        "nature": "EPA oil-spill penalty (Koch Industries)",
+        "outcome": "Settled 2000: $30m",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Clean Air Act benzene violations (Koch Petroleum Group)",
+        "outcome": "Guilty plea 2001: $10m criminal fines",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f3",
+        "nature": "Excess emissions claims (Flint Hills Resources)",
+        "outcome": "Settled 2014: $350,000 penalty",
+        "status": "settled"
+      }
     ],
     "zhang-yiming": [
-      { "f": "f1", "nature": "GDPR fine over data transfers to China (TikTok)", "outcome": "€530m, 2025; under appeal" },
-      { "f": "f2", "nature": "GDPR fine over child users (TikTok)", "outcome": "€345m, 2023; under appeal" },
-      { "f": "f3", "nature": "US Justice Department children's privacy suit (TikTok, ByteDance)", "outcome": "Settled 2026: $400m, no determination of liability" },
-      { "f": "f4", "nature": "Digital Services Act proceedings (TikTok)", "outcome": "Preliminary findings 2026; open" },
-      { "f": "f5", "nature": "Challenge to the US divest-or-ban law (TikTok)", "outcome": "Law upheld by the Supreme Court 2025" }
+      {
+        "f": "f1",
+        "nature": "GDPR fine over data transfers to China (TikTok)",
+        "outcome": "€530m, 2025; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "GDPR fine over child users (TikTok)",
+        "outcome": "€345m, 2023; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "US Justice Department children's privacy suit (TikTok, ByteDance)",
+        "outcome": "Settled 2026: $400m, no determination of liability",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Digital Services Act proceedings (TikTok)",
+        "outcome": "Preliminary findings 2026; open",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "Challenge to the US divest-or-ban law (TikTok)",
+        "outcome": "Law upheld by the Supreme Court 2025",
+        "status": "finding"
+      }
     ],
     "zhong-shanshan": [
-      { "f": "f2", "nature": "Unfair competition fine (Nongfu Spring)", "outcome": "Upheld on review and at first instance; appeal outcome unknown" }
+      {
+        "f": "f2",
+        "nature": "Unfair competition fine (Nongfu Spring)",
+        "outcome": "Upheld on review and at first instance; appeal outcome unknown",
+        "status": "penalty"
+      }
     ],
     "dieter-schwarz": [
-      { "f": "f1", "nature": "Resale price maintenance fines (Kaufland, Lidl)", "outcome": "Settled 2015 and 2016; amounts not published" },
-      { "f": "f2", "nature": "Misleading advertising suit by Intermarché (Lidl)", "outcome": "Ordered to pay €43m on appeal 2025; cassation appeal announced" }
+      {
+        "f": "f1",
+        "nature": "Resale price maintenance fines (Kaufland, Lidl)",
+        "outcome": "Settled 2015 and 2016; amounts not published",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Misleading advertising suit by Intermarché (Lidl)",
+        "outcome": "Ordered to pay €43m on appeal 2025; cassation appeal announced",
+        "status": "pending"
+      }
     ],
     "tadashi-yanai-and-family": [
-      { "f": "f1", "nature": "US customs detention of shirts over Xinjiang cotton (Uniqlo)", "outcome": "Protest rejected 2021; later withdrawn" },
-      { "f": "f2", "nature": "Criminal complaints over forced Uyghur labour (Uniqlo), France", "outcome": "Inquiry closed; refusal to investigate upheld 2025; new complaint announced" },
-      { "f": "f4", "nature": "Defamation suit brought by Uniqlo against a publisher", "outcome": "Dismissed; final 2014" },
-      { "f": "f5", "nature": "Misleading advertising fine (FRL Korea)", "outcome": "Provisional fine 2022" }
+      {
+        "f": "f1",
+        "nature": "US customs detention of shirts over Xinjiang cotton (Uniqlo)",
+        "outcome": "Protest rejected 2021; later withdrawn",
+        "status": "other"
+      },
+      {
+        "f": "f2",
+        "nature": "Criminal complaints over forced Uyghur labour (Uniqlo), France",
+        "outcome": "Inquiry closed; refusal to investigate upheld 2025; new complaint announced",
+        "status": "dismissed"
+      },
+      {
+        "f": "f4",
+        "nature": "Defamation suit brought by Uniqlo against a publisher",
+        "outcome": "Dismissed; final 2014",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f5",
+        "nature": "Misleading advertising fine (FRL Korea)",
+        "outcome": "Provisional fine 2022",
+        "status": "penalty"
+      }
     ],
     "ma-huateng": [
-      { "f": "f1", "nature": "Anti-monopoly order on music exclusivity (Tencent)", "outcome": "Order and fine 2021" },
-      { "f": "f2", "nature": "Payment regulation fine (Tencent, Tenpay)", "outcome": "About 2.99bn yuan, 2023" }
+      {
+        "f": "f1",
+        "nature": "Anti-monopoly order on music exclusivity (Tencent)",
+        "outcome": "Order and fine 2021",
+        "status": "penalty"
+      },
+      {
+        "f": "f2",
+        "nature": "Payment regulation fine (Tencent, Tenpay)",
+        "outcome": "About 2.99bn yuan, 2023",
+        "status": "penalty"
+      }
     ],
     "robin-zeng": [],
     "iris-fontbona-and-family": [
-      { "f": "f1", "nature": "Community suit over the El Mauro tailings dam (Los Pelambres)", "outcome": "Supreme Court restoration order 2014; demolition order annulled 2016" },
-      { "f": "f2", "nature": "Environmental fines (Los Pelambres, Centinela)", "outcome": "Imposed 2023 and 2026" },
-      { "f": "f3", "nature": "Cancellation of federal mineral leases (Twin Metals)", "outcome": "Cancelled 2022; not restored as of August 2026" }
+      {
+        "f": "f1",
+        "nature": "Community suit over the El Mauro tailings dam (Los Pelambres)",
+        "outcome": "Supreme Court restoration order 2014; demolition order annulled 2016",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Environmental fines (Los Pelambres, Centinela)",
+        "outcome": "Imposed 2023 and 2026",
+        "status": "penalty"
+      },
+      {
+        "f": "f3",
+        "nature": "Cancellation of federal mineral leases (Twin Metals)",
+        "outcome": "Cancelled 2022; not restored as of August 2026",
+        "status": "other"
+      }
     ],
     "masayoshi-son": [
-      { "f": "f3", "nature": "WeWork suits over a withdrawn tender offer (SoftBank)", "outcome": "Settled 2021, no admission" }
+      {
+        "f": "f3",
+        "nature": "WeWork suits over a withdrawn tender offer (SoftBank)",
+        "outcome": "Settled 2021, no admission",
+        "status": "settled"
+      }
     ],
     "jacqueline-mars": [
-      { "f": "f1", "nature": "Workplace safety citation (Mars Wrigley)", "outcome": "Fined 2023: more than $14,500" },
-      { "f": "f3", "nature": "Merger review of the VCA purchase (Mars)", "outcome": "FTC consent order 2017: 12 clinics divested" }
+      {
+        "f": "f1",
+        "nature": "Workplace safety citation (Mars Wrigley)",
+        "outcome": "Fined 2023: more than $14,500",
+        "status": "penalty"
+      },
+      {
+        "f": "f3",
+        "nature": "Merger review of the VCA purchase (Mars)",
+        "outcome": "FTC consent order 2017: 12 clinics divested",
+        "status": "settled"
+      }
     ],
     "john-mars": [
-      { "f": "f1", "nature": "Workplace safety citation (Mars Wrigley)", "outcome": "Fined 2023: more than $14,500" },
-      { "f": "f3", "nature": "Merger review of the VCA purchase (Mars)", "outcome": "FTC consent order 2017: 12 clinics divested" }
+      {
+        "f": "f1",
+        "nature": "Workplace safety citation (Mars Wrigley)",
+        "outcome": "Fined 2023: more than $14,500",
+        "status": "penalty"
+      },
+      {
+        "f": "f3",
+        "nature": "Merger review of the VCA purchase (Mars)",
+        "outcome": "FTC consent order 2017: 12 clinics divested",
+        "status": "settled"
+      }
     ],
     "li-ka-shing": [
-      { "f": "f1", "nature": "Constitutional challenge to the Panama ports concession (CK Hutchison)", "outcome": "Concession ruled unconstitutional 2026; no wrongdoing found" },
-      { "f": "f2", "nature": "ICC arbitration against Panama (Panama Ports Company)", "outcome": "Pending" },
-      { "f": "f3", "nature": "Chinese antitrust review of the ports sale (CK Hutchison)", "outcome": "Pending" }
+      {
+        "f": "f1",
+        "nature": "Constitutional challenge to the Panama ports concession (CK Hutchison)",
+        "outcome": "Concession ruled unconstitutional 2026; no wrongdoing found",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "ICC arbitration against Panama (Panama Ports Company)",
+        "outcome": "Pending",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "Chinese antitrust review of the ports sale (CK Hutchison)",
+        "outcome": "Pending",
+        "status": "pending"
+      }
     ],
     "mark-mateschitz": [
-      { "f": "f1", "nature": "EU abuse-of-dominance investigation (Red Bull)", "outcome": "Opened 2025; pending" },
-      { "f": "f2", "nature": "Media-law objectivity case (ServusTV)", "outcome": "Breaches partly upheld by the Constitutional Court 2026" },
-      { "f": "f4", "nature": "Formula 1 cost-cap breach (Red Bull Racing)", "outcome": "Accepted 2022: $7m penalty" }
+      {
+        "f": "f1",
+        "nature": "EU abuse-of-dominance investigation (Red Bull)",
+        "outcome": "Opened 2025; pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "Media-law objectivity case (ServusTV)",
+        "outcome": "Breaches partly upheld by the Constitutional Court 2026",
+        "status": "finding"
+      },
+      {
+        "f": "f4",
+        "nature": "Formula 1 cost-cap breach (Red Bull Racing)",
+        "outcome": "Accepted 2022: $7m penalty",
+        "status": "settled"
+      }
     ],
     "gianluigi-aponte": [
-      { "f": "f1", "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking", "outcome": "Pending" },
-      { "f": "f2", "nature": "Shipping Act violations (MSC)", "outcome": "Penalty of $22.67m imposed 2026" },
-      { "f": "f4", "nature": "Price-fixing referral in South Africa (MSC)", "outcome": "Before the Competition Tribunal" }
+      {
+        "f": "f1",
+        "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking",
+        "outcome": "Pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "Shipping Act violations (MSC)",
+        "outcome": "Penalty of $22.67m imposed 2026",
+        "status": "penalty"
+      },
+      {
+        "f": "f4",
+        "nature": "Price-fixing referral in South Africa (MSC)",
+        "outcome": "Before the Competition Tribunal",
+        "status": "pending"
+      }
     ],
     "rafaela-aponte-diamant": [
-      { "f": "f1", "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking", "outcome": "Pending" },
-      { "f": "f2", "nature": "Shipping Act violations (MSC)", "outcome": "Penalty of $22.67m imposed 2026" },
-      { "f": "f4", "nature": "Price-fixing referral in South Africa (MSC)", "outcome": "Before the Competition Tribunal" }
+      {
+        "f": "f1",
+        "nature": "Admiralty suit by Kerala over the MSC Elsa 3 sinking",
+        "outcome": "Pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "Shipping Act violations (MSC)",
+        "outcome": "Penalty of $22.67m imposed 2026",
+        "status": "penalty"
+      },
+      {
+        "f": "f4",
+        "nature": "Price-fixing referral in South Africa (MSC)",
+        "outcome": "Before the Competition Tribunal",
+        "status": "pending"
+      }
     ],
     "andrea-pignataro": [
-      { "f": "f1", "nature": "Tax residence assessment, 2013 to 2023 (personal)", "outcome": "Settled 2025: €280m, no admission, no penalties" },
-      { "f": "f2", "nature": "Criminal tax evasion investigation (personal)", "outcome": "Dismissed without charges, October 2025" }
+      {
+        "f": "f1",
+        "nature": "Tax residence assessment, 2013 to 2023",
+        "outcome": "Settled 2025: €280m, no admission, no penalties",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Criminal tax evasion investigation",
+        "outcome": "Dismissed without charges, October 2025",
+        "status": "dismissed"
+      }
     ],
     "alain-wertheimer": [
-      { "f": "f1", "nature": "Perfume price-fixing fine (Chanel)", "outcome": "€3m, 2006; upheld on appeal 2012" },
-      { "f": "f2", "nature": "Milan labour probe into suppliers' workshops", "outcome": "Offices searched 2026; Chanel not under investigation" }
+      {
+        "f": "f1",
+        "nature": "Perfume price-fixing fine (Chanel)",
+        "outcome": "€3m, 2006; upheld on appeal 2012",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Milan labour probe into suppliers' workshops",
+        "outcome": "Offices searched 2026; Chanel not under investigation",
+        "status": "other"
+      }
     ],
     "gerard-wertheimer": [
-      { "f": "f1", "nature": "Perfume price-fixing fine (Chanel)", "outcome": "€3m, 2006; upheld on appeal 2012" },
-      { "f": "f2", "nature": "Milan labour probe into suppliers' workshops", "outcome": "Offices searched 2026; Chanel not under investigation" }
+      {
+        "f": "f1",
+        "nature": "Perfume price-fixing fine (Chanel)",
+        "outcome": "€3m, 2006; upheld on appeal 2012",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Milan labour probe into suppliers' workshops",
+        "outcome": "Offices searched 2026; Chanel not under investigation",
+        "status": "other"
+      }
     ]
+  },
+  "legal_status": {
+    "pending": "Pending or open",
+    "plea_or_conviction": "Conviction or guilty plea",
+    "finding": "Court or regulator finding",
+    "penalty": "Penalty imposed",
+    "settled": "Settled",
+    "dismissed": "Dropped, dismissed or set aside",
+    "ruled_for": "Decided in their favour",
+    "reported": "Reported inquiry",
+    "other": "Other official action"
   }
 }

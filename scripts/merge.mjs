@@ -66,6 +66,7 @@ const log = {
   switches: [], stillUnchecked: [], uncheckProposals: [], removedGeneric: [], deleted: [], rewritten: [],
   decided: [], counterweightsDropped: [], legal: [],
 };
+if (D?.legal_status) data.legal_status = D.legal_status;
 const decidedValue = new Map(); // `${id}:${dim}` -> value set by a decision
 
 const records = files.map((file) => ({ file, rec: readJSON(file) })).sort((a, b) => a.rec.id - b.rec.id);
@@ -114,6 +115,13 @@ for (const { file, rec } of records) {
   const findingById = new Map(rec.findings.map((f) => [f.id, f]));
   const sourceById = new Map(rec.sources.map((s) => [s.id, s]));
   const proposedScores = rec.proposal?.scores ?? {};
+  // Who the evidence behind a score is about: the person, the family, the company or a
+  // foundation, from the level of each finding it cites. Documented scores only.
+  const LEVEL_ORDER = ['individual', 'family', 'company', 'foundation'];
+  const levelsOf = (ids) => {
+    const set = new Set((ids ?? []).map((id) => findingById.get(id)?.level).filter(Boolean));
+    return set.size ? { levels: LEVEL_ORDER.filter((l) => set.has(l)) } : {};
+  };
   const sameValue = [];
   const changes = [];
   for (const dim of DIMS) {
@@ -139,7 +147,7 @@ for (const { file, rec } of records) {
     if (basis === 'documented' && !ids.some((id) => findingById.get(id).source_ids.some((s) => sourceById.get(s)?.names_subject)))
       fail(`decisions.json: ${rec.slug} ${dim} is documented but no cited finding has a source naming the subject`);
     const cur = person.scores[dim];
-    const to = { value: d.value, basis, reason: d.reason ?? prop.reason };
+    const to = { value: d.value, basis, reason: d.reason ?? prop.reason, ...levelsOf(ids) };
     log.decided.push({ name, slug: rec.slug, dim, from: { ...cur }, proposed: prop, to, accept: d.accept, why: d.why, ownText: Boolean(d.reason), findings: ids.map((id) => findingById.get(id)), sourceById, keyFor });
     person.scores[dim] = to;
     decidedValue.set(`${rec.id}:${dim}`, d.value);
@@ -155,7 +163,7 @@ for (const { file, rec } of records) {
   if (!held) {
     for (const a of sameValue) {
       log.applied.push({ name, dim: a.dim, from: a.from, to: a.to });
-      person.scores[a.dim] = { value: a.from.value, basis: a.to.basis, reason: a.to.reason };
+      person.scores[a.dim] = { value: a.from.value, basis: a.to.basis, reason: a.to.reason, ...levelsOf(a.to.finding_ids) };
     }
   }
   if (undecided.length) {
@@ -186,7 +194,8 @@ for (const { file, rec } of records) {
       const f = findingById.get(e.f);
       if (!f) fail(`decisions.json: legal_record for ${rec.slug} cites unknown finding ${e.f}`);
       if (!e.nature || !e.outcome) fail(`decisions.json: legal_record for ${rec.slug} ${e.f} needs nature and outcome`);
-      return { date: f.date, nature: e.nature, outcome: e.outcome, level: f.level, entity: f.entity, summary: f.claim, sources: f.source_ids.map((id) => keyFor.get(id)) };
+      if (!(e.status in (D.legal_status ?? {}))) fail(`decisions.json: legal_record for ${rec.slug} ${e.f} has unknown status "${e.status}"`);
+      return { date: f.date, nature: e.nature, outcome: e.outcome, status: e.status, level: f.level, entity: f.entity, summary: f.claim, sources: f.source_ids.map((id) => keyFor.get(id)) };
     }).sort((a, b) => b.date.localeCompare(a.date));
     log.legal.push({ name, entries: person.legal_record });
   }

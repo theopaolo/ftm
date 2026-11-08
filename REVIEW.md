@@ -262,10 +262,10 @@ Every legal matter found, including those dropped, dismissed, set aside or decid
 
 - **Larry Ellison (#6)**
   - 2026-02-05 · Investor class actions (Oracle; Ellison named in one) · company: Pending.
-  - 2025-01-21 · Derivative suit over the NetSuite purchase (personal) · individual: Ruled for the defendants 2023; affirmed 2025.
+  - 2025-01-21 · Derivative suit over the NetSuite purchase · individual: Ruled for the defendants 2023; affirmed 2025.
   - 2024-09-11 · Privacy class action (Oracle) · company: Settled 2024: $115m, wrongdoing denied.
   - 2022-09-27 · SEC foreign-bribery charges (Oracle) · company: Resolved 2022: over $23m, neither admitted nor denied.
-  - 2005-11-22 · Shareholder suit alleging insider trading (personal) · individual: Settled 2005: $100m to charity, $22m in fees, no admission.
+  - 2005-11-22 · Shareholder suit alleging insider trading · individual: Settled 2005: $100m to charity, $22m in fees, no admission.
 - **Jensen Huang (#8)**
   - 2026-10 · US Justice Department inquiry (Nvidia), reported · company: Reported only; no enforcement action.
   - 2026-07-26 · Derivative suits (three captioned against Huang) · individual: Pending, stayed.
@@ -291,12 +291,12 @@ Every legal matter found, including those dropped, dismissed, set aside or decid
 - **Françoise Bettencourt Meyers & family (#20)**
   - 2026-09 · Consumer fraud suit over hair relaxers (L'Oréal) · company: Pending.
   - 2020-06-18 · Cartel fine (L'Oréal) · company: Upheld by the Paris Court of Appeal 2020.
-  - 2016-07-07 · Criminal investigation for witness tampering (personal; mise en examen) · individual: Dismissed (non-lieu) 2019.
+  - 2016-07-07 · Criminal investigation for witness tampering (mise en examen) · individual: Dismissed (non-lieu) 2019.
 - **Mukesh Ambani (#21)**
   - 2026-10 · Government gas claim, KG-D6 (Reliance consortium) · company: Pending; in mediation since October 2026.
   - 2026-05 · SEBI fraud finding and disgorgement (Reliance) · company: Fraud finding set aside 2026; disclosure breach upheld.
-  - 2024-11 · SEBI penalty of ₹15 crore (personal) · individual: Set aside 2023; SEBI's appeal dismissed 2024.
-  - 2024-11 · Joint SEBI penalty of ₹25 crore (personal, with others) · individual: Set aside 2023; SEBI's appeal dismissed 2024.
+  - 2024-11 · SEBI penalty of ₹15 crore · individual: Set aside 2023; SEBI's appeal dismissed 2024.
+  - 2024-11 · Joint SEBI penalty of ₹25 crore (joint, with others) · individual: Set aside 2023; SEBI's appeal dismissed 2024.
 - **Thomas Peterffy (#23)**
   - 2026-06-17 · Customer class action over margin liquidations (Interactive Brokers) · company: Settled 2026: $5m plus about $1.8m in forgiven debts, no admission.
   - 2025-07-15 · Sanctions violations (Interactive Brokers) · company: Settled 2025: $11.8m to OFAC.
@@ -358,8 +358,8 @@ Every legal matter found, including those dropped, dismissed, set aside or decid
   - 2025-12-02 · Price-fixing referral in South Africa (MSC) · company: Before the Competition Tribunal.
   - 2025-12 · Admiralty suit by Kerala over the MSC Elsa 3 sinking · company: Pending.
 - **Andrea Pignataro (#46)**
-  - 2025-10 · Criminal tax evasion investigation (personal) · individual: Dismissed without charges, October 2025.
-  - 2025-06 · Tax residence assessment, 2013 to 2023 (personal) · individual: Settled 2025: €280m, no admission, no penalties.
+  - 2025-10 · Criminal tax evasion investigation · individual: Dismissed without charges, October 2025.
+  - 2025-06 · Tax residence assessment, 2013 to 2023 · individual: Settled 2025: €280m, no admission, no penalties.
 - **Alain Wertheimer (#49)**
   - 2026-07-16 · Milan labour probe into suppliers' workshops · company: Offices searched 2026; Chanel not under investigation.
   - 2006-03 · Perfume price-fixing fine (Chanel) · company: €3m, 2006; upheld on appeal 2012.
