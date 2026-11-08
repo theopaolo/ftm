@@ -1,0 +1,383 @@
+{
+  "id": 30,
+  "slug": "german-larrea-and-family",
+  "name": "Germán Larrea & family",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Río Sonora derrame Grupo México 2025 Semarnat Sheinbaum acuerdo remediación",
+    "Grupo México acuerdo gobierno Plan de Justicia Cananea mineros pago Río Sonora denuncia retirada",
+    "Semarnat demanda responsabilidad ambiental Grupo México Buenavista del Cobre juzgado distrito 2023 Río Sonora",
+    "Pasta de Conchos 65 mineros Grupo México rescate cuerpos 2025 2026 acuerdo responsabilidad",
+    "Pasta de Conchos IACHR Mexico friendly settlement OR report Industrial Minera México explosion 2006",
+    "Pasta de Conchos mine explosion Grupo Mexico 65 miners bodies recovered",
+    "Americas Mining Corp v. Theriault Delaware Supreme Court 2012 Southern Peru $2 billion judgment affirmed",
+    "justice.gov Asarco bankruptcy $1.79 billion environmental cleanup settlement December 2009 press release",
+    "Mexico decree occupies Ferrosur rail lines Grupo Mexico May 2023 agreement Larrea",
+    "Germán Larrea consejo asesor empresarial López Obrador 2018 Grupo México relación gobierno",
+    "Grupo Mexico pays Southern Copper judgment $2.1 billion Americas Mining Theriault shares returned 2012",
+    "Grupo México juez Río Sonora 2026 cumplimiento sentencia denuncia Semarnat desistimiento",
+    "Grupo México informe de desarrollo sustentable 2024 energía renovable porcentaje emisiones alcance 1 y 2 reducción Fundación Grupo México inversión social millones",
+    "gmexico.com Sustainable Development Report 2024 pdf renewable energy Fenicias wind farm 34.5%",
+    "\"Fundación Grupo México\" donó millones de pesos 2024 OR 2025 inversión social reforestación Dr. Vagón",
+    "\"Grupo México\" pagará mil millones Río Sonora Sheinbaum 2026",
+    "Profepa multa Buenavista del Cobre derrame 2014 millones de pesos Suprema Corte amparo presa de jales Bacanuchi participación"
+  ],
+  "sources": [
+    {
+      "id": "elfinanciero-profepa-2015",
+      "label": "El Financiero: Profepa fines Grupo México 22 million pesos over Sonora spill (2015)",
+      "url": "https://www.elfinanciero.com.mx/empresas/profepa-multa-a-gmexico-con-22-mdp-por-contaminar-rio-en-sonora/",
+      "publisher": "El Financiero (Notimex)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2015-03-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "mnd-semarnat-2023",
+      "label": "Mexico News Daily: Environment ministry takes Grupo México to court over spill (2023)",
+      "url": "https://mexiconewsdaily.com/business/environment-grupo-mexico-sonora-river-spill",
+      "publisher": "Mexico News Daily",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-10-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elimparcial-semarnat-2023",
+      "label": "El Imparcial: Semarnat files criminal complaint against Grupo México (2023)",
+      "url": "https://www.elimparcial.com/mexico/2023/10/12/semarnat-denuncia-penalmente-a-grupo-mexico-porque-no-remedio-el-rio-sonora-fideicomiso-es-una-burla-albores/",
+      "publisher": "El Imparcial",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-10-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "scjn-ar-640-2019",
+      "label": "Supreme Court of Mexico: Amparo en revisión 640/2019, Río Sonora trust (2020)",
+      "url": "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/sentencia/2021-10/AR%20640-2019.pdf",
+      "publisher": "Suprema Corte de Justicia de la Nación",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2020-01-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elimparcial-plan-cananea-2025",
+      "label": "El Imparcial: What the Cananea justice plan with Grupo México includes (2025)",
+      "url": "https://www.elimparcial.com/mexico/2025/12/29/plan-de-justicia-de-cananea-que-incluye-el-acuerdo-con-grupo-mexico-y-como-impactara-a-sonora/",
+      "publisher": "El Imparcial",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elimparcial-deposit-2026",
+      "label": "El Imparcial: Grupo México deposits first 500 million pesos, says Sheinbaum (2026)",
+      "url": "https://www.elimparcial.com/mexico/2026/02/13/deposita-grupo-mexico-los-primeros-500-mdp-para-construccion-del-uveas-en-ures-sheinbaum/",
+      "publisher": "El Imparcial",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elimparcial-pending-2026",
+      "label": "El Imparcial: Sheinbaum says Grupo México about to pay remaining 1,000m pesos (2026)",
+      "url": "https://www.elimparcial.com/son/sonora/2026/04/20/sheinbaum-anuncia-visita-a-sonora-en-mayo-para-informar-a-comunidades-del-rio-sonora-acuerdo-con-grupo-mexico/",
+      "publisher": "El Imparcial",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "mnd-pasta-de-conchos-2024",
+      "label": "Mexico News Daily: More remains recovered at Pasta de Conchos mine (2024)",
+      "url": "https://mexiconewsdaily.com/news/more-remains-found-2006-pasta-de-conchos-mine-explosion/",
+      "publisher": "Mexico News Daily",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-07-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elimparcial-pasta-de-conchos-2026",
+      "label": "El Imparcial: Body 26 recovered at Pasta de Conchos (2026)",
+      "url": "https://www.elimparcial.com/mexico/2026/04/18/recuperan-cuerpo-26-en-pasta-de-conchos-continuan-rescates-a-mas-de-20-anos-de-la-explosion-minera-en-coahuila/",
+      "publisher": "El Imparcial",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "delaware-theriault-2012",
+      "label": "Delaware Supreme Court: Americas Mining Corp. v. Theriault (2012)",
+      "url": "https://courts.delaware.gov/opinions/download.aspx?ID=177520",
+      "publisher": "Supreme Court of the State of Delaware",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2012-08-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "epa-asarco-2009",
+      "label": "US EPA: Asarco bankruptcy yields $1.79 billion for environmental cleanup (2009)",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/c40dd49b8eebe5ff85257688006c9c7f.html",
+      "publisher": "U.S. Environmental Protection Agency",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2009-12-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-asarco-2009",
+      "label": "AP (via NBC News): Record $1.79 billion paid to clean up mines (2009)",
+      "url": "https://www.nbcnews.com/id/wbna34369729",
+      "publisher": "Associated Press (via NBC News)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2009-12-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "expansion-letter-2018",
+      "label": "Expansión: Coparmex backs Germán Larrea after AMLO criticism (2018)",
+      "url": "https://expansion.mx/empresas/2018/05/30/la-coparmex-respalda-a-german-larrea-tras-critica-de-amlo",
+      "publisher": "Expansión",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2018-05-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberglinea-larrea-2023",
+      "label": "Bloomberg Línea: Who is Germán Larrea, the mining tycoon targeted by AMLO? (2023)",
+      "url": "https://www.bloomberglinea.com/english/who-is-german-larrea-the-mexican-mining-tycoon-targeted-by-amlo/",
+      "publisher": "Bloomberg Línea",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-05-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "mnd-ferrosur-2023",
+      "label": "Mexico News Daily: AMLO says deal reached with Grupo México over seized railway (2023)",
+      "url": "https://mexiconewsdaily.com/news/deal-reached-with-grupo-mexico-over-seized-railway",
+      "publisher": "Mexico News Daily",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-06-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gmexico-results-1q-2024",
+      "label": "Grupo México: First-quarter 2024 results (2024)",
+      "url": "https://ferromex.mx/wp-content/uploads/2024/05/RF_ES_2024_1T.pdf",
+      "publisher": "Grupo México",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2024-04-25",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Buenavista del Cobre (Grupo México)",
+      "claim": "On 6 August 2014 about 40,000 cubic metres of acidic copper sulphate solution from Grupo México's Buenavista del Cobre mine spilled into the Bacanuchi and Sonora rivers, affecting about 22,000 people. Profepa fined the mine 22.96 million pesos in March 2015, which it called the highest fine under Mexican environmental law, alongside a 2,000 million peso trust.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2015-03-02",
+      "source_ids": [
+        "elfinanciero-profepa-2015",
+        "mnd-semarnat-2023"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Buenavista del Cobre (Grupo México)",
+      "claim": "On 15 January 2020 the Second Chamber of Mexico's Supreme Court granted an amparo to affected residents, voiding the 2017 extinction of the Río Sonora trust and the return of its remaining funds, and ordering the authorities to hear residents before ruling again on whether remediation and the trust's aims were met.",
+      "evidence_type": "final_ruling",
+      "date": "2020-01-15",
+      "source_ids": [
+        "scjn-ar-640-2019"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Mexicana de Cananea, Buenavista del Cobre and Operadora de Minas e Instalaciones Mineras (Grupo México)",
+      "claim": "Semarnat filed a criminal complaint on 17 August 2023 against three Grupo México subsidiaries, alleging they had failed to remediate the 2014 spill; its own 2023 assessment found the clean-up insufficient. Grupo México disputed the findings and said the remediation was successful. This is an allegation, not a finding of guilt.",
+      "evidence_type": "pending_case",
+      "date": "2023-08-17",
+      "source_ids": [
+        "mnd-semarnat-2023",
+        "elimparcial-semarnat-2023"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Grupo México",
+      "claim": "Under a December 2025 agreement with the federal government, Grupo México committed 1,500 million pesos to Río Sonora remediation and to ending the Cananea strike begun in 2007. The president said 500 million had been paid by February 2026 and 1,000 million was still due in April 2026, and that the federal case should close through an alternative resolution.",
+      "evidence_type": "settlement",
+      "date": "2026-04-20",
+      "source_ids": [
+        "elimparcial-plan-cananea-2025",
+        "elimparcial-deposit-2026",
+        "elimparcial-pending-2026"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Industrial Minera México (Grupo México)",
+      "claim": "A methane explosion on 19 February 2006 at the Pasta de Conchos coal mine, run by Grupo México, killed 65 miners; the company recovered two bodies and halted the rescue in 2007. No company or government official was held legally responsible as of 2024, and by April 2026 a federal recovery had found 26 bodies.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-04-18",
+      "source_ids": [
+        "mnd-pasta-de-conchos-2024",
+        "elimparcial-pasta-de-conchos-2026"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "individual",
+      "entity": "Germán Larrea, Americas Mining Corporation (Grupo México)",
+      "claim": "In 2011 Delaware's Court of Chancery held that Americas Mining and the Grupo México-affiliated directors of Southern Peru, named defendants including Germán Larrea, breached their duty of loyalty by making Southern Peru overpay for Minera México in 2005. It entered a $2.03 billion judgment, which the Delaware Supreme Court affirmed on 27 August 2012.",
+      "evidence_type": "final_ruling",
+      "date": "2012-08-27",
+      "source_ids": [
+        "delaware-theriault-2012"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Asarco (Grupo México)",
+      "claim": "Asarco, owned by Grupo México since 1999, paid $1.79 billion in December 2009 to settle environmental claims in its bankruptcy, covering more than 80 polluted sites in 19 US states; Grupo México funded the reorganisation plan and regained control. Officials called it the largest environmental clean-up recovery in US history.",
+      "evidence_type": "settlement",
+      "date": "2009-12-10",
+      "source_ids": [
+        "epa-asarco-2009",
+        "ap-asarco-2009"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Germán Larrea",
+      "claim": "In May 2018, before Mexico's presidential election, Germán Larrea sent a letter to Grupo México's workers, suppliers and shareholders urging them not to vote for a populist government, read as a reference to López Obrador, who called him an influence peddler. Coparmex, the employers' federation, defended him.",
+      "evidence_type": "investigative_reporting",
+      "date": "2018-05-30",
+      "source_ids": [
+        "expansion-letter-2018",
+        "bloomberglinea-larrea-2023"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "public-money",
+      "level": "company",
+      "entity": "Ferrosur (Grupo México)",
+      "claim": "On 19 May 2023 the navy occupied about 120 km of Grupo México's Ferrosur rail concession under a government decree. Under a deal announced on 1 June 2023, Ferrosur gave up the section for an eight-year extension of another concession to 2044, with no cash compensation, and dropped legal action over a cancelled Maya Train contract.",
+      "evidence_type": "investigative_reporting",
+      "date": "2023-06-01",
+      "source_ids": [
+        "mnd-ferrosur-2023"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Grupo México",
+      "claim": "Grupo México reported in April 2024 that renewable electricity rose from 19% to 32% of its consumption in 2023, mainly through clean-energy certificates covering its Peruvian operations, and that group greenhouse gas emissions fell about 4% from 2022. These are company figures, not independently verified.",
+      "evidence_type": "company_disclosure",
+      "date": "2024-04-25",
+      "source_ids": [
+        "gmexico-results-1q-2024"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 4,
+        "basis": "documented",
+        "reason": "A Grupo México mine spilled about 40,000 cubic metres of toxic copper solution into the Sonora River in 2014, described as the worst disaster in Mexican mining. Profepa fined the mine 22.96 million pesos in 2015. Its US unit Asarco paid $1.79 billion in 2009 to settle clean-up claims at more than 80 polluted sites. The company reports more renewable power since 2023.",
+        "finding_ids": [
+          "f1",
+          "f7",
+          "f10"
+        ]
+      },
+      "politics": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Germán Larrea urged Grupo México's workers and shareholders in 2018 not to vote for a populist government, read as aimed at López Obrador. In 2023 the government seized a Ferrosur rail section and settled by extending another concession. No political donations, media ownership or documented political favours were found.",
+        "finding_ids": [
+          "f8",
+          "f9"
+        ]
+      },
+      "social": {
+        "value": 4,
+        "basis": "documented",
+        "reason": "A 2006 explosion at Grupo México's Pasta de Conchos coal mine killed 65 miners; the company halted the rescue in 2007, no one was held legally responsible, and by 2026 a federal recovery had found 26 bodies. The 2014 Sonora spill affected about 22,000 people. A strike at Cananea that began in 2007 ended under a 2025 agreement with the government.",
+        "finding_ids": [
+          "f1",
+          "f4",
+          "f5"
+        ]
+      },
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Personal civil liability: Delaware courts held in 2011 and 2012 that Grupo México's Americas Mining and affiliated directors, including Germán Larrea, breached their duty of loyalty to Southern Peru, with a $2.03 billion judgment. At company level: a 2015 Profepa fine, a 2020 Supreme Court ruling voiding the Río Sonora trust's closure, Asarco's $1.79 billion settlement in 2009 and a 2025 agreement with the government.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f4",
+          "f6",
+          "f7"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Semarnat's 2023 criminal complaint against three Grupo México subsidiaries over the unremediated Sonora spill is an allegation; the president said in 2026 it should close through an alternative resolution, and 1,000 million pesos of the agreed 1,500 million was still unpaid in April 2026. Whether the case is closed was not confirmed. No pending personal matter was found.",
+        "finding_ids": [
+          "f3",
+          "f4"
+        ]
+      }
+    },
+    "counterweights": "Grupo México reported that renewable electricity rose from 19% to 32% of its use in 2023, mainly through clean-energy certificates in Peru, and that group emissions fell about 4% (company figures).",
+    "rationale": "Ecology stays 4. The AP source could not be opened; the spill is re-sourced. Politics stays 1: a personal election letter, no donations. Social 2 to 4: 65 deaths at Pasta de Conchos, a mine Grupo México ran (Mittal precedent). Legal 0 to 3: a Delaware ruling held named directors, Larrea among them, liable for breach of loyalty (Musk precedent); who paid the judgment was not found. Unresolved 0 to 2: company-level complaint pending; a reported 2026 withdrawal rests on one advocacy outlet only, not cited."
+  }
+}
