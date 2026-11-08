@@ -1,0 +1,344 @@
+{
+  "id": 28,
+  "slug": "jeff-yass",
+  "name": "Jeff Yass",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Senate Finance Committee Wyden Susquehanna Jeff Yass tax investigation",
+    "Susquehanna fined SEC OR FINRA OR CFTC penalty",
+    "Susquehanna Tax Court Swiss stock trade 2010 IRS case decision",
+    "Yass $121 million back taxes 2019 Supreme Court Susquehanna appeal",
+    "\"SIH Partners\" 167 T.C. No. 8 opinion",
+    "SIH Partners Third Circuit section 956 Merrill Lynch guarantee affirmed certiorari denied",
+    "Susquehanna Yass Tax Court ruling August 2026 Swiss dividends IRS wins (Bloomberg Tax result paywalled; not cited)",
+    "SIH Partners LLLP v. Commissioner docket 10099-20 opinion Weiler Susquehanna (Leagle full text paywalled; not cited)",
+    "SIH Partners 2026 Tax Court basket swap appeal Third Circuit notice of appeal Susquehanna",
+    "Supreme Court declines Susquehanna affiliate appeal loan guarantee tax 2020 Inquirer (case.law page returned 404; not cited)",
+    "Susquehanna International Securities Revenue Commissioners Supreme Court Ireland group relief judgment",
+    "Irish Times Susquehanna Court of Appeal tax relief losses Revenue 2025 (The Currency paywalled; not cited)",
+    "\"Susquehanna\" SEC settled charges order trading firm penalty 2022 OR 2023 OR 2024 OR 2025 OR 2026",
+    "finra.org disciplinary actions Susquehanna Financial Group TRACE $100,000 censure 2025",
+    "OpenSecrets biggest donors 2024 cycle (opensecrets.org could not be fetched; not cited)",
+    "Jeff Yass TikTok ByteDance stake Trump reversal ban 2024 report (Axios returned 403; not cited)",
+    "Claws Foundation Yass grants 990 total contributions paid (foundation's directors include Arthur Dantchik; not attributed to Yass, not cited)",
+    "Jeff Yass donation Binghamton University gift million",
+    "Yass Prize $1 million awarded 2025 winner education STOP award funded by Janine and Jeff Yass (only the organiser's own site gives totals; not cited)"
+  ],
+  "sources": [
+    {
+      "id": "propublica-2022",
+      "label": "ProPublica: How Jeff Yass and Susquehanna cut his taxes (2022)",
+      "url": "https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance",
+      "publisher": "ProPublica",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2022-06-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ca3-2019",
+      "label": "Justia: SIH Partners LLLP v. Commissioner, Third Circuit opinion (2019)",
+      "url": "https://internationaltradeopinions.justia.com/2019/05/07/sih-partners-lllp-v-commissioner-of-internal-revenue/",
+      "publisher": "Justia (US Court of Appeals for the Third Circuit opinion)",
+      "publisher_type": "other",
+      "names_subject": false,
+      "published": "2019-05-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "tpcases-2019",
+      "label": "TPcases: US v. SIH Partners, Third Circuit upholds tax on $377M (2019)",
+      "url": "https://tpcases.com/?p=11044",
+      "publisher": "TPcases",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2019",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "alston-2026",
+      "label": "Alston & Bird: Tax Court undercuts 70/30 basket hedges in SIH Partners (2026)",
+      "url": "https://www.alston.com/en/insights/publications/2026/08/tax-court-undercuts-70-30-basket-hedges",
+      "publisher": "Alston & Bird",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2026-08-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ey-2026",
+      "label": "EY Tax News: Tax Court anti-abuse rule denies QDI and foreign tax credits (2026)",
+      "url": "https://taxnews.ey.com/news/2026-1774-tax-court-applies-anti-abuse-rule-to-deny-qualified-dividend-income-and-foreign-tax-credits",
+      "publisher": "EY",
+      "publisher_type": "other",
+      "names_subject": false,
+      "published": "2026-08-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ie-coa-2025",
+      "label": "Courts Service of Ireland: Revenue v Susquehanna International Group (2025)",
+      "url": "https://judgments.courts.ie/view/judgments/0bb1cbe0-47e1-4e6e-9c6d-4514b6d4a09b/15b86349-8d2c-4a64-a2d7-7f7c2551b419/2025_IECA_123.pdf/pdf",
+      "publisher": "Courts Service of Ireland",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2025-05-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "irishtimes-2020",
+      "label": "Irish Times: Revenue challenges relief on Susquehanna €46.6m losses (2020)",
+      "url": "https://www.irishtimes.com/business/financial-services/revenue-asks-high-court-to-reverse-tax-relief-ruling-on-company-s-46-6m-losses-1.4399406",
+      "publisher": "The Irish Times",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-11-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "finra-2025",
+      "label": "FINRA: Disciplinary and other actions, August 2025 (2025)",
+      "url": "https://www.finra.org/sites/default/files/2025-08/disciplinary-actions-august-2025.pdf",
+      "publisher": "Financial Industry Regulatory Authority",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "box-2023",
+      "label": "BOX Exchange: Disciplinary actions, April 2023 (2023)",
+      "url": "https://boxexchange.com/assets/2023-Disciplinary-Actions_April-13-2023.pdf",
+      "publisher": "BOX Exchange",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2023-04-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-2009",
+      "label": "SEC: 14 specialist firms charged over improper proprietary trading (2009)",
+      "url": "https://www.sec.gov/news/press/2009/2009-42.htm",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2009-03-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elb-2024",
+      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data",
+      "url": "https://electionlawblog.org/?p=149186",
+      "publisher": "Election Law Blog",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "published": "2025-03-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "newsweek-midterms",
+      "label": "Newsweek: billionaire spending in the 2026 midterms, from OpenSecrets data",
+      "url": "https://www.newsweek.com/the-billionaires-who-spent-won-and-lost-the-most-at-the-midterms-12661688",
+      "publisher": "Newsweek",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-2024",
+      "label": "Fortune: Jeff Yass, Susquehanna's ByteDance stake and Trump's TikTok stance (2024)",
+      "url": "https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-12-09",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "texastribune-2025",
+      "label": "Texas Tribune: Jeff Yass gives $100 million to University of Austin (2025)",
+      "url": "https://www.texastribune.org/2025/11/05/university-austin-jeff-yass-donation-free-tuition/",
+      "publisher": "The Texas Tribune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-11-05",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "company",
+      "entity": "SIH Partners LLLP (Susquehanna International Group affiliate)",
+      "claim": "In May 2019 the Third Circuit upheld a Tax Court ruling that SIH Partners, a Susquehanna affiliate, owed tax on about $377 million of income because its foreign subsidiaries had guaranteed a $1.5 billion Merrill Lynch loan to the group. The case was a contested dispute over the validity of IRS regulations; no penalty is reported.",
+      "evidence_type": "final_ruling",
+      "date": "2019-05-07",
+      "source_ids": [
+        "ca3-2019",
+        "tpcases-2019"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "company",
+      "entity": "SIH Partners LLLP (Susquehanna International Group affiliate)",
+      "claim": "On 6 August 2026 the US Tax Court ruled that SIH Partners could not claim qualified-dividend treatment on about $170.8 million of 2012 Swiss dividends, or about $25.6 million of foreign tax credits, because an anti-abuse rule applied to its offsetting Morgan Stanley swap. No penalty is mentioned and no appeal was found.",
+      "evidence_type": "final_ruling",
+      "date": "2026-08-06",
+      "source_ids": [
+        "alston-2026",
+        "ey-2026"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "company",
+      "entity": "Susquehanna International Group Limited and Irish affiliates",
+      "claim": "Ireland's Revenue challenged group relief that Susquehanna's Irish units claimed on €46.6 million of 2010 to 2012 losses, which a tax appeals commissioner had allowed in 2019. The High Court reversed that in 2024 and the Court of Appeal dismissed Susquehanna's appeal on 27 May 2025; no wrongdoing was alleged.",
+      "evidence_type": "final_ruling",
+      "date": "2025-05-27",
+      "source_ids": [
+        "ie-coa-2025",
+        "irishtimes-2020"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Susquehanna Financial Group, LLLP",
+      "claim": "In June 2025 FINRA censured Susquehanna Financial Group and fined it $100,000 for misreporting bond trades to TRACE without a required indicator and lacking supervision of that reporting. The firm neither admitted nor denied the findings and had fixed the error.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2025-06-09",
+      "source_ids": [
+        "finra-2025"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Susquehanna Securities, LLC",
+      "claim": "In 2023 BOX Exchange censured Susquehanna Securities and fined it $80,000 after a FINRA review found it exceeded options position limits four times between January and March 2021.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2023-04-13",
+      "source_ids": [
+        "box-2023"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Susquehanna Investment Group",
+      "claim": "In March 2009, more than ten years ago, Susquehanna Investment Group was among specialist firms that settled SEC charges of improper proprietary trading from 1999 to 2005, without admitting or denying the findings. The SEC gave only a combined total for the settling firms, not Susquehanna's share.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2009-03-04",
+      "source_ids": [
+        "sec-2009"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Jeff Yass",
+      "claim": "Using leaked IRS data, ProPublica reported in 2022 that Yass paid an average 19% federal income tax rate from 2013 to 2018, avoided an estimated $1 billion through Susquehanna trading strategies, and paid $121 million in back taxes with two partners in 2019 after a dispute the firm took to the Supreme Court. Susquehanna called the story error-ridden and based on stolen records.",
+      "evidence_type": "investigative_reporting",
+      "date": "2022-06-21",
+      "source_ids": [
+        "propublica-2022"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Jeff Yass",
+      "claim": "Jeff and Janine Yass gave $101.1 million in the 2024 cycle, sixth among the six US donors above $100 million, per OpenSecrets data. In the 2026 cycle OpenSecrets counted $109 million of his outside spending, third among billionaires, including top backing for Vivek Ramaswamy in Ohio.",
+      "evidence_type": "official_report",
+      "date": "2026-11",
+      "source_ids": [
+        "elb-2024",
+        "newsweek-midterms"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Jeff Yass",
+      "claim": "Susquehanna reportedly holds about 15% of TikTok owner ByteDance and Yass about 7% personally. Reporting has set this against Trump's 2024 shift against a TikTok ban, but any link remains speculative and no statement by Yass on it was found.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-12-09",
+      "source_ids": [
+        "fortune-2024"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "individual",
+      "entity": "Jeff Yass",
+      "claim": "In 2025 Yass gave $100 million to the University of Austin to make tuition permanently free, on condition it never takes government money. The university had received $50 million by November 2025, with the rest due over four years.",
+      "evidence_type": "documented_giving",
+      "date": "2025-11-05",
+      "source_ids": [
+        "texastribune-2025"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and $109 million of outside spending again in the 2026 midterm cycle, third among billionaires, per OpenSecrets data. Reporting has linked his family's ByteDance stake to Trump's 2024 TikTok shift; no influence is established.",
+        "finding_ids": [
+          "f8",
+          "f9"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Susquehanna's partnership lost contested US tax cases: tax on about $377 million upheld on appeal in 2019, and dividend tax benefits denied under an anti-abuse rule by the Tax Court in August 2026. Its Irish units lost a group-relief case in 2025. Regulatory fines are small (FINRA 2025, BOX 2023, SEC 2009). No penalty or charge against Yass personally was found.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f5",
+          "f6",
+          "f7"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Tax-avoidance concerns rest on ProPublica's 2022 reporting from leaked IRS data, which Susquehanna disputes. Whether the August 2026 Tax Court ruling has been appealed was not found. No pending personal case was found.",
+        "finding_ids": [
+          "f2",
+          "f7"
+        ]
+      }
+    },
+    "counterweights": "Gave $100 million to the University of Austin in 2025 for free tuition; $50 million had been received by November 2025.",
+    "rationale": "Politics stays 3; both current facts re-sourced. Legal 0 to 2: court findings against Susquehanna's partnership in contested tax cases (2019, 2026), and Yass with partners paid $121m in back taxes (Simons precedent, R3). If tax-deficiency rulings are not 'wrongdoing' under R5, legal 1 (small fines) is the alternative. Unresolved 0 to 1: concerns raised by reporting; no pending case found."
+  }
+}
