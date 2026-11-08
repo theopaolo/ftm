@@ -1,0 +1,199 @@
+{
+  "id": 34,
+  "slug": "robin-zeng",
+  "name": "Robin Zeng",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "CATL lawsuit Department of Defense 1260H list court ruling",
+    "Robin Zeng Yuqun CPPCC National Committee member CATL chairman",
+    "House Select Committee CCP CATL Uyghur Forced Labor Prevention Act entity list letter DHS",
+    "CATL UFLPA entity list added DHS status 2025 forced labor CATL not added",
+    "CATL Jianxiawo lithium mine Yichun suspended licence expired August 2025 Reuters",
+    "CATL 2025 ESG report scope 1 2 emissions renewable electricity share zero-carbon factories",
+    "Zeng Yuqun donation university foundation billion yuan donated CATL founder philanthropy",
+    "CATL fined penalty regulator court ruling patent infringement judgment 2025",
+    "Ruiting transfer 2 million CATL shares Shanghai Jiao Tong University Education Development Foundation completed registration",
+    "CATL sues Pentagon Chinese military company designation 2026"
+  ],
+  "sources": [
+    {
+      "id": "reuters-1260h-2025",
+      "label": "Reuters (via Daily Maverick): US adds Tencent, CATL to Chinese military list (2025)",
+      "url": "https://www.dailymaverick.co.za/article/2025-01-07-us-adds-tencent-catl-to-list-of-chinese-firms-allegedly-aiding-beijings-military",
+      "publisher": "Reuters, republished by Daily Maverick",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-01-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "dod-1260h-2026",
+      "label": "US Department of Defense: Designation of Chinese military companies (2026)",
+      "url": "https://public-inspection.federalregister.gov/2026-11571.pdf",
+      "publisher": "U.S. Department of Defense, Federal Register",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2026-06-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberg-relief-2026",
+      "label": "Bloomberg (via Transport Topics): CATL seeks removal from Pentagon list (2026)",
+      "url": "https://www.ttnews.com/articles/catl-pentagon-china-blacklist",
+      "publisher": "Bloomberg News, republished by Transport Topics",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "chinadaily-cppcc-2026",
+      "label": "China Daily: Fujian political adviser on new energy sector (2026)",
+      "url": "https://www.chinaservicesinfo.com/s/202603/05/WS69a9125d498e23165e06dd80/fujian-political-adviser-attributes-new-energy-sector-rise-to-policy-innovation.html",
+      "publisher": "China Daily",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gasgoo-cppcc-2026",
+      "label": "Gasgoo: Zeng Yuqun speaks at CPPCC Members' Passage (2026)",
+      "url": "https://autonews.gasgoo.com/articles/ev/2026-two-sessions-zeng-yuqun-speaks-at-members-passage-catl-leads-new-energy-sector-with-innovation-2029511270770790400",
+      "publisher": "Gasgoo",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "congress-uflpa-letter-2024",
+      "label": "US lawmakers: Letter asking DHS to add CATL to UFLPA Entity List (2024)",
+      "url": "https://moolenaar.house.gov/sites/evo-subsites/moolenaar.house.gov/files/evo-media-document/Moolenaar-Letter-To-DHS-CATL.pdf",
+      "publisher": "Office of Rep. John Moolenaar, U.S. House of Representatives",
+      "publisher_type": "legislature",
+      "names_subject": true,
+      "published": "2024-06-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "pvmag-denial-2024",
+      "label": "pv magazine USA: CATL, Gotion deny U.S. accusations of forced labor (2024)",
+      "url": "https://pv-magazine-usa.com/2024/06/13/catl-gotion-deny-u-s-accusations-of-forced-labor/",
+      "publisher": "pv magazine USA",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-06-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "catl-esg-2025",
+      "label": "CATL: 2025 Environmental, Social and Governance Report (2026)",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0309/2026030901390.pdf",
+      "publisher": "Contemporary Amperex Technology Co., Limited (HKEX filing)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-03",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "military",
+      "level": "company",
+      "entity": "CATL",
+      "claim": "In January 2025 the US Defense Department added CATL to its Section 1260H list of Chinese military companies; the June 2026 list keeps it, citing affiliation with China's industry ministry and state-assets commission. CATL calls the listing a mistake, denies any military activity and, as of April 2026, was lobbying for removal.",
+      "evidence_type": "official_report",
+      "date": "2026-06-10",
+      "source_ids": [
+        "reuters-1260h-2025",
+        "dod-1260h-2026",
+        "bloomberg-relief-2026"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Robin Zeng (Zeng Yuqun)",
+      "claim": "As of March 2026 Zeng Yuqun is a member of the National Committee of the Chinese People's Political Consultative Conference and a vice-chairman of the All-China Federation of Industry and Commerce, and spoke at the March 2026 CPPCC session.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-03-05",
+      "source_ids": [
+        "chinadaily-cppcc-2026",
+        "gasgoo-cppcc-2026"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "CATL",
+      "claim": "In June 2024 the chairs of two House committees, joined by Senator Rubio and two other members, asked DHS to put CATL on the Uyghur forced labour entity list, alleging supplier links to Xinjiang state firms accused of forced labour. These are allegations; CATL called them groundless and said some supplier ties had ended.",
+      "evidence_type": "allegation",
+      "date": "2024-06-05",
+      "source_ids": [
+        "congress-uflpa-letter-2024",
+        "pvmag-denial-2024"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "CATL",
+      "claim": "CATL reports that its core battery production bases were certified carbon neutral under ISO 14068-1 in 2025, with their emissions down from 2.35 to 1.75 MtCO2e, after buying 1.55 million tonnes of carbon credits. Group-wide zero-carbon power was 74.22%, and reported value-chain (Scope 3) emissions were about 111 MtCO2e.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-03",
+      "source_ids": [
+        "catl-esg-2025"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Battery manufacturing at global scale. CATL reports its core battery bases were certified carbon neutral in 2025 (emissions 1.75 MtCO2e, offset in part with 1.55 million tonnes of purchased credits), group-wide zero-carbon power of 74.22%, and value-chain emissions of about 111 MtCO2e, which dominate its footprint. These are company figures, not independently audited here.",
+        "finding_ids": [
+          "f4"
+        ]
+      },
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Zeng Yuqun sits on the National Committee of the CPPCC, China's top political advisory body, and is a vice-chairman of the All-China Federation of Industry and Commerce. Since January 2025 the US Defense Department has listed CATL as a Chinese military company, renewed in June 2026; CATL says the listing is a mistake. No donations or lobbying record was checked.",
+        "finding_ids": [
+          "f2",
+          "f1"
+        ]
+      },
+      "social": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "US lawmakers alleged in 2024 that CATL's supply chain has links to Xinjiang firms accused of using Uyghur forced labour and asked DHS to blacklist it; CATL denies this. No official forced-labour finding against CATL was found.",
+        "finding_ids": [
+          "f3"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Two contested questions at company level: the US military-company designation, which CATL disputes and is seeking to have lifted, and lawmakers' forced-labour allegations about its suppliers, which CATL denies. No pending case or investigation was found.",
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
+      }
+    },
+    "counterweights": "CATL reports its core battery bases were certified carbon neutral in 2025, using 1.55 million tonnes of purchased carbon credits for residual emissions; group-wide zero-carbon power was 74.22%. These are the company's own figures.",
+    "rationale": "Politics 1 to 3: CPPCC National Committee seat and ACFIC vice-chair are documented proximity to an authoritarian state, plus the 1260H listing (same reading as Ma Huateng). Unresolved 0 to 1: disputed designation and denied lawmaker allegations, no pending case. Social stays 1: allegations only. Ecology stays 2. Legal untouched: no penalty found. Zeng's SJTU share gifts left out: announced, transfer not confirmed."
+  }
+}

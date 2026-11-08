@@ -22,7 +22,11 @@
     "Schwarz Unternehmenstreuhand Dieter Schwarz Stiftung Stimmrechte Kapital 99,9 Prozent Struktur",
     "\"Lidl\" \"Intermarché\" \"Cour de cassation\" pourvoi arrêt 2026",
     "Lidl France stops TV advertising January 2026 Intermarché ruling appeal Court of Cassation pending",
-    "\"Dieter Schwarz Stiftung\" Ausgaben pro Jahr Millionen Euro größte Stiftungen Deutschland"
+    "\"Dieter Schwarz Stiftung\" Ausgaben pro Jahr Millionen Euro größte Stiftungen Deutschland",
+    "Lidl Intermarché Cour de cassation 43 millions arrêt pourvoi",
+    "Lidl ITM Alimentaire cassation 2026 publicités télévisées décision",
+    "\"24-11.454\" Lidl ITM cassation 13 novembre 2025",
+    "Lidl pourvoi cassation Intermarché 43 millions rejeté OR cassé OR audience 2026"
   ],
   "sources": [
     {
@@ -104,16 +108,6 @@
       "names_subject": true,
       "published": "2019-01-31",
       "accessed": "2026-11-08"
-    },
-    {
-      "id": "bilanz-2024",
-      "label": "Bilanz: Dieses Jahr fliessen die ersten 55 Millionen der Schwarz-Stiftung (2024)",
-      "url": "https://www.bilanz.ch/archiv/dieses-jahr-fliessen-die-ersten-55-millionen-der-schwarz-stiftung/1ry79fs",
-      "publisher": "Bilanz",
-      "publisher_type": "press",
-      "names_subject": true,
-      "published": "2024-02-22",
-      "accessed": "2026-11-08"
     }
   ],
   "findings": [
@@ -126,7 +120,10 @@
       "claim": "In June 2015 and May 2016, now more than ten years ago, Germany's competition authority fined Kaufland (deals with three manufacturers) and Lidl Stiftung (Haribo sweets) for resale price maintenance with brand makers. The fines were settlements and individual amounts were not published; the whole case series totalled about €242 million.",
       "evidence_type": "regulatory_penalty",
       "date": "2016-05-09",
-      "source_ids": ["bkarta-2015", "bkarta-2016"]
+      "source_ids": [
+        "bkarta-2015",
+        "bkarta-2016"
+      ]
     },
     {
       "id": "f2",
@@ -134,10 +131,13 @@
       "theme": "legal",
       "level": "company",
       "entity": "Lidl (France)",
-      "claim": "On 4 July 2025 the Paris appeal court ordered Lidl to pay Intermarché's buying arm €43 million, finding 374 TV ads aired in 2017-2023 misleading because promoted items were not available in all stores, and treating this as unfair competition. A first-instance court had dismissed the claim in 2022; Lidl said it would appeal to the Cour de cassation.",
-      "evidence_type": "final_ruling",
+      "claim": "On 4 July 2025 the Paris appeal court, overturning a 2022 first-instance dismissal, ordered Lidl to pay Intermarché's group (ITM) €43 million, finding 374 TV ads aired in 2017-2023 misleading because promoted items were not available in all stores, and treating this as unfair competition. Lidl announced a cassation appeal; its outcome is not established.",
+      "evidence_type": "pending_case",
       "date": "2025-07-04",
-      "source_ids": ["cbnews-2025", "lemondedudroit-2025"]
+      "source_ids": [
+        "cbnews-2025",
+        "lemondedudroit-2025"
+      ]
     },
     {
       "id": "f3",
@@ -145,10 +145,12 @@
       "theme": "labour",
       "level": "company",
       "entity": "Lidl (Germany)",
-      "claim": "Der Freitag reported in December 2025, citing the union ver.di, that about 3,000 Lidl stores in Germany had no works council and only four of some 40 warehouses had one, and relayed accounts of pressure on council members. Lidl did not dispute the figures, denied any intimidation and said staff are free to set up councils.",
+      "claim": "Der Freitag reported in December 2025, citing the union ver.di, that about 3,000 Lidl stores in Germany had no works council and only four of some 40 warehouses had one, and relayed accounts of pressure on council members. Lidl did not dispute the figures, denied intimidation at the one site it was asked about, and said staff are free to set up councils.",
       "evidence_type": "investigative_reporting",
       "date": "2025-12-29",
-      "source_ids": ["freitag-2025"]
+      "source_ids": [
+        "freitag-2025"
+      ]
     },
     {
       "id": "f4",
@@ -159,7 +161,9 @@
       "claim": "In the Bundestag lobbying register, Lidl Dienstleistung declares €600,001 to €610,000 spent on lobbying in its 2025/26 financial year, across 21 policy areas including labour law, energy, taxes and agriculture. The entry, updated in October 2026, covers this one group company only.",
       "evidence_type": "company_disclosure",
       "date": "2026-10-29",
-      "source_ids": ["lobbyregister-2026"]
+      "source_ids": [
+        "lobbyregister-2026"
+      ]
     },
     {
       "id": "f5",
@@ -167,10 +171,13 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Dieter Schwarz Stiftung",
-      "claim": "TUM says the Dieter Schwarz Stiftung fully funds 41 TUM professorships set up since 2018, 32 in Heilbronn, for an initial 30 years, and it handed TUM a nine-storey building in 2019. Bilanz reported CHF 55 million scheduled for ETH Zurich in 2024 under a 20-chair deal. No audited total of sums paid out was found.",
+      "claim": "TUM says the Dieter Schwarz Stiftung has endowed 41 TUM professorships since 2018, 32 in Heilbronn, fully financed for an initial 30 years, and handed TUM a nine-storey building in Heilbronn in 2019. Neither source gives euro amounts, and no audited total of sums paid out was found.",
       "evidence_type": "documented_giving",
-      "date": "2024-02-22",
-      "source_ids": ["tum-2022", "tum-2019", "bilanz-2024"]
+      "date": "2022-10-13",
+      "source_ids": [
+        "tum-2022",
+        "tum-2019"
+      ]
     }
   ],
   "proposal": {
@@ -179,28 +186,71 @@
         "value": 1,
         "basis": "documented",
         "reason": "Ordinary corporate lobbying: one Lidl service company declares about €600,000 of lobbying in 2025/26 in the Bundestag register, on labour, energy, tax and farm policy. No political donations by Dieter Schwarz or the group were found in this research.",
-        "finding_ids": ["f4"]
+        "finding_ids": [
+          "f4"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Documented company-level problems in market conduct: Kaufland and Lidl settled German fines for resale price maintenance in 2015 and 2016, more than ten years ago, and a Paris appeal court found in 2025 that hundreds of Lidl TV ads misled consumers. Union accounts of thin works-council coverage in Germany are reported, and Lidl denies intimidation. Supplier conditions were not checked.",
-        "finding_ids": ["f1", "f2", "f3"]
+        "reason": "Documented company-level problems in market conduct: Kaufland and Lidl settled German fines for resale price maintenance in 2015 and 2016, more than ten years ago, and a Paris appeal court found in 2025 that hundreds of Lidl TV ads misled consumers; Lidl announced a cassation appeal. Union figures on thin works-council coverage in Germany are reported, and Lidl denies intimidation. Supplier conditions were not checked.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
       },
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Company-level record: Bundeskartellamt fines on Kaufland and Lidl for vertical price fixing, settled in 2015 and 2016, and a 2025 Paris appeal ruling ordering Lidl to pay €43 million to Intermarché over misleading ads, which Lidl said it would take to the Cour de cassation. No personal legal record for Dieter Schwarz was found.",
-        "finding_ids": ["f1", "f2"]
+        "reason": "Company-level record: Bundeskartellamt fines on Kaufland and Lidl for vertical price fixing, settled in 2015 and 2016, and a 2025 Paris appeal ruling ordering Lidl to pay €43 million to Intermarché over misleading ads. Lidl announced a cassation appeal against it; its outcome is not established. No personal legal record for Dieter Schwarz was found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
       },
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "Lidl announced an appeal to France's Cour de cassation against the 2025 ruling; no decision on it was found. Labour concerns in Germany rest on press and union accounts, which Lidl disputes. Nothing personal is pending.",
-        "finding_ids": ["f2", "f3"]
+        "reason": "Lidl announced an appeal to France's Cour de cassation against the 2025 ruling; whether it is pending or decided was not established. Labour concerns in Germany rest on press and union accounts; Lidl does not dispute the works-council figures but denies intimidation. Nothing personal is pending.",
+        "finding_ids": [
+          "f2",
+          "f3"
+        ]
       }
     },
-    "counterweights": "The Dieter Schwarz Stiftung fully funds 41 TUM professorships set up since 2018, 32 of them in Heilbronn, and handed TUM a teaching building in 2019; CHF 55 million was scheduled for ETH Zurich in 2024. No audited total of sums paid out was found.",
-    "rationale": "Legal 0 to 1: settled competition fines (over ten years old) and a 2025 French civil ruling; reading that ruling as a court finding could support 2. Social 1 to 2: price-fixing fines and a court finding of misleading ads are company-level problems; their age, and labour concerns being allegations, could argue for keeping 1. Unresolved 0 to 1: 2 if the cassation appeal is confirmed pending. Politics stays 1, now documented. Ecology not researched."
+    "counterweights": "The Dieter Schwarz Stiftung has endowed 41 TUM professorships since 2018, 32 of them in Heilbronn, fully financed for an initial 30 years, and handed TUM a teaching building in 2019. No euro amounts paid out are published in these sources.",
+    "rationale": "Legal 0 to 1: settled competition fines (over ten years old) and a 2025 French civil appeal ruling under an announced cassation appeal; reading that ruling as a court finding could support 2. Social 1 to 2: price-fixing fines and an appeal-court finding of misleading ads are company-level problems; their age, and labour concerns resting on reporting, could argue for keeping 1. Unresolved 0 to 1: 2 if the cassation appeal is confirmed pending. Politics stays 1, now documented. Ecology not researched."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Bundeskartellamt 2015 release names Kaufland (three manufacturers, three product categories), says all fines were settlements, gives no individual amounts (total about €151.6m that round). 2016 release names Lidl Stiftung & Co. KG for Haribo products, says all but Rossmann settled, no individual amounts, case series total a good €242m."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: CB News/AFP and Le Monde du Droit confirm the 4 July 2025 Paris appeal ruling, €43m, 374 ads 2017-2023, unfair competition, 2022 first-instance loss, and Lidl's announced cassation appeal. No cassation outcome found (searches Nov 2026; a 13 Nov 2025 Cassation rejection, no. 24-11.454, concerns ITM's appeal against an earlier Paris ruling of 19 Jan 2024, not this one, as far as could be established). Claim now says the outcome is not established; beneficiary named as ITM per CB News. evidence_type changed from final_ruling to pending_case: the schema has no value for an appellate ruling under further appeal, and final_ruling overstated it."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: der Freitag (29 Dec 2025) gives the ver.di figures, relays worker and union accounts of pressure, and reports Lidl did not dispute the figures. Lidl denied intimidation only for the Herne account it was asked about, so 'denied any intimidation' was narrowed. Kept as company-level investigative reporting of union figures and allegations."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Register entry R001738, Lidl Dienstleistung GmbH & Co. KG: €600,001-610,000 for FY March 2025-February 2026, 21 fields of interest including labour law, energy, taxes and agriculture; last changed 29 Oct 2026."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: TUM sources confirm 41 professorships endowed since 2018 (32 in Heilbronn), fully financed for 30 years, and the 2019 nine-storey building, with no euro amounts. Bilanz describes the CHF 55m for ETH Zurich as scheduled to flow in 2024, not paid, so it was removed from the claim and the counterweight, and the bilanz-2024 source deleted; date moved to 2022-10-13."
+      }
+    ],
+    "passed": true
   }
 }
