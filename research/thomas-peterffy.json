@@ -1,0 +1,174 @@
+{
+  "id": 23,
+  "slug": "thomas-peterffy",
+  "name": "Thomas Peterffy",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Interactive Brokers $38 million SEC FINRA CFTC anti-money laundering 2020",
+    "Interactive Brokers OFAC settlement sanctions violations 2025",
+    "Thomas Peterffy political donations 2024 Republican super PAC",
+    "Peterffy top donors 2024 cycle OpenSecrets Interactive Brokers founder millions Senate Leadership Fund",
+    "Peterffy donates Trump 2024 campaign Interactive Brokers billionaire report",
+    "OpenSecrets donor lookup name=peterffy cycle=2024 (opensecrets.org could not be fetched; not cited)",
+    "FEC API schedule_a contributor_name=peterffy, two-year periods 2024 and 2026 (api.open.fec.gov)",
+    "Peterffy \"Maryland's Future\" OR \"Keystone Renewal\" OR \"Sentinel Action Fund\" donation million",
+    "Thomas Peterffy 2026 midterms donation Republicans Forbes billionaire donors",
+    "CNBC Peterffy donor Trump fundraiser 2024 Interactive Brokers chairman gave",
+    "Interactive Brokers fined 2024 OR 2025 OR 2026 FINRA SEC penalty",
+    "Peterffy Foundation grants donation million university hospital",
+    "Peterffy Foundation ProPublica nonprofit explorer 990-PF",
+    "\"Thomas Peterffy\" gift donated million school OR museum OR hospital OR university",
+    "Interactive Brokers 10-K 2025 legal proceedings class action pending litigation",
+    "Interactive Brokers liquidation class action settlement $5 million final approval Connecticut 2026 Thomas Frank"
+  ],
+  "sources": [
+    {
+      "id": "sec-2020",
+      "label": "SEC: Interactive Brokers charged over failure to file suspicious activity reports (2020)",
+      "url": "https://www.sec.gov/news/press-release/2020-178",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2020-08-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ofac-2025",
+      "label": "OFAC: Interactive Brokers settles apparent sanctions violations for $11.8M (2025)",
+      "url": "https://ofac.treasury.gov/media/934501/download",
+      "publisher": "U.S. Department of the Treasury, Office of Foreign Assets Control",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-07-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ibkr-10k-2025",
+      "label": "Interactive Brokers: Form 10-K, fiscal year 2025 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/ibkr-20251231.htm",
+      "publisher": "Interactive Brokers Group, Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ibkr-10q-2026q3",
+      "label": "Interactive Brokers: Form 10-Q, quarter ended 30 September 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001381197/000138119726000163/ibkr-20260930.htm",
+      "publisher": "Interactive Brokers Group, Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fec-2024",
+      "label": "FEC: individual contributions from Thomas Peterffy, 2023-24 cycle (2024)",
+      "url": "https://api.open.fec.gov/v1/schedules/schedule_a/?api_key=DEMO_KEY&contributor_name=peterffy&two_year_transaction_period=2024&per_page=100&sort=-contribution_receipt_amount",
+      "publisher": "U.S. Federal Election Commission",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2024",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nbc-youngkin",
+      "label": "NBC News: GOP megadonor Peterffy gives another $1 million to Youngkin PAC (2023)",
+      "url": "https://www.nbcnews.com/politics/2024-election/gop-megadonor-thomas-peterffy-donates-another-1-million-glenn-youngkin-rcna97011",
+      "publisher": "NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-08-03",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Interactive Brokers LLC",
+      "claim": "In August 2020 Interactive Brokers paid $38 million in penalties to the SEC, FINRA and the CFTC over anti-money-laundering failures, including not filing more than 150 suspicious activity reports on potentially manipulative microcap trades. It settled without admitting or denying the SEC's findings; no individual was charged.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2020-08-10",
+      "source_ids": ["sec-2020"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Interactive Brokers LLC",
+      "claim": "In July 2025 Interactive Brokers paid OFAC $11.8 million over 12,367 apparent sanctions violations from 2016 to 2024, including services to customers located in Iran, Cuba, Syria and Crimea and transfers to blocked Russian banks. OFAC found them non-egregious and voluntarily self-disclosed; the company says the matter is concluded.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2025-07-15",
+      "source_ids": ["ofac-2025", "ibkr-10k-2025"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Interactive Brokers",
+      "claim": "A 2015 customer class action alleged flaws in the automated system Interactive Brokers uses to liquidate margin-deficient accounts; a class was certified in 2023. A settlement approved in June 2026 paid the class $5 million and forgave about $1.8 million of customer debts, with no admission of liability.",
+      "evidence_type": "settlement",
+      "date": "2026-06-17",
+      "source_ids": ["ibkr-10q-2026q3"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Thomas Peterffy",
+      "claim": "FEC records list about $14 million in contributions from Peterffy in the 2023-24 cycle, nearly all to Republican candidates, party committees and super PACs, including $844,600 to the Trump 47 Committee in August 2024. NBC News reported two $1 million gifts from him to Virginia Governor Youngkin's PAC in 2023.",
+      "evidence_type": "official_report",
+      "date": "2024",
+      "source_ids": ["fec-2024", "nbc-youngkin"]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "individual",
+      "entity": "Thomas Peterffy",
+      "claim": "Interactive Brokers' 2025 annual report says Peterffy and his affiliates hold about 91.6% of the holding company that carries 73.7% of the group's voting power, letting him elect the whole board. The company uses the Nasdaq controlled-company exemption, and Peterffy chairs its compensation committee.",
+      "evidence_type": "company_disclosure",
+      "date": "2025-12-31",
+      "source_ids": ["ibkr-10k-2025"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Federal Election Commission records list about $14 million in contributions from Peterffy in the 2023-24 cycle, nearly all to Republican candidates, party committees and super PACs, including $844,600 to a Trump joint fundraising committee. He also gave at least $2 million to Virginia Governor Youngkin's PAC in 2023. No documented political favour was found.",
+        "finding_ids": ["f4"]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "A customer class action over Interactive Brokers' automated liquidation of margin accounts was settled in 2026 for $5 million plus about $1.8 million in forgiven debts, without admission of liability. Regulators also found the company failed to report suspicious microcap trading and served customers in sanctioned jurisdictions. Labour conditions were not checked.",
+        "finding_ids": ["f1", "f2", "f3"]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Interactive Brokers paid $38 million in 2020 to the SEC, FINRA and the CFTC over anti-money-laundering failures, and $11.8 million to OFAC in 2025 over about 12,000 apparent sanctions violations. Both are company settlements of regulatory actions; no individual was charged and no action against Peterffy personally was found.",
+        "finding_ids": ["f1", "f2"]
+      },
+      "unresolved": {
+        "value": 0,
+        "basis": "estimate",
+        "reason": "The company's 2026 filings describe its long-running customer class action as settled and the OFAC matter as concluded. No pending case against the company or Peterffy was found. Peterffy controls most of the group's voting power through a holding company, which the company discloses.",
+        "finding_ids": []
+      }
+    },
+    "counterweights": "",
+    "rationale": "Politics 1 to 2: about $14M in FEC-recorded gifts in one cycle plus $2M to a state PAC makes him a major donor (level 2); no source placed him among the very largest US donors (level 3). Legal 0 to 1: two settled company regulatory penalties totalling about $50M, far below $1B, no court finding. Social 1 to 2: the rubric names consumer settlements at level 2; the $5M settlement is modest, so 1 is defensible. Unresolved stays 0. No disbursed giving by Peterffy himself was found; a family foundation filing does not name him."
+  }
+}
