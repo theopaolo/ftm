@@ -34,7 +34,12 @@
     "Changpeng Zhao donates $10 million BNB Vitalik Buterin biotech June 2025 OR CZ donation confirmed",
     "Binance FIRS settlement September 24 2026 Justice Nwite tax case",
     "Binance Zhao Hamas terrorism lawsuit ruling August OR September OR October 2026",
-    "president.kg Changpeng Zhao public adviser National Council for the Development of Virtual Assets"
+    "president.kg Changpeng Zhao public adviser National Council for the Development of Virtual Assets",
+    "Judge Owens FTX Recovery Trust Binance Zhao fraudulent transfer claims proceed July 2026",
+    "Raanan v. Binance Zhao Hamas lawsuit 2026 ruling",
+    "Troell Binance amended complaint terrorism 535 plaintiffs Vargas 2026",
+    "Binance Nigeria tax case Justice Nwite September 24 2026 settlement",
+    "FTX Recovery Trust Binance Zhao $1.76 billion lawsuit October 2026"
   ],
   "sources": [
     {
@@ -168,13 +173,13 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "cryptoslate-ftx-ruling",
-      "label": "CryptoSlate: judge lets FTX trust pursue Binance and Zhao for $1.76bn (2026)",
-      "url": "https://cryptoslate.com/judge-lets-ftx-recovery-trust-chase-binance-for-1-76-billion-over-a-2021-share-buyback/",
-      "publisher": "CryptoSlate",
+      "id": "bloomberglaw-ftx-ruling",
+      "label": "Bloomberg Law: FTX trust gets a shot to pursue Binance and Zhao (2026)",
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/ftx-trust-gets-a-shot-to-pursue-binance-ex-ceo-for-1-8-billion-1",
+      "publisher": "Bloomberg Law",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026-07-31",
+      "published": "2026-07-27",
       "accessed": "2026-11-08"
     },
     {
@@ -245,10 +250,15 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Changpeng Zhao",
-      "claim": "In November 2023 Zhao pleaded guilty to violating the Bank Secrecy Act by failing to maintain an effective anti-money-laundering programme at Binance, and stepped down as CEO. On 30 April 2024 a Seattle federal judge sentenced him to four months in prison, against the three years prosecutors sought; he had agreed to a $50 million fine. He served the term.",
+      "claim": "In November 2023 Zhao pleaded guilty to violating the Bank Secrecy Act by failing to maintain an effective anti-money-laundering programme at Binance, and stepped down as CEO. On 30 April 2024 a federal judge in the Western District of Washington sentenced him to four months in prison, against the three years prosecutors sought; he had agreed to a $50 million fine. He served the term.",
       "evidence_type": "guilty_plea",
       "date": "2024-04-30",
-      "source_ids": ["doj-case", "cbs-plea", "bankingdive-sentence", "ap-pardon"]
+      "source_ids": [
+        "doj-case",
+        "cbs-plea",
+        "bankingdive-sentence",
+        "ap-pardon"
+      ]
     },
     {
       "id": "f2",
@@ -259,7 +269,10 @@
       "claim": "In November 2023 Binance pleaded guilty to Bank Secrecy Act, unlicensed money-transmitting and sanctions (IEEPA) violations, agreeing to pay $4.3 billion and retain an independent monitor. US officials said it let illicit actors transact, citing about $900 million in transactions between US users and people believed to be in Iran, and flows linked to Hamas's armed wing, al-Qaeda and ISIS.",
       "evidence_type": "guilty_plea",
       "date": "2023-11-21",
-      "source_ids": ["doj-case", "cbs-plea"]
+      "source_ids": [
+        "doj-case",
+        "cbs-plea"
+      ]
     },
     {
       "id": "f3",
@@ -270,7 +283,9 @@
       "claim": "In December 2023 a federal court in Illinois entered a consent order in the CFTC's case, finding that Zhao and Binance violated the Commodity Exchange Act by soliciting US customers for derivatives and concealing their presence. Zhao was ordered to pay a $150 million personal civil penalty; Binance paid $2.7 billion in disgorgement and penalties.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-12-18",
-      "source_ids": ["cftc-order"]
+      "source_ids": [
+        "cftc-order"
+      ]
     },
     {
       "id": "f4",
@@ -281,7 +296,10 @@
       "claim": "The SEC sued Binance and Zhao in June 2023, alleging inflated trading volumes, diverted customer funds and unregistered securities trading. In May 2025 the SEC and the defendants jointly dismissed the case with prejudice, the SEC citing its discretion and policy; no court ruled on the allegations.",
       "evidence_type": "allegation",
       "date": "2025-05-29",
-      "source_ids": ["sec-dismissal", "reuters-sec-dismissal"]
+      "source_ids": [
+        "sec-dismissal",
+        "reuters-sec-dismissal"
+      ]
     },
     {
       "id": "f5",
@@ -289,10 +307,14 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Changpeng Zhao",
-      "claim": "President Trump pardoned Zhao in October 2025; the White House cast his prosecution as part of a war on cryptocurrency. Earlier in 2025 a UAE-backed fund used $2 billion of World Liberty Financial's stablecoin, a Trump family venture, to buy a stake in Binance; Senators Warren and Schiff tied the pardon to that relationship and urged Congress to stop corruption and influence-peddling.",
+      "claim": "President Trump pardoned Zhao in October 2025; the White House said the Biden administration had prosecuted him in a war on cryptocurrency. A UAE-backed fund had used $2 billion of World Liberty Financial's stablecoin, a Trump family venture, to buy a Binance stake; Senators Warren and Schiff tied the pardon to Zhao's Trump family business ties and urged Congress to stop corruption.",
       "evidence_type": "official_report",
       "date": "2025-10-23",
-      "source_ids": ["reuters-pardon", "ap-pardon", "decrypt-senators"]
+      "source_ids": [
+        "reuters-pardon",
+        "ap-pardon",
+        "decrypt-senators"
+      ]
     },
     {
       "id": "f6",
@@ -303,7 +325,11 @@
       "claim": "In May 2025 Kyrgyz President Sadyr Japarov made Zhao a public adviser to the president on digital assets, and he joined the National Council for the Development of Virtual Assets and Blockchain Technologies. Freedom House rates Kyrgyzstan Not Free (26/100 in 2025), saying 2021 constitutional changes concentrated power in the presidency.",
       "evidence_type": "investigative_reporting",
       "date": "2025-05-03",
-      "source_ids": ["timesca-kyrgyz", "akchabar-kyrgyz", "freedomhouse-kyrgyz"]
+      "source_ids": [
+        "timesca-kyrgyz",
+        "akchabar-kyrgyz",
+        "freedomhouse-kyrgyz"
+      ]
     },
     {
       "id": "f7",
@@ -311,10 +337,13 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Changpeng Zhao and Binance",
-      "claim": "In November 2024 the FTX estate sued Binance and Zhao to recover $1.76 billion paid in a July 2021 share buyback, alleging a fraudulent transfer; Binance called the claims meritless. On 24 July 2026 a Delaware bankruptcy judge let the clawback claims against Zhao and four Binance entities proceed, dismissing claims tied to FTX's collapse. No liability has been decided.",
+      "claim": "In November 2024 the FTX estate sued Binance and Zhao to recover $1.76 billion paid in a July 2021 share buyback, alleging a fraudulent transfer; Binance called the claims meritless. On 24 July 2026 a Delaware bankruptcy judge let the clawback claims against Zhao and Binance proceed and dismissed claims tied to FTX's collapse. No liability has been decided.",
       "evidence_type": "pending_case",
       "date": "2026-07-24",
-      "source_ids": ["theblock-ftx-suit", "cryptoslate-ftx-ruling"]
+      "source_ids": [
+        "theblock-ftx-suit",
+        "bloomberglaw-ftx-ruling"
+      ]
     },
     {
       "id": "f8",
@@ -322,10 +351,13 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Changpeng Zhao and Binance",
-      "claim": "Victims of Hamas and other attacks have sued Binance and Zhao under US anti-terrorism law, alleging the exchange moved funds for designated groups. A Manhattan suit survived dismissal in February 2025 and a North Dakota suit was filed in November 2025; both were reported active in March 2026. A third suit, by 535 plaintiffs, was dismissed that month with leave to amend.",
+      "claim": "Victims of Hamas and other attacks have sued Binance and Zhao under US anti-terrorism law, alleging the exchange moved funds for designated groups. A Manhattan suit survived dismissal in February 2025 and a North Dakota suit was filed in November 2025; both were last reported active in March 2026. That month a Manhattan judge dismissed a third suit, by 535 plaintiffs, with 60 days to amend.",
       "evidence_type": "pending_case",
       "date": "2026-03-06",
-      "source_ids": ["reuters-nd-suit", "theblock-terror-dismissal"]
+      "source_ids": [
+        "reuters-nd-suit",
+        "theblock-terror-dismissal"
+      ]
     },
     {
       "id": "f9",
@@ -333,10 +365,12 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Changpeng Zhao and Binance",
-      "claim": "In June 2026 almost 1,700 UK investors sued Binance entities and Zhao in London's High Court for at least £150 million, alleging Binance sold leveraged derivatives to them from late 2019 without UK authorisation. Binance said it would defend itself. The claim is pending.",
+      "claim": "Reuters reported on 1 July 2026 that almost 1,700 UK investors were suing Binance entities and Zhao in London's High Court for at least £150 million, alleging Binance sold leveraged derivatives to them from late 2019 without UK authorisation. Binance said it would defend itself. No ruling has been reported.",
       "evidence_type": "pending_case",
       "date": "2026-07-01",
-      "source_ids": ["reuters-uk-claim"]
+      "source_ids": [
+        "reuters-uk-claim"
+      ]
     },
     {
       "id": "f10",
@@ -344,10 +378,13 @@
       "theme": "finance",
       "level": "company",
       "entity": "Binance",
-      "claim": "In 2026 Fortune, the Wall Street Journal and the New York Times reported that Binance fired investigators who had found over $1 billion flowing to Iran-linked entities. Binance denies violating sanctions and says the firings were unrelated. Senator Blumenthal opened a preliminary inquiry in February and in April asked the DOJ and FinCEN about the status of Binance's monitors.",
+      "claim": "In February 2026 Fortune reported that Binance fired internal investigators who had shown executives evidence of over $1 billion flowing to Iran-linked entities. Binance denies violating sanctions and says the firings were unrelated. Senator Blumenthal opened a preliminary inquiry that month and in April asked the DOJ and FinCEN about the status of Binance's monitors.",
       "evidence_type": "investigative_reporting",
       "date": "2026-04-17",
-      "source_ids": ["fortune-iran-inquiry", "fortune-monitors"]
+      "source_ids": [
+        "fortune-iran-inquiry",
+        "fortune-monitors"
+      ]
     },
     {
       "id": "f11",
@@ -358,7 +395,9 @@
       "claim": "Binance faces a four-count tax evasion charge in Nigeria, to which it pleaded not guilty in 2024, and a separate money-laundering prosecution over $35.4 million. In July 2026 the Abuja court adjourned the tax case to September for a report on settlement talks; the outcome was not established.",
       "evidence_type": "pending_case",
       "date": "2026-07-09",
-      "source_ids": ["sahara-nigeria"]
+      "source_ids": [
+        "sahara-nigeria"
+      ]
     }
   ],
   "proposal": {
@@ -366,29 +405,108 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Pardoned by President Trump in October 2025; the White House said he had been prosecuted in a war on cryptocurrency. Earlier in 2025 a UAE-backed fund had used $2 billion of the stablecoin of World Liberty Financial, a Trump family venture, to buy into Binance; Democratic senators called the pardon corruption. Since May 2025 he has been a public adviser to Kyrgyzstan’s president on digital assets; Freedom House rates Kyrgyzstan Not Free.",
-        "finding_ids": ["f5", "f6"]
+        "reason": "Pardoned by President Trump in October 2025; the White House said he had been prosecuted in a war on cryptocurrency. A UAE-backed fund had used $2 billion of the stablecoin of World Liberty Financial, a Trump family venture, to buy into Binance; Senators Warren and Schiff tied the pardon to his business ties with the Trump family. Since May 2025 he has been a public adviser to Kyrgyzstan’s president on digital assets; Freedom House rates Kyrgyzstan Not Free.",
+        "finding_ids": [
+          "f5",
+          "f6"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "US authorities said Binance failed to stop criminals from using it to move money; in 2023 it admitted anti-money-laundering and sanctions violations, including transactions with people believed to be in Iran. In 2026 the press reported that it fired investigators who had flagged over $1 billion in Iran-linked flows; Binance denies breaking sanctions. These are company-level problems.",
-        "finding_ids": ["f2", "f10"]
+        "reason": "US authorities said Binance failed to stop criminals from using it to move money; in 2023 it admitted anti-money-laundering and sanctions violations, including transactions with people believed to be in Iran. In 2026 Fortune reported that it fired investigators who had flagged over $1 billion in Iran-linked flows; Binance denies breaking sanctions. These are company-level problems.",
+        "finding_ids": [
+          "f2",
+          "f10"
+        ]
       },
       "legal": {
         "value": 4,
         "basis": "documented",
         "reason": "Pleaded guilty in 2023 to failing to maintain an anti-money-laundering programme and served four months in prison; he had agreed to a $50 million fine. A 2023 CFTC court order imposed a $150 million personal penalty. Binance pleaded guilty and agreed to pay $4.3 billion. The SEC’s 2023 suit against him was dismissed in 2025 without a ruling. The 2025 pardon is recorded here; it does not erase the plea.",
-        "finding_ids": ["f1", "f2", "f3", "f4", "f5"]
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f5"
+        ]
       },
       "unresolved": {
         "value": 3,
         "basis": "documented",
-        "reason": "Named defendant in pending civil cases: the FTX trust’s $1.76 billion clawback suit, which survived dismissal in July 2026; anti-terrorism suits by attack victims in Manhattan and North Dakota; and a UK investors’ claim filed in London in 2026. All are allegations, contested by Binance. At company level, Binance faces tax and money-laundering charges in Nigeria and a senator’s inquiry into reported Iran-linked flows.",
-        "finding_ids": ["f7", "f8", "f9", "f10", "f11"]
+        "reason": "Named defendant in pending civil cases: the FTX trust’s $1.76 billion clawback suit, whose core claims survived dismissal in July 2026; anti-terrorism suits by attack victims in Manhattan and North Dakota, last reported active in March 2026; and a UK investors’ claim reported in London in 2026. These are allegations; no liability has been found. At company level, Binance faces tax and money-laundering charges in Nigeria and a senator’s inquiry into reported Iran-linked flows.",
+        "finding_ids": [
+          "f7",
+          "f8",
+          "f9",
+          "f10",
+          "f11"
+        ]
       }
     },
     "counterweights": "",
     "rationale": "Politics 2 to 3 under R7: a personal role as public adviser to the president of Kyrgyzstan, rated Not Free by Freedom House, and a seat on its state virtual-assets council. Unresolved 0 (default) to 3 under R6: named defendant in pending FTX, anti-terrorism and UK suits. Legal 4 and social 2 unchanged; legal adds the $150m CFTC penalty and the dismissed SEC suit. Existing Axios source returned 403, so the pardon is re-sourced to Reuters and AP. No disbursed giving found beyond self-reports in crypto outlets."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: 'a Seattle federal judge' changed to a judge in the Western District of Washington (Banking Dive names Judge Richard Jones, W.D. Wash.; no source states the courtroom city). DOJ and CBS confirm the plea and CEO exit; Banking Dive the four months, three years sought and $50m fine; AP and Reuters that he served the term."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "DOJ case page: BSA, unlicensed money transmitting and IEEPA pleas, $4.3bn, independent monitor. CBS: ~$900m Iran-linked transactions (2018-2022) and Yellen's citation of Hamas's Al-Qassam Brigades, al-Qaeda and ISIS. Company level, correct."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "CFTC release 8837-23: N.D. Ill. consent order of 18 Dec 2023, court found Zhao and Binance violated the CEA, solicited US customers and concealed them; $150m personal penalty for Zhao; Binance $2.7bn ($1.35bn disgorgement, $1.35bn penalty)."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "SEC LR-26316 (29 May 2025) names Zhao; joint stipulation, dismissal with prejudice, on discretion and policy. Reuters (Stempel) gives the June 2023 allegations. No merits ruling; evidence_type allegation is right."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: dropped 'earlier in 2025' (no cited source dates the $2bn stablecoin purchase); senators' link restated as their letter puts it, Zhao's 'intertwined business relationship' with the Trump family (Decrypt). Pardon and White House 'war on cryptocurrency' line confirmed by Reuters and AP; AP confirms the UAE-backed fund's $2bn stablecoin stake. The pardon is recorded, not treated as erasing the plea."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Times of Central Asia (5 May 2025): Japarov appointed Zhao public adviser on digital assets on 3 May and he was accepted onto the National Council for the Development of Virtual Assets and Blockchain Technologies; Akchabar confirms the adviser role. Freedom House 2025: Not Free, 26/100, 2021 changes concentrated power in the presidency. Claim states facts only, no motive."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: the July 2026 ruling was sourced only to CryptoSlate; replaced with Bloomberg Law (27 Jul 2026), which confirms Judge Karen Owens's 24 July opinion in Delaware bankruptcy court letting the $1.76bn clawback proceed against Binance and Zhao and dismissing collapse-related claims. Dropped 'four Binance entities' (CryptoSlate only). Filing, buyback and 'meritless' response from The Block. No later ruling found."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: 'reported active' made 'last reported active in March 2026', and the 535-plaintiff suit placed in Manhattan with its 60-day leave to amend (The Block, 7 Mar 2026: Judge Vargas, SDNY, Zhao named; personal jurisdiction over Zhao not reached). Reuters via ThePrint confirms the North Dakota suit (Nov 2025) naming Zhao and the Manhattan suit's survival of dismissal. A Sept 2026 MLex item reports a motion to dismiss a second amended complaint but does not identify the case, so not added."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: 'In June 2026 ... sued' changed to Reuters reporting on 1 July 2026 that the claim was under way; the article gives no filing date. Confirms ~1,700 UK investors, High Court, Zhao named personally, at least £150m, unauthorised derivatives from late 2019, Binance will defend. 'Pending' restated as no ruling reported."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: the firing of investigators who found over $1bn in Iran-linked flows was Fortune's reporting; WSJ and NYT reported on Hong Kong entities central to the findings, so they are no longer cited as reporting the firings. Binance's denial, Blumenthal's preliminary inquiry (Feb) and April letters to DOJ and FinCEN confirmed by the two Fortune pieces. Company level; Zhao not named in either."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Sahara Reporters (9 Jul 2026): four-count tax charge, not-guilty plea 12 Jul 2024, separate EFCC $35.4m money-laundering case, adjournment to 24 Sep 2026 for a settlement report. No report of the September outcome found. Company level."
+      }
+    ],
+    "passed": true
   }
 }

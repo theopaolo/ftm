@@ -1443,6 +1443,101 @@
       "url": "https://www.razon.com.mx/negocios/2019/10/17/fundacion-carlos-slim-ejerce-9462-mdp-en-reconstruccion-por-sismos/",
       "kind": "case"
     },
+    "changpeng-zhao-cbs-plea": {
+      "label": "CBS News: Binance and CEO Zhao plead guilty, $4.3 billion settlement (2023)",
+      "url": "https://www.cbsnews.com/news/binance-crypto-ceo-changpeng-zhao-money-laundering",
+      "kind": "case"
+    },
+    "changpeng-zhao-bankingdive-sentence": {
+      "label": "Banking Dive: Zhao sentenced to four months in prison (2024)",
+      "url": "https://www.bankingdive.com/news/changpeng-zhao-sentenced-4-months-prison-binance-aml-bsa-kyc/714739/",
+      "kind": "case"
+    },
+    "changpeng-zhao-cftc-order": {
+      "label": "CFTC: court order against Binance and Zhao, $150m personal penalty (2023)",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/8837-23",
+      "kind": "case"
+    },
+    "changpeng-zhao-sec-dismissal": {
+      "label": "SEC: dismissal of case against Binance and Zhao (2025)",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316",
+      "kind": "case"
+    },
+    "changpeng-zhao-reuters-sec-dismissal": {
+      "label": "Reuters (via Insurance Journal): SEC drops Binance lawsuit (2025)",
+      "url": "https://www.insurancejournal.com/news/national/2025/05/30/825659.htm",
+      "kind": "case"
+    },
+    "changpeng-zhao-reuters-pardon": {
+      "label": "Reuters (via Dawn): Trump pardons Binance founder Zhao (2025)",
+      "url": "https://www.dawn.com/news/1950796",
+      "kind": "case"
+    },
+    "changpeng-zhao-ap-pardon": {
+      "label": "AP (via WSAZ): Trump pardons Binance founder Changpeng Zhao (2025)",
+      "url": "https://www.wsaz.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao",
+      "kind": "case"
+    },
+    "changpeng-zhao-decrypt-senators": {
+      "label": "Decrypt: Warren and Schiff push resolution denouncing Zhao pardon (2025)",
+      "url": "https://decrypt.co/346089/senators-warren-schiff-resolution-denouncing-trump-pardon-binance-founder",
+      "kind": "case"
+    },
+    "changpeng-zhao-timesca-kyrgyz": {
+      "label": "Times of Central Asia: Zhao to advise Kyrgyzstan's president (2025)",
+      "url": "https://timesca.com/binance-founder-to-advise-kyrgyzstan-president-on-digital-assets/",
+      "kind": "case"
+    },
+    "changpeng-zhao-akchabar-kyrgyz": {
+      "label": "Akchabar: Zhao made public adviser to Kyrgyz president (2025)",
+      "url": "https://www.akchabar.kg/en/news/osnovatel-kompanii-binance-chanpen-chzhao-stal-sovetnikom-prezidenta-po-voprosam-kasayushchimsya-razvitiya-tsifrovikh-aktivov-isssejvzqqnvzfgt",
+      "kind": "case"
+    },
+    "changpeng-zhao-freedomhouse-kyrgyz": {
+      "label": "Freedom House: Kyrgyzstan, Freedom in the World (2025)",
+      "url": "https://freedomhouse.org/country/kyrgyzstan/freedom-world/2025",
+      "kind": "case"
+    },
+    "changpeng-zhao-theblock-ftx-suit": {
+      "label": "The Block: FTX files $1.76bn lawsuit against Binance and Zhao (2024)",
+      "url": "https://www.theblock.co/post/325400/ftx-files-1-7-billion-lawsuit-against-binance-and-founder-changpeng-zhao",
+      "kind": "case"
+    },
+    "changpeng-zhao-bloomberglaw-ftx-ruling": {
+      "label": "Bloomberg Law: FTX trust gets a shot to pursue Binance and Zhao (2026)",
+      "url": "https://news.bloomberglaw.com/bankruptcy-law/ftx-trust-gets-a-shot-to-pursue-binance-ex-ceo-for-1-8-billion-1",
+      "kind": "case"
+    },
+    "changpeng-zhao-theblock-terror-dismissal": {
+      "label": "The Block: Binance terrorism lawsuit dismissed with leave to refile (2026)",
+      "url": "https://www.theblock.co/post/392761/binance-terrorism-lawsuit-dismissed-but-judge-signals-plaintiffs-could-refile-with-sharper-allegations",
+      "kind": "case"
+    },
+    "changpeng-zhao-reuters-nd-suit": {
+      "label": "Reuters (via ThePrint): Hamas attack victims sue Binance and Zhao (2025)",
+      "url": "https://theprint.in/world/hamas-attack-victims-sue-binance-for-allegedly-allowing-payments-to-militant-group/2791414/",
+      "kind": "case"
+    },
+    "changpeng-zhao-reuters-uk-claim": {
+      "label": "Reuters (via Insurance Journal): UK investors sue Binance and Zhao (2026)",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/01/875930.htm",
+      "kind": "case"
+    },
+    "changpeng-zhao-fortune-iran-inquiry": {
+      "label": "Fortune: Senator opens inquiry into Binance over Iran-linked flows (2026)",
+      "url": "https://fortune.com/2026/02/26/senator-richard-blumenthal-binance-iran-fired-investigators/",
+      "kind": "case"
+    },
+    "changpeng-zhao-fortune-monitors": {
+      "label": "Fortune: Blumenthal asks DOJ and FinCEN about Binance monitors (2026)",
+      "url": "https://www.fortune.com/2026/04/17/senator-blumenthal-binance-doj-fincen-treasury-monitorships-status/",
+      "kind": "case"
+    },
+    "changpeng-zhao-sahara-nigeria": {
+      "label": "Sahara Reporters: Binance tax evasion case adjourned to September (2026)",
+      "url": "https://saharareporters.com/2026/07/09/binance-tax-evasion-case-adjourned-september-nigeria-crypto-firm-pursue-out-court",
+      "kind": "case"
+    },
     "francoise-bettencourt-meyers-and-family-ca-paris-2020": {
       "label": "Cour d'appel de Paris: L'Oréal hygiene products cartel fine, ruling on remand (2020)",
       "url": "https://www.autoritedelaconcurrence.fr/sites/default/files/appealsd/2020-06/ca2_14d19.pdf",
@@ -3702,24 +3797,38 @@
           "reason": "Finance: the footprint depends on what the money funds; holdings not assessed."
         },
         "politics": {
-          "value": 2,
+          "value": 3,
           "basis": "documented",
-          "reason": "Pardoned by President Trump in October 2025 after Binance had backed the Trump family’s crypto venture World Liberty Financial. Critics called it corruption; the White House said he had been targeted by a war on crypto."
+          "reason": "Pardoned by President Trump in October 2025; the White House said he had been prosecuted in a war on cryptocurrency. A UAE-backed fund had used $2 billion of the stablecoin of World Liberty Financial, a Trump family venture, to buy into Binance; Senators Warren and Schiff tied the pardon to his business ties with the Trump family. Since May 2025 he has been a public adviser to Kyrgyzstan’s president on digital assets; Freedom House rates Kyrgyzstan Not Free.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
           "value": 2,
           "basis": "documented",
-          "reason": "US authorities said Binance failed to stop criminals from using it to move money."
+          "reason": "US authorities said Binance failed to stop criminals from using it to move money; in 2023 it admitted anti-money-laundering and sanctions violations, including transactions with people believed to be in Iran. In 2026 Fortune reported that it fired investigators who had flagged over $1 billion in Iran-linked flows; Binance denies breaking sanctions. These are company-level problems.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 4,
           "basis": "documented",
-          "reason": "Pleaded guilty in 2023 to failing to maintain an anti-money-laundering programme and served four months in prison. The 2025 pardon is recorded here; it does not erase the plea."
+          "reason": "Pleaded guilty in 2023 to failing to maintain an anti-money-laundering programme and served four months in prison; he had agreed to a $50 million fine. A 2023 CFTC court order imposed a $150 million personal penalty. Binance pleaded guilty and agreed to pay $4.3 billion. The SEC’s 2023 suit against him was dismissed in 2025 without a ruling. The 2025 pardon is recorded here; it does not erase the plea.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Named defendant in pending civil cases: the FTX trust’s $1.76 billion clawback suit, whose core claims survived dismissal in July 2026; anti-terrorism suits by attack victims in Manhattan and North Dakota, last reported active in March 2026; and a UK investors’ claim reported in London in 2026. These are allegations; no liability has been found. At company level, Binance faces tax and money-laundering charges in Nigeria and a senator’s inquiry into reported Iran-linked flows.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
@@ -3728,7 +3837,26 @@
       "sources": [
         "forbes",
         "binance",
-        "axios-zhao-pardon"
+        "axios-zhao-pardon",
+        "changpeng-zhao-cbs-plea",
+        "changpeng-zhao-bankingdive-sentence",
+        "changpeng-zhao-cftc-order",
+        "changpeng-zhao-sec-dismissal",
+        "changpeng-zhao-reuters-sec-dismissal",
+        "changpeng-zhao-reuters-pardon",
+        "changpeng-zhao-ap-pardon",
+        "changpeng-zhao-decrypt-senators",
+        "changpeng-zhao-timesca-kyrgyz",
+        "changpeng-zhao-akchabar-kyrgyz",
+        "changpeng-zhao-freedomhouse-kyrgyz",
+        "changpeng-zhao-theblock-ftx-suit",
+        "changpeng-zhao-bloomberglaw-ftx-ruling",
+        "changpeng-zhao-theblock-terror-dismissal",
+        "changpeng-zhao-reuters-nd-suit",
+        "changpeng-zhao-reuters-uk-claim",
+        "changpeng-zhao-fortune-iran-inquiry",
+        "changpeng-zhao-fortune-monitors",
+        "changpeng-zhao-sahara-nigeria"
       ]
     },
     {

@@ -532,6 +532,18 @@
         "accept": true,
         "why": "R6: named defendant in the pending Aspiration investors' suit in Los Angeles."
       }
+    },
+    "changpeng-zhao": {
+      "politics": {
+        "value": 3,
+        "accept": true,
+        "why": "R7: public adviser to Kyrgyzstan's president and member of its state council on virtual assets since 2025; Freedom House rates Kyrgyzstan Not Free."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in pending suits (FTX clawback, anti-terror-financing suits, UK investors' claim)."
+      }
     }
   },
   "counterweights": {
