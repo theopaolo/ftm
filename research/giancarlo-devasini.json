@@ -307,12 +307,13 @@
       "theme": "politics",
       "level": "company",
       "entity": "Tether",
-      "claim": "In October 2026 Senator Blumenthal asked Tether for records after the Wall Street Journal reported that Tether paid $6.3 million to Nxum, a firm part-owned by White House crypto adviser Bo Hines, starting while he was in office and as the GENIUS Act was drafted. These are allegations; Tether says outside counsel found no wrongdoing. Hines now runs Tether’s US arm.",
+      "claim": "In October 2026 Senator Blumenthal sought Tether records after the Wall Street Journal reported it paid $6.3 million to Nxum, a firm part-owned by White House crypto adviser Bo Hines, starting while he was in office and as the GENIUS Act was drafted. These are allegations: Tether says outside counsel found no wrongdoing, and Nxum says Hines got no Tether money then. Hines now heads Tether U.S.",
       "evidence_type": "allegation",
       "date": "2026-10-22",
       "source_ids": [
         "cointelegraph-hines",
-        "decrypt-hines"
+        "decrypt-hines",
+        "theblock-iran"
       ]
     },
     {
@@ -350,7 +351,7 @@
       "entity": "Northern Data (Tether-controlled)",
       "claim": "In September 2025 German and Swedish police, under the European Public Prosecutor’s Office, searched Northern Data, a Tether-controlled company, and made four arrests over suspected VAT fraud above €100 million tied to chips allegedly used for crypto mining. Tether and the companies deny fraud. Devasini is not reported as a suspect; no charges were reported.",
       "evidence_type": "pending_case",
-      "date": "2025-12-19",
+      "date": "2025-09",
       "source_ids": [
         "ifq-northern"
       ]
@@ -361,7 +362,7 @@
       "theme": "tax",
       "level": "individual",
       "entity": "Giancarlo Devasini",
-      "claim": "L’Espresso, reporting with the ICIJ, found that Devasini became a Salvadoran citizen in early 2025, as Tether moved its legal base from the British Virgin Islands to El Salvador, and reported that as such he pays no tax on Tether dividends. A January 2026 SEC filing cited there gives him over 50% of Tether’s voting rights.",
+      "claim": "L’Espresso, reporting with the ICIJ, found that Devasini became a Salvadoran citizen in early 2025, as Tether moved its group there, and that as such he pays no tax on Tether dividends. It cites a January 2026 SEC filing giving him over 50% of Tether’s voting rights; the filing notes he disclaims ownership beyond his economic interest.",
       "evidence_type": "investigative_reporting",
       "date": "2026-08-12",
       "source_ids": [
@@ -396,7 +397,7 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Company-level ties to the Trump administration: Cantor Fitzgerald, led by Howard Lutnick until he became Commerce Secretary, holds Tether’s Treasury reserves and reportedly a 5% stake, and senators asked in 2026 about a Tether loan to his children’s trust. A senator is examining reported Tether payments to a firm part-owned by a White House crypto adviser while in office; Tether says counsel found no wrongdoing. Devasini became a Salvadoran citizen in 2025 as Tether moved there.",
+        "reason": "Company-level ties to the Trump administration: Cantor Fitzgerald, led by Howard Lutnick until he became Commerce Secretary, is custodian of Tether’s Treasury reserves and reportedly holds 5%, and senators asked in 2026 about a Tether loan to his children’s trust. A senator is examining reported Tether payments to a firm part-owned by a White House crypto adviser while in office; Tether says counsel found no wrongdoing. Devasini became a Salvadoran citizen in 2025 as Tether moved there.",
         "finding_ids": [
           "f6",
           "f7",
