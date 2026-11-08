@@ -1,0 +1,123 @@
+{
+  "id": 46,
+  "slug": "andrea-pignataro",
+  "name": "Andrea Pignataro",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Andrea Pignataro tax investigation Italy settlement Agenzia delle Entrate",
+    "ION Markets ransomware attack 2023 derivatives trading disruption",
+    "Pignataro ION Group media stake Italy 2025 newspaper acquisition",
+    "ION Group fined regulator penalty antitrust golden power Cerved Prelios",
+    "Tar Lazio Cedacri golden power prescrizioni dividendi Ion sentenza",
+    "Pignataro ION draws scrutiny Italy central bank Prelios",
+    "Andrea Pignataro donation philanthropy foundation gift million",
+    "reuters Pignataro's ION draws scrutiny from Italy's central bank sources January 2024 (reuters.com not accessible; Reuters copies on swissinfo.ch and marketscreener used instead)",
+    "Pignataro ION politica governo Meloni rapporti lobbying"
+  ],
+  "sources": [
+    {
+      "id": "sole24ore-2025",
+      "label": "Il Sole 24 Ore: Pignataro to pay EUR 280 million in tax agency agreement (2025)",
+      "url": "https://en.ilsole24ore.com/art/tax-agency-agreement-andrea-pignataro-will-pay-280-million-AHRvoPAB",
+      "publisher": "Il Sole 24 Ore",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-06-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ilpost-2025-06",
+      "label": "Il Post: The tax evasion investigation into Andrea Pignataro (2025)",
+      "url": "https://www.ilpost.it/2025/06/09/evasione-fiscale-indagine-andrea-pignataro/",
+      "publisher": "Il Post",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-06-09",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ilpost-2025-10",
+      "label": "Il Post: Tax evasion investigation into Pignataro dismissed (2025)",
+      "url": "https://www.ilpost.it/2025/10/22/antonio-pignataro-archiviata-indagine-evasione-fiscale/",
+      "publisher": "Il Post",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-10-22",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-2024-01",
+      "label": "Reuters: Pignataro's ION draws scrutiny from Italy's central bank (2024)",
+      "url": "https://uk.marketscreener.com/quote/stock/ILLIMITY-BANK-S-P-A-55462615/news/Pignataro-s-ION-draws-scrutiny-from-Italy-s-central-bank-sources-45814721",
+      "publisher": "Reuters (via MarketScreener)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-01-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-2024-03",
+      "label": "Reuters: Italy approves Prelios deal after ION discloses loan terms (2024)",
+      "url": "https://swissinfo.ch/eng/exclusive-italy-approves-prelios-deal-after-ion-discloses-loan-terms,-sources-say/73612472",
+      "publisher": "Reuters (via swissinfo.ch)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-03-11",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Andrea Pignataro",
+      "claim": "In June 2025 Pignataro agreed to pay the Italian Revenue Agency EUR 280 million in five instalments, closing an assessment that treated him as Italian tax resident for 2013 to 2023; the original claim was reported at about EUR 1.2 billion with interest. His lawyers said the deal implies no admission of evasion and that penalties were not applied.",
+      "evidence_type": "settlement",
+      "date": "2025-06",
+      "source_ids": ["sole24ore-2025", "ilpost-2025-06"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Andrea Pignataro",
+      "claim": "Bologna prosecutors opened a criminal tax evasion investigation in April 2025, alleging about EUR 500 million unpaid over 2013 to 2023. In October 2025 Il Post reported that the Bologna preliminary investigations judge dismissed the case, finding his business interests were centred abroad; no charge was brought.",
+      "evidence_type": "final_ruling",
+      "date": "2025-10",
+      "source_ids": ["ilpost-2025-06", "ilpost-2025-10"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "ION Group",
+      "claim": "Reuters reported in January 2024, citing sources, that the Bank of Italy was examining ION's complex multi-country ownership structure in detail. Italy's government cleared ION's debt-financed Prelios takeover in 2024 with conditions, after ION disclosed the loan collateral terms Rome had requested.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-03",
+      "source_ids": ["reuters-2024-01", "reuters-2024-03"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "In 2025 Pignataro personally agreed to pay the Italian tax agency EUR 280 million over his tax residence for 2013 to 2023, against an original claim of about EUR 1.2 billion; his lawyers said it implies no admission of evasion. A parallel criminal tax investigation was dismissed by a Bologna judge in October 2025 without charges.",
+        "finding_ids": ["f1", "f2"]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "No pending personal matter: the criminal tax investigation was dismissed in 2025 and the tax claim settled. ION is privately held through entities in several countries; Reuters reported in 2024 that the Bank of Italy was examining its ownership structure, with no public outcome.",
+        "finding_ids": ["f2", "f3"]
+      }
+    },
+    "counterweights": "",
+    "rationale": "Legal 0 to 3: a EUR 280 million personal tax settlement reads as personal civil liability under level 3, even without penalties or admission; if the reviewer treats a negotiated tax assessment as an ordinary regulatory settlement, level 1 is the alternative. The dismissed probe was an investigation, not an indictment, so it does not by itself reach level 3. Unresolved 0 to 1: nothing pending personally, but reported central bank scrutiny of an opaque private structure fits level 1. No political, social, ecological or philanthropic source was found."
+  }
+}

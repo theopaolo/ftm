@@ -1,0 +1,240 @@
+{
+  "id": 36,
+  "slug": "masayoshi-son",
+  "name": "Masayoshi Son",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "WeWork special committee lawsuit SoftBank tender offer settlement 2021",
+    "Masayoshi Son personal debt SoftBank Vision Fund 2 losses owes company",
+    "Saudi Public Investment Fund $45 billion SoftBank Vision Fund Khashoggi Son",
+    "SoftBank Group fined regulator penalty",
+    "Masayoshi Son 10 billion yen donation Tohoku earthquake disbursed foundation recipients",
+    "孫正義 寄付 10億円 福島県 受領 東日本大震災 復興基金 東日本大震災復興支援財団",
+    "Masayoshi Son owes SoftBank 2025 SB Northstar Vision Fund 2 deficit collateral update",
+    "東日本大震災復興支援財団 孫正義 40億円 事業報告 奨学金 支給",
+    "Son Khashoggi \"we cannot turn our backs\" Saudi people SoftBank earnings November 2018",
+    "Masayoshi Son Trump $100 billion investment pledge Mar-a-Lago December 2024 Stargate White House",
+    "SoftBank Masayoshi Son donation Trump inauguration fund 2025 FEC",
+    "Mohammed bin Salman Masayoshi Son memorandum solar 200 billion signed New York March 2018",
+    "SoftBank $50 million donation Trump presidential library",
+    "Politico SoftBank $50 million Trump library donation May 2026",
+    "SoftBank Trump library donation Portsmouth Ohio data center lease Energy Department Warren Blumenthal letter",
+    "\"SoftBank\" \"presidential library\" $50 million Reuters OR \"Washington Post\" OR \"New York Times\" OR Bloomberg OR \"Financial Times\"",
+    "washingtonpost.com SoftBank library donation data center Ohio lease Democrats",
+    "politico.com SoftBank Trump library $50 million Lippman",
+    "Ohio Capital Journal SoftBank Trump library donation Portsmouth data center",
+    "Department of Energy Portsmouth site SoftBank SB Energy AI data center lease announcement March 2026",
+    "The Verge \"SoftBank donated $50 million to Trump's library months before federal data center deal\"",
+    "SoftBank settles lawsuit WeWork board Neumann February 2021 Delaware tender offer $1.5 billion",
+    "SAMR fines SoftBank 500,000 yuan unreported deals July 2022",
+    "国税局 ソフトバンク 申告漏れ 2017 重加算税 所得隠し",
+    "あしなが育英会 孫正義 1億円 寄付 震災遺児"
+  ],
+  "sources": [
+    {
+      "id": "cnbc-khashoggi-2018",
+      "label": "CNBC: SoftBank's Son breaks silence on Khashoggi killing, keeps Saudi ties (2018)",
+      "url": "https://www.cnbc.com/2018/11/05/softbank-ceo-masayoshi-son-breaks-silence-on-death-of-saudi-journalist.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2018-11-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "warren-library-2026",
+      "label": "Sen. Warren (via Capitol Releases): inquiry into SoftBank's $50M library gift (2026)",
+      "url": "https://capitolreleases.com/releases/3f6a6199-0290-476b-925e-4ad35c2af16c",
+      "publisher": "Office of Sen. Elizabeth Warren (archived by Capitol Releases)",
+      "publisher_type": "legislature",
+      "names_subject": true,
+      "published": "2026-07-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gadgetreview-library-2026",
+      "label": "Gadget Review: SoftBank's $50M library gift preceded Ohio data center lease (2026)",
+      "url": "https://www.gadgetreview.com/?p=411594",
+      "publisher": "Gadget Review",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-portsmouth-2026",
+      "label": "AP (via 13abc): 10-gigawatt data center announced for former Ohio uranium site (2026)",
+      "url": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
+      "publisher": "Associated Press (via WTVG 13abc)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "doe-portsmouth-2026",
+      "label": "US DOE: Special report on AI data center at Portsmouth Site (2026)",
+      "url": "https://www.energy.gov/node/4857277",
+      "publisher": "US Department of Energy",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2026-04-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "softbank-wework-2021",
+      "label": "SoftBank: Settlement with Adam Neumann and WeWork Special Committee (2021)",
+      "url": "https://group.softbank/en/news/press/20210301",
+      "publisher": "SoftBank Group Corp.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2021-03-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "afp-wework-2021",
+      "label": "AFP (via Tech Xplore): SoftBank reaches deal with WeWork (2021)",
+      "url": "https://techxplore.com/news/2021-02-softbank-wework.html",
+      "publisher": "AFP (via Tech Xplore)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-02-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ft-sidedeals-2022",
+      "label": "FT (via Irish Times): Masayoshi Son owes $4.7bn to SoftBank after tech rout (2022)",
+      "url": "https://www.irishtimes.com/business/2022/11/18/masayoshi-son-owes-47bn-to-softbank-following-tech-rout/",
+      "publisher": "Financial Times (via The Irish Times)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2022-11-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "impress-donation-2011",
+      "label": "Impress Internet Watch: Son personally donates ¥10 billion plus future pay (2011)",
+      "url": "https://internet.watch.impress.co.jp/docs/news/437197.html",
+      "publisher": "Impress Internet Watch",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2011-04-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "softbank-donations-2012",
+      "label": "SoftBank: Masayoshi Son's personal earthquake donations and their use (2012)",
+      "url": "https://group.softbank/donations/list_son",
+      "publisher": "SoftBank Group Corp.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2012-03",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "SoftBank Group",
+      "claim": "Saudi Arabia's Public Investment Fund put $45 billion into SoftBank's $100 billion first Vision Fund. After the October 2018 killing of journalist Jamal Khashoggi, Son condemned it, said he had raised concerns with Crown Prince Mohammed bin Salman, and said SoftBank would keep its ties with Saudi Arabia (November 2018).",
+      "evidence_type": "investigative_reporting",
+      "date": "2018-11-05",
+      "source_ids": [
+        "cnbc-khashoggi-2018"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "SoftBank Group",
+      "claim": "SoftBank gave $50 million to the Trump presidential library project, reported in May 2026 and later dated by SoftBank to January 2026, before a March 2026 federal site deal for its Ohio data centre. Three Democratic lawmakers asked whether it sought political favour; SoftBank cites past library gifts, and no wrongdoing has been found.",
+      "evidence_type": "allegation",
+      "date": "2026-07",
+      "source_ids": [
+        "warren-library-2026",
+        "gadgetreview-library-2026",
+        "ap-portsmouth-2026",
+        "doe-portsmouth-2026"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "SoftBank Group",
+      "claim": "In February 2021 SoftBank settled two Delaware Chancery suits filed in 2020 by a WeWork board committee and founder Adam Neumann over SoftBank's withdrawal from a $3 billion share purchase. SoftBank said it would pay about $1.6 billion under the deal, with no admission of liability; AFP, citing the WSJ, reported about $1.5 billion of share purchases.",
+      "evidence_type": "settlement",
+      "date": "2021-02-25",
+      "source_ids": [
+        "softbank-wework-2021",
+        "afp-wework-2021"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "individual",
+      "entity": "Masayoshi Son",
+      "claim": "SoftBank confirmed in November 2022 that Son owed it about $4.7 billion from personal stakes in company-run funds, including Vision Fund 2 and the SB Northstar trading unit, which SoftBank had financed. He pledged fund stakes and SoftBank shares as collateral; the FT reported shareholder questions about the arrangement.",
+      "evidence_type": "investigative_reporting",
+      "date": "2022-11-18",
+      "source_ids": [
+        "ft-sidedeals-2022"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "individual",
+      "entity": "Masayoshi Son",
+      "claim": "In April 2011 Son personally pledged ¥10 billion for victims of the Tohoku earthquake, plus his future SoftBank pay. SoftBank's published list, as of March 2012, allocates the full ¥10 billion to affected prefectures, the Red Cross, child charities and a recovery foundation; the payout figures are the company's own.",
+      "evidence_type": "documented_giving",
+      "date": "2012-03",
+      "source_ids": [
+        "impress-donation-2011",
+        "softbank-donations-2012"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Documented proximity to an authoritarian state at company level: Saudi Arabia's sovereign fund supplied $45 billion of SoftBank's first Vision Fund, and after the 2018 Khashoggi killing Son met the crown prince and kept the ties. SoftBank gave $50 million to the Trump presidential library project in 2026; lawmakers asked whether it sought favour, and no wrongdoing has been found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Major company outcome: in 2021 SoftBank settled Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion share purchase, paying about $1.5 to 1.6 billion for shares, with no admission of liability. No personal legal record for Masayoshi Son was found.",
+        "finding_ids": [
+          "f3"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Opacity raised by reporting: Son held personal stakes in SoftBank-financed funds and owed the company about $4.7 billion in 2022, secured on his shares. Questions from three lawmakers about the 2026 library gift remain unanswered on timing, but no official case is pending. Nothing personal is pending.",
+        "finding_ids": [
+          "f4",
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "After the 2011 Tohoku earthquake Masayoshi Son personally pledged ¥10 billion plus his future SoftBank pay; SoftBank's list says the full ¥10 billion went to prefectures, the Red Cross, child charities and a recovery foundation (company-reported, 2012).",
+    "rationale": "Politics 1 to 3: the rubric puts documented proximity to an authoritarian state at 3; Saudi ties are commercial and dated 2016-2018, so 2 (major donor, on the $50M library gift) is defensible. Legal 0 to 2: a settlement above $1 billion, though the money bought shares rather than paid damages, which could argue for 1. Unresolved 0 to 1: the lawmakers' letters are not a formal investigation; a reviewer reading them as one could support 2. Ecology and social not researched."
+  }
+}
