@@ -256,7 +256,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Walmart",
-      "claim": "In February 2026 Walmart agreed to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order adds ten years of earnings-verification obligations.",
+      "claim": "In February 2026 Walmart agreed, without admitting liability, to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order requires an earnings-verification program, with practices and reporting kept for ten years.",
       "evidence_type": "settlement",
       "date": "2026-02-26",
       "source_ids": [
@@ -350,7 +350,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Jim Walton",
-      "claim": "OpenSecrets reported that Jim Walton gave $5 million to the Koch network’s AFP Action super PAC in April 2023 and listed him again among its contributors in 2024. Earlier OpenSecrets data showed he gave $143,000 to the National Republican Senatorial Committee in 2020.",
+      "claim": "OpenSecrets reported that Jim Walton gave $5 million to the Koch network’s AFP Action super PAC in April 2023, and in August 2024 again named him among its contributors, without a date or amount. OpenSecrets data reported in 2020 showed he gave $143,000 to the National Republican Senatorial Committee that year.",
       "evidence_type": "investigative_reporting",
       "date": "2024",
       "source_ids": [
@@ -386,7 +386,7 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Major donor: Jim Walton gave $5 million to the Koch network’s AFP Action super PAC in 2023 and gave to it again in 2024 (OpenSecrets), after earlier six-figure gifts to Republican committees. Walmart itself reported $7.84 million in federal lobbying in 2025, which is ordinary corporate lobbying.",
+        "reason": "Major donor: Jim Walton gave $5 million to the Koch network’s AFP Action super PAC in 2023 (OpenSecrets), after a $143,000 gift to the National Republican Senatorial Committee in 2020. Walmart itself reported $7.84 million in federal lobbying in 2025, which is ordinary corporate lobbying.",
         "finding_ids": [
           "f9",
           "f11"
@@ -424,6 +424,72 @@
       }
     },
     "counterweights": "Town Branch Foundation, which he leads, disbursed about $34.1 million in 2024 and $43.1 million in 2023 (IRS filings).",
-    "rationale": "Politics 1 to 2: a $5m gift to one super PAC plus repeat giving is major-donor scale; his 2024 total could not be sourced beyond an advocacy group, so not 3. Unresolved 0 to 2: Walmart reports several pending company cases (f8). Legal and social keep their values."
+    "rationale": "Politics 1 to 2: a $5m gift to one super PAC plus a six-figure gift to a Republican committee is major-donor scale; his 2024 total could not be sourced beyond an advocacy group, so not 3. Unresolved 0 to 2: Walmart reports several pending company cases (f8). Legal and social keep their values."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Supported by the AP report (15 Nov 2022: $3.1bn proposed, no admission of liability, Nebraska AG's comparison with CVS and Walgreens) and the 2026 Reuters report (Walmart agreed to pay $3.1bn in 2022)."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Supported: Reuters (28 Aug 2026) gives the December 2020 DOJ suit, conduct from 2013, no admission and Walmart's 'immaterial' wording; Gray News gives $50 million and the DEA memorandum of agreement; the 10-Q confirms settlement without admitting liability."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Supported by the 10-Q: qui tam filed 23 Aug 2019, DOJ declined to intervene, relators allege CSA and state pharmacy rule breaches, settled without admitting liability for an immaterial amount."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: the 10-year term in the 10-Q covers 'programmatic practices and reporting obligations', not earnings verification as such; the claim now says so, and adds 'without admitting liability' from the 10-Q. Amounts, 11 states and charges match the FTC release (26 Feb 2026) and the 10-Q."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Supported by the FTC release (20 Jun 2025): $10m stipulated judgment, complaint filed 2022, conduct 2013-2018, failures on anti-fraud policies, training and warnings."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Supported by the CFPB page: filed 23 Dec 2024, unfair, deceptive and abusive practices alleged, voluntarily dismissed with prejudice on 13 May 2025, no merits ruling."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Supported: Walmart's 8-K release gives $282.7m, the DOJ non-prosecution agreement, the guilty plea by WMT Brasilia to causing a books-and-records violation, the four countries and controls before April 2011; CBS/AP confirms the amount and date."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Supported by the 10-Q for the quarter ended 31 July 2026: opioid MDL cases and two Canadian class actions pending, about 77,000 Asda equal-value claimants with partial indemnity, Walmex appeal of the COFECE fine, and Indian ED and CCI proceedings against Flipkart. All company-level."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Supported by Walmart's public policy page: $7.84m federal lobbying in 2025, employee-funded WALPAC split 55.2% Republican and 44.8% Democratic."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Supported: Trellis gives the 18 Dec 2024 disclosure, the 3.9% rise in 2023 and 19.3% below 2015; Reuters (via ThePrint) gives the 35%/65% targets against 2015 and the refrigeration and transport drivers."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Rewritten: the August 2024 OpenSecrets article names Jim and Alice Walton among AFP Action's contributors without dates or amounts, so it does not show a new gift in 2024; the claim now says so. The $5m in April 2023 (OpenSecrets, Jan 2024) and $143,000 to the NRSC in 2020 (Democrat-Gazette) are supported."
+      },
+      {
+        "finding_id": "f12",
+        "verdict": "supported",
+        "comment": "Supported by ProPublica's 990-PF data for Town Branch Foundation: charitable disbursements $34,126,768 (2024) and $43,137,118 (2023); Jim C. Walton listed as director and co-president (president in 2023)."
+      }
+    ],
+    "passed": true
   }
 }
