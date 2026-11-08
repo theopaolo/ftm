@@ -118,7 +118,7 @@
       "publisher": "Newsweek",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026",
+      "published": "2026-01-31",
       "accessed": "2026-11-08"
     },
     {
@@ -266,7 +266,7 @@
       "theme": "epstein",
       "level": "individual",
       "entity": "Bill Gates",
-      "claim": "Justice Department releases include emails, calendar entries and photos documenting meetings with Epstein, which Gates says ran from 2011, after Epstein’s 2008 plea, to December 2014. Gates reportedly apologised to foundation staff in February 2026 and told a House committee on 10 June 2026 it was a grave error; he denies knowing of Epstein’s crimes and is not accused of any.",
+      "claim": "DOJ releases include Gates–Epstein correspondence, calendar entries of meetings and photos of Gates at events Epstein attended; Gates says contact ran from 2011, after Epstein’s 2008 plea, to December 2014. He reportedly apologised to foundation staff in February 2026 and told a House committee on 10 June 2026 it was a grave error; he denies knowing of Epstein’s crimes and is not accused of any.",
       "evidence_type": "official_report",
       "date": "2026-06-23",
       "source_ids": [
@@ -283,7 +283,7 @@
       "theme": "epstein",
       "level": "individual",
       "entity": "Bill Gates",
-      "claim": "The files hold two unsent drafts dated 18 July 2013, from Epstein’s account, making sexual allegations about Gates; his spokesperson calls them absurd and false, and Gates told lawmakers they suggest Epstein contemplated blackmail. Lawmakers said in 2026 that about 3.5 million of more than 6 million identified pages had been released.",
+      "claim": "The files hold two unsent drafts dated 18 July 2013, from Epstein’s account, making sexual allegations about Gates; his spokesperson calls them absurd and false, and Gates told lawmakers they suggest Epstein contemplated blackmail. The Justice Department called its January 2026 release of about 3.5 million pages complete; Democratic lawmakers say over 6 million pages were identified.",
       "evidence_type": "allegation",
       "date": "2026-06-10",
       "source_ids": [
@@ -297,7 +297,7 @@
       "theme": "epstein",
       "level": "foundation",
       "entity": "Gates Foundation",
-      "claim": "A WilmerHale review for the foundation, released in July 2026 as a three-page summary, found Gates and staff met Epstein about 30 times in 2011-2014 despite staff concerns, and found no payments to him and no evidence of knowledge of his crimes. It did not cover Gates’s personal communications or personal-capacity dealings with Epstein.",
+      "claim": "A WilmerHale review for the foundation, released in July 2026 as a three-page summary, found Gates and staff met Epstein about 30 times in 2011-2014 despite staff concerns, with no evidence the foundation paid him or knew of his ongoing crimes; Gates knew of his earlier sex offence. It did not cover Gates’s personal communications or personal-capacity dealings with Epstein.",
       "evidence_type": "official_report",
       "date": "2026-07-21",
       "source_ids": [
@@ -312,7 +312,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Gates Foundation",
-      "claim": "The Gates Foundation says it distributed more than $100 billion in its first 25 years, to 2025, for vaccines, infectious disease, nutrition and education, and plans to spend about $200 billion more before closing in 2045. Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
+      "claim": "The Gates Foundation says it gave away more than $100 billion in its first 25 years, to 2025, including for vaccines, infectious disease and US education, and plans to spend about $200 billion more before closing in 2045. Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
       "evidence_type": "documented_giving",
       "date": "2025-05-08",
       "source_ids": [
@@ -345,7 +345,7 @@
       "legal": {
         "value": 3,
         "basis": "documented",
-        "reason": "Paid a personal $800,000 civil penalty in 2004 to settle FTC charges that he bought ICOS shares in 2002 without a required premerger filing. At company level, a US appeals court upheld in 2001 that Microsoft illegally maintained a monopoly, and the European Commission fined Microsoft €497 million (2004), €280.5 million (2006), €899 million (2008, cut to €860 million) and €561 million (2013). All are over ten years old.",
+        "reason": "Agreed in 2004 to pay a personal $800,000 civil penalty to settle a complaint, filed by the Justice Department at the FTC’s request, that he bought ICOS shares in 2002 without a required premerger filing. At company level, a US appeals court upheld in 2001 that Microsoft illegally maintained a monopoly, and the European Commission fined Microsoft €497 million (2004), €280.5 million (2006), €899 million (2008, cut to €860 million) and €561 million (2013). All are over ten years old.",
         "finding_ids": [
           "f1",
           "f2",
@@ -355,7 +355,7 @@
       "unresolved": {
         "value": 3,
         "basis": "documented",
-        "reason": "Released Epstein files document meetings and correspondence after Epstein’s conviction; Gates calls them a grave error, apologised to foundation staff and told a House committee in 2026 he saw no sign of ongoing crimes. Unsent 2013 drafts by Epstein make sexual allegations his spokesperson calls false; no authority has substantiated them. A 2026 foundation review found about 30 meetings and no payments, but did not cover his personal communications. Lawmakers say many pages remain unreleased.",
+        "reason": "Released Epstein files document meetings and correspondence after Epstein’s conviction; Gates calls the meetings a grave error, reportedly apologised to foundation staff and told a House committee in 2026 he saw no sign of ongoing crimes. Unsent 2013 drafts by Epstein make unverified sexual allegations his spokesperson calls false. A 2026 foundation review found about 30 meetings and no payments, but did not cover his personal communications. The count of unreleased pages is disputed.",
         "finding_ids": [
           "f6",
           "f7",
@@ -363,7 +363,58 @@
         ]
       }
     },
-    "counterweights": "The Gates Foundation says it distributed more than $100 billion in its first 25 years, to 2025, including $5.5 billion to WHO; Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
+    "counterweights": "The Gates Foundation says it gave away more than $100 billion in its first 25 years, to 2025; Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
     "rationale": "Legal 0→3: a personal $800,000 FTC civil penalty in 2004 (R2, Dell precedent), though over 20 years old. Social 1→3: the rubric names a court-established monopoly, and the 2001 ruling upheld one for Microsoft and describes Gates’s own conduct; 2 is arguable given its age. Politics stays 2. Unresolved stays 3: no pending case names him (R6), but released documents leave questions; the foundation review is complete. Reuters (Feb 2026) and the Boston 25 AP copy could not be opened; CBS and WTOP replace them."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "FTC release of 3 May 2004 confirms the $800,000 civil penalty the proposed final judgment requires Gates himself to pay, the DOJ complaint filed at the FTC’s request, the 9 May 2002 ICOS purchase without an HSR filing (board seat barred the investment-only exemption) and no penalty sought for the November 2001 Republic Services lapse. Over 20 years old, stated."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "En banc opinion of 28 June 2001 confirms: monopoly-maintenance liability affirmed in part, attempted monopolisation reversed, tying remanded, remedy vacated. It recounts trial findings on Gates’s own role with Apple (Mac Office cancellation threat) and Intel (Java). No quote used."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Reuters timeline (via Fox Business) confirms €497m (2004), €280.5m (2006), €899m (2008) cut to €860m by the EU General Court (2012) and €561m (2013); Al Jazeera confirms the 2013 browser-choice fine and Microsoft citing technical problems. Company level; Gates not named."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Fox Business confirms the NYT report citing three people briefed that Gates privately said he gave about $50m to Future Forward; Brussels Times confirms Future Forward USA Action and that it does not disclose donors. No public confirmation by Gates reported."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "BMJ Group release of 28 Oct 2025 confirms $5.5bn in 640 grants 2000-2024, 9.5% of WHO revenue 2010-2023, second only to the US, almost 60% ($3.2bn) for polio, and the authors’ point on earmarked funds. Academic study recorded as official_report for lack of a closer type."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: \"emails, calendar entries and photos documenting meetings\" narrowed to what AP (WTOP, April 2026) lists: correspondence, calendar entries recording meetings, photos of Gates at events Epstein attended. CBS reports the staff apology via the WSJ (\"reportedly\" kept); PBS and Reuters confirm 2011 to December 2014, \"grave error\" and no indication of crimes; AP and Reuters say he is not accused. House release confirms the 10 June interview."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: page count stated as contested. Newsweek (31 Jan 2026) shows the DOJ called its ~3.5m-page release the end of a comprehensive review, while Democrats incl. Rep. Khanna cite over 6m identified pages; the earlier text gave the 6m figure as fact. Drafts dated 18 July 2013, unsent, from Epstein’s account, and the spokesperson’s denial confirmed; PBS confirms Gates’s blackmail remark."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: \"no evidence of knowledge of his crimes\" narrowed to the foundation (its statement, via Reuters, refers to Epstein’s ongoing trafficking), and added that AP reports the review found Gates knew of Epstein’s earlier sex offence. AP confirms WilmerHale, three-page summary, about 30 meetings 2011-2014, staff concerns, no payments, and that personal communications and personal-capacity dealings were not covered."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: causes changed from \"vaccines, infectious disease, nutrition and education\" to what Deseret lists (nutrition not found). Fox Business confirms the foundation says it gave away more than $100bn in 25 years and the 2045 closure; Deseret confirms about $200bn more; Al Jazeera confirms Buffett’s more than $47bn in Berkshire stock since 2006. Proposal counterweights trimmed to drop the WHO figure, which rests on a concern finding (f5)."
+      }
+    ],
+    "passed": true
   }
 }

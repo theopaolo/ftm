@@ -544,6 +544,18 @@
         "accept": true,
         "why": "R6: named defendant in pending suits (FTX clawback, anti-terror-financing suits, UK investors' claim)."
       }
+    },
+    "bill-gates": {
+      "legal": {
+        "value": 3,
+        "accept": true,
+        "why": "R2: a personal $800,000 FTC civil penalty (2004), paid by Gates himself, as for Dell. More than 20 years old, which the reason says."
+      },
+      "social": {
+        "value": 3,
+        "accept": true,
+        "why": "Court-established monopoly at Microsoft (2001), which he founded and ran; the opinion recounts his own dealings. The same standard as for Ballmer, Page and Brin."
+      }
     }
   },
   "counterweights": {
