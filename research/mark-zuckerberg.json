@@ -38,7 +38,12 @@
     "Data Protection Commission €1.2 billion fine Meta EU-US data transfers 2023 announcement (dataprotection.ie)",
     "Meta Platforms Form 10-Q September 30 2026 legal proceedings (sec.gov)",
     "New Mexico Meta $25 billion civil penalty October 2026 43 million violations",
-    "Meta $1.4 billion Texas facial recognition settlement July 2024 AP news"
+    "Meta $1.4 billion Texas facial recognition settlement July 2024 AP news",
+    "Delaware Chancery approves $190 million Meta Zuckerberg directors settlement April 2026",
+    "Zuckerberg must face District of Columbia Cambridge Analytica lawsuit judge denies motion to dismiss April 2026",
+    "oag.dc.gov Schwalb Zuckerberg ruling motion to dismiss denied Cambridge Analytica 2026",
+    "Meta attorneys general teen mental health settlement court approval Gonzalez Rogers approved 2026",
+    "Meta states settlement teen social media \"approval\" judge October 2026"
   ],
   "sources": [
     {
@@ -92,11 +97,11 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "bloomberglaw-derivative",
-      "label": "Bloomberg Law: Meta privacy claims settlement backed by Delaware court (2026)",
-      "url": "https://news.bloomberglaw.com/insurance/meta-privacy-claims-settlement-backed-by-delaware-business-court",
-      "publisher": "Bloomberg Law",
-      "publisher_type": "press",
+      "id": "scottscott-derivative",
+      "label": "Scott+Scott: Court approves $190M settlement in Meta derivative case (2026)",
+      "url": "https://scott-scott.com/190m-settlement-secured-in-case-against-meta/",
+      "publisher": "Scott+Scott Attorneys at Law (plaintiffs' counsel)",
+      "publisher_type": "other",
       "names_subject": true,
       "published": "2026-04-07",
       "accessed": "2026-11-08"
@@ -113,12 +118,12 @@
     },
     {
       "id": "mlex-dc-ruling",
-      "label": "MLex: Zuckerberg must face DC Cambridge Analytica claims, judge rules (2026)",
-      "url": "https://www.mlex.com/mlex/amp/articles/2470854",
+      "label": "MLex: DC judge denies Zuckerberg's bid to dismiss Cambridge Analytica suit (2026)",
+      "url": "https://www.mlex.com/mlex/articles/2476615",
       "publisher": "MLex",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026-04-28",
+      "published": "2026-05-12",
       "accessed": "2026-11-08"
     },
     {
@@ -251,7 +256,10 @@
       "claim": "In July 2019 Facebook agreed to a $5 billion FTC penalty over charges that it violated a 2012 order by deceiving users about control of their data; the order requires Zuckerberg to certify privacy compliance quarterly. Meta's October 2026 filing says an FTC bid to tighten the order is stayed and its own court challenge awaits a hearing.",
       "evidence_type": "settlement",
       "date": "2019-07-24",
-      "source_ids": ["ftc-2019-order", "meta-10q-2026q3"]
+      "source_ids": [
+        "ftc-2019-order",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f2",
@@ -262,7 +270,11 @@
       "claim": "On 18 November 2025 Judge James Boasberg ruled that the FTC had not shown Meta holds a monopoly today, so it need not divest Instagram or WhatsApp. The FTC filed a notice of appeal to the D.C. Circuit on 20 January 2026; the appeal is pending.",
       "evidence_type": "final_ruling",
       "date": "2025-11-18",
-      "source_ids": ["ap-meta-ftc", "ftc-appeal-2026", "meta-10q-2026q3"]
+      "source_ids": [
+        "ap-meta-ftc",
+        "ftc-appeal-2026",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f3",
@@ -270,10 +282,13 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Mark Zuckerberg",
-      "claim": "Zuckerberg and ten current and former Meta directors and officers settled a Delaware shareholder suit alleging they let user data be misused and that he traded on inside information, for $190 million paid to Meta by their liability insurers. The defendants denied the allegations; the court approved the deal on 7 April 2026.",
+      "claim": "Zuckerberg and ten current and former Meta directors and officers settled a Delaware shareholder suit alleging they failed to prevent privacy violations and that he traded on inside information, for $190 million paid to Meta by their liability insurers. The defendants denied the allegations; the Court of Chancery approved the deal in April 2026.",
       "evidence_type": "settlement",
       "date": "2026-04-07",
-      "source_ids": ["reuters-derivative", "bloomberglaw-derivative"]
+      "source_ids": [
+        "reuters-derivative",
+        "scottscott-derivative"
+      ]
     },
     {
       "id": "f4",
@@ -281,10 +296,13 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Mark Zuckerberg",
-      "claim": "In May 2022 the District of Columbia sued Zuckerberg personally under its consumer protection law, alleging he was involved in the privacy failures behind the Cambridge Analytica data leak. A D.C. judge refused to dismiss the case on 28 April 2026; the claims are allegations and remain pending.",
+      "claim": "In May 2022 the District of Columbia sued Zuckerberg personally under its consumer protection law, alleging he was personally involved in the privacy failures behind the Cambridge Analytica data leak. A D.C. Superior Court judge denied his motion to dismiss, ruling from the bench on 28 April 2026, so the case proceeds; the claims are allegations.",
       "evidence_type": "pending_case",
       "date": "2026-04-28",
-      "source_ids": ["politico-dc-suit", "mlex-dc-ruling"]
+      "source_ids": [
+        "politico-dc-suit",
+        "mlex-dc-ruling"
+      ]
     },
     {
       "id": "f5",
@@ -295,7 +313,10 @@
       "claim": "In the District of Columbia's separate Cambridge Analytica suit against the company, Meta won summary judgment in 2023, but an appeals court reversed on procedural grounds in July 2025. Meta's filing says the District seeks up to $1.7 billion in penalties and restitution; the case is pending.",
       "evidence_type": "pending_case",
       "date": "2025-07-31",
-      "source_ids": ["meta-10q-2026q3"]
+      "source_ids": [
+        "meta-10q-2026q3",
+        "politico-dc-suit"
+      ]
     },
     {
       "id": "f6",
@@ -306,7 +327,9 @@
       "claim": "In November 2024 a federal judge in Oakland rejected claims in 25 lawsuits that Zuckerberg was personally liable for concealing risks of social media to children, finding control of a company alone insufficient. Claims against Meta itself were unaffected.",
       "evidence_type": "final_ruling",
       "date": "2024-11-07",
-      "source_ids": ["reuters-mdl-zuckerberg"]
+      "source_ids": [
+        "reuters-mdl-zuckerberg"
+      ]
     },
     {
       "id": "f7",
@@ -314,10 +337,13 @@
       "theme": "health",
       "level": "company",
       "entity": "Meta Platforms",
-      "claim": "In August 2026 Meta agreed to pay up to about $18.6 billion over ten years to settle teen mental health claims by 52 attorneys general, about $5.3 billion of it conditional on rivals' conduct. It agreed to time limits for teens and other changes; no admission of wrongdoing was reported.",
+      "claim": "In August 2026 Meta agreed with 52 attorneys general to settle teen mental health suits. Its filing puts payments at up to about $18.6 billion, including about $500 million for related privacy claims: about $12.7 billion over ten years, and about $5.3 billion only if rivals such as YouTube and TikTok take on similar duties. Terms include teen time limits; no admission was reported.",
       "evidence_type": "settlement",
       "date": "2026-08-26",
-      "source_ids": ["ap-multistate-settlement", "meta-10q-2026q3"]
+      "source_ids": [
+        "ap-multistate-settlement",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f8",
@@ -328,7 +354,10 @@
       "claim": "A New Mexico jury found in March 2026 that Meta misled the public about child safety and harmed children's mental health, imposing a $375 million penalty; in August a judge found its platforms a public nuisance and ordered about $567 million for abatement. Meta has moved to vacate and the judgment is stayed.",
       "evidence_type": "final_ruling",
       "date": "2026-03-24",
-      "source_ids": ["ap-nm-verdict", "meta-10q-2026q3"]
+      "source_ids": [
+        "ap-nm-verdict",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f9",
@@ -339,7 +368,10 @@
       "claim": "In a second New Mexico case over Facebook's statements on user data, content moderation and Cambridge Analytica, a jury found about 44 million violations in September 2026 and a judge imposed a $25 billion civil penalty on 21 October 2026. Meta says it will appeal.",
       "evidence_type": "final_ruling",
       "date": "2026-10-21",
-      "source_ids": ["sourcenm-25b", "meta-10q-2026q3"]
+      "source_ids": [
+        "sourcenm-25b",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f10",
@@ -350,7 +382,10 @@
       "claim": "On 25 March 2026 a Los Angeles jury found Meta and YouTube negligent in a social media addiction case and awarded $6 million, including punitive damages, with 70% assigned to Meta. Meta has filed a notice of appeal.",
       "evidence_type": "final_ruling",
       "date": "2026-03-25",
-      "source_ids": ["ap-kgm-verdict", "meta-10q-2026q3"]
+      "source_ids": [
+        "ap-kgm-verdict",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f11",
@@ -361,7 +396,10 @@
       "claim": "In November 2024 the European Commission fined Meta €797.72 million for abusing dominant positions by tying Facebook Marketplace to Facebook and imposing unfair terms on rival classified-ads services. Meta appealed in January 2025.",
       "evidence_type": "regulatory_penalty",
       "date": "2024-11-14",
-      "source_ids": ["ec-marketplace", "meta-10q-2026q3"]
+      "source_ids": [
+        "ec-marketplace",
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f12",
@@ -372,7 +410,9 @@
       "claim": "Meta's filing states that Ireland's Data Protection Commission fined it €1.2 billion in May 2023 for transferring EU Facebook user data to the United States in breach of the GDPR, and that the EU fined it €200 million under the Digital Markets Act in April 2025, which it has appealed.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-05-12",
-      "source_ids": ["meta-10q-2026q3"]
+      "source_ids": [
+        "meta-10q-2026q3"
+      ]
     },
     {
       "id": "f13",
@@ -383,7 +423,9 @@
       "claim": "In July 2024 Meta agreed to pay Texas $1.4 billion to settle a 2022 suit alleging it captured residents' biometric data without consent. In 2021 it had paid $650 million to settle similar claims in Illinois. No admission was reported.",
       "evidence_type": "settlement",
       "date": "2024-07-30",
-      "source_ids": ["ap-texas-biometric"]
+      "source_ids": [
+        "ap-texas-biometric"
+      ]
     },
     {
       "id": "f14",
@@ -394,7 +436,9 @@
       "claim": "The New York Times reported in February 2026 that Meta had put $65 million into four super PACs for state races in 2026, to back candidates friendly to AI and block state rules it opposes.",
       "evidence_type": "investigative_reporting",
       "date": "2026-02-18",
-      "source_ids": ["nyt-superpacs"]
+      "source_ids": [
+        "nyt-superpacs"
+      ]
     },
     {
       "id": "f15",
@@ -405,7 +449,9 @@
       "claim": "In January 2025 Meta agreed to pay $25 million to settle Donald Trump's lawsuit over his account suspension after 6 January 2021, with $22 million going to the nonprofit for his future presidential library.",
       "evidence_type": "settlement",
       "date": "2025-01-29",
-      "source_ids": ["ap-trump-settlement"]
+      "source_ids": [
+        "ap-trump-settlement"
+      ]
     },
     {
       "id": "f16",
@@ -416,7 +462,9 @@
       "claim": "In March 2026 President Trump named Zuckerberg to the President's Council of Advisors on Science and Technology, an advisory body with no regulatory or enforcement power.",
       "evidence_type": "official_report",
       "date": "2026-03-25",
-      "source_ids": ["afp-pcast"]
+      "source_ids": [
+        "afp-pcast"
+      ]
     },
     {
       "id": "f17",
@@ -427,7 +475,9 @@
       "claim": "In August 2025 Louisiana regulators fast-tracked Entergy's plan for three gas plants, about 2.3 gigawatts, to power Meta's largest data centre. Critics cited bills, health and water; Meta said it would match the site's use with clean energy.",
       "evidence_type": "investigative_reporting",
       "date": "2025-08-21",
-      "source_ids": ["bloomberg-entergy"]
+      "source_ids": [
+        "bloomberg-entergy"
+      ]
     },
     {
       "id": "f18",
@@ -438,7 +488,9 @@
       "claim": "IRS filings summarised by ProPublica show the Chan Zuckerberg Initiative Foundation, with Zuckerberg as an unpaid trustee, disbursed about $389 million in 2024, $216 million in 2023 and $418 million in 2022.",
       "evidence_type": "documented_giving",
       "date": "2024",
-      "source_ids": ["propublica-czi"]
+      "source_ids": [
+        "propublica-czi"
+      ]
     },
     {
       "id": "f19",
@@ -449,7 +501,9 @@
       "claim": "Securities class actions against Meta and certain directors and officers over 2018 user-data disclosures and over content enforcement and user well-being remain pending; in February 2026 a court let part of the 2018 case proceed. These are allegations.",
       "evidence_type": "pending_case",
       "date": "2026-02-27",
-      "source_ids": ["meta-10q-2026q3"]
+      "source_ids": [
+        "meta-10q-2026q3"
+      ]
     }
   ],
   "proposal": {
@@ -458,34 +512,163 @@
         "value": 1,
         "basis": "documented",
         "reason": "Indirect footprint through data centres. Louisiana regulators approved three gas plants in 2025, about 2.3 gigawatts, to power Meta's largest data centre; Meta says it will match the site's use with clean energy. No major environmental incident found.",
-        "finding_ids": ["f17"]
+        "finding_ids": [
+          "f17"
+        ]
       },
       "politics": {
         "value": 2,
         "basis": "documented",
         "reason": "Controls platforms central to political communication worldwide. Meta put $65 million into super PACs for 2026 state races and paid $25 million in 2025 to settle Donald Trump's suit over his account suspension, $22 million of it for his future library. Zuckerberg was named in 2026 to a presidential science and technology council, which is advisory only.",
-        "finding_ids": ["f14", "f15", "f16"]
+        "finding_ids": [
+          "f14",
+          "f15",
+          "f16"
+        ]
       },
       "social": {
         "value": 3,
         "basis": "documented",
-        "reason": "Meta agreed in 2026 to pay up to about $18.6 billion to 52 attorneys general over teen mental health, without admitting wrongdoing. Juries in Los Angeles and New Mexico found it liable for harm to young users in 2026; Meta is challenging both. Facebook paid $5 billion in 2019 to settle FTC privacy charges. In November 2025 a judge rejected the FTC's case that Meta holds a monopoly today; the FTC has appealed.",
-        "finding_ids": ["f7", "f8", "f10", "f1", "f2"]
+        "reason": "Meta agreed in 2026 to pay up to about $18.6 billion to 52 attorneys general over teen mental health, about $5.3 billion of it conditional on rivals; no admission was reported. Juries in Los Angeles and New Mexico found it liable for harm to young users in 2026; Meta is challenging both. Facebook paid $5 billion in 2019 to settle FTC privacy charges. In November 2025 a judge rejected the FTC's case that Meta holds a monopoly today; the FTC has appealed.",
+        "finding_ids": [
+          "f7",
+          "f8",
+          "f10",
+          "f1",
+          "f2"
+        ]
       },
       "legal": {
         "value": 2,
         "basis": "documented",
         "reason": "Company outcomes above $1 billion: the $5 billion FTC penalty (2019), a $1.4 billion Texas biometric settlement (2024), the 2026 youth settlement and a $25 billion New Mexico penalty (2026) Meta will appeal; EU fines include €1.2 billion and €798 million. Zuckerberg settled a shareholder suit for $190 million paid by insurers, without admission. No personal criminal case or penalty.",
-        "finding_ids": ["f1", "f13", "f7", "f9", "f11", "f12", "f3", "f6"]
+        "finding_ids": [
+          "f1",
+          "f13",
+          "f7",
+          "f9",
+          "f11",
+          "f12",
+          "f3",
+          "f6"
+        ]
       },
       "unresolved": {
         "value": 3,
         "basis": "documented",
         "reason": "Zuckerberg is a named defendant in a District of Columbia suit seeking to hold him personally liable over Cambridge Analytica-era privacy failures; a judge refused to dismiss it in April 2026. These are allegations. At company level the FTC is appealing its monopoly loss, Meta is challenging the New Mexico judgments and the Los Angeles verdict, and securities class actions continue.",
-        "finding_ids": ["f4", "f2", "f8", "f9", "f10", "f19"]
+        "finding_ids": [
+          "f4",
+          "f2",
+          "f8",
+          "f9",
+          "f10",
+          "f19"
+        ]
       }
     },
     "counterweights": "The Chan Zuckerberg Initiative Foundation, with Zuckerberg as trustee, disbursed about $389 million in 2024 and $216 million in 2023, per its IRS filings.",
     "rationale": "Social 2→3: the rubric names large health-harm settlements; the ~$18.6bn youth settlement plus 2026 jury findings of youth harm meet it. Unresolved 0→3 (R6): Zuckerberg is a named defendant in the pending D.C. suit. Legal stays 2: the $190m derivative settlement was paid by insurers with no penalty (R3); 3 if the D.C. suit ends in personal liability. The DOJ page behind the old 'meta' key could not be fetched; its facts are re-sourced to the FTC release."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "FTC release states the $5bn penalty, the 2012-order violation and the quarterly certifications by Zuckerberg; the Q3 2026 10-Q states the FTC order-modification proceeding is stayed and a district court hearing is set for 12 November 2026."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "AP (6abc) reports the 18 November 2025 ruling; FTC release and 10-Q confirm the 20 January 2026 notice of appeal to the D.C. Circuit; no appellate decision reported in the 10-Q."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: replaced the paywalled Bloomberg Law source with the openable Scott+Scott release of 7 April 2026 announcing Chancery approval; approval date softened to April 2026; allegation wording aligned with Reuters (privacy violations, oversight failure, insider trading). Reuters confirms insurer payment and denial."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: no openable source found for the ruling, so the MLex source now points to the 12 May 2026 item whose readable summary states verbatim that Judge Soltys denied Zuckerberg's motion to dismiss after a bench ruling on 28 April; claim limited to that, and \"remain pending\" replaced by \"the case proceeds\", since no later status was found. Politico supports the 2022 suit."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: added the Politico source, which states the District sued Facebook over the same Cambridge Analytica incident in 2018; the 10-Q supports the 2023 summary judgment, the July 2025 reversal on procedural grounds and the $1.7bn sought."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Reuters (The Star) reports Judge Gonzalez Rogers dismissed personal-liability claims against Zuckerberg in 25 suits, with control of corporate activity alone insufficient; claims against Meta unaffected."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: the 10-Q gives up to about $18.59bn with 52 attorneys general, but only about $12.7bn is payable over ten years, about $5.3bn is contingent on peers, and about $500m resolves privacy claims; claim now says so. AP (headline \"up to $18 billion\", 48 states, DC and territories) described a proposed deal needing court approval; other reports give $17.1bn and 29 states for the federal part, so the 10-Q figures are attributed to Meta's filing."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "AP (WTOP) supports the 24 March 2026 verdict and $375m penalty; the 10-Q supports the 6 August public-nuisance judgment of about $567m, the 8 September motions to vacate and the stay."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Source NM (Daily Montanan) reports close to 44 million violations found in late September and a $25bn penalty on 21 October 2026, with Meta expecting to win on appeal; the 10-Q (more than 43 million violations, 15% interest, intends to appeal) lists it as a separate privacy-related case. Zuckerberg not named."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "AP (6abc) reports the 25 March 2026 verdict: negligence, $6m including $3m punitive, 70% Meta; the 10-Q says Meta has filed a notice of appeal."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Commission press release of 14 November 2024 states the €797.72m fine for tying Marketplace and unfair trading conditions; the 10-Q states the 28 January 2025 appeal."
+      },
+      {
+        "finding_id": "f12",
+        "verdict": "supported",
+        "comment": "10-Q states the IDPC €1.2bn decision of 12 May 2023 on EEA-US transfers and the €200m DMA fine of April 2025, appealed on 4 July 2025."
+      },
+      {
+        "finding_id": "f13",
+        "verdict": "supported",
+        "comment": "AP (ABC13) reports the $1.4bn Texas settlement announced 30 July 2024 over a 2022 suit, and the 2021 $650m Illinois settlement; no admission mentioned."
+      },
+      {
+        "finding_id": "f14",
+        "verdict": "supported",
+        "comment": "NYT (GV Wire) reports $65m across four super PACs for 2026 state races to back AI-friendly candidates and defeat state rules; Zuckerberg not named as funder, finding kept at company level."
+      },
+      {
+        "finding_id": "f15",
+        "verdict": "supported",
+        "comment": "AP (National Newswatch) reports the $25m settlement on 29 January 2025, $22m to the nonprofit for the future presidential library."
+      },
+      {
+        "finding_id": "f16",
+        "verdict": "supported",
+        "comment": "AFP (Dawn) names Zuckerberg among PCAST appointees and calls the council advisory with no regulatory or enforcement powers."
+      },
+      {
+        "finding_id": "f17",
+        "verdict": "supported",
+        "comment": "Bloomberg (Insurance Journal) reports fast-tracked approval of three gas plants of about 2.3 GW for Hyperion, critics on bills and water, and Meta's clean-energy matching pledge."
+      },
+      {
+        "finding_id": "f18",
+        "verdict": "supported",
+        "comment": "ProPublica shows charitable disbursements of $388.7m (2024), $216.0m (2023) and $418.3m (2022), with Zuckerberg listed as trustee at $0 compensation."
+      },
+      {
+        "finding_id": "f19",
+        "verdict": "supported",
+        "comment": "10-Q states the 2018 securities case survived in part on 27 February 2026 and the 2021 case has claims proceeding with a motion to dismiss pending."
+      }
+    ]
   }
 }
