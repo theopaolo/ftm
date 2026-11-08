@@ -101,7 +101,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "MSC Mediterranean Shipping Company",
-      "claim": "Kerala is suing MSC for Rs 9,531 crore over the May 2025 sinking off Kochi of the MSC Elsa 3, which carried fuel and hazardous cargo; most of the claim is for environmental damage. The High Court set interim security at Rs 1,227.62 crore, posted by bank guarantee in December 2025; liability is left for trial.",
+      "claim": "Kerala is suing MSC for Rs 9,531 crore over the May 2025 sinking of the MSC Elsa 3 off the Kerala coast, which carried fuel and hazardous cargo; most of the claim is for environmental damage. The High Court set interim security at Rs 1,227.62 crore, posted by bank guarantee in December 2025; liability is left for trial.",
       "evidence_type": "pending_case",
       "date": "2025-12",
       "source_ids": [
@@ -129,7 +129,7 @@
       "level": "company",
       "entity": "MSC Mediterranean Shipping Company",
       "claim": "The NGO Shipbreaking Platform named MSC the worst corporate dumper of 2024, for the second year running, after 16 of its ships were beached for scrapping in India. It counts more than 100 MSC ships beached in South Asia since 2009.",
-      "evidence_type": "official_report",
+      "evidence_type": "investigative_reporting",
       "date": "2025-02",
       "source_ids": [
         "shipbreaking-list-2024"
