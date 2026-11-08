@@ -1,0 +1,324 @@
+{
+  "id": 21,
+  "slug": "mukesh-ambani",
+  "name": "Mukesh Ambani",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "SEBI penalty Mukesh Ambani Reliance Petroleum shares SAT Supreme Court appeal",
+    "Delhi High Court KG-D6 arbitration award set aside Reliance government $2.81 billion 2025",
+    "SEBI adjudication order Reliance Petroleum Limited January 2021 Mukesh Ambani Rs 15 crore Navi Mumbai SEZ Mumbai SEZ",
+    "Supreme Court May 2026 Reliance Industries RPL disgorgement 447 crore judgment SEBI penalty 25 crore",
+    "Reliance KG-D6 gas migration ONGC Supreme Court hearing 2026 demand conciliation",
+    "KG-D6 gas migration Supreme Court verdict reserved Reliance BP Niko September October 2026",
+    "Qwik Supply Chain electoral bonds 410 crore Reliance link",
+    "CCI approves Reliance Viacom18 Star India Disney merger modifications voluntary August 2024",
+    "Reliance Industries CSR expenditure FY2024-25 crore spent annual report Reliance Foundation",
+    "Reliance Industries scope 1 scope 2 emissions million tonnes CO2e FY2024-25 net zero 2035 Jamnagar",
+    "Reliance Rosneft Russian crude imports US sanctions Reliance comply Jamnagar EU ban refined products 2025",
+    "RSF India Mukesh Ambani owns more than 70 media outlets 800 million Indians",
+    "rsf.org India country page press freedom 2026 political context Ambani",
+    "Income Tax Black Money Act notice Ambani family HSBC Geneva Indian Express 2019 status",
+    "indianexpress.com Ambani family Black Money Act notices Capital Investment Trust HSBC Geneva",
+    "Supreme Court SIT Vantara report accepted clean chit September 2025",
+    "CCI Reliance Jio predatory pricing complaint dismissed Bharti Airtel order",
+    "SEBI April 2021 Rs 25 crore penalty RIL promoters Mukesh Anil Ambani takeover 2000 SAT quashed July 2024"
+  ],
+  "sources": [
+    {
+      "id": "scconline-rpl-2021",
+      "label": "SCC Online: SEBI fines RIL and Mukesh Ambani over 2007 RPL trades (2021)",
+      "url": "https://www.scconline.com/blog/post/2021/01/06/sebi-reliance-industries-ltd-and-its-md-mukesh-d-ambani-found-indulged-in-fraudulent-trade-practises-an-exemplary-penalty-of-rs-25-crore-and-15-crore-imposed-respectively-by-sebi/",
+      "publisher": "SCC Online",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-01-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "etvbharat-sc-2024",
+      "label": "ETV Bharat: Supreme Court dismisses SEBI appeal in RPL case (2024)",
+      "url": "https://www.etvbharat.com/amp/en/!bharat/supreme-court-sebi-mukesh-ambani-reliance-rpl-case-enn24111106045",
+      "publisher": "ETV Bharat",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-11-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "businesstoday-sc-2024",
+      "label": "Business Today: SC junks SEBI's pleas against two SAT orders (2024)",
+      "url": "https://www.businesstoday.in/amp/latest/corporate/story/sc-junks-sebis-pleas-against-two-sat-orders-against-mukesh-ambani-others-453307-2024-11-11",
+      "publisher": "Business Today",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-11-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "livelaw-rpl-2026",
+      "label": "LiveLaw: Supreme Court sets aside SEBI's ₹447 crore disgorgement order (2026)",
+      "url": "https://www.livelaw.in/supreme-court/supreme-court-grants-relief-to-reliance-industries-in-2007-rpl-futures-trading-case-sets-aside-sebis-447-crore-disgorgement-order-536100",
+      "publisher": "LiveLaw",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-05-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theweek-takeover-2021",
+      "label": "The Week: SEBI fines Ambani brothers and others in 2000 takeover matter (2021)",
+      "url": "https://www.theweek.in/news/biz-tech/2021/04/07/sebi-slaps-rs-25-cr-fine-on-ambani-brothers-others-in-two-decade-old-matter.amp.html",
+      "publisher": "The Week",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-04-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "businesstoday-sat-2023",
+      "label": "Business Today: SAT sets aside SEBI's ₹25 crore penalty on Mukesh Ambani (2023)",
+      "url": "https://businesstoday.in/latest/corporate/story/sat-sets-aside-sebis-rs-25-crore-penalty-on-mukesh-ambani-391657-2023-07-28",
+      "publisher": "Business Today",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-07-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theprint-kgd6-2026",
+      "label": "ThePrint (PTI): SC declines to postpone final hearing in KG basin dispute (2026)",
+      "url": "https://theprint.in/india/sc-declines-to-postpone-final-hearing-in-kg-basin-gas-migration-dispute/2936746/",
+      "publisher": "ThePrint (PTI)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-05-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "dtnext-kgd6-mediator-2026",
+      "label": "DT Next: SC appoints former judge as sole mediator in KG basin dispute (2026)",
+      "url": "https://www.dtnext.in/news/business/sc-appoints-former-judge-ranjana-prakash-desai-as-sole-mediator-in-kg-basin-dispute",
+      "publisher": "DT Next",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theprint-qwik-2024",
+      "label": "ThePrint (PTI): Reliance-linked Qwik Supply third largest electoral bond buyer (2024)",
+      "url": "https://theprint.in/economy/reliance-linked-qwik-supply-third-largest-electoral-bond-buyer-reliance-says-co-not-its-subsidiary/2002057",
+      "publisher": "ThePrint (PTI)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-03-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "outlook-qwik-2024",
+      "label": "Outlook Business: Reliance-linked Qwik Supply funnelled ₹385 crore to BJP (2024)",
+      "url": "https://www.outlookbusiness.com/news/electoral-bonds-reliance-linked-qwik-supply-funneled-rs-385-crore-to-bjp-rs-25-crore-to-shiv-sena",
+      "publisher": "Outlook Business",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-03-22",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "rsf-india-2026",
+      "label": "RSF: India country profile, World Press Freedom Index (2026)",
+      "url": "https://rsf.org/en/country/india",
+      "publisher": "Reporters Without Borders (RSF)",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ril-natural-capital-2026",
+      "label": "Reliance Industries: Integrated Annual Report 2025-26, Natural Capital (2026)",
+      "url": "https://www.ril.com/ar2025-26/natural-capital.html",
+      "publisher": "Reliance Industries Limited",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ril-natural-capital-2025",
+      "label": "Reliance Industries: Integrated Annual Report 2024-25, Natural Capital (2025)",
+      "url": "https://www.ril.com/ar2024-25/natural-capital.html",
+      "publisher": "Reliance Industries Limited",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2025",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ril-social-capital-2025",
+      "label": "Reliance Industries: Annual Report 2024-25, Social and Relationship Capital (2025)",
+      "url": "https://www.ril.com/ar2024-25/social-and-relationship-capital.html",
+      "publisher": "Reliance Industries Limited",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2025",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Mukesh Ambani",
+      "claim": "In January 2021 SEBI fined Mukesh Ambani ₹15 crore, holding him responsible as managing director for trades it called manipulative in Reliance Petroleum shares in November 2007. The Securities Appellate Tribunal set the penalty aside in December 2023, and the Supreme Court dismissed SEBI's appeal in November 2024.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2024-11",
+      "source_ids": [
+        "scconline-rpl-2021",
+        "etvbharat-sc-2024"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Reliance Industries",
+      "claim": "SEBI found Reliance Industries' November 2007 trades in Reliance Petroleum fraudulent, ordered ₹447.27 crore disgorged and in 2021 fined it ₹25 crore; the tribunal upheld the company penalty. In May 2026 the Supreme Court set aside the fraud finding and the disgorgement but upheld a breach of position-limit disclosure rules.",
+      "evidence_type": "final_ruling",
+      "date": "2026-05",
+      "source_ids": [
+        "scconline-rpl-2021",
+        "businesstoday-sc-2024",
+        "livelaw-rpl-2026"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Mukesh Ambani and other Reliance promoters",
+      "claim": "In April 2021 SEBI imposed a ₹25 crore penalty, jointly on Mukesh Ambani, Anil Ambani, other family members and promoter entities, for not making an open offer after a 2000 share acquisition, over 25 years ago. The tribunal set it aside in July 2023 and the Supreme Court dismissed SEBI's appeal in November 2024.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2024-11",
+      "source_ids": [
+        "theweek-takeover-2021",
+        "businesstoday-sat-2023",
+        "businesstoday-sc-2024"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "public-money",
+      "level": "company",
+      "entity": "Reliance Industries (KG-D6 consortium with BP and Niko)",
+      "claim": "India's government claims about US$1.55 billion from the Reliance-led KG-D6 consortium over gas it says migrated from neighbouring ONGC blocks. An arbitral tribunal rejected the claim in 2018, the Delhi High Court reversed that in February 2025, and in October 2026 the Supreme Court sent the pending appeals to mediation.",
+      "evidence_type": "pending_case",
+      "date": "2026-10",
+      "source_ids": [
+        "theprint-kgd6-2026",
+        "dtnext-kgd6-mediator-2026"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Qwik Supply Chain (reported as Reliance-linked)",
+      "claim": "Election Commission data released in March 2024 showed Qwik Supply Chain, a firm press reports link to Reliance through directors, address and shareholders, was the third-largest electoral bond buyer at ₹410 crore (2021 to 2024), about ₹385 crore of it to the BJP. Reliance said Qwik is not a subsidiary of any Reliance entity.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-03",
+      "source_ids": [
+        "theprint-qwik-2024",
+        "outlook-qwik-2024"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Mukesh Ambani",
+      "claim": "Reporters Without Borders' India profile (2026 index) states that Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians, and describes him as a close friend of Prime Minister Narendra Modi.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026",
+      "source_ids": [
+        "rsf-india-2026"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Reliance Industries",
+      "claim": "Reliance reports scope 1 and 2 emissions for its oil-to-chemicals and exploration businesses of 45.52 million tonnes CO2e in 2025-26, roughly flat since 2022-23 (45.24), with renewables about 1% of their energy use in 2024-25. It targets net carbon zero by 2035; the pages give no scope 3 figure.",
+      "evidence_type": "company_disclosure",
+      "date": "2026",
+      "source_ids": [
+        "ril-natural-capital-2026",
+        "ril-natural-capital-2025"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "company",
+      "entity": "Reliance Industries",
+      "claim": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, across rural development, education, healthcare, women's empowerment, disaster response and other programmes.",
+      "evidence_type": "documented_giving",
+      "date": "2025",
+      "source_ids": [
+        "ril-social-capital-2025"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 4,
+        "basis": "documented",
+        "reason": "Oil refining and petrochemicals are Reliance's core business. Its own reports put scope 1 and 2 emissions of these businesses at about 45.5 million tonnes CO2e a year, roughly flat since 2022-23, with renewables about 1% of their energy use. It targets net carbon zero by 2035; no scope 3 figure is published on those pages.",
+        "finding_ids": [
+          "f7"
+        ]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Reporters Without Borders says Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians. Qwik Supply Chain, a firm press reports link to Reliance, was India's third-largest electoral bond buyer (₹410 crore, mostly to the BJP); Reliance says it is not a subsidiary. No personal donation is documented.",
+        "finding_ids": [
+          "f6",
+          "f5"
+        ]
+      },
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "SEBI imposed two penalties naming Mukesh Ambani personally: ₹15 crore over 2007 Reliance Petroleum trades, and a joint ₹25 crore with other promoters over a 2000 takeover. Both were set aside on appeal, upheld by the Supreme Court in 2024. At company level, the Supreme Court in 2026 cleared Reliance of SEBI's fraud finding but upheld a disclosure breach.",
+        "finding_ids": [
+          "f1",
+          "f3",
+          "f2"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "The government's claim of about US$1.55 billion against the Reliance-led KG-D6 consortium over gas migration from ONGC blocks is pending before the Supreme Court, which referred it to mediation in October 2026. Nothing personal is pending.",
+        "finding_ids": [
+          "f4"
+        ]
+      }
+    },
+    "counterweights": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, on rural development, education, healthcare and other programmes.",
+    "rationale": "Legal 0 to 3: the rubric puts a personal penalty at 3 and records outcomes rather than erasing them; both SEBI penalties naming Ambani were quashed, so 1 (surviving company regulatory penalty) is a defensible alternative. Unresolved 0 to 2: KG-D6 claim is a pending company-level case. Politics stays 2; f5 could argue 3, but the Reliance link to Qwik is disputed. Ecology stays 4. Social not scored: no specific finding. CSR (f8) is likely a statutory obligation for large Indian firms; not sourced here."
+  }
+}
