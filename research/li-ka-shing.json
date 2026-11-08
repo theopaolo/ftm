@@ -1,0 +1,192 @@
+{
+  "id": 42,
+  "slug": "li-ka-shing",
+  "name": "Li Ka-shing",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Panama Supreme Court Panama Ports Company CK Hutchison concession unconstitutional ruling",
+    "CK Hutchison Panama Ports arbitration ICC claim Panama 2026",
+    "Li Ka-shing Cenovus stake largest shareholder Husky merger CK Hutchison percentage",
+    "CK Hutchison 2025 annual results Cenovus Energy share of results interest 15.7%",
+    "ckh.com.hk Cenovus Energy \"16%\" OR \"15.7%\" CK Hutchison interest energy segment",
+    "Husky Energy fined $3.8 million North Saskatchewan River oil spill guilty Li Ka-shing",
+    "Li Ka Shing Foundation total grants disbursed HK$ billion Shantou University",
+    "Li Ka Shing Foundation donated \"more than HK$\" billion cumulative 2024 OR 2025 OR 2026",
+    "SAMR review CK Hutchison ports sale BlackRock MSC Cosco status 2026",
+    "China market regulator says will review CK Hutchison ports deal March 2025 AP OR CNBC OR Reuters"
+  ],
+  "sources": [
+    {
+      "id": "ap-panama-ruling",
+      "label": "AP (via NBC News): Panama court rules CK Hutchison port concession unconstitutional (2026)",
+      "url": "https://www.nbcnews.com/world/asia/hong-kong-company-concession-panama-canal-ports-ruled-unconstitutional-rcna256664",
+      "publisher": "Associated Press, republished by NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "aljazeera-panama-ruling",
+      "label": "Al Jazeera: Panama court rules Chinese control of canal ports unconstitutional (2026)",
+      "url": "https://www.aljazeera.com/news/2026/1/30/panama-court-rules-chinese-control-of-canal-ports-unconstitutional",
+      "publisher": "Al Jazeera",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-ppc-arbitration",
+      "label": "Reuters (via The Standard): CK Hutchison unit's Panama claim tops $2 billion (2026)",
+      "url": "https://www.thestandard.com.hk/finance/article/327620/CK-Hutchison-unit-says-Panama-arbitration-claim-now-tops-US2-billion",
+      "publisher": "Reuters, republished by The Standard (Hong Kong)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-samr-review",
+      "label": "Reuters (via Malay Mail): China to run antitrust review of CK Hutchison ports deal (2025)",
+      "url": "https://www.malaymail.com/news/money/2025/03/29/after-beijings-ire-ck-hutchison-baulks-on-panama-ports-sale-to-blackrock-consortium/171278",
+      "publisher": "Reuters, republished by Malay Mail",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-03-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "standard-husky-cenovus",
+      "label": "The Standard: Cenovus Energy to buy CK Hutchison's Husky Energy (2020)",
+      "url": "https://www.thestandard.com.hk/finance/article/158087/Cenovus-Energy-to-buy-CK-Hutchisons-Husky-Energy-in-US29b-deal",
+      "publisher": "The Standard (Hong Kong)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-10-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-cenovus-13d",
+      "label": "SEC: CK Hutchison Schedule 13D/A on Cenovus Energy shares (2023)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1475260/000134100423000155/sc13da1.htm",
+      "publisher": "U.S. Securities and Exchange Commission (filing by CK Hutchison Holdings)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2023-06-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "standard-forbes-philanthropy",
+      "label": "The Standard: Li, Chau among Forbes Asia Heroes of Philanthropy (2024)",
+      "url": "https://www.thestandard.com.hk/breaking-news/article/68497/Li-Chau-among-top-philanthropists-honored",
+      "publisher": "The Standard (Hong Kong)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-12-11",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "public-money",
+      "level": "company",
+      "entity": "Panama Ports Company (CK Hutchison)",
+      "claim": "On 29 January 2026 Panama's Supreme Court ruled unconstitutional the concession under which CK Hutchison's Panama Ports Company ran the Balboa and Cristobal terminals. The case followed a comptroller audit alleging unpaid sums and irregularities in the 2021 extension, allegations the company denied; it called the ruling legally baseless.",
+      "evidence_type": "final_ruling",
+      "date": "2026-01-29",
+      "source_ids": [
+        "ap-panama-ruling",
+        "aljazeera-panama-ruling"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Panama Ports Company (CK Hutchison)",
+      "claim": "After the ruling Panama took over the two terminals and handed temporary concessions to APM Terminals and an MSC unit. By March 2026 Panama Ports Company had raised its ICC arbitration claim against Panama to over $2 billion; Panama's president rejected its accusations, and the case is pending.",
+      "evidence_type": "pending_case",
+      "date": "2026-03-25",
+      "source_ids": [
+        "reuters-ppc-arbitration"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "CK Hutchison",
+      "claim": "In March 2025 China's market regulator said it would conduct an antitrust review of CK Hutchison's planned sale of its ports business, including the Panama terminals, to a BlackRock-led group, after pro-Beijing commentaries reposted by a central government office called the deal a betrayal. No decision on the review was found; Reuters said in March 2026 the sale was still under discussion.",
+      "evidence_type": "pending_case",
+      "date": "2025-03-29",
+      "source_ids": [
+        "reuters-samr-review",
+        "reuters-ppc-arbitration"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "CK Hutchison",
+      "claim": "Hutchison Whampoa held 40.2% of oil producer Husky Energy when Cenovus agreed in October 2020 to buy it in an all-stock deal. In a June 2023 SEC filing, CK Hutchison entities reported holding 16.7% of Cenovus common shares.",
+      "evidence_type": "company_disclosure",
+      "date": "2023-06-21",
+      "source_ids": [
+        "standard-husky-cenovus",
+        "sec-cenovus-13d"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Li Ka Shing Foundation",
+      "claim": "Li Ka-shing has given away more than HK$30 billion (about $3.9 billion) through the foundation he set up in 1980, The Standard reported in December 2024 when Forbes Asia named him a Hero of Philanthropy. Gifts in 2024 included $15 million to Stanford University.",
+      "evidence_type": "documented_giving",
+      "date": "2024-12-11",
+      "source_ids": [
+        "standard-forbes-philanthropy"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Ports and infrastructure make up much of the group, and it keeps a fossil-fuel stake: CK Hutchison entities reported holding 16.7% of oil producer Cenovus in 2023, after Cenovus bought Husky Energy, then 40.2% held by Hutchison Whampoa. Oil is a minority holding, not the core business. No group emissions data was checked.",
+        "finding_ids": [
+          "f4"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "In January 2026 Panama's Supreme Court ruled unconstitutional the concession under which CK Hutchison's Panama Ports Company ran two canal terminals, and the state took them over. The comptroller's allegations of unpaid sums are allegations, denied by the company. No personal liability found.",
+        "finding_ids": [
+          "f1"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level matters are pending: Panama Ports Company's ICC arbitration claim of over $2 billion against Panama, and China's antitrust review, announced in March 2025, of CK Hutchison's planned sale of its ports business to a BlackRock-led group. No personal matter found.",
+        "finding_ids": [
+          "f2",
+          "f3"
+        ]
+      }
+    },
+    "counterweights": "Li Ka-shing has given away more than HK$30 billion through the Li Ka Shing Foundation since 1980, as reported in 2024, mainly to education and medical causes.",
+    "rationale": "Legal 0 to 2: the Panama Supreme Court's 2026 annulment of the subsidiary's concession is a major company-level court outcome; it is not a finding of wrongdoing. Unresolved 0 to 2: a pending $2bn+ arbitration and a Chinese antitrust review, both company level. Ecology 3 unchanged, now documented by the Cenovus stake; not 4, since oil is not the core business. Politics and social not addressed: Beijing's pressure over the sale does not show proximity or donations."
+  }
+}

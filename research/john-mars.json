@@ -1,0 +1,173 @@
+{
+  "id": 39,
+  "slug": "john-mars",
+  "name": "John Mars",
+  "entity_group": "mars",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "OSHA Mars Wrigley Elizabethtown chocolate tank workers fine",
+    "Mars Kellanova acquisition European Commission approval in-depth investigation decision",
+    "Mars cocoa child labor lawsuit Coubaly appeals court decision",
+    "Mars Cocoa for Generations report child labor cases identified CLMRS households",
+    "Mars Inc greenhouse gas emissions reduction 2015 baseline progress 2024 Sustainable in a Generation",
+    "FTC Mars VCA acquisition consent order divest veterinary clinics 2017",
+    "Jacqueline Mars political donations super PAC",
+    "John Franklyn Mars political donations Republican",
+    "Mars 2025 Sustainable in a Generation report greenhouse gas 16.9% reduction independent assurance",
+    "prnewswire Mars 2025 Sustainable in a Generation report 100% renewable electricity U.S. operations June 2026",
+    "\"Jacqueline Mars\" gift million donation",
+    "\"John Mars\" OR \"John F. Mars\" donation million gift foundation",
+    "Mars Incorporated lobbying spending OpenSecrets",
+    "opensecrets.org Mars Inc lobbying profile 2024 2025 (restricted to opensecrets.org; refused by the search tool)",
+    "Coubaly v. Cargill D.C. Circuit opinion 22-7104 July 2025 standing Mars",
+    "\"John and Adrienne Mars\" gift"
+  ],
+  "sources": [
+    {
+      "id": "ap-osha-chocolate-tank",
+      "label": "AP via CBS News: OSHA fines Mars Wrigley after workers fall into chocolate tank (2023)",
+      "url": "https://www.cbsnews.com/amp/pittsburgh/news/osha-mars-wrigley-candy-factory-fined-elizabethtown-pennsylvania",
+      "publisher": "Associated Press (CBS News Pittsburgh)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-02-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cbs-ghana-cocoa",
+      "label": "CBS News: Children harvesting cocoa for Mars suppliers in Ghana (2023)",
+      "url": "https://cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana",
+      "publisher": "CBS News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-11-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ftc-vca-order",
+      "label": "FTC: Final consent order on Mars’ acquisition of VCA (2017)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2017/12/ftc-alters-final-consent-order-response-public-comments-preserving-competition-specialty-emergency",
+      "publisher": "US Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2017-12-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "mars-emissions-2024",
+      "label": "Mars: Record carbon emissions reduction, 2023 report (2024)",
+      "url": "https://prnewswire.com/news-releases/mars-delivers-record-carbon-emissions-reduction-302204704.html",
+      "publisher": "Mars, Incorporated (via PR Newswire)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2024-07-24",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "confectionerynews-emissions-2026",
+      "label": "ConfectioneryNews: Mars cuts emissions and hits US renewables target (2026)",
+      "url": "https://www.confectionerynews.com/Article/2026/06/17/mars-hits-renewable-energy-target-and-cuts-emissions-while-driving-growth/",
+      "publisher": "ConfectioneryNews",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-06-17",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Mars Wrigley (Mars Inc.)",
+      "claim": "In February 2023 OSHA fined Mars Wrigley $14,502 for a serious violation after two contractor workers fell into a partially filled chocolate tank at its Elizabethtown, Pennsylvania plant in June 2022. OSHA said the workers were not authorised to enter the tank and had not been trained on its safety procedures.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2023-02",
+      "source_ids": [
+        "ap-osha-chocolate-tank"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Mars Inc. cocoa supply chain",
+      "claim": "A November 2023 CBS News investigation reported children, some as young as five, working on every Ghanaian farm it visited that supplies Mars, and found names on Mars-linked child labour monitoring lists that were inaccurate or fabricated. Mars said it condemns child labour, was not given details in advance, and that more needs to be done.",
+      "evidence_type": "investigative_reporting",
+      "date": "2023-11-29",
+      "source_ids": [
+        "cbs-ghana-cocoa"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Mars Inc.",
+      "claim": "In December 2017 the FTC finalised a consent order requiring Mars to divest 12 specialty and emergency veterinary clinics as a condition of its $9.1 billion acquisition of VCA, after alleging the deal would lessen competition in 10 US localities. This was a negotiated order, not a court finding.",
+      "evidence_type": "settlement",
+      "date": "2017-12-19",
+      "source_ids": [
+        "ftc-vca-order"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Mars Inc.",
+      "claim": "Mars reports a 16.9% absolute cut in value-chain greenhouse gas emissions from 2015 to 2025 and a 42.6% cut in Scope 1 and 2, against a target of 50% for the value chain by 2030. The figures are self-reported, and neither source cites independent assurance.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-06-17",
+      "source_ids": [
+        "confectionerynews-emissions-2026",
+        "mars-emissions-2024"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Mars is a global food, confectionery and pet care group, a material footprint under the rubric. It reports a 16.9% absolute cut in value-chain emissions since 2015, self-reported and well short of its 50% target for 2030. No major environmental incident was checked or found.",
+        "finding_ids": [
+          "f4"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "OSHA fined Mars Wrigley in 2023 after two untrained contractor workers fell into a chocolate tank at its Pennsylvania plant. CBS News reported in 2023 child labour on Ghanaian farms supplying Mars and flawed monitoring lists; Mars condemned child labour. No official child labour finding against Mars was found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Regulatory actions at company level: an FTC consent order requiring divestment of 12 veterinary clinics to clear the VCA purchase (2017) and an OSHA penalty of $14,502 (2023). No court finding or personal matter was found.",
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Mars is privately held and family-controlled, with limited disclosure. CBS News reporting in 2023 questioned the accuracy of child labour monitoring lists in Mars's Ghana supply chain; this rests on reporting, not an official finding. No pending case against Mars was found in this check.",
+        "finding_ids": [
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "Mars reports a 16.9% absolute cut in value-chain emissions since 2015, against a 50% target for 2030; the figures are self-reported.",
+    "rationale": "Legal 0 to 1: the FTC divestiture order and an OSHA penalty are regulatory actions naming Mars. Unresolved 0 to 1: concerns about child labour monitoring raised only by CBS reporting, rubric level 1. Social and ecology keep their values on documented findings. Politics not checked: OpenSecrets was not reachable."
+  }
+}

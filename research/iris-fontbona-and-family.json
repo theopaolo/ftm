@@ -1,0 +1,198 @@
+{
+  "id": 35,
+  "slug": "iris-fontbona-and-family",
+  "name": "Iris Fontbona & family",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Superintendencia del Medio Ambiente sanción Minera Los Pelambres multa",
+    "Corte Suprema Caimanes Los Pelambres El Mauro tranque sentencia demolición",
+    "Twin Metals Antofagasta federal leases cancelled Interior Department Luksic",
+    "SMA Zaldívar sanción extracción de agua Antofagasta Minerals multa",
+    "Los Pelambres SMA nueve cargos 2022 resolución sanción programa de cumplimiento aprobado",
+    "Andrónico Luksic house Kalorama Ivanka Trump Jared Kushner rent Twin Metals New York Times",
+    "doi.gov Interior Department cancels Twin Metals leases January 2022 press release",
+    "Twin Metals leases reinstated 2025 Trump administration Boundary Waters Antofagasta",
+    "Corte Suprema 21 octubre 2014 Minera Los Pelambres estero Pupío Caimanes fallo restablecer escurrimiento aguas",
+    "Antofagasta plc 2024 annual report renewable electricity 100% scope 1 and 2 emissions reduction",
+    "Antofagasta Minerals emisiones alcance 1 y 2 reducción 2023 reporte de sustentabilidad energía renovable",
+    "antofagasta.co.uk climate change renewable energy contracts emissions reduced since 2020",
+    "apnews Ivanka Trump rents house from foreign billionaire suing US Luksic",
+    "Corte Suprema 2021 acoge recurso de protección Caimanes polvo tranque El Mauro Los Pelambres",
+    "Twin Metals leases restored Bureau of Land Management 2025 OR 2026"
+  ],
+  "sources": [
+    {
+      "id": "cooperativa-el-mauro-2015",
+      "label": "Cooperativa: Court orders Los Pelambres to demolish El Mauro tailings dam (2015)",
+      "url": "https://cooperativa.cl/noticias/pais/region-de-coquimbo/justicia-ordeno-a-minera-los-pelambres-demoler-tranque-de-rela/2015-03-09/122235.html",
+      "publisher": "Cooperativa",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2015-03-09",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "df-el-mauro-2016",
+      "label": "Diario Financiero: Appeals court revokes El Mauro demolition order (2016)",
+      "url": "https://www.df.cl/empresas/mineria/corte-de-apelaciones-revoca-orden-de-demolicion-de-tranque-el-mauro-de",
+      "publisher": "Diario Financiero",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2016-08-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reporteminero-sma-pelambres-2023",
+      "label": "Reporte Minero: SMA fines Los Pelambres over tailings incident (2023)",
+      "url": "https://www.reporteminero.cl/noticia/noticias/2023/02/sma-aplica-multa-minera-los-pelambres-incidente-manejo-relaves",
+      "publisher": "Reporte Minero",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-02-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "df-sma-centinela-2026",
+      "label": "Diario Financiero: SMA fines Minera Centinela 675m pesos (2026)",
+      "url": "https://www.df.cl/empresas/mineria/sma-aplica-multa-a-la-empresa-minera-centinela-tras-constatar",
+      "publisher": "Diario Financiero",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "doi-twin-metals-2022",
+      "label": "US Interior Department: Mineral leases near Boundary Waters cancelled (2022)",
+      "url": "https://www.doi.gov/pressreleases/interior-department-takes-action-mineral-leases-improperly-renewed-watershed-boundary",
+      "publisher": "U.S. Department of the Interior",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2022-01-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-luksic-rental-2017",
+      "label": "AP (via VOA): Ivanka Trump rents house from billionaire suing US (2017)",
+      "url": "https://www.voanews.com/a/ivanka-trump-jared-kushner-rent-house-foreign-billionaire-suing-united-states/3756522.html",
+      "publisher": "Associated Press (via Voice of America)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2017-03-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "antofagasta-climate-plan-2024",
+      "label": "Antofagasta plc: Climate Action Plan (2024)",
+      "url": "https://www.antofagasta.co.uk/media/4684/antofagasta-plc-climate-action-plan-2023.pdf",
+      "publisher": "Antofagasta plc",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2024-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "antofagasta-climate-page",
+      "label": "Antofagasta plc: Climate change (undated web page)",
+      "url": "https://www.antofagasta.co.uk/sustainability/climate-change/",
+      "publisher": "Antofagasta plc",
+      "publisher_type": "company",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Minera Los Pelambres (Antofagasta)",
+      "claim": "On 21 October 2014 Chile's Supreme Court ordered Minera Los Pelambres to restore the natural flow of the Pupío stream to the Caimanes community, cut by its El Mauro tailings dam, by demolition or other works. A local court ordered demolition in March 2015; the La Serena appeals court annulled that order in August 2016.",
+      "evidence_type": "final_ruling",
+      "date": "2014-10-21",
+      "source_ids": ["cooperativa-el-mauro-2015", "df-el-mauro-2016"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Minera Los Pelambres and Minera Centinela (Antofagasta)",
+      "claim": "Chile's environmental regulator SMA fined Los Pelambres 211.9 UTA (about 157 million pesos) in February 2023 over a 2021 process-water spill and tailings drainage control failures, and fined Centinela 809 UTA (over 675 million pesos) in January 2026 for missed water monitoring at El Tesoro, an infraction rated minor.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-01-23",
+      "source_ids": ["reporteminero-sma-pelambres-2023", "df-sma-centinela-2026"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Twin Metals Minnesota (Antofagasta)",
+      "claim": "In January 2022 the US Interior Department cancelled two mineral leases held by Twin Metals Minnesota next to the Boundary Waters wilderness, after its Solicitor found the 2019 renewal legally deficient. The later status of the leases was not confirmed from a primary source.",
+      "evidence_type": "official_report",
+      "date": "2022-01-26",
+      "source_ids": ["doi-twin-metals-2022"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "family",
+      "entity": "Andrónico Luksic (Luksic family)",
+      "claim": "AP reported in March 2017 that Ivanka Trump and Jared Kushner rented a Washington house bought by Andrónico Luksic while his company Twin Metals was suing the US over mine leases. The White House and a Luksic relative denied any link; an ethics lawyer cited an appearance problem.",
+      "evidence_type": "investigative_reporting",
+      "date": "2017-03-08",
+      "source_ids": ["ap-luksic-rental-2017"]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Antofagasta plc",
+      "claim": "Antofagasta reports that all its mining operations have had renewable electricity contracts since April 2022, and that by 2022 it cut Scope 1 and 2 emissions 30% from 2020, meeting its 2025 target early. It targets a 50% cut by 2035; these are company figures.",
+      "evidence_type": "company_disclosure",
+      "date": "2024-03",
+      "source_ids": ["antofagasta-climate-plan-2024", "antofagasta-climate-page"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Antofagasta runs large copper mines in Chile. Chile's Supreme Court ordered its Los Pelambres mine in 2014 to restore a stream cut by its El Mauro tailings dam, and the regulator SMA fined Los Pelambres in 2023 and Centinela in 2026 over a process-water spill and missed water monitoring. No major environmental disaster was found.",
+        "finding_ids": ["f1", "f2"]
+      },
+      "politics": {
+        "value": 1,
+        "basis": "estimate",
+        "reason": "No political donations or lobbying figures were checked. AP reported in 2017 that Andrónico Luksic owned the Washington house rented by Ivanka Trump and Jared Kushner while Twin Metals was suing the US over mine leases; both sides denied any link and no political favour was established.",
+        "finding_ids": []
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "A company-level community conflict is documented: Chile's Supreme Court found in 2014 that Los Pelambres' El Mauro tailings dam had cut the Caimanes community's stream and ordered the flow restored. A 2015 demolition order was annulled on appeal in 2016. No deaths or mass harm were found in the sources checked.",
+        "finding_ids": ["f1"]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level record: a 2014 Supreme Court ruling against Minera Los Pelambres over the El Mauro dam, SMA environmental fines on Los Pelambres (2023) and Centinela (2026), and the US cancellation of Twin Metals' mineral leases in 2022. No personal legal action against Iris Fontbona or family members was found.",
+        "finding_ids": ["f1", "f2", "f3"]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "estimate",
+        "reason": "Concerns over the 2017 Washington house rental were raised only by reporting and denied by both sides. The current status of Twin Metals' leases was not confirmed. No pending case or personal matter was found.",
+        "finding_ids": []
+      }
+    },
+    "counterweights": "Antofagasta reports that all its mining operations have run on renewable electricity contracts since April 2022 and that it cut Scope 1 and 2 emissions 30% from 2020 by 2022, ahead of its 2025 target (company figures).",
+    "rationale": "Ecology stays 3, now documented by the El Mauro ruling and SMA fines. Social stays 2, documented by the 2014 Supreme Court ruling. Legal 0 to 2: a Supreme Court finding against the company counts as a court finding under the rubric; the fines alone would be 1, and the later annulment of the demolition order argues for caution. Unresolved 0 to 1 (estimate): the house-rental concern rests on reporting only. Politics unchanged at 1, estimate: no donation or lobbying data checked."
+  }
+}
