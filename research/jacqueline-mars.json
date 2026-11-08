@@ -92,7 +92,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Mars Wrigley (Mars Inc.)",
-      "claim": "In February 2023 OSHA fined Mars Wrigley $14,502 for a serious violation after two contractor workers fell into a partially filled chocolate tank at its Elizabethtown, Pennsylvania plant in June 2022. OSHA said the workers were not authorised to enter the tank and had not been trained on its safety procedures.",
+      "claim": "In February 2023 OSHA fined Mars Wrigley more than $14,500 after two workers from an outside contractor fell into a partially filled chocolate tank at its Elizabethtown, Pennsylvania plant in June 2022. OSHA said the workers were not authorised to work in the tanks and had not been trained on the equipment's safety procedures.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-02",
       "source_ids": [
@@ -145,7 +145,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Jacqueline Mars",
-      "claim": "In March 2026 Bryn Mawr College announced a $10 million gift from trustee emeritus Jacqueline Badger Mars for need-based undergraduate scholarships. The college describes it as a gift made, not a pledge.",
+      "claim": "In March 2026 Bryn Mawr College announced a $10 million gift from trustee emeritus Jacqueline Badger Mars to support undergraduate scholarships, with a focus on need-based aid. The college says she has given the gift and mentions no pledge or payment schedule.",
       "evidence_type": "documented_giving",
       "date": "2026-03-04",
       "source_ids": [
@@ -158,7 +158,7 @@
       "ecology": {
         "value": 2,
         "basis": "documented",
-        "reason": "Mars is a global food, confectionery and pet care group, a material footprint under the rubric. It reports a 16.9% absolute cut in value-chain emissions since 2015, self-reported and well short of its 50% target for 2030. No major environmental incident was checked or found.",
+        "reason": "Mars is a global food, confectionery and pet care group, a material footprint under the rubric. It reports a 16.9% absolute cut in value-chain emissions since 2015, self-reported, against a 50% target for 2030. No major environmental incident was found in this research.",
         "finding_ids": [
           "f4"
         ]
@@ -175,7 +175,7 @@
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Regulatory actions at company level: an FTC consent order requiring divestment of 12 veterinary clinics to clear the VCA purchase (2017) and an OSHA penalty of $14,502 (2023). No court finding or personal matter was found.",
+        "reason": "Regulatory actions at company level: an FTC consent order, a settlement, requiring divestment of 12 veterinary clinics to clear the VCA purchase (2017), and an OSHA penalty of more than $14,500 (2023). No court finding or personal matter was found.",
         "finding_ids": [
           "f1",
           "f3"
@@ -184,7 +184,7 @@
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "Mars is privately held and family-controlled, with limited disclosure. CBS News reporting in 2023 questioned the accuracy of child labour monitoring lists in Mars's Ghana supply chain; this rests on reporting, not an official finding. No pending case against Mars was found in this check.",
+        "reason": "CBS News reporting in 2023 questioned the accuracy of child labour monitoring lists in Mars's Ghana supply chain, finding listed children still working and some fabricated names. This rests on reporting, not an official finding.",
         "finding_ids": [
           "f2"
         ]
@@ -192,5 +192,36 @@
     },
     "counterweights": "Mars reports a 16.9% absolute cut in value-chain emissions since 2015 (self-reported). Jacqueline Mars gave Bryn Mawr College $10 million for need-based scholarships in 2026.",
     "rationale": "Legal 0 to 1: the FTC divestiture order and an OSHA penalty are regulatory actions naming Mars. Unresolved 0 to 1: concerns about child labour monitoring raised only by CBS reporting, rubric level 1. Social and ecology keep their values on documented findings. Politics not checked: OpenSecrets was not reachable."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: the AP report gives the penalty as 'more than $14,500', not $14,502, and does not say the violation was classed as serious; both details removed. Contractor workers, June 2022 incident, lack of authorisation and training are confirmed."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "CBS News, 29 Nov 2023: children as young as 5 found on each Mars-supplying farm visited; listed children still working and some names outright fabrications on monitoring lists obtained from a whistleblower. Mars's statement condemns child labour, says CBS gave no details in advance, and that more needs to be done. Company level, investigative reporting."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "FTC release, 19 Dec 2017: final order to settle charges, 12 clinics in 10 localities, $9.1bn VCA deal, complaint alleged substantially lessened competition for specialty and emergency veterinary services. Settlement, not a finding; the claim says so."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "ConfectioneryNews (17 Jun 2026) gives 16.9% cumulative value-chain cut and 42.6% Scope 1-2 cut in 2025 against 2015; Mars's 2024 release gives the 50% by 2030 target. Company-reported figures, no independent assurance cited in either; labelled self-reported."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the college page (4 Mar 2026) says she 'has generously gifted' $10 million; it does not itself contrast this with a pledge, so the claim now says what the page states. Individual level, names her."
+      }
+    ],
+    "passed": true
   }
 }
