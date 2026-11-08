@@ -71,12 +71,12 @@
     },
     {
       "id": "fondation-chanel-accounts-2024",
-      "label": "Fondation CHANEL: Report and accounts to 9 July 2024 (2024)",
+      "label": "Fondation CHANEL: Report and accounts to 9 July 2024 (2025)",
       "url": "https://opencharities.uk/ew/1195353/files/2024-07-09-accounts.md",
       "publisher": "Fondation CHANEL (accounts filed with the Charity Commission, copy via OpenCharities)",
       "publisher_type": "company",
       "names_subject": true,
-      "published": "2024",
+      "published": "2025-04-07",
       "accessed": "2026-11-08"
     },
     {
@@ -107,7 +107,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "Chanel",
-      "claim": "In March 2006 France's competition council fined Chanel €3 million, among 13 perfume suppliers and 3 retail chains fined about €45 million in all, for agreements in 1997-2000 that kept luxury perfume retail prices up. The Paris Court of Appeal upheld the finding in 2012, cutting total fines to about €40 million.",
+      "claim": "In March 2006, more than ten years ago, France's competition council fined Chanel €3 million, one of 13 perfume suppliers and 3 retail chains fined €45.4 million in all, for agreements with retailers in 1997-2000 that fixed luxury perfume retail prices. The Paris Court of Appeal upheld the decision in 2012, cutting total fines to about €40 million.",
       "evidence_type": "regulatory_penalty",
       "date": "2006-03",
       "source_ids": [
@@ -121,7 +121,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Chanel supply chain (Italy)",
-      "claim": "In July 2026 Italian police in a Milan prosecutors' probe searched Chanel's offices, one of nine brands told to hand over supply-chain records, after two Chinese-owned workshops were accused of using undocumented workers to make bags for suppliers of luxury houses. Chanel is not formally under investigation and says it had the subcontractor dropped in May.",
+      "claim": "In July 2026 Italian police searched Chanel offices in a Milan prosecutors' labour probe; Chanel was one of nine brands ordered to hand over supply-chain documents after police accused two Chinese-owned workshops of exploiting undocumented workers to make bags for luxury suppliers. Chanel is not formally under investigation and says it moved to drop the subcontractor in May.",
       "evidence_type": "allegation",
       "date": "2026-07-16",
       "source_ids": [
@@ -148,7 +148,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Fondation CHANEL",
-      "claim": "Fondation CHANEL, a UK charity funded solely by the Chanel group, reported grant spending of US$25.9 million in 2023 and US$19.7 million from January to 9 July 2024, in accounts audited by Ernst & Young. It received US$85 million in cash donations in 2023.",
+      "claim": "Fondation CHANEL, a UK charity funded solely by the Chanel group, recorded US$25.9 million of grant expenditure in 2023 and US$19.7 million from January to 9 July 2024, in US-dollar accounts audited by Ernst & Young that count grants when payable, not when paid. It received US$85 million in cash donations in 2023.",
       "evidence_type": "documented_giving",
       "date": "2024-07-09",
       "source_ids": [
@@ -161,7 +161,7 @@
       "theme": "finance",
       "level": "family",
       "entity": "Alain and Gérard Wertheimer (Chanel owners)",
-      "claim": "Bloomberg reported in 2024, citing filings, that Chanel paid $5.7 billion in dividends for 2023 and $12.4 billion over three years to its owners, the Wertheimer brothers, via a Cayman Islands-based holding company. The reporting does not name that company or describe its accounts.",
+      "claim": "Bloomberg reported in June 2024, citing filings, that Chanel paid a $5.7 billion dividend for 2023, bringing payouts to its owners, the Wertheimer brothers, to $12.4 billion over three years. The payouts go to the family's Cayman Islands-based holding company for Chanel, which the reporting does not name.",
       "evidence_type": "investigative_reporting",
       "date": "2024-06-06",
       "source_ids": [
@@ -175,7 +175,7 @@
       "ecology": {
         "value": 2,
         "basis": "documented",
-        "reason": "Chanel makes and sells fashion, leather goods, fragrance, cosmetics and jewellery worldwide, a reported footprint of about 950,000 tonnes CO2e in 2024. It reports a 42% cut in own-operations emissions since 2018 but a 12% rise in value-chain emissions; the figures are self-reported. No major environmental incident was found.",
+        "reason": "Chanel makes and sells fashion, leather goods, fragrance, cosmetics and jewellery worldwide, with a self-reported footprint of about 950,000 tonnes CO2e in 2024. It reports a 42% cut in own-operations emissions since 2018 but a 12% rise in value-chain emissions; the figures cite no independent assurance. No major environmental incident was found.",
         "finding_ids": [
           "f3"
         ]
@@ -183,7 +183,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "France's competition council fined Chanel in 2006 for keeping luxury perfume retail prices up in 1997-2000, upheld on appeal in 2012. In 2026 Italian police searched Chanel's offices in a probe of workshops accused of exploiting workers; Chanel is not under formal investigation and says it dropped the subcontractor. No labour finding against Chanel was found.",
+        "reason": "France's competition council fined Chanel in 2006 for fixing luxury perfume retail prices with retailers in 1997-2000, upheld on appeal in 2012. In 2026 Italian police searched Chanel's offices in a probe of workshops accused of exploiting workers; Chanel is not under formal investigation and says it moved to drop the subcontractor. No labour finding against Chanel was found.",
         "finding_ids": [
           "f1",
           "f2"
@@ -192,7 +192,7 @@
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Regulatory action at company level: a €3 million fine from France's competition council in 2006 for perfume price agreements from 1997 to 2000, upheld on appeal. No court finding of scale, settlement above $1 billion or personal matter was found.",
+        "reason": "Regulatory action at company level: a €3 million fine from France's competition council in 2006, more than ten years ago, for perfume retail price agreements from 1997 to 2000; the decision was upheld on appeal in 2012. No court finding of scale, settlement above $1 billion or personal matter was found.",
         "finding_ids": [
           "f1"
         ]
@@ -207,7 +207,38 @@
         ]
       }
     },
-    "counterweights": "Fondation CHANEL, funded solely by the Chanel group, reported US$25.9 million in grants in 2023. Chanel reports a 42% cut in own-operations emissions since 2018, self-reported; value-chain emissions rose 12%.",
+    "counterweights": "Fondation CHANEL, funded solely by the Chanel group, recorded US$25.9 million of grant expenditure in 2023. Chanel reports a 42% cut in own-operations emissions since 2018, self-reported; value-chain emissions rose 12%.",
     "rationale": "Legal 0 to 1: the 2006 French competition fine of €3 million is a regulatory penalty naming Chanel, modest in scale, so not level 2. Unresolved 0 to 1: private ownership through an offshore holding company, with the holding company unnamed, plus a supply-chain probe in which Chanel is not a suspect; level 2 would need a case against Chanel itself. Ecology and social keep their values on documented findings. Politics not checked: no source found on Wertheimer or Chanel political spending."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: added that the 2006 fine is more than ten years old, gave the exact €45.4m total from the authority's release, and replaced 'kept prices up' with the release's 'fixed retail prices'. Chanel €3m (decision 06-D-04) confirmed; La Libre (AFP) confirms the Paris Court of Appeal upheld the decision in 2012, total cut from €46.2m to €40.2m."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: workshops are accused of 'exploiting' (not 'using') undocumented workers, and Chanel's response is limited to moving to drop the subcontractor after a May 18 alert. Euronews/AFP confirms raids on brands including Chanel in a Milan prosecutors' probe; Retail Gazette (which says 'allegedly') confirms nine brands ordered to hand over documents and that none is under formal investigation."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "PDF on Chanel's official chanel.cn domain, issued in Chanel Limited's name (Chanel Ceres plc bonds), same format as Chanel's FY2023 update on chanel.com; covers financial year 2024 (file created September 2025). Figures match: scope 1-2 -42% vs 2018, 99% renewable electricity, scope 3 +12%, 950,043 t, 97% scope 3. No assurance of the data is mentioned, only SBTi validation of targets."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: 'grant spending' became 'grant expenditure', noting that the accounts count grants when payable, not when paid (grants payable at year end were small). OCR copy reproduces the SOFA figures US$25,910,696 (2023) and US$19,719,904 (2024 period). Accounts are presented in USD, so US$ is correct; EY auditor, sole Chanel funding and US$85m 2023 cash donations confirmed. Source dated to approval, 7 April 2025."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: tightened to the facts reported and dropped 'or describe its accounts'. Fortune piece is a Bloomberg story (byline Tara Patel and Bloomberg); it reports the $5.7bn 2023 dividend, $12.4bn over three years, citing filings, paid to the Wertheimers' unnamed Cayman Islands-based holding company. No wrongdoing alleged. Fortune 2025 confirms the amounts. Level family is right."
+      }
+    ],
+    "passed": true
   }
 }
