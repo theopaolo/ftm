@@ -287,5 +287,51 @@
     },
     "counterweights": "The Fundación Amancio Ortega reports €310 million invested in 450 cancer diagnosis and radiotherapy machines for Spain's public hospitals (2015 to 2025). Inditex has held a global framework agreement with the IndustriALL union federation since 2007.",
     "rationale": "Social 2 to 3: the rubric puts forced-labour findings at 3, and a Brazilian court upheld a slave-like labour finding against Zara Brasil; the case is one workshop network and dates from 2011, which may argue for keeping 2. Legal 0 to 1: regulatory fines upheld in court; a reading of the 2017 ruling as a court finding could support 2. Unresolved 0 to 2: UOKiK charges are pending. Ecology stays 3. Tax finding (f6) is a political group's estimate of legal avoidance, so it informs no score."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "SOMO/Mind the Gap: 15 immigrants in two São Paulo workshops sewing for Zara, classed analogous to slavery (2011), 48 fines; Zara Brasil lost its case and the appeal, case closed November 2017 (TRT-2 ruling of 7 Nov 2017 cited). Agência Brasil (16 Apr 2014) confirms the 2014 court rejection naming Zara Brasil Ltda. Company level correct."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "BHRRC/AFP (17 May 2023): complaints by Sherpa and others against Uniqlo France, Inditex, SMCP and Skechers; the 2021 case was dropped in April 2023 for lack of jurisdiction; Inditex called the accusations unfounded. FashionUnited (Feb 2025): Paris appeal court investigating chamber upheld the May 2024 refusal to open a judicial investigation; a new complaint to another judge was announced. Correctly labelled an allegation."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Earthsight summary links SLC and Horita Bahia cotton (Better Cotton label, deforestation, land conflicts) to Zara via Bangladesh-based Jamuna Group; report published 11 April 2024 per contemporaneous coverage. Better Cotton audit summary (23 Apr 2024): Peterson audit found the three farms checked not in breach of Better Cotton or ABR standards; it does not name Zara or Inditex, so names_subject false is correct."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Reuters (Helen Reid, 14 Mar 2025) read via SRN News (Salem Media), a wire copy with full Reuters dateline and credits; a second syndicated copy (WXER) carries identical figures, so the copy is judged faithful. Scope 3 2024 13,427,762 t vs 2018 13,421,935 t, SBTi-approved 51% cut by 2030, transport emissions up 10%, figures from the annual report."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "UOKiK press release (21 Jan 2026): charges against Zara over Join Life green claims such as zero net emissions and zero waste without stated scope; charge stage only, fines up to 10% of turnover per practice. pending_case is correct."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Greens/EFA press release (8 Dec 2016): commissioned research estimates Inditex avoided at least €585 million in 2011-2014 via the Netherlands, Ireland and Switzerland; release states the techniques are legal."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "IndustriALL (13 Nov 2019): renewal of the GFA dating from 2007 creates a global union committee on freedom of association and collective bargaining with representatives from Inditex’s six main production clusters. Source is a union release, not a company filing; company_disclosure kept as the closest available evidence type."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Foundation page lists the programme under fulfilled projects, 2015-2025, €310 million, 450 machines for cancer diagnosis and radiotherapy through Spain’s public health system. Self-reported by the foundation."
+      }
+    ]
   }
 }
