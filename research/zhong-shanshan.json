@@ -1,0 +1,127 @@
+{
+  "id": 27,
+  "slug": "zhong-shanshan",
+  "name": "Zhong Shanshan",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Nongfu Spring fined market regulator penalty",
+    "Zhong Shanshan online attacks nationalist backlash 2024 Nongfu Spring boycott",
+    "Nongfu Spring ESG report 2024 greenhouse gas emissions plastic packaging rPET",
+    "Nongfu Spring annual report 2025 legal proceedings litigation",
+    "农夫山泉 行政处罚 市场监督管理局 罚款",
+    "Zhong Shanshan Qiantang Education Foundation university Hangzhou donation billion yuan",
+    "钟睒睒 人大代表 政协委员 浙江",
+    "Zhong Shanshan statement ByteDance Zhang Yiming apology November 2024 Reuters",
+    "Wantai Biological Pharmacy Zhong Shanshan penalty CSRC investigation OR fined OR lawsuit",
+    "Hong Kong Consumer Council apologises Nongfu Spring bromate July 2024",
+    "Creswell NZ Nongfu Spring Otakiri bottling plant Supreme Court decision Ngāti Awa",
+    "courtsofnz.govt.nz Sustainable Otakiri Whakatane District Council Creswell judgment 2025 SC"
+  ],
+  "sources": [
+    {
+      "id": "nongfu-sr-2025",
+      "label": "Nongfu Spring: 2025 Sustainability Report (2026)",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0417/2026041701451.pdf",
+      "publisher": "Nongfu Spring Co., Ltd. (filed with HKEX)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-04-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "chinanews-2014",
+      "label": "China News Service: Nongfu Spring fined RMB100,000 over pH comparison promotion (2014)",
+      "url": "https://www.chinanews.com.cn/cj/2014/08-14/6492818.shtml",
+      "publisher": "China News Service (reprinting Guangzhou Daily)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2014-08-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nzherald-2025",
+      "label": "NZ Herald: Ōtākiri Springs wins Supreme Court case over water bottling plant (2025)",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/otakiri-springs-wins-supreme-court-case-over-water-bottling-plant/MIB2ENUBPVAR3KJ6RFTGW33O5M",
+      "publisher": "New Zealand Herald (Whakatāne Beacon)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-11-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nzsc-otakiri",
+      "label": "Supreme Court of New Zealand: Sustainable Otakiri v Whakatāne District Council (2025)",
+      "url": "https://www.courtsofnz.govt.nz/cases/sustainable-otariki-incorporated-v-whakatane-district-council-and-creswell-nz-limited",
+      "publisher": "Courts of New Zealand",
+      "publisher_type": "court",
+      "names_subject": false,
+      "published": "2025-11-12",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Nongfu Spring",
+      "claim": "Nongfu Spring reported using about 1.08 million tonnes of plastic packaging and withdrawing 57 million tonnes of natural water in 2025, both up on 2024. Its first value-chain inventory put total emissions at 5.2 million tonnes CO2e, 78% of it Scope 3, while Scope 1 and 2 intensity fell slightly.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-04",
+      "source_ids": ["nongfu-sr-2025"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Nongfu Spring",
+      "claim": "In 2013 Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 for unfair competition, finding that in-store pH tests disparaged rival C'estbon; a provincial review and a first-instance court upheld the penalty. The appeal was pending in August 2014 and its outcome was not found. The case is over ten years old.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2013",
+      "source_ids": ["chinanews-2014"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Creswell NZ (Nongfu Spring subsidiary)",
+      "claim": "A plan tied to Nongfu's New Zealand subsidiary Creswell NZ to bottle up to 580 million litres a year from an aquifer at Ōtākiri was contested by the Ngāti Awa iwi and a residents' group. In November 2025 the Supreme Court dismissed their appeals by a 3-2 majority, leaving the consents in place.",
+      "evidence_type": "final_ruling",
+      "date": "2025-11-12",
+      "source_ids": ["nzherald-2025", "nzsc-otakiri"]
+    },
+    {
+      "id": "f4",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "individual",
+      "entity": "Zhong Shanshan (Zhong Ziyi Education Foundation)",
+      "claim": "Nongfu Spring's 2025 report states that Zhong Shanshan donated RMB100 million through his Zhong Ziyi Education Foundation to set up a scholarship and teacher fund at Zhuji High School. The amount is reported as donated, not pledged.",
+      "evidence_type": "documented_giving",
+      "date": "2025",
+      "source_ids": ["nongfu-sr-2025"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Nongfu Spring reports about 1.08 million tonnes of plastic packaging, 57 million tonnes of natural water withdrawn and 5.2 million tonnes CO2e across its value chain in 2025. A contested New Zealand aquifer bottling plan was upheld by the Supreme Court in 2025. No environmental penalty found.",
+        "finding_ids": ["f1", "f3"]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 in 2013 for disparaging a rival in promotions; a first-instance court upheld it, and the appeal outcome was not found. No other penalty and no personal case found.",
+        "finding_ids": ["f2"]
+      }
+    },
+    "counterweights": "Zhong Shanshan gave RMB100 million through his Zhong Ziyi Education Foundation to a school fund in Zhuji in 2025, according to Nongfu Spring's report.",
+    "rationale": "Ecology stays at 2: the company's own figures document a material footprint (plastic, water, emissions) typical of mass food and drink, with no disaster or penalty. Legal moves from 0 to 1 because a dated regulatory fine (2013, modest, company level) is now documented. Politics, social and open questions are left as they are: a single self-media profile claiming he holds no political posts was not citable, and the 2024 online attacks on the company are not a concern about him."
+  }
+}
