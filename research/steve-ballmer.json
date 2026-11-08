@@ -140,7 +140,7 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Steve Ballmer and the Los Angeles Clippers",
-      "claim": "On 2 September 2026 the NBA suspended Ballmer for one year, fined the Clippers $30 million and took five first-round picks for cap circumvention involving Kawhi Leonard, saying he knowingly sought off-court income for Leonard. After first rejecting the findings, Ballmer said on 13 September the team would comply and had paid the fine; this is league discipline, not a court finding.",
+      "claim": "On 2 September 2026 the NBA suspended Ballmer for one year, saying he knowingly sought to help Leonard obtain off-court income, and fined the Clippers $30 million and took five first-round picks for cap circumvention; this is private league discipline, not a court finding. After the team first rejected the findings, Ballmer said on 13 September it would comply and had paid the fine.",
       "evidence_type": "regulatory_penalty",
       "date": "2026-09",
       "source_ids": [
@@ -154,7 +154,7 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Steve Ballmer",
-      "claim": "Eleven Aspiration investors added Ballmer in November 2025 as a defendant to a fraud and aiding-and-abetting suit in Los Angeles County Superior Court, alleging his investment was used to channel money to Leonard. Ballmer denies it, says he was a victim of Sanberg's fraud and moved to dismiss; the case was still pending in October 2026, with no ruling found.",
+      "claim": "Eleven Aspiration investors named Ballmer in November 2025 in an amended fraud complaint before Los Angeles County Superior Court, alleging he took part in Sanberg's fraud and that his investment served to get around the salary cap via Leonard's deal. These are allegations: he denies them, says he was a victim and moved to dismiss; he remained a defendant in October 2026, with no ruling found.",
       "evidence_type": "pending_case",
       "date": "2026-10",
       "source_ids": [
@@ -181,7 +181,7 @@
       "theme": "platforms",
       "level": "company",
       "entity": "Microsoft",
-      "claim": "In June 2001, while Ballmer was chief executive, the full D.C. Circuit upheld the finding that Microsoft illegally maintained its monopoly in PC operating systems, reversed the attempted-monopolisation finding and vacated the break-up order. The conduct dates from the 1990s and the ruling is over twenty years old.",
+      "claim": "In June 2001 the full D.C. Circuit upheld in part the finding that Microsoft illegally maintained its monopoly in PC operating systems, reversed the attempted-monopolisation finding and vacated the break-up order; the opinion refers to Ballmer as Microsoft's president and CEO. The conduct dates from the 1990s and the ruling is more than twenty years old.",
       "evidence_type": "final_ruling",
       "date": "2001-06-28",
       "source_ids": [
@@ -194,7 +194,7 @@
       "theme": "platforms",
       "level": "company",
       "entity": "Microsoft",
-      "claim": "In March 2013, during Ballmer's tenure as chief executive, the European Commission fined Microsoft €561 million for failing to show the browser choice screen it had committed to in 2009, from May 2011 to July 2012. Microsoft acknowledged the lapse and cooperated, which the Commission counted in mitigation.",
+      "claim": "In March 2013 the European Commission fined Microsoft €561 million for failing to show the browser choice screen it had committed to in 2009, from May 2011 to July 2012. Microsoft acknowledged the lapse and cooperated, which the Commission counted in mitigation; the decision is more than ten years old.",
       "evidence_type": "regulatory_penalty",
       "date": "2013-03-06",
       "source_ids": [
@@ -207,7 +207,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Steve Ballmer",
-      "claim": "Ballmer personally gave $100,000 by October 2010 to the campaign against Washington's I-1098 income tax on high earners, and $1 million in 2014 to the group backing I-594 background checks on gun sales. Both are state ballot campaigns more than ten years old.",
+      "claim": "Ballmer was reported as giving $100,000 by October 2010 to the campaign against Washington's I-1098 income tax on high earners, and $1 million in 2014 to the Washington Alliance for Gun Responsibility, backing I-594 background checks on gun sales. Both are state ballot campaigns more than ten years old.",
       "evidence_type": "investigative_reporting",
       "date": "2014-11",
       "source_ids": [
@@ -235,7 +235,7 @@
       "politics": {
         "value": 1,
         "basis": "documented",
-        "reason": "Personal donations to Washington ballot campaigns: $100,000 against a 2010 income tax on high earners and $1 million in 2014 for gun background checks. Both are more than ten years old; no larger political spending was established in this check.",
+        "reason": "Donations reported in his name to Washington ballot campaigns: $100,000 against a 2010 income tax on high earners and $1 million in 2014 for gun background checks. Both are more than ten years old; no larger political spending was established in this check.",
         "finding_ids": [
           "f6"
         ]
@@ -243,7 +243,7 @@
       "social": {
         "value": 3,
         "basis": "documented",
-        "reason": "In 2001, while Ballmer was chief executive, a US appeals court upheld the finding that Microsoft illegally maintained a monopoly in PC operating systems; in 2013 the European Commission fined it €561 million for breaching browser-choice commitments. These are company findings, now old; Ballmer is a shareholder, not in control of Microsoft today.",
+        "reason": "In 2001, while Ballmer was Microsoft's chief executive, a US appeals court upheld in part the finding that Microsoft illegally maintained a monopoly in PC operating systems; in 2013 the European Commission fined it €561 million for breaching browser-choice commitments. These are company findings, more than ten years old.",
         "finding_ids": [
           "f4",
           "f5"
@@ -252,7 +252,7 @@
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "In September 2026 the NBA suspended him for one year and fined the Clippers $30 million for salary-cap circumvention involving Kawhi Leonard; he accepted the penalty and the fine was paid. This is league discipline, not a court finding. Company level: a 2001 US court finding that Microsoft illegally maintained a monopoly, and a €561 million EU fine in 2013.",
+        "reason": "In September 2026 the NBA suspended him for one year and fined the Clippers $30 million for salary-cap circumvention involving Kawhi Leonard; he later said the team would comply and had paid the fine. This is private league discipline, not a court finding. Company level: a 2001 US court finding that Microsoft illegally maintained a monopoly, and a €561 million EU fine in 2013.",
         "finding_ids": [
           "f1",
           "f4",
@@ -262,7 +262,7 @@
       "unresolved": {
         "value": 3,
         "basis": "documented",
-        "reason": "He is a named defendant in a pending investor fraud suit over the Aspiration deals with Leonard; he denies the claims and has moved to dismiss. Federal prosecutors are reported to be investigating the Clippers' endorsement deals for Leonard; no charges have been brought.",
+        "reason": "He is a named defendant in a pending investor fraud suit over the Aspiration deals with Leonard; the claims are allegations, which he denies, and he has moved to dismiss. Federal prosecutors are reported to be investigating the Clippers' endorsement deals for Leonard; no charges have been brought and he is not reported as a target.",
         "finding_ids": [
           "f2",
           "f3"
@@ -270,6 +270,47 @@
       }
     },
     "counterweights": "Ballmer Group gave away more than $500 million in 2024 on economic mobility for children and families (CBS); Fortune reported in 2026 that the Ballmers had given more than $8 billion over two decades.",
-    "rationale": "Legal status: Ballmer dropped his challenge and the $30m fine was paid. Unresolved 0 to 3 under R6: named defendant in a pending suit. Legal 1 to 2 under R5: the 2001 D.C. Circuit decision is a contested court finding of wrongdoing, as in the Google precedent; the NBA suspension is a private sanction (level 1). Social 1 to 3: rubric read literally (court-established monopoly), as for Page and Brin; reviewer may weigh the ruling's age and that Ballmer no longer controls Microsoft. Politics stays 1, now documented."
+    "rationale": "Legal status: Ballmer dropped his challenge and said the $30m fine had been paid (his statement; no independent confirmation found). Unresolved 0 to 3 under R6: named defendant in a pending suit. Legal 1 to 2 under R5: the 2001 D.C. Circuit decision is a company-level court finding, as in the Google precedent; the NBA suspension is a private sanction (level 1). Social 1 to 3: rubric read literally (court-established monopoly), as for Page and Brin; reviewer may weigh the ruling's age. Politics stays 1, now documented."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: NBA wording tightened to 'knowingly seeking to help' Leonard obtain off-court income (NPR/AP); the initial rejection was by the team and its attorney, not Ballmer in person, so now 'the team first rejected'; payment of the fine rests only on Ballmer's statement (AP via CP24, posted Sunday night 13 September), so it stays attributed to him; labelled private league discipline. Suspension is personal, fine and picks are team-level, as stated."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: removed 'aiding-and-abetting' and 'channel money to Leonard', which the cited ESPN piece does not state; now its wording (took part in Sanberg's fraud; investment used to get around the cap via Leonard's deal), labelled as allegations. Amended complaint 3 November 2025; hearing at LA County Superior Court. FOS (2 October 2026) confirms he is still a defendant; no ruling found in a search."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "NBC Sports (10 September 2026) relays the NYT: criminal investigation by the US Attorney's Office in Brooklyn into no-show endorsement deals for Leonard, earliest stages, no charges. Ballmer is not described as a target or subject. Company level is correct."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: 'upheld' changed to 'upheld in part', as the en banc court affirmed the monopoly-maintenance judgment in part and reversed in part; Ballmer's role now sourced to the opinion itself, which refers to him as Microsoft's president and CEO. Company-level ruling, more than ten years old."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: removed 'during Ballmer's tenure as chief executive', which the Commission press release (IP/13/196) does not state; added that the decision is more than ten years old. Amount, period, 2009 commitments, acknowledgment and cooperation as mitigation confirmed."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: 'personally gave' changed to 'was reported as giving', since the AP piece lists him as a donor without saying the funds were personal; named the I-594 recipient (Washington Alliance for Gun Responsibility) per HeraldNet. Amounts and dates confirmed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "CBS 60 Minutes (aired 13 October 2024) says Ballmer Group has given away more than half a billion dollars this year, focused on economic mobility; Fortune (11 August 2026) says more than $8 billion over two decades, with no breakdown."
+      }
+    ],
+    "passed": true
   }
 }
