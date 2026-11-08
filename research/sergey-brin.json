@@ -1,0 +1,513 @@
+{
+  "id": 3,
+  "slug": "sergey-brin",
+  "name": "Sergey Brin",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Google search antitrust appeal D.C. Circuit 2026 Mehta remedies",
+    "Google ad tech remedies ruling Brinkema 2026",
+    "Sergey Brin political donation 2026",
+    "Brin Building a Better California billionaire tax measure spending CalMatters",
+    "California billionaire tax ballot measure November 2026 result Brin",
+    "top individual political donors 2026 cycle Brin Musk Soros list",
+    "Brin largest donor ballot measure California history record Prop 40",
+    "Google files appeal search monopoly ruling Justice Department cross-appeal Reuters",
+    "Epic v. Google settlement approved Judge Donato 2026 Play Store",
+    "European Commission Google adtech fine €2.95 billion appeal 2026 status",
+    "Court of Justice ruling Google Android fine €4.1 billion 2026",
+    "curia.europa.eu press release C-738/22 P Google Android judgment",
+    "ec.europa.eu presscorner Commission fines Google €2.95 billion abusive practices online advertising technology",
+    "Alphabet 10-Q 2026 legal matters Epic settlement European Commission adtech appeal General Court",
+    "Sergey Brin named defendant lawsuit 2026",
+    "Epstein files Sergey Brin emails released documents",
+    "Alphabet shareholder derivative settlement sexual harassment $310 million Page Brin defendants 2020",
+    "2019 shareholder lawsuit Alphabet board Rubin exit package Brin Page defendants named",
+    "Brin wrongful death lawsuit Fiji seaplane crash Santa Clara Bayshore status dismissed settled",
+    "Maclean Rushfeldt lawsuit Sergey Brin 2025 ruling trial Twin Otter",
+    "Olarte Maclean v. Brin Death on the High Seas Act ruling 2026",
+    "judge Rita Lin final approval Alphabet $500 million compliance derivative settlement",
+    "Texas Attorney General Paxton secures $1.375 billion settlement Google privacy press release",
+    "Sergey Brin Parkinson's research donations total given Aligning Science Across Parkinson's foundation grants",
+    "Proposition 40 billionaire tax defeated AP calls race"
+  ],
+  "sources": [
+    {
+      "id": "doj-search-remedies",
+      "label": "U.S. DOJ: Google search monopoly remedies (2025)",
+      "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+      "publisher": "U.S. Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2025-09-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-meta-ftc",
+      "label": "AP: judge rejects FTC monopoly case against Meta; Google rulings (November 2025)",
+      "url": "https://6abc.com/post/meta-prevails-historic-ftc-antitrust-case-have-break-off-whatsapp-instagram/18170444/",
+      "publisher": "Associated Press, republished by WPVI-TV (6abc)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-11-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-search-appeal",
+      "label": "Reuters (via GV Wire): Google appeals US court ruling on search monopoly (2026)",
+      "url": "https://gvwire.com/2026/05/22/google-appeals-us-court-ruling-on-search-monopoly/",
+      "publisher": "Reuters, republished by GV Wire",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-05-22",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-doj-appeal",
+      "label": "Reuters (via The Star): US files appeal in Google search antitrust case (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/02/04/us-files-appeal-in-google-search-case-court-filing-shows",
+      "publisher": "Reuters, republished by The Star",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "alphabet-10q-q3-2026",
+      "label": "Alphabet: Form 10-Q, quarter ended 30 September 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm",
+      "publisher": "Alphabet Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-adtech-remedies",
+      "label": "Reuters (via The Star): judge orders Google ad tech changes and monitor (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds",
+      "publisher": "Reuters, republished by The Star",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "curia-android",
+      "label": "CJEU: Court of Justice upholds Google's €4.1 billion Android fine (2026)",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf",
+      "publisher": "Court of Justice of the European Union",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-07-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "euronews-shopping",
+      "label": "Euronews: Google loses €2.4bn EU antitrust case over Shopping (2024)",
+      "url": "https://www.euronews.com/2024/09/10/google-loses-24-bn-eu-antitrust-case-for-favouring-its-own-shopping-service",
+      "publisher": "Euronews",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-09-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "kron-texas",
+      "label": "KRON (via Yahoo News): Google to pay Texas $1.375 billion over data privacy (2025)",
+      "url": "https://www.yahoo.com/news/google-pay-texas-more-1-011119296.html",
+      "publisher": "KRON4, republished by Yahoo News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-derivative-2025",
+      "label": "Reuters (via Insurance Journal): Google commits $500 million to settle shareholder suit (2025)",
+      "url": "https://amp.insurancejournal.com/news/national/2025/06/02/825966.htm",
+      "publisher": "Reuters, republished by Insurance Journal",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-06-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberg-derivative-2019",
+      "label": "Bloomberg (via Insurance Journal): Google board sued over misconduct claims (2019)",
+      "url": "https://www.insurancejournal.com/news/national/2019/01/11/514572.htm",
+      "publisher": "Bloomberg, republished by Insurance Journal",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2019-01-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cnbc-derivative-2020",
+      "label": "CNBC: Pichai email after Alphabet misconduct settlement (2020)",
+      "url": "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-09-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberg-plane-suit",
+      "label": "Bloomberg (via The Star): Sergey Brin sued over deadly seaplane crash (2024)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2024/02/21/sergey-brin-sued-over-deadly-crash-of-his-fiji-bound-seaplane",
+      "publisher": "Bloomberg, republished by The Star",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-02-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bi-plane-suit",
+      "label": "Business Insider (via AOL): Brin hit with new lawsuit over plane crash (2024)",
+      "url": "https://www.aol.com/google-cofounder-sergey-brin-hit-175215524.html",
+      "publisher": "Business Insider, republished by AOL",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-09-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "flying-settlement",
+      "label": "Flying: Google cofounder settles wrongful death lawsuit of pilot (2025)",
+      "url": "https://www.flyingmag.com/google-cofounder-settles-wrongful-death-lawsuit-of-private-pilot/",
+      "publisher": "Flying Magazine",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nyt-epstein",
+      "label": "NYT (via Hawaii Tribune-Herald): powerful men in the new Epstein files (2026)",
+      "url": "https://www.hawaiitribune-herald.com/?p=356538",
+      "publisher": "The New York Times, republished by Hawaii Tribune-Herald",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "latimes-102m",
+      "label": "LA Times (via News Tribune): Brin spends more than $100m against wealth tax (2026)",
+      "url": "https://www.newstribune.com/news/2026/aug/14/google-co-founder-brin-spends-more-than-100m/",
+      "publisher": "Los Angeles Times, republished by Jefferson City News Tribune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-prop40",
+      "label": "AP (via WCAX): too early to call California's billionaire tax vote (2026)",
+      "url": "https://www.wcax.com/2026/11/04/its-too-early-call-outcome-californias-proposal-tax-billionaires/",
+      "publisher": "Associated Press, republished by WCAX",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-11-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-20m",
+      "label": "Fortune: Brin's biggest donation yet as he moves to Nevada (2026)",
+      "url": "https://fortune.com/2026/01/29/sergey-brin-biggest-donation-ever-california-housing-billionaire-tax-moving-to-nevada/",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cbs-youtube-trump",
+      "label": "CBS News: YouTube settles Trump lawsuit, money to ballroom fund (2025)",
+      "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+      "publisher": "CBS News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-proxy-2026",
+      "label": "Alphabet: 2026 proxy statement (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817926000342/goog-20260424.htm",
+      "publisher": "Alphabet Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-04-24",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "esgtoday-env-2026",
+      "label": "ESG Today: Google cuts operational emissions, climate goals getting harder (2026)",
+      "url": "https://www.esgtoday.com/google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder/",
+      "publisher": "ESG Today",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "forbes-philanthropy",
+      "label": "Forbes Australia: Sergey Brin's $2 billion quest on Parkinson's and autism (2025)",
+      "url": "https://www.forbes.com.au/news/billionaires/sergey-brins-2-billion-plan-to-tackle-parkinsons-bipolar-autism/",
+      "publisher": "Forbes Australia",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-02-07",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A federal court in Washington ruled in August 2024 that Google is a monopolist in search and acted to maintain it, and its September 2025 remedies barred exclusive distribution deals and required data sharing and syndication to rivals. Google appealed the December 2025 final judgment in January 2026 and the DOJ and states cross-appealed in February; the appeals are pending.",
+      "evidence_type": "final_ruling",
+      "date": "2026-05-22",
+      "source_ids": ["doj-search-remedies", "ap-meta-ftc", "reuters-search-appeal", "reuters-doj-appeal", "alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A federal court in Virginia ruled in April 2025 that Google's publisher ad tech tools unfairly excluded rivals, while clearing its advertiser tools and two acquisitions. In September 2026 it rejected a forced sale of AdX and ordered six years of conduct changes and a compliance monitor; Google plans to appeal, and a separate Texas-led state case awaits trial.",
+      "evidence_type": "final_ruling",
+      "date": "2026-09-16",
+      "source_ids": ["reuters-adtech-remedies", "alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google and Alphabet",
+      "claim": "On 2 July 2026 the EU Court of Justice dismissed Google and Alphabet's appeal and confirmed the €4.125 billion fine for abusing Google Search's dominance through Android pre-installation and anti-fragmentation agreements, decided by the Commission in 2018. Alphabet reports the decision is now final and that it paid $5.2 billion including interest in July 2026.",
+      "evidence_type": "final_ruling",
+      "date": "2026-07-02",
+      "source_ids": ["curia-android", "alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In September 2024 the EU Court of Justice upheld the €2.4 billion fine for favouring Google Shopping in search results. In July 2026 a Stockholm court awarded PriceRunner about $2.1 billion in damages over the same practices; Google has appealed that award.",
+      "evidence_type": "final_ruling",
+      "date": "2026-07",
+      "source_ids": ["euronews-shopping", "alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In September 2025 the European Commission fined Google about €3 billion for self-preferencing in ad tech and ordered it to stop. Google appealed in November 2025 and the appeal is pending; a UK statement of objections on ad tech from 2024 is also pending.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2025-11",
+      "source_ids": ["alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In July 2026 the European Commission issued Digital Markets Act non-compliance decisions fining Google €430 million over Google Play and €460 million over Search. Google appealed both in October 2026; the appeals are pending.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-10",
+      "source_ids": ["alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Google",
+      "claim": "The EU General Court annulled in September 2024 the €1.5 billion fine the Commission imposed in 2019 over Google's AdSense for Search agreements. The Commission's appeal to the Court of Justice is pending.",
+      "evidence_type": "final_ruling",
+      "date": "2024-09",
+      "source_ids": ["alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A California jury found against Google in Epic Games' Play Store case in December 2023; the appeals court denied Google's appeal in July 2025. A March 2026 settlement sought softer remedies, but the parties withdrew that request in July 2026 and Google is complying with the 2024 remedies order. A court approved Google's Play Store settlement with the states in August 2026.",
+      "evidence_type": "final_ruling",
+      "date": "2026-08",
+      "source_ids": ["alphabet-10q-q3-2026"]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In May 2025 Google agreed to pay Texas $1.375 billion to settle 2022 state lawsuits alleging it tracked and collected users' location, incognito search and biometric data without authorisation. The report does not state any admission of wrongdoing.",
+      "evidence_type": "settlement",
+      "date": "2025-05-09",
+      "source_ids": ["kron-texas"]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Sergey Brin and other Alphabet officials",
+      "claim": "Brin, Larry Page and Sundar Pichai were among Alphabet officials named in shareholder derivative suits alleging they breached fiduciary duties by exposing the company to antitrust liability. In May 2025 Google agreed to spend $500 million over ten years on compliance reforms, with no payment to shareholders, and denied wrongdoing; the deal required court approval.",
+      "evidence_type": "settlement",
+      "date": "2025-05-30",
+      "source_ids": ["reuters-derivative-2025"]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Sergey Brin and other Alphabet directors",
+      "claim": "A January 2019 shareholder derivative suit named Brin and Page among Alphabet directors, alleging they let Andy Rubin quietly resign after an internal probe found a harassment claim credible; Rubin denied misconduct. Alphabet settled in September 2020 with a $310 million diversity commitment and policy changes; no personal payment was reported.",
+      "evidence_type": "settlement",
+      "date": "2020-09-25",
+      "source_ids": ["bloomberg-derivative-2019", "cnbc-derivative-2020"]
+    },
+    {
+      "id": "f12",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "The families of two pilots killed in May 2023 when Brin's seaplane crashed off California sued him, his family office and others in 2024, alleging an improperly installed fuel system and obstructed recovery of remains; Google was dismissed from one suit. One family settled in 2025 on confidential terms; no ruling or later status was found for the widow's suit.",
+      "evidence_type": "allegation",
+      "date": "2025-05-16",
+      "source_ids": ["bloomberg-plane-suit", "bi-plane-suit", "flying-settlement"]
+    },
+    {
+      "id": "f13",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "The New York Times reported that Epstein files released in January 2026 show Brin visited Epstein's island, made plans to dine at his New York home and corresponded with Ghislaine Maxwell, including an April 2003 email; the visit is undated. Brin did not respond to requests for comment, and no wrongdoing by him is alleged.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-01-31",
+      "source_ids": ["nyt-epstein"]
+    },
+    {
+      "id": "f14",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "The Los Angeles Times reported, from Secretary of State data, that Brin gave $102 million in 2026 to Building a Better California, which funds Propositions 41 and 42, measures that could block the billionaire tax in Proposition 40. AP said the committee raised over $333 million, about 30% from Brin; the vote was not called on 4 November.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-11-04",
+      "source_ids": ["latimes-102m", "ap-prop40", "fortune-20m"]
+    },
+    {
+      "id": "f15",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "Fortune reported in January 2026 that Brin was linked to a $42 million Nevada estate, reportedly his primary residence, and that an entity tied to him ended or moved 15 California LLCs in December 2025, seven becoming Nevada entities. AP reported that he began cutting ties with California ahead of the proposed billionaire tax.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-01-29",
+      "source_ids": ["fortune-20m", "ap-prop40"]
+    },
+    {
+      "id": "f16",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "Alphabet's 2026 proxy statement lists Brin with 42.9% of its ten-vote Class B stock and 25.3% of total voting power, second to Larry Page's 27.4%. He has been a director since 1998, sits on the board's executive committee and is not an independent director.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-04-24",
+      "source_ids": ["sec-proxy-2026"]
+    },
+    {
+      "id": "f17",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "YouTube and Alphabet",
+      "claim": "In September 2025 YouTube agreed to pay $24.5 million to settle Donald Trump's suit over his 2021 account suspension, $22 million of it directed to the trust supporting the White House ballroom. CBS reported that Google was also listed as a ballroom donor, amount not stated.",
+      "evidence_type": "settlement",
+      "date": "2025-09-29",
+      "source_ids": ["cbs-youtube-trump"]
+    },
+    {
+      "id": "f18",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Google",
+      "claim": "Google's 2026 environmental report says its electricity use rose 37% in 2025, its largest increase, and that supply-chain (scope 3) emissions, about 80% of the total, rose 25% while operational emissions fell 2%. It reports matching all its electricity use with renewable purchases.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-07-01",
+      "source_ids": ["esgtoday-env-2026"]
+    },
+    {
+      "id": "f19",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "individual",
+      "entity": "Sergey Brin",
+      "claim": "Forbes reported in February 2025 that Brin had spent about $1.75 billion on Parkinson's research, nearly $50 million on autism research and $75 million on bipolar research, and made nearly $900 million in grants in 2024, out of $3.9 billion in lifetime giving. Over $1 billion of stock went to Catalyst4, a 501(c)(4) whose spending was not stated.",
+      "evidence_type": "documented_giving",
+      "date": "2025-02-07",
+      "source_ids": ["forbes-philanthropy"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Technology and platforms: data-centre electricity and electronics supply chains. Google reports that its electricity use rose 37% in 2025, its largest increase, and that supply-chain emissions, about 80% of its total, rose 25% while operational emissions fell 2%. It reports matching all its electricity use with renewable purchases.",
+        "finding_ids": ["f18"]
+      },
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Gave $102 million in 2026 to a committee backing ballot measures that would block California's proposed billionaire tax, per state filings reported by the Los Angeles Times; AP put his share of its $333 million at about 30%. Holds 25.3% of Alphabet's voting power. YouTube paid $22 million of a 2025 Trump settlement to the White House ballroom trust. No documented political favour.",
+        "finding_ids": ["f14", "f16", "f17"]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising (2025), both under appeal, and a jury found against its Play Store in Epic's case, upheld on appeal in 2025. EU courts confirmed fines over Shopping (2024) and Android (2026). Google paid Texas $1.375 billion in 2025 over alleged tracking. These are company acts.",
+        "finding_ids": ["f1", "f2", "f3", "f4", "f8", "f9"]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level court findings: US monopoly rulings in search and ad tech, the Epic verdict, and EU fines of €2.4 billion (Shopping) and €4.1 billion (Android) now final. Brin was named in shareholder suits settled in 2020 and 2025 with reforms paid by Alphabet, and in wrongful-death suits over his plane's 2023 crash, one settled on confidential terms. No personal penalty or finding against him.",
+        "finding_ids": ["f1", "f2", "f3", "f4", "f8", "f9", "f10", "f11", "f12"]
+      },
+      "unresolved": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Epstein files released in 2026 show Brin visited Epstein's island and corresponded with Ghislaine Maxwell; he has not responded, and no wrongdoing is alleged. A widow's 2024 wrongful-death suit against him was last reported pending. At company level, appeals in the US search and ad tech cases, EU ad tech and DMA fines and a $2.1 billion damages award are pending.",
+        "finding_ids": ["f13", "f12", "f1", "f2", "f4", "f5", "f6"]
+      }
+    },
+    "counterweights": "Forbes reported in 2025 that Brin had spent about $1.75 billion on Parkinson's research and made nearly $900 million in grants in 2024, out of $3.9 billion in lifetime giving; over $1 billion in stock went to a 501(c)(4) whose spending is not stated.",
+    "rationale": "Politics 1 to 3: $102m of personal giving in one year, the Yass ($101m) and Griffin precedents for 'among the largest donors'; 2 if state ballot spending is not counted as such. Unresolved 0 to 3: released Epstein documents raise questions he has not answered (Musk, Gates precedents), plus a personal suit last reported pending; 2 is arguable as the contact appears pre-2008 and the suit's status is unverified. Legal stays 2 (R3, R5); the current 'no personal case' no longer holds."
+  }
+}
