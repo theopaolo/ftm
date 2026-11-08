@@ -873,6 +873,7 @@ h3 { font-size: var(--step-0); font-weight: 600; margin-top: 2rem; }
   });
   register.addEventListener('toggle', (e) => {
     const el = e.target;
+    if (!el.classList.contains('entry')) return;
     if (el.open && location.hash !== '#' + el.id) { try { history.replaceState(null, '', '#' + el.id); } catch (err) { /* ignore */ } }
   }, true);
   for (const b of $$('[data-download]')) b.addEventListener('click', () => download(b.dataset.download));
