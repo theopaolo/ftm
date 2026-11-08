@@ -1,0 +1,291 @@
+{
+  "id": 10,
+  "slug": "amancio-ortega",
+  "name": "Amancio Ortega",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Inditex Zara Brazil slave labour court ruling",
+    "Earthsight Fashion Crimes Zara H&M cotton Brazil deforestation Inditex",
+    "Fundación Amancio Ortega donation cancer equipment public health million euros delivered",
+    "Greens/EFA report Inditex tax avoidance Netherlands Ireland Switzerland 585 million",
+    "Inditex IndustriALL global framework agreement renewed",
+    "France investigation Inditex Uyghur forced labour complaint concealment crimes against humanity outcome",
+    "Inditex fined regulator penalty 2024 OR 2025",
+    "plainte Ouïghours Inditex Uniqlo SMCP Skechers irrecevable 2025",
+    "Fundación Amancio Ortega informe anual inversión millones euros 2024",
+    "faortega.org oncología equipos instalados hospitales públicos inversión total",
+    "Zara trabalho escravo TRT-2 2017 decisão responsabiliza lista suja",
+    "Repórter Brasil Zara perde recurso TRT novembro 2017 trabalho escravo",
+    "Better Cotton audit findings Earthsight allegations SLC Horita result 2024",
+    "Inditex Scope 1 2 3 emissions reduction 2024 annual report verified SBTi",
+    "Zara supplier factory workers investigation 2025 Inditex labour abuse report",
+    "Inditex annual report 2024 emissions scope 3 reduction versus 2018 site:inditex.com",
+    "Amancio Ortega political influence lobbying donations party Spain",
+    "Inditex lobbying EU transparency register spending",
+    "Zara Join Life greenwashing authority investigation consumer regulator Inditex",
+    "UOKiK Zara Join Life postępowanie greenwashing zarzuty",
+    "UOKiK Zara decyzja kara greenwashing 2026"
+  ],
+  "sources": [
+    {
+      "id": "agenciabrasil-2014",
+      "label": "Agência Brasil: Court rejects Zara's appeal over slavery notification (2014)",
+      "url": "https://agenciabrasil.ebc.com.br/en/geral/noticia/2014-04/court-rejects-zaras-appeal-over-slavery-notification",
+      "publisher": "Agência Brasil (EBC)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2014-04-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "somo-brazil",
+      "label": "SOMO: Zara fights sanctions for forced labour in Brazilian supply chain",
+      "url": "https://www.mindthegap.ngo/harmful-strategies/constructing-deniability/hiding-behind-complex-supply-chains/zara-fights-sanctions-for-forced-labour-in-brazilian-supply-chain/",
+      "publisher": "SOMO (Mind the Gap project)",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "earthsight-2024",
+      "label": "Earthsight: Fashion Crimes, executive summary (2024)",
+      "url": "https://www.earthsight.org.uk/fashioncrimes-summary",
+      "publisher": "Earthsight",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2024-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bettercotton-audit-2024",
+      "label": "Better Cotton: Summary of findings of the independent audit (2024)",
+      "url": "https://bettercotton.org/wp-content/uploads/2024/04/Earthsight-Audit-Summary_April-2024.pdf",
+      "publisher": "Better Cotton",
+      "publisher_type": "ngo",
+      "names_subject": false,
+      "published": "2024-04-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-emissions-2025",
+      "label": "Reuters: Zara owner Inditex's transport emissions jump in 2024 (2025)",
+      "url": "https://srnnews.com/zara-owner-inditexs-transport-emissions-jump-in-2024/",
+      "publisher": "Reuters (via SRN News)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-03-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "uokik-2026",
+      "label": "UOKiK: Bolt, Tchibo and Zara face greenwashing allegations (2026)",
+      "url": "https://uokik.gov.pl/en/gra-w-zielone-bolt-tchibo-i-zara-z-zarzutami-prezesa-uokik",
+      "publisher": "UOKiK (Polish Office of Competition and Consumer Protection)",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-01-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bhrrc-uyghur-2023",
+      "label": "BHRRC: French judge asked to examine fashion groups over Uyghur labour (2023)",
+      "url": "https://business-humanrights.org/en/latest-news/france-investigating-judge-to-examine-connection-between-fashion-groups-and-uyghur-forced-labour",
+      "publisher": "Business & Human Rights Resource Centre",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2023-05-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fashionunited-uyghur-2025",
+      "label": "FashionUnited: Uyghur forced labour complaint in France ruled inadmissible (2025)",
+      "url": "https://fashionunited.fr/actualite/business/travail-force-des-ouighours-une-plainte-en-france-declaree-irrecevable-mais-une-autre-bientot-deposee/2025020637187",
+      "publisher": "FashionUnited",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "greens-efa-tax-2016",
+      "label": "Greens/EFA: Tax shopping, report on Inditex (2016)",
+      "url": "https://www.greens-efa.eu/en/article/press/corporate-tax-avoidance",
+      "publisher": "Greens/EFA group in the European Parliament",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2016-12-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "industriall-gfa-2019",
+      "label": "IndustriALL: IndustriALL and Inditex create a global union committee (2019)",
+      "url": "https://www.industriall-union.org/industriall-and-inditex-create-a-global-union-committee",
+      "publisher": "IndustriALL Global Union",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2019-11-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "faortega-oncology",
+      "label": "Fundación Amancio Ortega: Public oncology support program (2015-2025)",
+      "url": "https://www.faortega.org/en/project/public-oncology-support-program",
+      "publisher": "Fundación Amancio Ortega",
+      "publisher_type": "company",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Zara Brasil (Inditex)",
+      "claim": "In 2011 Brazilian inspectors found 15 migrant workers in conditions classed as analogous to slavery in São Paulo workshops making Zara garments, and fined Zara Brasil. Its court challenge failed in 2014 and on appeal, and the case closed in November 2017; the facts are now over ten years old.",
+      "evidence_type": "final_ruling",
+      "date": "2017-11",
+      "source_ids": [
+        "agenciabrasil-2014",
+        "somo-brazil"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Inditex",
+      "claim": "NGOs alleged in French complaints from 2021 that Inditex and three other groups sold goods made partly with forced Uyghur labour, which Inditex calls unfounded. Prosecutors dropped a 2021 probe for lack of jurisdiction in 2023, and in February 2025 the Paris appeal court upheld a refusal to open a judicial investigation; a new complaint was announced.",
+      "evidence_type": "allegation",
+      "date": "2025-02",
+      "source_ids": [
+        "bhrrc-uyghur-2023",
+        "fashionunited-uyghur-2025"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Inditex",
+      "claim": "In April 2024 Earthsight alleged that Better Cotton-certified cotton from Bahia estates linked to deforestation and land conflicts reached Zara via Asian suppliers. An audit commissioned by Better Cotton found three of the farms in no breach of its standards; the allegation is not an official finding.",
+      "evidence_type": "allegation",
+      "date": "2024-04",
+      "source_ids": [
+        "earthsight-2024",
+        "bettercotton-audit-2024"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Inditex",
+      "claim": "Inditex's own figures, reported by Reuters in March 2025, put its 2024 scope 3 emissions at about 13.4 million tonnes CO2e, slightly above the 2018 baseline, against an SBTi-approved target of a 51% cut by 2030. Transport emissions rose 10% in 2024.",
+      "evidence_type": "company_disclosure",
+      "date": "2025-03",
+      "source_ids": [
+        "reuters-emissions-2025"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Zara (Inditex)",
+      "claim": "In January 2026 Poland's consumer regulator UOKiK charged Zara over suspected greenwashing in its Join Life communications, such as zero-waste and net-zero claims without stated scope. No decision has been issued; fines could reach 10% of turnover per practice if confirmed.",
+      "evidence_type": "pending_case",
+      "date": "2026-01",
+      "source_ids": [
+        "uokik-2026"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "company",
+      "entity": "Inditex",
+      "claim": "A study commissioned by the Greens/EFA group in the European Parliament (December 2016) estimated that Inditex's structures in the Netherlands, Ireland and Switzerland reduced its tax by at least €585 million over 2011 to 2014. The report says the techniques are legal.",
+      "evidence_type": "allegation",
+      "date": "2016-12",
+      "source_ids": [
+        "greens-efa-tax-2016"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "counterweight",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Inditex",
+      "claim": "Inditex has had a global framework agreement with the union federation IndustriALL since 2007. The November 2019 renewal set up a global union committee on freedom of association and collective bargaining across its main production clusters.",
+      "evidence_type": "company_disclosure",
+      "date": "2019-11",
+      "source_ids": [
+        "industriall-gfa-2019"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Fundación Amancio Ortega",
+      "claim": "The Fundación Amancio Ortega reports a completed programme, run from 2015 to 2025, that invested €310 million in 450 cancer diagnosis and radiotherapy machines installed in Spain's public hospitals.",
+      "evidence_type": "documented_giving",
+      "date": "2025",
+      "source_ids": [
+        "faortega-oncology"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Fast fashion at global scale. Inditex's own figures put 2024 supply-chain (scope 3) emissions at about 13.4 million tonnes CO2e, no lower than in 2018, against a target of halving them by 2030. Earthsight has linked Zara's cotton to deforestation in Brazil; this is an allegation, and an audit for the certifier found no breach on the farms it checked.",
+        "finding_ids": [
+          "f4",
+          "f3"
+        ]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Brazilian labour inspectors found workers in conditions analogous to slavery in workshops making Zara clothes in 2011, and courts upheld the sanctions against Zara Brasil, with the case closed in 2017. A French complaint over Uyghur forced labour remains an allegation with no investigation open. Inditex has a global framework agreement with IndustriALL.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f7"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Regulatory record at company level: Brazilian fines against Zara Brasil over slave-like labour in its supply chain, upheld in court and closed in 2017. No personal legal record for Amancio Ortega was found.",
+        "finding_ids": [
+          "f1"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Poland’s consumer regulator charged Zara with suspected greenwashing in January 2026; no decision yet. In France, courts declined jurisdiction over a forced-labour complaint against Inditex, upheld on appeal in 2025, and a new filing was announced. Nothing personal is pending.",
+        "finding_ids": [
+          "f5",
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "The Fundación Amancio Ortega reports €310 million invested in 450 cancer diagnosis and radiotherapy machines for Spain's public hospitals (2015 to 2025). Inditex has held a global framework agreement with the IndustriALL union federation since 2007.",
+    "rationale": "Social 2 to 3: the rubric puts forced-labour findings at 3, and a Brazilian court upheld a slave-like labour finding against Zara Brasil; the case is one workshop network and dates from 2011, which may argue for keeping 2. Legal 0 to 1: regulatory fines upheld in court; a reading of the 2017 ruling as a court finding could support 2. Unresolved 0 to 2: UOKiK charges are pending. Ecology stays 3. Tax finding (f6) is a political group's estimate of legal avoidance, so it informs no score."
+  }
+}
