@@ -82,7 +82,7 @@
       "label": "Fondation Bettencourt Schueller: Rapport d'activité 2024 (2026)",
       "url": "https://www.fondationbs.org/sites/default/files/2026-01/FBS-Rapport-Activite-2024-VF.pdf",
       "publisher": "Fondation Bettencourt Schueller",
-      "publisher_type": "company",
+      "publisher_type": "other",
       "names_subject": true,
       "published": "2026-01",
       "accessed": "2026-11-08"
@@ -98,7 +98,9 @@
       "claim": "France's competition authority found in 2014 that L'Oréal and its subsidiary Lascad took part in a 2003-2006 cartel on hygiene and personal care products sold to supermarkets, exchanging sensitive commercial information. On remand in June 2020, the Paris Court of Appeal upheld the €189.494 million fine on L'Oréal, reducing only Lascad's share.",
       "evidence_type": "final_ruling",
       "date": "2020-06-18",
-      "source_ids": ["ca-paris-2020"]
+      "source_ids": [
+        "ca-paris-2020"
+      ]
     },
     {
       "id": "f2",
@@ -109,7 +111,9 @@
       "claim": "In July 2016 a Paris investigating judge placed Françoise Bettencourt Meyers under formal investigation (mise en examen) for witness tampering, over a €300,000 loan to her mother's former accountant, on a complaint by François-Marie Banier. She denied the allegation and appealed; the outcome is not established by the sources in this file.",
       "evidence_type": "indictment",
       "date": "2016-07-07",
-      "source_ids": ["franceinfo-2016"]
+      "source_ids": [
+        "franceinfo-2016"
+      ]
     },
     {
       "id": "f3",
@@ -120,7 +124,10 @@
       "claim": "In September 2026 Arizona's Attorney General sued L'Oréal S.A. and US subsidiaries under the state Consumer Fraud Act, alleging they sold hair relaxers without disclosing uterine and ovarian cancer risks. These are allegations; L'Oréal says the claims lack merit, and Reuters reports more than 12,000 similar suits pending in a federal MDL in Chicago.",
       "evidence_type": "pending_case",
       "date": "2026-09",
-      "source_ids": ["az-complaint-2026", "reuters-relaxer-2026"]
+      "source_ids": [
+        "az-complaint-2026",
+        "reuters-relaxer-2026"
+      ]
     },
     {
       "id": "f4",
@@ -131,7 +138,9 @@
       "claim": "L'Oréal reports that its Scope 1 and 2 emissions in 2025 were 58% below 2019, ahead of its 2030 target of 57%. This is a company disclosure, not an independent measurement.",
       "evidence_type": "company_disclosure",
       "date": "2026",
-      "source_ids": ["loreal-urd-2025"]
+      "source_ids": [
+        "loreal-urd-2025"
+      ]
     },
     {
       "id": "f5",
@@ -142,7 +151,9 @@
       "claim": "In the same 2025 report, L'Oréal discloses that its targeted Scope 3 emissions were 5% above 2019, against a 2030 goal of a 28% cut, and that total Scope 1, 2 and 3 emissions were 1% above 2019.",
       "evidence_type": "company_disclosure",
       "date": "2026",
-      "source_ids": ["loreal-urd-2025"]
+      "source_ids": [
+        "loreal-urd-2025"
+      ]
     },
     {
       "id": "f6",
@@ -153,7 +164,9 @@
       "claim": "The family foundation, chaired by Françoise Bettencourt Meyers, reports €85.1 million of philanthropic activity in 2024, including €78.9 million in grants and prizes. Of this, €16.3 million went to restoring Notre-Dame de Paris, within a €100 million pledge from the family holding Téthys.",
       "evidence_type": "documented_giving",
       "date": "2024",
-      "source_ids": ["fbs-report-2024"]
+      "source_ids": [
+        "fbs-report-2024"
+      ]
     }
   ],
   "proposal": {
@@ -162,25 +175,36 @@
         "value": 1,
         "basis": "documented",
         "reason": "Cosmetics and consumer goods: indirect footprint. L'Oréal reports Scope 1 and 2 emissions 58% below 2019 in 2025, but its targeted Scope 3 emissions, the bulk of the footprint, were 5% above 2019. These are company disclosures. No major environmental incident was found.",
-        "finding_ids": ["f4", "f5"]
+        "finding_ids": [
+          "f4",
+          "f5"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
         "reason": "L'Oréal was found by the French competition authority, upheld in court, to have joined a 2003-2006 cartel on hygiene products sold to supermarkets. US hair relaxer suits allege undisclosed cancer risks; these are allegations, contested by the company, with no ruling on the merits.",
-        "finding_ids": ["f1", "f3"]
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
       },
       "legal": {
         "value": 3,
         "basis": "documented",
         "reason": "Françoise Bettencourt Meyers was placed under formal investigation for witness tampering in 2016, which she denied; its outcome is not established here. At company level, a Paris court upheld a €189.5 million cartel fine on L'Oréal in 2020.",
-        "finding_ids": ["f1", "f2"]
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
       },
       "unresolved": {
         "value": 2,
         "basis": "documented",
         "reason": "L'Oréal faces a 2026 consumer fraud suit by Arizona and more than 12,000 pending US suits alleging that its hair relaxers carry undisclosed cancer risks. The company denies the claims. No ruling on the merits yet.",
-        "finding_ids": ["f3"]
+        "finding_ids": [
+          "f3"
+        ]
       }
     },
     "counterweights": "The family foundation reports €85.1 million of philanthropy in 2024, including €16.3 million towards Notre-Dame's restoration. L'Oréal reports Scope 1 and 2 emissions 58% below 2019 (company disclosure).",
