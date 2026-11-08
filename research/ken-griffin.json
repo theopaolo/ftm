@@ -1,0 +1,352 @@
+{
+  "id": 37,
+  "slug": "ken-griffin",
+  "name": "Ken Griffin",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "SEC Citadel Securities settlement penalty",
+    "Ken Griffin IRS lawsuit tax return leak settled",
+    "GameStop short squeeze antitrust lawsuit Citadel Securities Robinhood Eleventh Circuit dismissal",
+    "SEC Citadel Securities $22.6 million misleading clients pricing trades 2017",
+    "FINRA fines Citadel Securities trading ahead customer orders $700,000",
+    "Donnahue George v. Ken Griffin Eleventh Circuit 2025 affirmed dismissal RICO",
+    "Citadel Securities fined OR penalty OR lawsuit 2025 2026",
+    "IRS statement IR-2024-172 Kenneth Griffin apology unauthorized disclosure",
+    "FINRA Citadel Securities $1 million censure Consolidated Audit Trail reporting AWC",
+    "SEC charges Citadel Securities blue sheet data $3.5 million penalty 2018",
+    "Citadel Securities FINRA AWC CAT 42.2 billion order events (restricted to finra.org, investmentnews.com, thinkadvisor.com, advisorhub.com)",
+    "Citadel Securities Hong Kong Korea fine 11.8 billion won lawsuit court ruling appeal market disruption",
+    "Ken Griffin donations 2026 midterms super PAC million",
+    "Kenneth C Griffin Charitable Fund 990-PF grants paid ProPublica nonprofit explorer",
+    "Ken Griffin $300 million gift Harvard Faculty of Arts and Sciences 2023",
+    "Memorial Sloan Kettering $400 million Ken Griffin David Geffen gift pavilion",
+    "Not citable: opensecrets.org (could not be fetched), thinkadvisor.com (403), Harvard Gazette (401), regulationasia.com (paywall), Bloomberg articles (paywall)"
+  ],
+  "sources": [
+    {
+      "id": "sec-2017",
+      "label": "SEC: Citadel Securities paying $22 million for misleading clients about pricing (2017)",
+      "url": "https://www.sec.gov/news/press-release/2017-11",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2017-01-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-2018",
+      "label": "SEC: Three broker-dealers to pay over $6 million for deficient blue sheet data (2018)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2018-275",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2018-12-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-2023",
+      "label": "SEC: Citadel Securities charged over short sale order marking (2023)",
+      "url": "https://www.sec.gov/news/press-release/2023-192",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2023-09-22",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "finra-brokercheck",
+      "label": "FINRA: BrokerCheck report on Citadel Securities LLC (2026)",
+      "url": "https://files.brokercheck.finra.org/firm/firm_116797.pdf",
+      "publisher": "Financial Industry Regulatory Authority",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "koreatimes-2026",
+      "label": "Korea Times: Financial regulators' sanctions tested in court (2026)",
+      "url": "https://www.koreatimes.co.kr/economy/policy/20260429/financial-regulators-sanctions-tested-by-mounting-wave-of-courtroom-battles",
+      "publisher": "The Korea Times",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ca11-2024",
+      "label": "Eleventh Circuit: In re January 2021 Short Squeeze Trading Litigation (2024)",
+      "url": "https://media.ca11.uscourts.gov/opinions/pub/files/202211873.pdf",
+      "publisher": "U.S. Court of Appeals for the Eleventh Circuit",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2024-06-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ca11-2025",
+      "label": "Eleventh Circuit: George v. Griffin, No. 24-13718 (2025)",
+      "url": "https://media.ca11.uscourts.gov/opinions/unpub/files/202413718.pdf",
+      "publisher": "U.S. Court of Appeals for the Eleventh Circuit",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2025-11-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "leagle-2026",
+      "label": "Leagle: George v. Griffin, Eleventh Circuit No. 26-10435 (2026)",
+      "url": "https://www.leagle.com/decision/infco20260917055",
+      "publisher": "Leagle (opinion of the U.S. Court of Appeals for the Eleventh Circuit)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-09-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "irs-2024",
+      "label": "IRS: Statement on the resolution of Griffin v. IRS (2024)",
+      "url": "https://content.govdelivery.com/accounts/USIRS/bulletins/3a4df38",
+      "publisher": "Internal Revenue Service",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2024-06-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-2024",
+      "label": "Fortune: IRS apologizes to Ken Griffin over leaked tax returns (2024)",
+      "url": "https://www.fortune.com/2024/06/26/ken-griffin-apology-irs-tax-returns-leaked-journalists",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-06-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elb-2024",
+      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data",
+      "url": "https://electionlawblog.org/?p=149186",
+      "publisher": "Election Law Blog",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "elb-2026",
+      "label": "Election Law Blog: Griffin has put $40 million into the midterms, per WSJ (2026)",
+      "url": "https://electionlawblog.org/?p=157343",
+      "publisher": "Election Law Blog",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "published": "2026-07-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fos-2026",
+      "label": "Front Office Sports: Biggest political donors of the 2026 midterms (2026)",
+      "url": "https://frontofficesports.com/article/soccer-biggest-political-donations-2026-midterms/",
+      "publisher": "Front Office Sports",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "crimson-2023",
+      "label": "Harvard Crimson: Graduate school renamed after $300 million Griffin gift (2023)",
+      "url": "https://www.thecrimson.com/article/2023/4/11/gsas-renamed-ken-griffin/",
+      "publisher": "The Harvard Crimson",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-04-11",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Citadel Securities LLC",
+      "claim": "In January 2017 Citadel Securities paid $22.6 million, including a $16 million penalty, after the SEC found it misled broker-dealer clients about how it priced their retail orders, using two algorithms from late 2007 to January 2010. It neither admitted nor denied the findings; the SEC said it handled about 35% of US retail equity volume.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2017-01-13",
+      "source_ids": [
+        "sec-2017",
+        "finra-brokercheck"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Citadel Securities LLC",
+      "claim": "In July 2020 FINRA censured and fined Citadel Securities $700,000 and ordered restitution, finding that its OTC desk traded for its own account ahead of inactive customer orders and failed to display some customer limit orders. The firm consented without admitting or denying the findings.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2020-07-16",
+      "source_ids": [
+        "finra-brokercheck"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Citadel Securities LLC",
+      "claim": "In September 2023 the SEC censured Citadel Securities and imposed a $7 million penalty for mismarking millions of sale orders as long or short over about five years, a coding error, and passing the wrong data to regulators. The firm neither admitted nor denied the findings.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2023-09-22",
+      "source_ids": [
+        "sec-2023"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Citadel Securities LLC",
+      "claim": "FINRA's BrokerCheck lists 76 final regulatory events against Citadel Securities from 2006 to August 2026 and none pending, mostly exchange fines under $100,000. They include a $3.5 million SEC penalty in 2018 over faulty blue sheet data for about 80 million trades, findings the firm admitted, and a $1 million FINRA fine in 2024 over audit-trail reporting.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-08-20",
+      "source_ids": [
+        "finra-brokercheck",
+        "sec-2018"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Citadel Securities (Hong Kong) Limited",
+      "claim": "In January 2023 South Korea's financial regulator fined Citadel Securities' Hong Kong unit about $9.7 million for disrupting the market through trading in 2017-2018, plus about $0.9 million for short-sale breaches the firm did not contest. A lower court overturned the market-disruption fine by April 2026; the regulator has appealed, so the matter is pending.",
+      "evidence_type": "pending_case",
+      "date": "2026-04-29",
+      "source_ids": [
+        "finra-brokercheck",
+        "koreatimes-2026"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Citadel LLC (Citadel Securities)",
+      "claim": "Investors alleged that Robinhood restricted meme-stock purchases in January 2021 in a conspiracy with its market maker Citadel; the defendants rejected this. The district court dismissed the antitrust class action, and in June 2024 the Eleventh Circuit affirmed, holding that no unreasonable restraint of trade was plausibly alleged.",
+      "evidence_type": "final_ruling",
+      "date": "2024-06-26",
+      "source_ids": [
+        "ca11-2024"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Ken Griffin",
+      "claim": "A pro se investor sued Griffin personally, Citadel entities, Robinhood, FINRA and DTCC in 2021, alleging racketeering and monopolisation around the January 2021 GameStop and AMC trading. The suit was dismissed for failure to state a claim, affirmed by the Eleventh Circuit in November 2025; denial of relief from judgment was affirmed in September 2026.",
+      "evidence_type": "final_ruling",
+      "date": "2026-09-17",
+      "source_ids": [
+        "ca11-2025",
+        "leagle-2026"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Ken Griffin",
+      "claim": "Griffin sued the IRS in federal court in Florida (case 22-cv-24023) over its failure to stop a contractor leaking his tax data to ProPublica; he was the plaintiff, not accused of wrongdoing. The case settled in June 2024 with a public IRS apology; no payment to him was reported.",
+      "evidence_type": "settlement",
+      "date": "2024-06-25",
+      "source_ids": [
+        "irs-2024",
+        "fortune-2024"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Ken Griffin",
+      "claim": "Griffin gave $108.4 million in the 2024 cycle, fifth among US donors on OpenSecrets data. For the 2026 midterms, the New York Times counted more than $32 million in 2025-26 through July, almost all to Republican causes, and the Wall Street Journal reported about $40 million by mid-July 2026.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-07",
+      "source_ids": [
+        "elb-2024",
+        "elb-2026",
+        "fos-2026"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "individual",
+      "entity": "Ken Griffin",
+      "claim": "In April 2023 Griffin made an unrestricted $300 million gift to Harvard's Faculty of Arts and Sciences, bringing his giving to Harvard above $500 million. The Harvard Crimson reported he had donated over $1.5 billion to charities, including the Art Institute of Chicago.",
+      "evidence_type": "documented_giving",
+      "date": "2023-04-11",
+      "source_ids": [
+        "crimson-2023"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Gave $108.4 million in the 2024 cycle, the fifth-largest US donor on OpenSecrets data. Press reports put his 2026 midterm giving at more than $32 million by July 2026, almost all to Republican causes, with the Wall Street Journal reporting about $40 million. Lobbying by Citadel was not assessed.",
+        "finding_ids": [
+          "f9"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "The SEC found in 2017 that Citadel Securities, then handling about 35% of US retail equity volume, misled broker-dealer clients about the pricing of retail orders (2007 to 2010). FINRA found in 2020 that it traded ahead of customer orders and ordered restitution. Both were settled without admission. Claims that Citadel conspired with Robinhood to curb meme-stock buying in 2021 were dismissed. Labour conditions were not checked.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f6"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Citadel Securities settled regulatory actions: $22.6 million with the SEC in 2017, $3.5 million in 2018 (findings admitted), $7 million in 2023 and smaller FINRA and exchange fines; BrokerCheck lists 76 final events. A meme-stock antitrust suit against Citadel was dismissed (affirmed 2024), as was a pro se suit naming Griffin (affirmed 2025). No penalty or charge against Griffin personally was found.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f6",
+          "f7"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "South Korea's regulator fined Citadel Securities' Hong Kong unit about $9.7 million in 2023 for market disruption; a lower court overturned the fine by April 2026 and the regulator has appealed, so the company-level case is pending. FINRA's BrokerCheck lists no pending US regulatory event against the broker-dealer. No pending matter against Griffin personally was found.",
+        "finding_ids": [
+          "f5",
+          "f4"
+        ]
+      }
+    },
+    "counterweights": "Made an unrestricted $300 million gift to Harvard in 2023, bringing his giving there above $500 million; the Harvard Crimson reported over $1.5 billion donated to charities, including the Art Institute of Chicago.",
+    "rationale": "Legal 0 to 1: company regulatory settlements only, largest $22.6M, no court finding, nothing personal. Unresolved 0 to 2: a pending company-level case in Korea (regulator's appeal). Social 1 to 2: SEC and FINRA findings on client order handling, as in the Peterffy and Bloomberg precedents; 1 is defensible as findings are old and modest. Politics stays 3; OpenSecrets could not be reopened, so the $108.4M rests on Election Law Blog. The Harvard pledge-vs-paid schedule is not public. f8 (Griffin as plaintiff) supports no score."
+  }
+}
