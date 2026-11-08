@@ -173,8 +173,8 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Mukesh Ambani",
-      "claim": "In January 2021 SEBI fined Mukesh Ambani ₹15 crore, holding him responsible as managing director for trades it called manipulative in Reliance Petroleum shares in November 2007. The Securities Appellate Tribunal set the penalty aside in December 2023, and the Supreme Court dismissed SEBI's appeal in November 2024.",
-      "evidence_type": "regulatory_penalty",
+      "claim": "A ₹15 crore SEBI penalty on Mukesh Ambani no longer stands: the Securities Appellate Tribunal set it aside in December 2023 and the Supreme Court dismissed SEBI's appeal in November 2024. SEBI had imposed it in January 2021, holding him responsible as managing director for Reliance's November 2007 trades in Reliance Petroleum shares, which it called manipulative.",
+      "evidence_type": "final_ruling",
       "date": "2024-11",
       "source_ids": [
         "scconline-rpl-2021",
@@ -202,8 +202,8 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Mukesh Ambani and other Reliance promoters",
-      "claim": "In April 2021 SEBI imposed a ₹25 crore penalty, jointly on Mukesh Ambani, Anil Ambani, other family members and promoter entities, for not making an open offer after a 2000 share acquisition, over 25 years ago. The tribunal set it aside in July 2023 and the Supreme Court dismissed SEBI's appeal in November 2024.",
-      "evidence_type": "regulatory_penalty",
+      "claim": "A joint ₹25 crore SEBI penalty on Mukesh Ambani, Anil Ambani, other family members and promoter entities no longer stands: the tribunal set it aside in July 2023 and the Supreme Court dismissed SEBI's appeal in November 2024. SEBI had imposed it in April 2021 for not making an open offer after a 2000 share acquisition, over 25 years ago.",
+      "evidence_type": "final_ruling",
       "date": "2024-11",
       "source_ids": [
         "theweek-takeover-2021",
@@ -231,7 +231,7 @@
       "theme": "politics",
       "level": "company",
       "entity": "Qwik Supply Chain (reported as Reliance-linked)",
-      "claim": "Election Commission data released in March 2024 showed Qwik Supply Chain, a firm press reports link to Reliance through directors, address and shareholders, was the third-largest electoral bond buyer at ₹410 crore (2021 to 2024), about ₹385 crore of it to the BJP. Reliance said Qwik is not a subsidiary of any Reliance entity.",
+      "claim": "Election Commission data released in March 2024 showed Qwik Supply Chain was the third-largest electoral bond buyer: ₹410 crore in 2021-22 and 2023-24, about ₹385 crore of it to the BJP. Press reports link Qwik to Reliance through directors, addresses and shareholders; the link is disputed, and Reliance says Qwik is not a subsidiary of any Reliance entity.",
       "evidence_type": "investigative_reporting",
       "date": "2024-03",
       "source_ids": [
@@ -245,7 +245,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Mukesh Ambani",
-      "claim": "Reporters Without Borders' India profile (2026 index) states that Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians, and describes him as a close friend of Prime Minister Narendra Modi.",
+      "claim": "The press-freedom NGO Reporters Without Borders, in its India profile for the 2026 index, characterises Mukesh Ambani as owning more than 70 media outlets followed by at least 800 million Indians and as a close friend of Prime Minister Narendra Modi. This is the NGO's characterisation, not an official finding.",
       "evidence_type": "investigative_reporting",
       "date": "2026",
       "source_ids": [
@@ -272,7 +272,7 @@
       "theme": "philanthropy",
       "level": "company",
       "entity": "Reliance Industries",
-      "claim": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, across rural development, education, healthcare, women's empowerment, disaster response and other programmes.",
+      "claim": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, across rural development, education, healthcare, women's empowerment, disaster management and other programmes.",
       "evidence_type": "documented_giving",
       "date": "2025",
       "source_ids": [
@@ -293,20 +293,20 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Reporters Without Borders says Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians. Qwik Supply Chain, a firm press reports link to Reliance, was India's third-largest electoral bond buyer (₹410 crore, mostly to the BJP); Reliance says it is not a subsidiary. No personal donation is documented.",
+        "reason": "The press-freedom NGO Reporters Without Borders says Mukesh Ambani owns more than 70 media outlets followed by at least 800 million Indians. Qwik Supply Chain, a firm press reports link to Reliance, was India's third-largest electoral bond buyer (₹410 crore, mostly to the BJP); the link is disputed, and Reliance says Qwik is not a subsidiary of any Reliance entity. No personal donation is documented.",
         "finding_ids": [
           "f6",
           "f5"
         ]
       },
       "legal": {
-        "value": 3,
+        "value": 1,
         "basis": "documented",
-        "reason": "SEBI imposed two penalties naming Mukesh Ambani personally: ₹15 crore over 2007 Reliance Petroleum trades, and a joint ₹25 crore with other promoters over a 2000 takeover. Both were set aside on appeal, upheld by the Supreme Court in 2024. At company level, the Supreme Court in 2026 cleared Reliance of SEBI's fraud finding but upheld a disclosure breach.",
+        "reason": "No personal penalty stands. SEBI's two penalties naming Mukesh Ambani (₹15 crore over 2007 Reliance Petroleum trades, and a joint ₹25 crore with other promoters over a 2000 takeover) were set aside on appeal, and the Supreme Court dismissed SEBI's appeals in 2024. At company level, the Supreme Court in 2026 set aside SEBI's fraud finding and ₹447 crore disgorgement against Reliance but upheld a breach of position-limit disclosure rules.",
         "finding_ids": [
+          "f2",
           "f1",
-          "f3",
-          "f2"
+          "f3"
         ]
       },
       "unresolved": {
@@ -319,6 +319,52 @@
       }
     },
     "counterweights": "Reliance Industries reports spending ₹2,156 crore on corporate social responsibility in 2024-25, on rural development, education, healthcare and other programmes.",
-    "rationale": "Legal 0 to 3: the rubric puts a personal penalty at 3 and records outcomes rather than erasing them; both SEBI penalties naming Ambani were quashed, so 1 (surviving company regulatory penalty) is a defensible alternative. Unresolved 0 to 2: KG-D6 claim is a pending company-level case. Politics stays 2; f5 could argue 3, but the Reliance link to Qwik is disputed. Ecology stays 4. Social not scored: no specific finding. CSR (f8) is likely a statutory obligation for large Indian firms; not sourced here."
+    "rationale": "Legal 0 to 1: level 3 needs a personal penalty or liability, and 'even if later dropped' covers indictments only. Both SEBI penalties naming Ambani were quashed and SEBI's appeals dismissed (Nov 2024), so none stands. What remains is a company regulatory breach upheld in 2026 after the fraud finding fell: level 1 (2 only if read as a major court finding). Unresolved 0 to 2: KG-D6 is a pending company case. Politics stays 2; the Qwik link is reported and disputed. Ecology stays 4. Social not scored."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: final outcome (SAT set aside Dec 2023, SC dismissed SEBI appeal 11 Nov 2024) moved to the front; evidence_type changed from regulatory_penalty to final_ruling, since no penalty stands. SCC Online confirms the 1 Jan 2021 order and ₹15 crore under s.15HA; ETV Bharat confirms SAT's 4 Dec 2023 order and the SC dismissal."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "SCC Online: ₹25 crore on RIL (2021). ETV Bharat and Business Today: SAT upheld the RIL penalty. LiveLaw (29 May 2026): SC set aside the PFUTP fraud finding and ₹447.27 crore disgorgement, upheld the position-limit disclosure breach and concurred with SAT on its penalty. Company level, Ambani not named in LiveLaw."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: final outcome moved to the front; evidence_type changed from regulatory_penalty to final_ruling. The Week: ₹25 crore jointly and severally, obligation from 7 Jan 2000, order April 2021. Business Today: SAT set aside 28 Jul 2023 (its '2020' date is an error); SC dismissed SEBI's appeal Nov 2024."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "ThePrint (PTI) and DT Next: US$1.55 billion claim, 2018 tribunal rejected it 2-1, Delhi HC division bench set aside the single judge's ruling on 14 Feb 2025, SC appointed a sole mediator on 30 Oct 2026; appeals pending. Parties are RIL, BP and Niko; Ambani named only as promoter. Kept at company level."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the Reliance link is now stated as reported and disputed, with Reliance's denial (not a subsidiary of any Reliance entity, per both ThePrint and Outlook Business); period given as 2021-22 and 2023-24 per ThePrint. Outlook Business supports ₹385 crore to the BJP and the shareholding link."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: labelled as the characterisation of an NGO (RSF), not an official finding. RSF's India page (2026 index) states both points about Ambani."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "RIL AR 2025-26: 45.52 MMT CO2e (O2C and E&P, market-based), 2035 net carbon zero, no scope 3. AR 2024-25: 45.24 in 2022-23, renewables 5.4 of 522 million GJ (about 1%)."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: 'disaster response' corrected to 'disaster management', as the page says. RIL AR 2024-25 reports ₹2,156 crore CSR spend."
+      }
+    ],
+    "passed": true
   }
 }
