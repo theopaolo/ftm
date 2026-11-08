@@ -53,36 +53,6 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "gadgetreview-library-2026",
-      "label": "Gadget Review: SoftBank's $50M library gift preceded Ohio data center lease (2026)",
-      "url": "https://www.gadgetreview.com/?p=411594",
-      "publisher": "Gadget Review",
-      "publisher_type": "press",
-      "names_subject": true,
-      "published": "2026-09-15",
-      "accessed": "2026-11-08"
-    },
-    {
-      "id": "ap-portsmouth-2026",
-      "label": "AP (via 13abc): 10-gigawatt data center announced for former Ohio uranium site (2026)",
-      "url": "https://www.13abc.com/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-former-ohio-uranium-site/",
-      "publisher": "Associated Press (via WTVG 13abc)",
-      "publisher_type": "press",
-      "names_subject": true,
-      "published": "2026-03-20",
-      "accessed": "2026-11-08"
-    },
-    {
-      "id": "doe-portsmouth-2026",
-      "label": "US DOE: Special report on AI data center at Portsmouth Site (2026)",
-      "url": "https://www.energy.gov/node/4857277",
-      "publisher": "US Department of Energy",
-      "publisher_type": "government",
-      "names_subject": true,
-      "published": "2026-04-07",
-      "accessed": "2026-11-08"
-    },
-    {
       "id": "softbank-wework-2021",
       "label": "SoftBank: Settlement with Adam Neumann and WeWork Special Committee (2021)",
       "url": "https://group.softbank/en/news/press/20210301",
@@ -140,7 +110,7 @@
       "theme": "politics",
       "level": "company",
       "entity": "SoftBank Group",
-      "claim": "Saudi Arabia's Public Investment Fund put $45 billion into SoftBank's $100 billion first Vision Fund. After the October 2018 killing of journalist Jamal Khashoggi, Son condemned it, said he had raised concerns with Crown Prince Mohammed bin Salman, and said SoftBank would keep its ties with Saudi Arabia (November 2018).",
+      "claim": "CNBC reported in November 2018 that Saudi Arabia's Public Investment Fund had put $45 billion into SoftBank's $100 billion Vision Fund. After the October 2018 killing of journalist Jamal Khashoggi, Son called it horrific, said he had met Crown Prince Mohammed bin Salman to raise concerns, and said SoftBank could not turn its back on the Saudi people.",
       "evidence_type": "investigative_reporting",
       "date": "2018-11-05",
       "source_ids": [
@@ -153,14 +123,11 @@
       "theme": "politics",
       "level": "company",
       "entity": "SoftBank Group",
-      "claim": "SoftBank gave $50 million to the Trump presidential library project, reported in May 2026 and later dated by SoftBank to January 2026, before a March 2026 federal site deal for its Ohio data centre. Three Democratic lawmakers asked whether it sought political favour; SoftBank cites past library gifts, and no wrongdoing has been found.",
+      "claim": "Politico reported in May 2026 that SoftBank had given $50 million to the Trump presidential library project, which three Democratic lawmakers called the largest disclosed gift to it. In July 2026 they asked Son whether it was made in exchange for any promise from the administration; these are questions, not an investigation, and no wrongdoing has been found.",
       "evidence_type": "allegation",
-      "date": "2026-07",
+      "date": "2026-07-01",
       "source_ids": [
-        "warren-library-2026",
-        "gadgetreview-library-2026",
-        "ap-portsmouth-2026",
-        "doe-portsmouth-2026"
+        "warren-library-2026"
       ]
     },
     {
@@ -183,7 +150,7 @@
       "theme": "finance",
       "level": "individual",
       "entity": "Masayoshi Son",
-      "claim": "SoftBank confirmed in November 2022 that Son owed it about $4.7 billion from personal stakes in company-run funds, including Vision Fund 2 and the SB Northstar trading unit, which SoftBank had financed. He pledged fund stakes and SoftBank shares as collateral; the FT reported shareholder questions about the arrangement.",
+      "claim": "The FT reported in November 2022, with SoftBank's confirmation, that Son owed SoftBank about $4.7 billion from his personal stakes in company-run funds (Vision Fund 2, the Latin America fund and the SB Northstar trading unit) after tech losses. SoftBank had advanced money for his fund investments; he pledged fund stakes, part of his SoftBank shares and a personal guarantee.",
       "evidence_type": "investigative_reporting",
       "date": "2022-11-18",
       "source_ids": [
@@ -196,8 +163,8 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Masayoshi Son",
-      "claim": "In April 2011 Son personally pledged ¥10 billion for victims of the Tohoku earthquake, plus his future SoftBank pay. SoftBank's published list, as of March 2012, allocates the full ¥10 billion to affected prefectures, the Red Cross, child charities and a recovery foundation; the payout figures are the company's own.",
-      "evidence_type": "documented_giving",
+      "claim": "In April 2011 Son pledged ¥10 billion of his own money for Tohoku earthquake relief, plus his SoftBank director pay until retirement; the independent report confirms the pledge only. SoftBank's own use report (as of March 2012) says the full ¥10 billion went to five prefectures, the Red Cross, the Community Chest, child charities and a ¥4 billion recovery foundation (company-reported).",
+      "evidence_type": "company_disclosure",
       "date": "2012-03",
       "source_ids": [
         "impress-donation-2011",
@@ -210,7 +177,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Documented proximity to an authoritarian state at company level: Saudi Arabia's sovereign fund supplied $45 billion of SoftBank's first Vision Fund, and after the 2018 Khashoggi killing Son met the crown prince and kept the ties. SoftBank gave $50 million to the Trump presidential library project in 2026; lawmakers asked whether it sought favour, and no wrongdoing has been found.",
+        "reason": "Company-level ties to the Saudi state: its sovereign fund supplied $45 billion of SoftBank's $100 billion Vision Fund, and after the 2018 Khashoggi killing Son said he had met the crown prince to raise concerns and that SoftBank could not turn its back on the Saudi people. Politico reported in 2026 that SoftBank gave $50 million to the Trump presidential library project; three lawmakers asked whether it sought favour, and no wrongdoing has been found.",
         "finding_ids": [
           "f1",
           "f2"
@@ -219,7 +186,7 @@
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Major company outcome: in 2021 SoftBank settled Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion share purchase, paying about $1.5 to 1.6 billion for shares, with no admission of liability. No personal legal record for Masayoshi Son was found.",
+        "reason": "Major company outcome: in 2021 SoftBank settled two Delaware suits by a WeWork board committee and its founder over a withdrawn $3 billion tender offer, saying it would pay about $1.6 billion in transactions with WeWork shareholders, with no admission of liability. This is a settlement, not a court finding. No personal legal record for Masayoshi Son was found.",
         "finding_ids": [
           "f3"
         ]
@@ -227,14 +194,45 @@
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "Opacity raised by reporting: Son held personal stakes in SoftBank-financed funds and owed the company about $4.7 billion in 2022, secured on his shares. Three lawmakers have questioned the timing of the 2026 library gift, but no official case or finding exists. Nothing personal is pending.",
+        "reason": "Opacity raised by reporting: Son held personal stakes in company-run funds that SoftBank financed, and in 2022 owed the company about $4.7 billion, secured on fund stakes, SoftBank shares and a personal guarantee. Three lawmakers asked in 2026 whether the library gift was made in exchange for promises; that is not an official investigation and no finding exists. No pending personal matter was found.",
         "finding_ids": [
           "f4",
           "f2"
         ]
       }
     },
-    "counterweights": "After the 2011 Tohoku earthquake Masayoshi Son personally pledged ¥10 billion plus his future SoftBank pay; SoftBank's list says the full ¥10 billion went to prefectures, the Red Cross, child charities and a recovery foundation (company-reported, 2012).",
-    "rationale": "Politics 1 to 3: the rubric puts documented proximity to an authoritarian state at 3; Saudi ties are commercial and dated 2016-2018, so 2 (major donor, on the $50M library gift) is defensible. Legal 0 to 2: a settlement above $1 billion, though the money bought shares rather than paid damages, which could argue for 1. Unresolved 0 to 1: the lawmakers' letters are not a formal investigation; a reviewer reading them as one could support 2. Ecology and social not researched."
+    "counterweights": "After the 2011 Tohoku earthquake Masayoshi Son pledged ¥10 billion of his own money plus his future SoftBank pay. SoftBank's own report says the full ¥10 billion went to prefectures, the Red Cross, child charities and a recovery foundation (company-reported, 2012).",
+    "rationale": "Politics 1 to 3: the rubric's 3 includes documented proximity to an authoritarian state, read here from the Saudi fund's $45 billion anchor stake and Son's meeting with the crown prince; if proximity means political rather than commercial ties, 2 (major donor, on the $50M library gift) fits. Legal 0 to 2: a settlement above $1 billion, though the money went to share transactions rather than damages, which could argue for 1. Unresolved 0 to 1: lawmakers' questions are not an investigation. Ecology and social not researched."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: CNBC (5 Nov 2018) confirms PIF's $45bn in the $100bn Vision Fund, Son's condemnation and his meeting with the crown prince; it does not quote Son saying SoftBank 'would keep its ties' (that is the reporter's paraphrase), so the claim now gives his stated line about the Saudi people, and attributes the $45bn figure to CNBC. No motive or character language."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: the Warren release original (warren.senate.gov) and SoftBank's 15 July 2026 letter return 403, and web.archive.org and archive.ph could not be fetched. The Capitol Releases copy of the 1 July 2026 release supports the reported $50M gift (Politico, 22 May 2026), the three lawmakers and their questions. Only Gadget Review (low reliability) gives the January 2026 donation date and the link to the March 2026 Portsmouth lease; the AP and DOE pages confirm the Ohio project but not any link. Dropped the January date, the Ohio deal and its sources, and SoftBank's cited response; date set to the release (2026-07-01)."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "SoftBank's 1 March 2021 release confirms the 25 Feb 2021 settlement of two Delaware Chancery suits (Special Committee, Neumann) seeking to close the $3bn tender offer, about $1.6bn to be paid, and no admission of liability; AFP via Tech Xplore attributes the ~$1.5bn share purchases to the WSJ. Settlement, correctly typed. Legal 2 kept: the rubric's level 2 names a settlement above $1 billion; the rationale notes the money went to share transactions."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: the Irish Times reprint of the FT article (18 Nov 2022) is fully readable, not paywalled, and SoftBank confirmed the $4.7bn. The shareholder questions it mentions concern share buybacks, not Son's arrangement, so that clause was removed; the article does not say SoftBank financed his Northstar stake specifically, so the claim now says SoftBank advanced money for his fund investments, and adds the Latin America fund and the personal guarantee it reports."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: Impress (4 Apr 2011) confirms only the pledge of ¥10bn plus director pay until retirement. Only SoftBank's own use report (as of 4 March 2012) documents the allocation of the full ¥10bn, so the claim now says the independent report confirms the pledge only and labels the payout company-reported; evidence_type changed from documented_giving to company_disclosure."
+      }
+    ],
+    "passed": true
   }
 }
