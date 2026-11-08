@@ -1,0 +1,202 @@
+{
+  "id": 24,
+  "slug": "julia-koch-and-family",
+  "name": "Julia Koch & family",
+  "entity_group": "koch",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Flint Hills Resources EPA settlement Clean Air Act",
+    "Charles Koch $5.3 billion shares nonprofit Believe in People taxes",
+    "Forbes exclusive Charles Koch has given more than $5 billion of his stock to two nonprofits",
+    "Koch subsidiary EPA consent decree penalty 2023 OR 2024 OR 2025 Georgia-Pacific OR \"Koch Fertilizer\" OR INVISTA OR \"Flint Hills\"",
+    "Americans for Prosperity Action 2024 outside spending OpenSecrets",
+    "opensecrets.org news Koch network flagship super PAC pours big money into 2024 elections",
+    "Julia Koch donation 2024 OR 2025 gift foundation million",
+    "\"Believe in People\" Koch $4.3 billion 501(c)(4) stock gift report",
+    "George Mason University Koch Foundation donor agreements faculty hiring review 2018",
+    "Georgia-Pacific Crossett Arkansas paper mill EPA hydrogen sulfide 2023 2024",
+    "Koch Petroleum Group pleads guilty Corpus Christi benzene $20 million justice.gov 2001",
+    "Koch Pipeline $35 million Clean Water Act penalty oil spills 2000 EPA largest civil penalty",
+    "\"Flint Hills Resources\" OR \"INVISTA\" OR \"Georgia-Pacific\" settlement penalty justice.gov 2021 2022 2023 2024 2025",
+    "Violation Tracker Good Jobs First parent company Koch Industries penalties total since 2000",
+    "Julia Koch political donations Republican super PAC FEC 2024",
+    "\"Julia Koch Family Foundation\" ProPublica nonprofit explorer 990",
+    "\"Charles Koch Foundation\" ProPublica nonprofit explorer 990-PF contributions grants paid",
+    "Koch network flagship super PAC Americans for Prosperity Action 2024 (restricted to opensecrets.org; refused by the search tool)"
+  ],
+  "sources": [
+    {
+      "id": "epa-oil-spills",
+      "label": "EPA: Koch Industries oil spills settlement (2000)",
+      "url": "https://19january2025snapshot.epa.gov/enforcement/koch-industries-inc-oil-spills-settlement",
+      "publisher": "US Environmental Protection Agency",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2000-01-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "doj-refinery-plea",
+      "label": "US Justice Department: Koch pleads guilty to covering up refinery violations (2001)",
+      "url": "https://www.justice.gov/archive/opa/pr/2001/April/153enrd.htm",
+      "publisher": "US Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2001-04-09",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "epa-refinery-plea",
+      "label": "EPA: Koch Industries to pay $20 million for Clean Air Act violations (2001)",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/0dbb0beb2a2d70d885256a2d0072a509.html",
+      "publisher": "US Environmental Protection Agency",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2001-04-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "epa-port-arthur",
+      "label": "EPA: Flint Hills Resources Port Arthur Clean Air Act settlement (2014)",
+      "url": "https://19january2025snapshot.epa.gov/enforcement/flint-hills-resources-port-arthur-clean-air-act-settlement",
+      "publisher": "US Environmental Protection Agency",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2014-03-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "opensecrets-afp-action",
+      "label": "OpenSecrets: Koch network super PAC pours money into 2024 elections (2024)",
+      "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
+      "publisher": "OpenSecrets (republished by Raw Story)",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2024-08-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "chronicle-nyu-langone",
+      "label": "Chronicle of Philanthropy: Julia Koch gives $75 million for medical center (2024)",
+      "url": "https://www.philanthropy.com/news/julia-koch-gives-75-million-for-new-west-palm-beach-medical-center/",
+      "publisher": "The Chronicle of Philanthropy",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-02-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "propublica-jkff",
+      "label": "ProPublica Nonprofit Explorer: Julia Koch Family Foundation filings (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/921599313",
+      "publisher": "ProPublica (IRS Form 990 data)",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2024",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Koch Industries",
+      "claim": "In January 2000 Koch Industries agreed to a $30 million civil penalty, which EPA called the largest then imposed on a company under any federal environmental law, over more than 300 oil spills from its pipelines and facilities in six states. The settlement is more than 25 years old.",
+      "evidence_type": "settlement",
+      "date": "2000-01-13",
+      "source_ids": [
+        "epa-oil-spills"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Koch Petroleum Group (Koch Industries)",
+      "claim": "In April 2001 Koch Petroleum Group, with Koch Industries, pleaded guilty to concealing Clean Air Act benzene violations at its Corpus Christi refinery in 1995, and agreed to $10 million in criminal fines, $10 million for local environmental projects and five years of probation.",
+      "evidence_type": "guilty_plea",
+      "date": "2001-04-09",
+      "source_ids": [
+        "doj-refinery-plea",
+        "epa-refinery-plea"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Flint Hills Resources (Koch Industries)",
+      "claim": "In March 2014 Flint Hills Resources, a Koch Industries company, settled US claims of excess benzene and other hazardous emissions from flares at its Port Arthur, Texas chemical plant, with a $350,000 civil penalty and controls EPA expected to cut about 1,900 tons of pollutants a year.",
+      "evidence_type": "settlement",
+      "date": "2014-03-20",
+      "source_ids": [
+        "epa-port-arthur"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Koch Industries",
+      "claim": "OpenSecrets reported in August 2024 that Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s hybrid super PAC, which by early August had spent about $62 million supporting Republican candidates that cycle and none supporting Democrats.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-08-12",
+      "source_ids": [
+        "opensecrets-afp-action"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Julia Koch Family Foundation",
+      "claim": "The Julia Koch Family Foundation, a 501(c)(4) with Julia Koch as a director, reported expenses of about $5.1 million in 2023 and $36.7 million in 2024. In February 2024 she gave $75 million through it to NYU Langone Health for a West Palm Beach outpatient centre; how much has been paid out is not stated.",
+      "evidence_type": "documented_giving",
+      "date": "2024",
+      "source_ids": [
+        "propublica-jkff",
+        "chronicle-nyu-langone"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 4,
+        "basis": "documented",
+        "reason": "Koch Industries runs oil refineries, pipelines and chemical plants through units such as Flint Hills Resources. It paid a then-record $30 million civil penalty in 2000 over more than 300 oil spills, a unit pleaded guilty in 2001 to concealing benzene violations at a Texas refinery, and a 2014 EPA settlement covered flare emissions. The group’s current emissions are not quantified here.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
+      },
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Koch Industries gave $25 million in 2024 to Americans for Prosperity Action, the Koch network’s super PAC, which spent heavily for Republican candidates (OpenSecrets, from FEC filings). The network is among the largest political funders in the US. No personal political spending by Julia Koch was checked here.",
+        "finding_ids": [
+          "f4"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "A Koch Industries unit pleaded guilty in 2001 to concealing Clean Air Act violations at its Corpus Christi refinery, and Koch Industries paid a then-record $30 million environmental civil penalty in 2000. Both are more than 25 years old; the later EPA settlement found here is small. No personal legal record was found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "The Julia Koch Family Foundation reported $36.7 million in expenses in 2024, and in 2024 she gave $75 million through it to NYU Langone Health for a Florida outpatient centre.",
+    "rationale": "Legal 0 to 2: the rubric places a corporate plea at level 2, and a Koch unit pleaded guilty in 2001 (DOJ, EPA); the 2000 penalty was then a record. Both are old, which could argue for keeping a lower value. Ecology 4 and politics 3 are unchanged, now documented at company level. Politics rests on Koch Industries, not on Julia Koch personally."
+  }
+}
