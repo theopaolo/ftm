@@ -363,6 +363,461 @@
       "url": "https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html",
       "kind": "research"
     },
+    "elon-musk-tesla-proxy-2026": {
+      "label": "Tesla: 2026 proxy statement, Pampena v. Musk and SEC matters (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000110465926116700/tm267596-1_def14a.htm",
+      "kind": "case"
+    },
+    "elon-musk-afp-twitter-verdict": {
+      "label": "AFP (via EWN): US jury finds Musk misled Twitter shareholders (2026)",
+      "url": "https://www.ewn.co.za/2026/03/21/us-jury-finds-elon-musk-misled-twitter-shareholders",
+      "kind": "case"
+    },
+    "elon-musk-sec-2018-settlement": {
+      "label": "SEC: Musk settles fraud charges; Musk and Tesla to pay $20 million each (2018)",
+      "url": "https://www.sec.gov/news/press-release/2018-226",
+      "kind": "case"
+    },
+    "elon-musk-nbc-funding-secured": {
+      "label": "NBC News: jury finds Musk did not defraud Tesla investors over 2018 tweets (2023)",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-funding-secured-trial-verdict-rcna68634",
+      "kind": "case"
+    },
+    "elon-musk-cnbc-tornetta": {
+      "label": "CNBC: Delaware Supreme Court restores Musk’s 2018 Tesla pay package (2025)",
+      "url": "https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html",
+      "kind": "case"
+    },
+    "elon-musk-cnn-fec-2024": {
+      "label": "CNN (via KTVZ): Musk spent more than $290 million on the 2024 election (2025)",
+      "url": "https://ktvz.com/politics/cnn-us-politics/2025/02/01/elon-musk-spent-more-than-290-million-on-the-2024-election-year-end-fec-filings-show/",
+      "kind": "case"
+    },
+    "elon-musk-washex-top-donors": {
+      "label": "Washington Examiner: Musk tops OpenSecrets list of 2024 donors (2025)",
+      "url": "https://www.washingtonexaminer.com/?p=3361316",
+      "kind": "case"
+    },
+    "elon-musk-bgov-america-pac": {
+      "label": "Bloomberg Government: Musk settles suits over $1 million voter giveaway (2026)",
+      "url": "https://news.bgov.com/litigation/elon-musk-settles-suit-over-1-million-giveaway-to-2024-voters",
+      "kind": "case"
+    },
+    "elon-musk-ij-crd-trial": {
+      "label": "Insurance Journal: Tesla goes to trial over race bias at Fremont plant (2026)",
+      "url": "https://www.insurancejournal.com/news/west/2026/09/21/886233.htm",
+      "kind": "case"
+    },
+    "elon-musk-electrek-crd-trial": {
+      "label": "Electrek: Tesla racism trial over Fremont factory begins (2026)",
+      "url": "https://electrek.co/2026/09/21/tesla-racism-trial-california-fremont-black-workers/",
+      "kind": "case"
+    },
+    "elon-musk-reuters-benavides": {
+      "label": "Reuters (via Business Insurance): judge upholds $243m Autopilot verdict (2026)",
+      "url": "https://www.businessinsurance.com/judge-upholds-243m-verdict-against-tesla-over-fatal-autopilot-crash/",
+      "kind": "case"
+    },
+    "elon-musk-dmv-autopilot": {
+      "label": "California DMV: Tesla takes corrective action to avoid suspension (2026)",
+      "url": "https://www.dmv.ca.gov/portal/news-and-media/tesla-takes-corrective-action-to-avoid-dmv-suspension/",
+      "kind": "case"
+    },
+    "elon-musk-hrdive-nlrb": {
+      "label": "HR Dive: Fifth Circuit overturns NLRB order on Musk union tweet (2024)",
+      "url": "https://www.hrdive.com/news/nlrb-musk-tesla-tweet-decision-overturned-fifth-circuit/731243/",
+      "kind": "case"
+    },
+    "elon-musk-ec-x-dsa-fine": {
+      "label": "European Commission: Commission fines X €120 million under the DSA (2025)",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act",
+      "kind": "case"
+    },
+    "elon-musk-ec-grok-investigation": {
+      "label": "European Commission: investigation into Grok and X’s recommender systems (2026)",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigates-grok-and-xs-recommender-systems-under-digital-services-act",
+      "kind": "case"
+    },
+    "elon-musk-wlbt-naacp-xai": {
+      "label": "WLBT: NAACP sues xAI over gas turbines in Southaven (2026)",
+      "url": "https://www.wlbt.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/",
+      "kind": "case"
+    },
+    "elon-musk-tnw-xai-dismissal": {
+      "label": "The Next Web: judge rejects xAI bid to dismiss NAACP turbine suit (2026)",
+      "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+      "kind": "case"
+    },
+    "elon-musk-bloomberglinea-foundation": {
+      "label": "Bloomberg Línea: Musk Foundation gave $474m in 2024, mostly to his own entities (2025)",
+      "url": "https://www.bloomberglinea.com/negocios/elon-musk-dono-us474-millones-en-2024-principalmente-a-organizaciones-bajo-su-control/",
+      "kind": "case"
+    },
+    "larry-page-bloomberg-search-appeal": {
+      "label": "Bloomberg: Google appeals ruling that it illegally monopolized search (2026)",
+      "url": "https://www.spokesman.com/stories/2026/jan/16/google-to-appeal-us-court-ruling-of-illegal-monopo/",
+      "kind": "case"
+    },
+    "larry-page-silicon-doj-appeal": {
+      "label": "Silicon UK: DOJ and states appeal Google search remedies (2026)",
+      "url": "https://www.silicon.co.uk/e-regulation/legal/doj-states-google-appeal-628612",
+      "kind": "case"
+    },
+    "larry-page-doj-adtech-liability": {
+      "label": "U.S. DOJ: Court rules Google monopolized ad tech markets (2025)",
+      "url": "https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google",
+      "kind": "case"
+    },
+    "larry-page-reuters-adtech-remedies": {
+      "label": "Reuters: Judge orders Google ad tech changes, rejects AdX sale (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds",
+      "kind": "case"
+    },
+    "larry-page-ap-epic-settlement": {
+      "label": "AP: Epic Games and Google settle Android app store fight (2025)",
+      "url": "https://abc7news.com/post/fortnite-maker-epic-games-google-say-settling-5-year-legal-fight-android-app-store/18116677/",
+      "kind": "case"
+    },
+    "larry-page-pymnts-play-settlement": {
+      "label": "PYMNTS: Judge approves Google $700 million Play Store settlement (2026)",
+      "url": "https://www.pymnts.com/cpi-posts/judge-approves-googles-700-million-play-store-settlement/",
+      "kind": "case"
+    },
+    "larry-page-euronews-shopping": {
+      "label": "Euronews: Google loses €2.4bn EU Shopping case (2024)",
+      "url": "https://www.euronews.com/2024/09/10/google-loses-24-bn-eu-antitrust-case-for-favouring-its-own-shopping-service",
+      "kind": "case"
+    },
+    "larry-page-euronews-android": {
+      "label": "Euronews: EU top court upholds €4.1bn Google Android fine (2026)",
+      "url": "https://www.euronews.com/my-europe/2026/07/02/eu-court-of-justice-rejects-googles-appeal-against-record-41-billion-fine",
+      "kind": "case"
+    },
+    "larry-page-gazette-eu-adtech": {
+      "label": "Law Society Gazette: EU fines Google €2.95bn over adtech (2025)",
+      "url": "https://www.lawsociety.ie/gazette/top-stories/2025/september/eu-fines-google-2.95-billion-for-ad-breaches",
+      "kind": "case"
+    },
+    "larry-page-rte-adsense": {
+      "label": "RTÉ: EU court annuls €1.49bn Google AdSense fine (2024)",
+      "url": "https://www.rte.ie/news/business/2024/0918/1470639-eu-court-annuls-1-5-billion-google-antitrust-fine",
+      "kind": "case"
+    },
+    "larry-page-reuters-adsense-appeal": {
+      "label": "Reuters: Google urges EU top court to back AdSense ruling (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/google-urges-eu-top-court-to-back-ruling-scrapping-17-billion-antitrust-fine",
+      "kind": "case"
+    },
+    "larry-page-kron-texas": {
+      "label": "KRON4: Google to pay Texas $1.375 billion in privacy settlement (2025)",
+      "url": "https://www.yahoo.com/news/google-pay-texas-more-1-011119296.html",
+      "kind": "case"
+    },
+    "larry-page-techmonitor-texas": {
+      "label": "Tech Monitor: Google $1.38bn Texas data privacy settlement (2025)",
+      "url": "https://www.techmonitor.ai/digital-economy/big-tech/google-1-38bn-settlement-texas-data-privacy",
+      "kind": "case"
+    },
+    "larry-page-reuters-derivative-2025": {
+      "label": "Reuters: Google to spend $500 million on compliance in shareholder deal (2025)",
+      "url": "https://amp.insurancejournal.com/news/national/2025/06/02/825966.htm",
+      "kind": "case"
+    },
+    "larry-page-bloomberglaw-derivative-judgment": {
+      "label": "Bloomberg Law: Alphabet investor suit ends after $500 million reform deal (2025)",
+      "url": "https://news.bloomberglaw.com/litigation/alphabet-investor-suit-ends-after-500-million-deal-for-reforms",
+      "kind": "case"
+    },
+    "larry-page-cnbc-derivative-2020": {
+      "label": "CNBC: Alphabet settles shareholder suits over misconduct handling (2020)",
+      "url": "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
+      "kind": "case"
+    },
+    "larry-page-nbc-derivative-2020": {
+      "label": "NBC News: Alphabet settles shareholder suit over sexual misconduct (2020)",
+      "url": "https://www.nbcnews.com/tech/tech-news/alphabet-settles-shareholder-lawsuit-alleged-mishandling-sexual-miscon-rcna139",
+      "kind": "case"
+    },
+    "larry-page-foxbusiness-usvi": {
+      "label": "Fox Business: Virgin Islands seeks to serve Larry Page in Epstein suit (2023)",
+      "url": "https://www.foxbusiness.com/features/jeffrey-epstein-related-suit-virgin-islands-says-it-cant-find-google-co-founder-larry-page",
+      "kind": "case"
+    },
+    "larry-page-cbs-youtube-trump": {
+      "label": "CBS News: YouTube to pay $22 million toward White House ballroom (2025)",
+      "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+      "kind": "case"
+    },
+    "larry-page-fortune-lobbying": {
+      "label": "Fortune: Big Tech lobbying spending in Q1 2026 (2026)",
+      "url": "https://fortune.com/2026/04/23/big-tech-lobbying-spending-q1-2026/",
+      "kind": "case"
+    },
+    "larry-page-sec-proxy-2026": {
+      "label": "SEC: Alphabet 2026 proxy statement (DEF 14A) (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817926000342/goog-20260424.htm",
+      "kind": "case"
+    },
+    "larry-page-esgtoday-env-2026": {
+      "label": "ESG Today: Google says climate goals getting harder (2026)",
+      "url": "https://www.esgtoday.com/google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder/",
+      "kind": "case"
+    },
+    "larry-page-npq-foundation": {
+      "label": "Nonprofit Quarterly: Larry Page and donor-advised funds (2019)",
+      "url": "https://nonprofitquarterly.org/larry-page-makes-a-good-case-for-the-regulation-of-donor-advised-funds/",
+      "kind": "case"
+    },
+    "larry-page-causeiq-foundation": {
+      "label": "Cause IQ: Carl Victor Page Memorial Foundation, Form 990-PF data",
+      "url": "https://causeiq.com/organizations/carl-victor-page-memorial-foundation,201922957",
+      "kind": "case"
+    },
+    "sergey-brin-reuters-search-appeal": {
+      "label": "Reuters (via GV Wire): Google appeals US court ruling on search monopoly (2026)",
+      "url": "https://gvwire.com/2026/05/22/google-appeals-us-court-ruling-on-search-monopoly/",
+      "kind": "case"
+    },
+    "sergey-brin-reuters-doj-appeal": {
+      "label": "Reuters (via The Star): US files appeal in Google search antitrust case (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/02/04/us-files-appeal-in-google-search-case-court-filing-shows",
+      "kind": "case"
+    },
+    "sergey-brin-alphabet-10q-q3-2026": {
+      "label": "Alphabet: Form 10-Q, quarter ended 30 September 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm",
+      "kind": "case"
+    },
+    "sergey-brin-curia-android": {
+      "label": "CJEU: Court of Justice upholds Google's €4.1 billion Android fine (2026)",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260093en.pdf",
+      "kind": "case"
+    },
+    "sergey-brin-bloomberg-derivative-2019": {
+      "label": "Bloomberg (via Insurance Journal): Google board sued over misconduct claims (2019)",
+      "url": "https://www.insurancejournal.com/news/national/2019/01/11/514572.htm",
+      "kind": "case"
+    },
+    "sergey-brin-bloomberg-plane-suit": {
+      "label": "Bloomberg (via The Star): Sergey Brin sued over deadly seaplane crash (2024)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2024/02/21/sergey-brin-sued-over-deadly-crash-of-his-fiji-bound-seaplane",
+      "kind": "case"
+    },
+    "sergey-brin-bi-plane-suit": {
+      "label": "Business Insider (via AOL): Brin hit with new lawsuit over plane crash (2024)",
+      "url": "https://www.aol.com/google-cofounder-sergey-brin-hit-175215524.html",
+      "kind": "case"
+    },
+    "sergey-brin-flying-settlement": {
+      "label": "Flying: Google cofounder settles wrongful death lawsuit of pilot (2025)",
+      "url": "https://www.flyingmag.com/google-cofounder-settles-wrongful-death-lawsuit-of-private-pilot/",
+      "kind": "case"
+    },
+    "sergey-brin-nyt-epstein": {
+      "label": "NYT (via Hawaii Tribune-Herald): powerful men in the new Epstein files (2026)",
+      "url": "https://www.hawaiitribune-herald.com/?p=356538",
+      "kind": "case"
+    },
+    "sergey-brin-latimes-102m": {
+      "label": "LA Times (via News Tribune): Brin spends more than $100m against wealth tax (2026)",
+      "url": "https://www.newstribune.com/news/2026/aug/14/google-co-founder-brin-spends-more-than-100m/",
+      "kind": "case"
+    },
+    "sergey-brin-ap-prop40": {
+      "label": "AP (via WCAX): too early to call California's billionaire tax vote (2026)",
+      "url": "https://www.wcax.com/2026/11/04/its-too-early-call-outcome-californias-proposal-tax-billionaires/",
+      "kind": "case"
+    },
+    "sergey-brin-fortune-20m": {
+      "label": "Fortune: Brin's biggest donation yet as he moves to Nevada (2026)",
+      "url": "https://fortune.com/2026/01/29/sergey-brin-biggest-donation-ever-california-housing-billionaire-tax-moving-to-nevada/",
+      "kind": "case"
+    },
+    "sergey-brin-forbes-philanthropy": {
+      "label": "Forbes Australia: Sergey Brin's $2 billion quest on Parkinson's and autism (2025)",
+      "url": "https://www.forbes.com.au/news/billionaires/sergey-brins-2-billion-plan-to-tackle-parkinsons-bipolar-autism/",
+      "kind": "case"
+    },
+    "jeff-bezos-cbs-prime-refunds": {
+      "label": "CBS News: Amazon Prime refunds widened, cap raised to $200 (2026)",
+      "url": "https://www.cbsnews.com/news/amazon-prime-ftc-settlement-refunds/",
+      "kind": "case"
+    },
+    "jeff-bezos-ftc-ecommerce-case": {
+      "label": "FTC: Amazon.com, Inc. (Amazon eCommerce) monopolization case",
+      "url": "https://www.ftc.gov/node/81711",
+      "kind": "case"
+    },
+    "jeff-bezos-mlex-trial-dates": {
+      "label": "MLex: Amazon to ask FTC to delay monopolization trial (2026)",
+      "url": "https://www.mlex.com/mlex/articles/2526407",
+      "kind": "case"
+    },
+    "jeff-bezos-pymnts-delay-rejected": {
+      "label": "PYMNTS: Amazon loses bid to delay FTC antitrust trial (2026)",
+      "url": "https://pymnts.com/cpi-posts/amazon-loses-bid-to-delay-ftc-antitrust-trial-as-california-case-looms",
+      "kind": "case"
+    },
+    "jeff-bezos-ftc-ads-complaint": {
+      "label": "FTC: FTC and 22 states sue Amazon over secret ad surcharge scheme (2026)",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+      "kind": "case"
+    },
+    "jeff-bezos-ca-ag-price-case": {
+      "label": "California AG: Court denies Amazon summary judgment in price case (2026)",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-delivers-prime-victory-against-amazon-ongoing-price",
+      "kind": "case"
+    },
+    "jeff-bezos-reuters-italy-fine": {
+      "label": "Reuters: Amazon to appeal Italian antitrust fine, cut to €752.4m (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/01/14/amazon-to-appeal-against-italian-antitrust-fine-even-after-it-was-cut",
+      "kind": "case"
+    },
+    "jeff-bezos-paperjam-cnpd": {
+      "label": "Paperjam: €746m fine, CNPD decision against Amazon annulled (2026)",
+      "url": "https://paperjam.lu/article/amende-de-746-millions-la-decision-de-la-cnpd-contre-amazon-annulee",
+      "kind": "case"
+    },
+    "jeff-bezos-freevacy-cnpd": {
+      "label": "Freevacy (Reuters summary): Luxembourg court annuls Amazon €746m GDPR fine (2026)",
+      "url": "https://www.freevacy.com/news/reuters/luxembourg-court-upholds-amazons-appeal-annuls-eur746m-gdpr-fine/7210",
+      "kind": "case"
+    },
+    "jeff-bezos-gazette-state-aid": {
+      "label": "Law Society Gazette: CJEU rejects Commission's Amazon appeal (2023)",
+      "url": "https://www.lawsociety.ie/gazette/top-stories/2023/december/cjeu-rejects-commissions-amazon-appeal",
+      "kind": "case"
+    },
+    "jeff-bezos-returns-motion": {
+      "label": "W.D. Wash.: Plaintiffs' motion for approval, Amazon returns settlement (2026)",
+      "url": "https://www.classaction.org/media/in-re-amazon-return-policy-litigation-proposed-settlement.pdf",
+      "kind": "case"
+    },
+    "jeff-bezos-classaction-returns": {
+      "label": "ClassAction.org: Amazon to pay $309.5m over return policies (2026)",
+      "url": "https://www.classaction.org/news/amazon-to-pay-309.5m-to-end-class-action-lawsuit-over-return-policies",
+      "kind": "case"
+    },
+    "jeff-bezos-osha-ergonomics": {
+      "label": "OSHA: Settlement with Amazon on warehouse ergonomic hazards (2024)",
+      "url": "https://osha.gov/news/newsreleases/osha-national-news-release/20241219",
+      "kind": "case"
+    },
+    "jeff-bezos-nbc-wapo-opinion": {
+      "label": "NBC News: Bezos overhauls Washington Post opinion section (2025)",
+      "url": "https://www.nbcnews.com/media/jeff-bezos-washington-post-op-ed-david-shipley-rcna193817",
+      "kind": "case"
+    },
+    "jeff-bezos-esgdive-emissions": {
+      "label": "ESG Dive: Amazon 2025 emissions jump as AI build-out grows (2026)",
+      "url": "https://www.esgdive.com/news/amazon-2025-emissions-jump-as-ai-brings-momentum-and-complexity-report/825667/",
+      "kind": "case"
+    },
+    "jeff-bezos-fortune-day1": {
+      "label": "Fortune: Bezos Day 1 Families Fund gives $102.5m for homelessness (2025)",
+      "url": "https://fortune.com/2025/12/02/jeff-bezos-lauren-sanchez-bezos-donate-102-million-homelessness-us",
+      "kind": "case"
+    },
+    "jeff-bezos-fortune-earth-fund": {
+      "label": "Fortune: How much has Jeff Bezos donated? (2026)",
+      "url": "https://fortune.com/article/how-much-has-jeff-bezos-donated-lauren-sanchez-bezos-earth-fund/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ftc-2019-order": {
+      "label": "FTC: $5 billion penalty and new privacy restrictions on Facebook (2019)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ftc-appeal-2026": {
+      "label": "FTC: FTC appeals ruling in Meta monopolization case (2026)",
+      "url": "https://www.ftc.gov/node/328111",
+      "kind": "case"
+    },
+    "mark-zuckerberg-meta-10q-2026q3": {
+      "label": "Meta Platforms: Form 10-Q, quarter ended 30 September 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm",
+      "kind": "case"
+    },
+    "mark-zuckerberg-reuters-derivative": {
+      "label": "Reuters: Zuckerberg, Meta directors agree to $190M privacy settlement (2025)",
+      "url": "https://www.ksl.com/article/51408484",
+      "kind": "case"
+    },
+    "mark-zuckerberg-scottscott-derivative": {
+      "label": "Scott+Scott: Court approves $190M settlement in Meta derivative case (2026)",
+      "url": "https://scott-scott.com/190m-settlement-secured-in-case-against-meta/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-politico-dc-suit": {
+      "label": "Politico: D.C. attorney general sues Mark Zuckerberg over Cambridge Analytica (2022)",
+      "url": "https://www.yahoo.com/now/d-c-attorney-general-sues-160337830.html",
+      "kind": "case"
+    },
+    "mark-zuckerberg-mlex-dc-ruling": {
+      "label": "MLex: DC judge denies Zuckerberg's bid to dismiss Cambridge Analytica suit (2026)",
+      "url": "https://www.mlex.com/mlex/articles/2476615",
+      "kind": "case"
+    },
+    "mark-zuckerberg-reuters-mdl-zuckerberg": {
+      "label": "Reuters: Zuckerberg not liable in lawsuits over social media harm to children (2024)",
+      "url": "https://www.thestar.com.my/news/world/2024/11/09/meta039s-zuckerberg-not-liable-in-lawsuits-over-social-media-harm-to-children",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ap-multistate-settlement": {
+      "label": "AP: Meta reaches settlement with states over teen social media addiction (2026)",
+      "url": "https://www.wafb.com/2026/08/26/meta-reaches-17-billion-settlement-with-states-landmark-trial-over-teen-social-media-addiction/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ap-nm-verdict": {
+      "label": "AP: New Mexico jury finds Meta violated consumer protection law (2026)",
+      "url": "https://wtop.com/national/2026/03/new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety",
+      "kind": "case"
+    },
+    "mark-zuckerberg-sourcenm-25b": {
+      "label": "Source NM: New Mexico judge orders Meta to pay state $25B (2026)",
+      "url": "https://dailymontanan.com/?p=39660",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ap-kgm-verdict": {
+      "label": "AP: Jury awards $6 million in Los Angeles social media addiction trial (2026)",
+      "url": "https://6abc.com/amp/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ec-marketplace": {
+      "label": "European Commission: Meta fined €797.72 million over Facebook Marketplace (2024)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_5801/IP_24_5801_EN.pdf",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ap-texas-biometric": {
+      "label": "AP: Meta agrees to $1.4B settlement with Texas over facial recognition (2024)",
+      "url": "https://abc13.com/post/meta-agreed-14b-settlement-texas-privacy-lawsuit-biometric-data-permission/15128086/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-nyt-superpacs": {
+      "label": "New York Times: Meta begins $65 million election push (2026)",
+      "url": "https://gvwire.com/2026/02/18/meta-begins-65-million-election-push-to-advance-ai-agenda/",
+      "kind": "case"
+    },
+    "mark-zuckerberg-ap-trump-settlement": {
+      "label": "AP: Meta agrees to pay $25 million to settle Trump suspension lawsuit (2025)",
+      "url": "https://nationalnewswatch.com/2025/01/29/meta-agrees-to-pay-25-million-to-settle-lawsuit-from-trump-after-jan-6-suspension",
+      "kind": "case"
+    },
+    "mark-zuckerberg-afp-pcast": {
+      "label": "AFP: Trump names tech titans to science advisory council (2026)",
+      "url": "https://www.dawn.com/news/1985398",
+      "kind": "case"
+    },
+    "mark-zuckerberg-bloomberg-entergy": {
+      "label": "Bloomberg: Entergy to build three gas plants for Meta's biggest data center (2025)",
+      "url": "https://www.insurancejournal.com/news/southcentral/2025/08/21/836573.htm",
+      "kind": "case"
+    },
+    "mark-zuckerberg-propublica-czi": {
+      "label": "ProPublica Nonprofit Explorer: Chan Zuckerberg Initiative Foundation, IRS filings",
+      "url": "https://projects.propublica.org/nonprofits/organizations/455002209",
+      "kind": "case"
+    },
     "larry-ellison-infoworld-2005-settlement": {
       "label": "InfoWorld: Court OKs Ellison shareholder settlement (2005)",
       "url": "https://www.infoworld.com/article/2220877/court-oks-ellison-22-million-shareholder-settlement.html",
@@ -416,6 +871,126 @@
     "larry-ellison-investmentnews-barrows": {
       "label": "InvestmentNews: Investors sue Oracle over AI spending statements (2026)",
       "url": "https://www.investmentnews.com/regulation-legal-compliance/investors-sue-oracle-allege-executives-dumped-187b-amid-ai-hype/265164",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-dior-lifted": {
+      "label": "AFP: Milan court lifts Dior Italian unit judicial administration (2025)",
+      "url": "https://fashionunited.uk/news/business/milan-court-lifts-dior-italian-unit-judicial-administration/2025030380413",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-ilsole-agcm": {
+      "label": "Il Sole 24 Ore: AGCM closes Dior probe with €2m commitment (2025)",
+      "url": "https://en.ilsole24ore.com/art/dior-will-allocate-2-million-euro-against-exploitation-agcm-closes-investigation-AHpZy4r",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-irishtimes-loropiana": {
+      "label": "Irish Times: LVMH's Loro Piana placed under court administration (2025)",
+      "url": "https://www.irishtimes.com/business/2025/07/14/lvmhs-loro-piana-placed-under-court-administration-over-worker-exploitation",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-fu-loropiana-lifted": {
+      "label": "FashionUnited: Loro Piana (LVMH) no longer under judicial administration (2026)",
+      "url": "https://fashionunited.uk/news/business/exploited-labour-loro-piana-lvmh-is-no-longer-under-judicial-administration/2026042187572",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-parquet-cjip": {
+      "label": "Parquet de Paris: CJIP with LVMH, €10 million public-interest fine (2021)",
+      "url": "https://www.justice.gouv.fr/sites/default/files/2023-05/Communique_LVMH_CJIP%20.pdf",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-arnault-witness": {
+      "label": "AFP: Arnault defiant as witness at ex-spy chief's trial (2024)",
+      "url": "https://www.thelocal.fr/20241128/french-luxury-mogul-arnault-defiant-at-ex-spy-chief-trial",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-squarcini-verdict": {
+      "label": "AFP: Former French spy chief sentenced in LVMH influence-peddling trial (2025)",
+      "url": "https://fashionunited.uk/news/people/former-french-spy-chief-sentenced-to-four-years-in-influence-peddling-trial/2025030780523",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-fu-ruffin-civil": {
+      "label": "FashionUnited: Court lets Ruffin's privacy suit against LVMH go to trial (2025)",
+      "url": "https://fashionunited.fr/actualite/retail/affaire-ruffin-vs-lvmh-la-justice-valide-la-tenue-du-proces-civil-pour-intrusion-dans-la-vie-privee/2025112740083",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-cdj-ruffin": {
+      "label": "Le Club des juristes: Ruffin sues LVMH over his right to privacy (2024)",
+      "url": "https://www.leclubdesjuristes.com/justice/francois-ruffin-assigne-en-justice-la-societe-lvmh-pour-violation-de-son-droit-a-la-vie-privee-8135/",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-fu-amf-2013": {
+      "label": "FashionUnited: AMF fines LVMH €8 million over Hermès stake build-up (2013)",
+      "url": "https://fashionunited.uk/v1/fashion/amf-fines-lvmh-8-million-euros-over-hermes-stake-buy/2013070212555",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-reuters-amf-noappeal": {
+      "label": "Reuters: LVMH will not appeal the AMF sanction over Hermès (2013)",
+      "url": "https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-lvmh-ne-fera-pas-appel-de-la-sanction-de-l-amf-sur-hermes-470273.html",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-bloomberg-puech": {
+      "label": "Bloomberg: Hermès heir sues Arnault and LVMH over lost shares (2025)",
+      "url": "https://www.claimsjournal.com/news/national/2025/12/04/334385.htm",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-puech": {
+      "label": "AFP: Hermès heir sues LVMH and Bernard Arnault for €14 billion (2025)",
+      "url": "https://fashionunited.fr/actualite/people/depossede-de-sa-fortune-un-heritier-dhermes-attaque-lvmh-et-bernard-arnault-pour-14-milliards-deuros/2025120340128",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-hermes-charges": {
+      "label": "AFP: Swiss lawyers under formal investigation in Paris over Hermès shares (2026)",
+      "url": "https://www.lagazettefrance.fr/article/affaire-des-actions-hermes-lvmh-deux-avocats-et-une-notaire-suisses-mis-en-examen-a-paris",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-reuters-puech-2002": {
+      "label": "Reuters: Hermès heir's missing fortune and LVMH's 2002 pact (2026)",
+      "url": "https://www.businessday.co.za/world/international-companies/2026-09-17-hermes-heir-claims-missing-fortune-after-lvmhs-secret-2002-pact/",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-cbnews-parismatch": {
+      "label": "CB News: Paris Match passes from Lagardère News to LVMH (2024)",
+      "url": "https://www.cbnews.fr/medias/paris-match-lagardere-news-lvmh",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-publicsenat-arnault": {
+      "label": "Public Sénat: Arnault corrects his statement to the media inquiry (2022)",
+      "url": "https://www.publicsenat.fr/actualites/politique/rachat-de-paris-match-et-du-jdd-bernard-arnault-rectifie-ses-propos-tenus",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-restos-2023": {
+      "label": "AFP: Arnault family gives €10 million to Restos du Cœur (2023)",
+      "url": "https://www.linfodurable.fr/appel-des-restos-du-coeur-plusieurs-entreprises-annoncent-des-dons-40816",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-restos-2024": {
+      "label": "AFP: Restos du Cœur back in the black a year after their appeal (2024)",
+      "url": "https://www.linfodurable.fr/restos-du-coeur-dans-le-vert-mais-toujours-prudents-un-apres-leur-appel-laide-47534",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-lvmh-climate": {
+      "label": "LVMH: Acting for the climate, LIFE 360 results (2026)",
+      "url": "https://www.lvmh.com/fr/l-engagement-en-action/pour-l-environnement/se-mobiliser-pour-le-climat",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-an-mecenat-2018": {
+      "label": "Assemblée nationale: Finance committee hearing on corporate philanthropy tax relief (2018)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/cion_fin/l15cion_fin1819040_compte-rendu.pdf",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-afp-milan-13brands": {
+      "label": "AFP: Italy sweatshop probe snares more luxury brands (2025)",
+      "url": "https://fashionunited.uk/news/business/italy-sweatshop-probe-snares-more-luxury-brands/2025120485201",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-euronews-raids-2026": {
+      "label": "Euronews: Italian police raid luxury brands in labour abuse probe (2026)",
+      "url": "https://www.euronews.com/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
+      "kind": "case"
+    },
+    "bernard-arnault-and-family-lvmh-maisons": {
+      "label": "LVMH: Our Maisons (2026)",
+      "url": "https://www.lvmh.com/en/our-maisons/lvmh",
       "kind": "case"
     },
     "jensen-huang-sec-2022": {
@@ -576,6 +1151,246 @@
     "amancio-ortega-faortega-oncology": {
       "label": "Fundación Amancio Ortega: Public oncology support program (2015-2025)",
       "url": "https://www.faortega.org/en/project/public-oncology-support-program",
+      "kind": "case"
+    },
+    "walmart-reuters-doj-opioid-settlement": {
+      "label": "Reuters: Walmart settles US government’s opioid lawsuit (2026)",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit",
+      "kind": "case"
+    },
+    "walmart-gray-doj-opioid-settlement": {
+      "label": "Gray News: Walmart to pay $50 million over opioid prescriptions (2026)",
+      "url": "https://www.kcrg.com/2026/08/31/walmart-pay-50-million-illegally-filling-opioid-prescriptions/",
+      "kind": "case"
+    },
+    "walmart-wmt-10q-2026q2": {
+      "label": "Walmart: Form 10-Q, quarter ended 31 July 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000154/wmt-20260731.htm",
+      "kind": "case"
+    },
+    "walmart-ftc-spark": {
+      "label": "FTC: Walmart agrees to $100 million judgment over Spark driver pay (2026)",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/02/walmart-agrees-100-million-judgment-settle-ftc-states-charges-over-deceptive-earnings-claims-related",
+      "kind": "case"
+    },
+    "walmart-ftc-money-transfer": {
+      "label": "FTC: Walmart to pay $10 million over wire transfer scams (2025)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/walmart-pay-10-million-settle-ftc-allegations-it-allowed-scammers-obtain-millions-consumers-using",
+      "kind": "case"
+    },
+    "walmart-cfpb-branch": {
+      "label": "CFPB: Walmart and Branch Messenger enforcement action (2025)",
+      "url": "https://www.consumerfinance.gov/enforcement/actions/walmart-inc-and-branch-messenger-inc/",
+      "kind": "case"
+    },
+    "walmart-ap-fcpa-2019": {
+      "label": "CBS/AP: Walmart to pay $282 million to settle bribery charges (2019)",
+      "url": "https://www.cbsnews.com/news/walmart-to-pay-282-million-to-settle-federal-bribery-charges",
+      "kind": "case"
+    },
+    "walmart-wmt-8k-fcpa": {
+      "label": "Walmart: Form 8-K on DOJ and SEC FCPA resolutions (2019)",
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416919000030/pressreleasedatedjune202019.htm",
+      "kind": "case"
+    },
+    "walmart-wmt-public-policy": {
+      "label": "Walmart: Responsible engagement in public policy (2025)",
+      "url": "https://corporate.walmart.com/purpose/esgreport/responsible-engagement-in-public-policy",
+      "kind": "case"
+    },
+    "walmart-reuters-climate-targets": {
+      "label": "Reuters: Walmart likely to miss 2025 and 2030 climate targets (2024)",
+      "url": "https://theprint.in/environment/walmart-says-it-is-likely-to-miss-2025-2030-climate-change-targets/2411575/",
+      "kind": "case"
+    },
+    "walmart-trellis-climate-targets": {
+      "label": "Trellis: Walmart misses emissions reduction goals (2024)",
+      "url": "https://trellis.net/article/walmart-misses-emissions-reduction-goals/",
+      "kind": "case"
+    },
+    "walmart-deseret-nfl-donors": {
+      "label": "Deseret News: NFL owners’ political giving, OpenSecrets data (2025)",
+      "url": "https://www.deseret.com/politics/2025/10/04/nfl-funds-politics-democrats-john-curtis",
+      "kind": "case"
+    },
+    "walmart-opensecrets-afp-2023-gifts": {
+      "label": "OpenSecrets via Raw Story: Koch network’s AFP Action donors (2024)",
+      "url": "https://www.rawstory.com/koch-network-never-trump/",
+      "kind": "case"
+    },
+    "walmart-sec-derivative-notice": {
+      "label": "Walmart: Court notice of opioid derivative settlement (2024)",
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000166/ex991-10182024.htm",
+      "kind": "case"
+    },
+    "walmart-ap-derivative": {
+      "label": "AP: Walmart settles shareholder suits over opioid handling (2024)",
+      "url": "https://www.wsls.com/business/2024/10/18/walmart-reaches-settlement-deal-for-shareholder-lawsuits-over-its-handling-of-opioids/",
+      "kind": "case"
+    },
+    "walmart-berman-derivative-approval": {
+      "label": "Berman Tabacco: Walmart opioid derivative settlement approved (2025)",
+      "url": "https://www.bermantabacco.com/news/berman-tabacco-settles-walmart-opioid-derivative-litigation/",
+      "kind": "case"
+    },
+    "walmart-propublica-rmwf": {
+      "label": "ProPublica Nonprofit Explorer: Rob and Melani Walton Foundation (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/474259772",
+      "kind": "case"
+    },
+    "walmart-opensecrets-afp-2024": {
+      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
+      "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
+      "kind": "case"
+    },
+    "walmart-nwadg-walton-giving": {
+      "label": "Arkansas Democrat-Gazette: Some Walton giving leans to left (2020)",
+      "url": "https://www.nwaonline.com/news/2020/oct/18/data-shows-some-walton-giving-leans-to-left/",
+      "kind": "case"
+    },
+    "walmart-propublica-townbranch": {
+      "label": "ProPublica Nonprofit Explorer: Town Branch Foundation (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/823575662",
+      "kind": "case"
+    },
+    "michael-dell-reuters-classv": {
+      "label": "Reuters (via Claims Journal): Dell reaches $1 billion settlement over stock swap (2022)",
+      "url": "https://www.claimsjournal.com/news/national/2022/11/17/313819.htm",
+      "kind": "case"
+    },
+    "michael-dell-dclb-classv-fee": {
+      "label": "Delaware Corporate & Commercial Litigation Blog: Supreme Court affirms Dell fee (2024)",
+      "url": "https://www.delawarelitigation.com/2024/09/articles/delaware-supreme-court-updates/delaware-high-court-takes-fresh-look-at-sugarland-affirms-266-7m-dell-suit-fee-award/",
+      "kind": "case"
+    },
+    "michael-dell-cooley-appraisal": {
+      "label": "Cooley: Delaware Supreme Court reverses Dell appraisal price bump (2017)",
+      "url": "https://www.cooley.com/news/insight/2017/2017-12-19-delaware-supreme-court-reverses-dells-merger-appraisal-price-bump",
+      "kind": "case"
+    },
+    "michael-dell-accc-2023": {
+      "label": "ACCC: $10m penalty for Dell Australia over monitor discount claims (2023)",
+      "url": "https://www.accc.gov.au/media-release/10m-penalty-for-dell-australia-for-misleading-representations-about-discount-prices-of-computer-monitors",
+      "kind": "case"
+    },
+    "michael-dell-nbc-nyag-2008": {
+      "label": "AP (via NBC News): Judge rules Dell advertising misled customers (2008)",
+      "url": "https://www.nbcnews.com/news/amp/wbna24843886",
+      "kind": "case"
+    },
+    "michael-dell-olshan-nyag-2009": {
+      "label": "Olshan: Dell settles with NY Attorney General for $4 million (2009)",
+      "url": "https://www.olshanlaw.com/Advertising-Law-Blog/Dell-NYAG-Defrauding",
+      "kind": "case"
+    },
+    "michael-dell-americanbazaar-erisa": {
+      "label": "The American Bazaar: Former Dell employees sue over 401(k) plan (2026)",
+      "url": "https://americanbazaaronline.com/2026/02/05/former-dell-employees-sue-the-company-for-318-million-474568/",
+      "kind": "case"
+    },
+    "michael-dell-ksf-erisa-amended": {
+      "label": "Kahn Swick & Foti: Amended ERISA complaint against Dell (2026)",
+      "url": "https://ksfcounsel.com/?p=10869",
+      "kind": "case"
+    },
+    "michael-dell-aip-pcast": {
+      "label": "AIP FYI: White House announces PCAST members (2026)",
+      "url": "https://www.aip.org/fyi/white-house-announces-pcast-members",
+      "kind": "case"
+    },
+    "michael-dell-euronews-pentagon": {
+      "label": "Euronews: Dell lands $9.7bn Pentagon contract after Trump praise (2026)",
+      "url": "https://euronews.com/business/2026/05/28/dell-lands-97bn-pentagon-contract-just-weeks-after-trump-said-go-out-and-buy",
+      "kind": "case"
+    },
+    "michael-dell-nbc-trump-accounts": {
+      "label": "NBC News: Dells pledge $6.25 billion to fund Trump Accounts (2025)",
+      "url": "https://www.nbcwashington.com/news/national-international/dell-billions-donations-trump-accounts/4022751/",
+      "kind": "case"
+    },
+    "michael-dell-alcom-deposits": {
+      "label": "AL.com (via CPA Practice Advisor): Dell $250 deposits reach Trump Accounts (2026)",
+      "url": "https://www.cpapracticeadvisor.com/2026/10/13/dell-250-donation-may-be-in-your-childs-new-trump-account/191544/",
+      "kind": "case"
+    },
+    "michael-dell-msdf-990pf-2024": {
+      "label": "Michael & Susan Dell Foundation: Form 990-PF for 2024 (2025)",
+      "url": "https://www.dell.org/wp-content/uploads/2025/11/2024-Form-990-PF-for-Michael-and-Susan-Dell-Foundation.pdf",
+      "kind": "case"
+    },
+    "michael-dell-dell-fy25-impact": {
+      "label": "Dell Technologies: FY25 Impact By The Numbers (2025)",
+      "url": "https://www.delltechnologies.com/asset/en-us/solutions/business-solutions/briefs-summaries/dell-technologies-fy25-impact-by-the-numbers.pdf",
+      "kind": "case"
+    },
+    "walmart-histphil-walton-giving": {
+      "label": "HistPhil: Walmart heirs’ political contributions (2019)",
+      "url": "https://histphil.org/2019/06/03/walmart-heirs-shift-from-red-to-purple-the-evolving-political-contributions-of-the-nations-richest-family/",
+      "kind": "case"
+    },
+    "walmart-bloomberglaw-cuomo-pac": {
+      "label": "Bloomberg Law: Alice Walton gives $100,000 to Cuomo PAC (2025)",
+      "url": "https://news.bloomberglaw.com/new-york-brief/billionaire-alice-walton-donates-100-000-to-cuomo-pac-correct",
+      "kind": "case"
+    },
+    "walmart-propublica-artbridges": {
+      "label": "ProPublica Nonprofit Explorer: Art Bridges Inc (2025)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/810842855",
+      "kind": "case"
+    },
+    "walmart-newser-medschool": {
+      "label": "Newser: Alice Walton’s biggest donation yet (2024)",
+      "url": "https://www.newser.com/story/357259/worlds-richest-woman-makes-her-biggest-donation-yet.html",
+      "kind": "case"
+    },
+    "steve-ballmer-ap-ballmer-complies": {
+      "label": "AP: Suspended Clippers owner accepts NBA punishment and apologises (2026)",
+      "url": "https://www.cp24.com/news/sports/2026/09/14/suspended-clippers-owner-backs-down-on-nba-punishment-apologizes-as-team-pays-us30-million-fine/",
+      "kind": "case"
+    },
+    "steve-ballmer-espn-aspiration-suit": {
+      "label": "ESPN: Ballmer aims to dismiss fraud suit over Kawhi Leonard's pay (2026)",
+      "url": "https://abc7.com/post/clippers-ballmer-aims-dismiss-fraud-suit-kawhi-leonards-pay/18415802/",
+      "kind": "case"
+    },
+    "steve-ballmer-fos-ballmer-counsel": {
+      "label": "Front Office Sports: Ballmer changes lawyers after NBA ruling (2026)",
+      "url": "https://frontofficesports.com/article/steve-ballmer-lawyer-no-longer-representing-witch-hunt/",
+      "kind": "case"
+    },
+    "steve-ballmer-nbc-doj-clippers": {
+      "label": "NBC Sports: Justice Department opens investigation into Clippers (2026)",
+      "url": "https://nbcsports.com/nba/news/justice-department-opens-federal-investigation-into-clippers-dealings-with-kawhi-leonard",
+      "kind": "case"
+    },
+    "steve-ballmer-dc-circuit-microsoft": {
+      "label": "D.C. Circuit: United States v. Microsoft, 253 F.3d 34 (2001)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F3/253/253.F3d.34.00-5213.00-5212.html",
+      "kind": "case"
+    },
+    "steve-ballmer-ec-microsoft-2013": {
+      "label": "European Commission: Microsoft fined €561m over browser choice (2013)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_13_196/IP_13_196_EN.pdf",
+      "kind": "case"
+    },
+    "steve-ballmer-ap-i1098": {
+      "label": "AP: Proposed wealth tax puts Microsoft icons at odds (2010)",
+      "url": "https://www.nbcnews.com/id/wbna39465546",
+      "kind": "case"
+    },
+    "steve-ballmer-herald-i594": {
+      "label": "HeraldNet: Billionaires contribute big bucks to Initiative 594 (2014)",
+      "url": "https://www.heraldnet.com/news/billionaires-contribute-big-bucks-to-initiative-594/",
+      "kind": "case"
+    },
+    "steve-ballmer-cbs-60-minutes": {
+      "label": "CBS News: How Steve and Connie Ballmer give away billions (2024)",
+      "url": "https://www.cbsnews.com/news/how-steve-and-connie-ballmer-give-away-billions-60-minutes",
+      "kind": "case"
+    },
+    "steve-ballmer-fortune-ballmer-2026": {
+      "label": "Fortune: The Ballmers split their philanthropy into three (2026)",
+      "url": "https://fortune.com/2026/08/11/steve-and-connie-ballmer-are-splitting-their-8-billion-philanthropy-into-three-so-the-people-closest-to-the-work-can-decide-how-the-money-is-spent/",
       "kind": "case"
     },
     "carlos-slim-helu-and-family-reuters-preponderance-2021": {
@@ -786,11 +1601,6 @@
     "koch-epa-port-arthur": {
       "label": "EPA: Flint Hills Resources Port Arthur Clean Air Act settlement (2014)",
       "url": "https://19january2025snapshot.epa.gov/enforcement/flint-hills-resources-port-arthur-clean-air-act-settlement",
-      "kind": "case"
-    },
-    "koch-opensecrets-afp-action": {
-      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
-      "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
       "kind": "case"
     },
     "koch-chronicle-nyu-langone": {
@@ -1163,6 +1973,11 @@
       "url": "https://www.brynmawr.edu/news/10-million-gift-jacquie-mars-61-expands-access-bryn-mawr",
       "kind": "case"
     },
+    "walmart-propublica-builders": {
+      "label": "ProPublica Nonprofit Explorer: Builders Initiative (2024)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/821503941",
+      "kind": "case"
+    },
     "li-ka-shing-ap-panama-ruling": {
       "label": "AP (via NBC News): Panama court rules CK Hutchison port concession unconstitutional (2026)",
       "url": "https://www.nbcnews.com/world/asia/hong-kong-company-concession-panama-canal-ports-ruled-unconstitutional-rcna256664",
@@ -1308,11 +2123,6 @@
       "url": "https://www.retailgazette.co.uk/blog/2026/07/italian-police-search-chanel-offices-in-luxury-labour-probe/",
       "kind": "case"
     },
-    "chanel-euronews-italy-raids": {
-      "label": "Euronews: Italian police raid luxury brands in labour abuse probe (2026)",
-      "url": "https://www.euronews.com/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
-      "kind": "case"
-    },
     "chanel-chanel-slb-2024": {
       "label": "Chanel: Sustainability-Linked Bond Update 2024 (2024)",
       "url": "https://www.chanel.cn/puls-img/1758023141952-chanel-sustainability-linked-bond-update-2024.pdf",
@@ -1349,28 +2159,45 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Tesla’s electric cars cut tailpipe emissions; rockets and xAI data centres add energy use. Not assessed in detail."
+          "basis": "documented",
+          "reason": "Tesla makes cars, a material footprint under the rubric; rockets and xAI data centres add energy use. xAI is sued under the Clean Air Act, accused of installing gas turbines without permits at a Mississippi data-centre plant in 2025; a judge refused to dismiss the case, which is pending. Emissions avoided by Tesla’s electric cars are not independently assessed here.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 4,
           "basis": "documented",
-          "reason": "Largest US political donor of 2024 ($291.5 million) and of the 2026 midterms (about $445 million). Led the DOGE cost-cutting effort in 2025, which targeted agencies holding contracts with his companies; those companies received at least $38 billion in public contracts, loans, subsidies and tax credits."
+          "reason": "Largest US political donor of 2024 (more than $290 million) and of the 2025–26 midterm cycle ($445.5 million in outside spending, per OpenSecrets). Led the DOGE cost-cutting effort in 2025, which targeted agencies holding contracts with his companies; those companies received at least $38 billion in public contracts, loans, subsidies and tax credits. Settlements of two voter suits against him and America PAC over the 2024 $1 million giveaway await court approval; no liability was found.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Labour disputes at his companies and content moderation on X are widely reported; not yet sourced here."
+          "basis": "documented",
+          "reason": "Company-level problems are documented: a jury found Tesla partly responsible for a fatal Autopilot crash (2025, upheld 2026); California is trying a race-discrimination case over Tesla’s Fremont plant, which Tesla denies; the EU fined X €120 million in 2025 under the Digital Services Act and is investigating sexualised Grok images on X. None is a personal finding.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 3,
           "basis": "documented",
-          "reason": "Personal civil liability: a San Francisco jury found him liable in March 2026 for defrauding Twitter shareholders. Charged by the SEC with securities fraud in 2018 over Tesla tweets; settled a second SEC case in 2026 ($1.5 million) without admitting wrongdoing."
+          "reason": "Personal civil liability: a San Francisco jury found him liable in March 2026 for misleading Twitter shareholders; the judge later set aside one of the two statements and the judgment is on appeal. Charged by the SEC with securities fraud in 2018 over Tesla tweets, he paid a $20 million personal penalty without admitting or denying the charges; settled a second SEC case in 2026 ($1.5 million), on the same terms. Won a 2023 investor trial and, in 2025, the appeal restoring his Tesla pay package.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
           "value": 3,
           "basis": "documented",
-          "reason": "The January 2026 Epstein files include 2012–2013 emails in which he discussed visiting Epstein’s island, which contradicts his earlier statement that he refused. He says the emails are misinterpreted. No authority has accused him of a crime. Millions of identified pages remain unreleased."
+          "reason": "Named defendant in pending matters: his appeal of the Twitter shareholder judgment, and the giveaway settlements awaiting court approval. The January 2026 Epstein files include 2012–2013 emails in which he discussed visiting Epstein’s island, at odds with his earlier statement that he declined invitations. He says some emails could be misinterpreted. No authority has accused him of a crime. A congressman says about half of the six million identified pages were not released.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
@@ -1386,7 +2213,25 @@
         "reuters-musk-sec-2026",
         "bt-musk-sec",
         "time-musk-epstein",
-        "newsweek-gates-epstein"
+        "newsweek-gates-epstein",
+        "elon-musk-tesla-proxy-2026",
+        "elon-musk-afp-twitter-verdict",
+        "elon-musk-sec-2018-settlement",
+        "elon-musk-nbc-funding-secured",
+        "elon-musk-cnbc-tornetta",
+        "elon-musk-cnn-fec-2024",
+        "elon-musk-washex-top-donors",
+        "elon-musk-bgov-america-pac",
+        "elon-musk-ij-crd-trial",
+        "elon-musk-electrek-crd-trial",
+        "elon-musk-reuters-benavides",
+        "elon-musk-dmv-autopilot",
+        "elon-musk-hrdive-nlrb",
+        "elon-musk-ec-x-dsa-fine",
+        "elon-musk-ec-grok-investigation",
+        "elon-musk-wlbt-naacp-xai",
+        "elon-musk-tnw-xai-dismissal",
+        "elon-musk-bloomberglinea-foundation"
       ]
     },
     {
@@ -1403,37 +2248,79 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
+          "basis": "documented",
+          "reason": "Data centres and electronics supply chains: an indirect footprint. Google reports that its electricity use rose 37% in 2025, its largest increase, and that supply-chain emissions, about 80% of its total, rose 25% while operational emissions fell 2%. It reports matching all its electricity use with renewable purchases and says its climate goals are getting harder to reach.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Page holds 27.4% of Alphabet's voting power and Sergey Brin 25.3%, together a majority of votes in YouTube's parent. In 2025 YouTube and Alphabet agreed to pay $24.5 million to settle Donald Trump's suit over his account suspension, $22 million of it to the trust funding the White House ballroom; CBS reported that Google also gave to the ballroom, amount not stated. Alphabet's federal lobbying was $4.13 million in early 2026. This research found no personal political donations by Page.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising (2025)."
+          "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising technology (2025), both under appeal, and a jury found its Android app store an illegal monopoly, upheld on appeal in 2025. EU courts upheld fines for favouring its own services. Google agreed in 2025 to pay Texas $1.375 billion over alleged tracking of location and biometric data. These are company acts.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company-level court findings; no personal case."
+          "reason": "Company-level court findings: US monopoly rulings in search, ad tech and app distribution; EU fines of €2.4 billion (Shopping) and €4.1 billion (Android) upheld as final; a €2.95 billion EU ad tech fine under appeal; a €1.49 billion AdSense fine annulled in 2024. Settlements of $1.375 billion (Texas) and $700 million (Play Store). Page was named in shareholder suits settled in 2020 and 2025 with reforms paid by Alphabet; no personal penalty or finding.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending at company level: Google's appeal and the DOJ's cross-appeal in the search case, Google's announced appeals in the US ad tech case and against the €2.95 billion EU ad tech fine, and the Commission's appeal over AdSense. In May 2023 the US Virgin Islands asked a court to let it serve Page through Alphabet with a subpoena for documents in its Epstein-related suit against JPMorgan; the report alleged no wrongdoing by him. No pending case names him.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "Page's family foundation, the Carl Victor Page Memorial Foundation, reported 2024 grants including $235 million to a donor-advised fund, whose onward grants are not public, $10 million to Climate Breakthrough and $6 million to Windward Fund.",
       "status_note": "",
       "sources": [
         "forbes",
         "google",
-        "ap-meta-ftc"
+        "ap-meta-ftc",
+        "larry-page-bloomberg-search-appeal",
+        "larry-page-silicon-doj-appeal",
+        "larry-page-doj-adtech-liability",
+        "larry-page-reuters-adtech-remedies",
+        "larry-page-ap-epic-settlement",
+        "larry-page-pymnts-play-settlement",
+        "larry-page-euronews-shopping",
+        "larry-page-euronews-android",
+        "larry-page-gazette-eu-adtech",
+        "larry-page-rte-adsense",
+        "larry-page-reuters-adsense-appeal",
+        "larry-page-kron-texas",
+        "larry-page-techmonitor-texas",
+        "larry-page-reuters-derivative-2025",
+        "larry-page-bloomberglaw-derivative-judgment",
+        "larry-page-cnbc-derivative-2020",
+        "larry-page-nbc-derivative-2020",
+        "larry-page-foxbusiness-usvi",
+        "larry-page-cbs-youtube-trump",
+        "larry-page-fortune-lobbying",
+        "larry-page-sec-proxy-2026",
+        "larry-page-esgtoday-env-2026",
+        "larry-page-npq-foundation",
+        "larry-page-causeiq-foundation"
       ]
     },
     {
@@ -1450,37 +2337,76 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
+          "basis": "documented",
+          "reason": "Technology and platforms: data-centre electricity and electronics supply chains. Google reports that its electricity use rose 37% in 2025, its largest increase, and that supply-chain emissions, about 80% of its total, rose 25% while scope 1 and 2 emissions fell 2%. It reports matching all its electricity use with renewable purchases.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 3,
+          "basis": "documented",
+          "reason": "By mid-August 2026 had given $102 million that year to a committee backing ballot measures that could block California's proposed billionaire tax, per state data reported by the Los Angeles Times; AP put his share of its $333 million at about 30%. Holds 25.3% of Alphabet's voting power. YouTube directed $22 million of a 2025 Trump settlement to the White House ballroom trust. No documented political favour.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising (2025)."
+          "reason": "US courts found that Google illegally maintained monopolies in search (2024), now under appeal, and online advertising (2025), which Google plans to appeal, and a jury found against its Play Store in Epic's case, upheld on appeal in 2025. EU courts confirmed fines over Shopping (2024) and Android (2026). Google agreed in 2025 to pay Texas $1.375 billion over alleged tracking. These are company acts.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company-level court findings; no personal case."
+          "reason": "Company-level court findings: US monopoly rulings in search and ad tech, the Epic verdict, and EU fines of €2.4 billion (Shopping) and €4.1 billion (Android) now final. Brin was named in shareholder suits settled in 2020 and 2025 with reforms paid by Alphabet, and personally sued in 2024 over his plane's 2023 crash, one suit settled in 2025 on unreported terms. No personal penalty or finding against him.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Epstein files released in January 2026 show Brin visited Epstein's island, on an undated occasion, and corresponded with Ghislaine Maxwell in 2003; he did not respond to the New York Times. A widow's 2024 wrongful-death suit against him was last reported pending in September 2024. At company level, the US search appeals, a planned ad tech appeal, EU ad tech and DMA fines and a $2.1 billion damages award are pending.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "Forbes reported in 2025 that Brin had spent about $1.75 billion on Parkinson's research and made nearly $900 million in grants in 2024, out of $3.9 billion in lifetime giving; over $1 billion in stock went to a 501(c)(4) whose spending is not stated.",
       "status_note": "",
       "sources": [
         "forbes",
         "google",
-        "ap-meta-ftc"
+        "ap-meta-ftc",
+        "sergey-brin-reuters-search-appeal",
+        "sergey-brin-reuters-doj-appeal",
+        "sergey-brin-alphabet-10q-q3-2026",
+        "larry-page-reuters-adtech-remedies",
+        "sergey-brin-curia-android",
+        "larry-page-euronews-shopping",
+        "larry-page-kron-texas",
+        "larry-page-reuters-derivative-2025",
+        "sergey-brin-bloomberg-derivative-2019",
+        "larry-page-cnbc-derivative-2020",
+        "sergey-brin-bloomberg-plane-suit",
+        "sergey-brin-bi-plane-suit",
+        "sergey-brin-flying-settlement",
+        "sergey-brin-nyt-epstein",
+        "sergey-brin-latimes-102m",
+        "sergey-brin-ap-prop40",
+        "sergey-brin-fortune-20m",
+        "larry-page-cbs-youtube-trump",
+        "larry-page-sec-proxy-2026",
+        "larry-page-esgtoday-env-2026",
+        "sergey-brin-forbes-philanthropy"
       ]
     },
     {
@@ -1497,37 +2423,69 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mass retail and logistics: freight, packaging and supplier emissions."
+          "basis": "documented",
+          "reason": "Mass retail, logistics and data centres. Amazon's own figures show absolute emissions up 16% in 2025, with Scope 3 up 20% and Scope 2 electricity up 34%, which Amazon attributes to data-centre use and electrification; its net-zero target is 2040.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Owns a major national newspaper; Amazon’s lobbying not assessed here."
+          "basis": "documented",
+          "reason": "Owns The Washington Post, and in 2025 personally set its opinion section to defend personal liberties and free markets. Amazon's lobbying not assessed here.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
           "value": 2,
           "basis": "documented",
-          "reason": "Amazon paid $2.5 billion in 2025 to settle FTC charges that it enrolled customers in Prime without clear consent and made cancelling hard, without admitting wrongdoing."
+          "reason": "Amazon paid $2.5 billion in 2025 to settle FTC charges that it enrolled customers in Prime without clear consent and made cancelling hard, without admitting wrongdoing. In 2026 it agreed to settle a class action alleging unpaid return refunds (preliminarily approved), and in 2024 it settled OSHA ergonomics cases from warehouse inspections.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal case."
+          "reason": "Company settlement above $1 billion (FTC Prime case, 2025); no personal case. Italy's 2021 abuse-of-dominance fine was cut to €752.4 million in 2026, and Amazon said it would appeal. Luxembourg's €746 million GDPR fine was annulled in 2026 on procedure, with the main breaches confirmed. The European Commission lost its state-aid case against Amazon in 2023.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
           "value": 2,
           "basis": "documented",
-          "reason": "The FTC’s antitrust case against Amazon, joined by states, is due for trial in 2027."
+          "reason": "The FTC's antitrust case against Amazon, joined by states, is due for trial on 29 March 2027. The FTC and 22 states also sued in August 2026 over alleged hidden ad-auction surcharges, and California's price case is set for trial in 2027. All are company-level; none names Bezos as a defendant.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The Bezos Day 1 Families Fund has donated more than $850 million in homelessness grants since 2018. Fortune reports the Bezos Earth Fund had deployed about $2.4 billion of a $10 billion climate pledge by 2026, without saying how much was paid out.",
       "status_note": "",
       "sources": [
         "forbes",
         "pbs-amazon-ftc",
-        "amazon"
+        "amazon",
+        "jeff-bezos-cbs-prime-refunds",
+        "jeff-bezos-ftc-ecommerce-case",
+        "jeff-bezos-mlex-trial-dates",
+        "jeff-bezos-pymnts-delay-rejected",
+        "jeff-bezos-ftc-ads-complaint",
+        "jeff-bezos-ca-ag-price-case",
+        "jeff-bezos-reuters-italy-fine",
+        "jeff-bezos-paperjam-cnpd",
+        "jeff-bezos-freevacy-cnpd",
+        "jeff-bezos-gazette-state-aid",
+        "jeff-bezos-returns-motion",
+        "jeff-bezos-classaction-returns",
+        "jeff-bezos-osha-ergonomics",
+        "jeff-bezos-nbc-wapo-opinion",
+        "jeff-bezos-esgdive-emissions",
+        "jeff-bezos-fortune-day1",
+        "jeff-bezos-fortune-earth-fund"
       ]
     },
     {
@@ -1544,37 +2502,74 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
+          "basis": "documented",
+          "reason": "Indirect footprint through data centres. Louisiana regulators approved three gas plants in 2025, about 2.3 gigawatts, to power Meta's largest data centre; Meta says it will match the site's use with clean energy. No major environmental incident found.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Controls platforms central to political communication worldwide."
+          "basis": "documented",
+          "reason": "Controls platforms central to political communication worldwide. Meta put $65 million into super PACs for 2026 state races and paid $25 million in 2025 to settle Donald Trump's suit over his account suspension, $22 million of it for his future library. Zuckerberg was named in 2026 to a presidential science and technology council, which is advisory only.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
-          "value": 2,
+          "value": 3,
           "basis": "documented",
-          "reason": "Facebook paid $5 billion in 2019 to settle FTC privacy charges. In November 2025 a judge rejected the FTC’s case that Meta holds a monopoly today."
+          "reason": "Meta agreed in 2026 to pay up to about $18.6 billion to 52 attorneys general over teen mental health, about $5.3 billion of it conditional on rivals; no admission was reported. Juries in Los Angeles and New Mexico found it liable for harm to young users in 2026; Meta is challenging both. Facebook paid $5 billion in 2019 to settle FTC privacy charges. In November 2025 a judge rejected the FTC's case that Meta holds a monopoly today; the FTC has appealed.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal criminal case."
+          "reason": "Company outcomes above $1 billion: the $5 billion FTC penalty (2019), a $1.4 billion Texas biometric settlement (2024), the 2026 youth settlement and a $25 billion New Mexico penalty (2026) Meta will appeal; EU fines include €1.2 billion and €798 million. Zuckerberg settled a shareholder suit for $190 million paid by insurers, without admission. No personal criminal case or penalty.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Zuckerberg is a named defendant in a District of Columbia suit seeking to hold him personally liable over Cambridge Analytica-era privacy failures; a judge refused to dismiss it in April 2026. These are allegations. At company level the FTC is appealing its monopoly loss, Meta is challenging the New Mexico judgments and the Los Angeles verdict, and securities class actions continue.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The Chan Zuckerberg Initiative Foundation, with Zuckerberg as trustee, disbursed about $389 million in 2024 and $216 million in 2023, per its IRS filings.",
       "status_note": "",
       "sources": [
         "forbes",
         "meta",
-        "ap-meta-ftc"
+        "ap-meta-ftc",
+        "mark-zuckerberg-ftc-2019-order",
+        "mark-zuckerberg-ftc-appeal-2026",
+        "mark-zuckerberg-meta-10q-2026q3",
+        "mark-zuckerberg-reuters-derivative",
+        "mark-zuckerberg-scottscott-derivative",
+        "mark-zuckerberg-politico-dc-suit",
+        "mark-zuckerberg-mlex-dc-ruling",
+        "mark-zuckerberg-reuters-mdl-zuckerberg",
+        "mark-zuckerberg-ap-multistate-settlement",
+        "mark-zuckerberg-ap-nm-verdict",
+        "mark-zuckerberg-sourcenm-25b",
+        "mark-zuckerberg-ap-kgm-verdict",
+        "mark-zuckerberg-ec-marketplace",
+        "mark-zuckerberg-ap-texas-biometric",
+        "mark-zuckerberg-nyt-superpacs",
+        "mark-zuckerberg-ap-trump-settlement",
+        "mark-zuckerberg-afp-pcast",
+        "mark-zuckerberg-bloomberg-entergy",
+        "mark-zuckerberg-propublica-czi"
       ]
     },
     {
@@ -1728,33 +2723,71 @@
           "reason": "Luxury goods: leather, textiles, metals and global retail."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "LVMH owns the national dailies Le Parisien and Les Échos and in 2024 took over the weekly Paris Match. In 2022 Arnault corrected by letter, the same day, a statement he made to a Senate inquiry into media concentration about LVMH's offer for Paris Match. Personal political donations and LVMH's lobbying were not assessed here.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 2,
           "basis": "documented",
-          "reason": "In 2024 a Milan court placed a Dior manufacturing unit under administration over subcontractors that exploited workers; one bag cost €53 to supply and sold for €2,600. In 2025 the Italian competition authority closed its probe with Dior committing €2 million to victims, without a finding against Dior."
+          "reason": "In 2024 a Milan court placed a Dior manufacturing unit under administration over labour exploitation at subcontractors; one bag cost €53 to supply and sold for €2,600. In 2025 the Italian competition authority closed its probe with Dior committing €2 million to victims, without a finding against Dior. In 2025 the same court found Loro Piana had negligently facilitated exploitation at subcontractors. Both administrations were lifted early.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Court-imposed administration of a subsidiary; Dior itself was not criminally charged."
+          "reason": "Court-imposed administration of two subsidiaries, Manufactures Dior (2024) and Loro Piana (2025); neither was under criminal investigation. In 2021 LVMH agreed to a €10 million fine under a prosecutor agreement over possible influence peddling, without a declaration of guilt; an ex-spy chief who consulted for LVMH was convicted in 2025 and said he would appeal. In 2013 the AMF fined LVMH €8 million over its Hermès stake-building. Arnault has not been personally charged in these matters.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Bernard Arnault and LVMH are named defendants in a pending Paris civil suit by Hermès heir Nicolas Puech, who claims about €14 billion over shares he says were diverted to LVMH; LVMH and its shareholder deny it. A related criminal investigation has placed Swiss lawyers under formal investigation; no charge against LVMH or Arnault is reported. A privacy suit by François Ruffin against LVMH is pending, and Givenchy Italia and Bulgari have been drawn into a Milan labour probe without charges.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The Arnault family gave €10 million to the food charity Restos du Cœur in 2023. LVMH reports halving Scope 1 and 2 emissions from energy against 2019 by 2025; Scope 3, 96% of its footprint, fell 13% from 2023 (company figures).",
       "status_note": "",
       "sources": [
         "forbes",
         "reuters-dior",
-        "nss-dior"
+        "nss-dior",
+        "bernard-arnault-and-family-afp-dior-lifted",
+        "bernard-arnault-and-family-ilsole-agcm",
+        "bernard-arnault-and-family-irishtimes-loropiana",
+        "bernard-arnault-and-family-fu-loropiana-lifted",
+        "bernard-arnault-and-family-parquet-cjip",
+        "bernard-arnault-and-family-afp-arnault-witness",
+        "bernard-arnault-and-family-afp-squarcini-verdict",
+        "bernard-arnault-and-family-fu-ruffin-civil",
+        "bernard-arnault-and-family-cdj-ruffin",
+        "bernard-arnault-and-family-fu-amf-2013",
+        "bernard-arnault-and-family-reuters-amf-noappeal",
+        "bernard-arnault-and-family-bloomberg-puech",
+        "bernard-arnault-and-family-afp-puech",
+        "bernard-arnault-and-family-afp-hermes-charges",
+        "bernard-arnault-and-family-reuters-puech-2002",
+        "bernard-arnault-and-family-cbnews-parismatch",
+        "bernard-arnault-and-family-publicsenat-arnault",
+        "bernard-arnault-and-family-afp-restos-2023",
+        "bernard-arnault-and-family-afp-restos-2024",
+        "bernard-arnault-and-family-lvmh-climate",
+        "bernard-arnault-and-family-an-mecenat-2018",
+        "bernard-arnault-and-family-afp-milan-13brands",
+        "bernard-arnault-and-family-euronews-raids-2026",
+        "bernard-arnault-and-family-lvmh-maisons"
       ]
     },
     {
@@ -2149,37 +3182,71 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mass retail and logistics: freight, packaging and supplier emissions."
+          "basis": "documented",
+          "reason": "Mass retail and logistics. In December 2024 Walmart said it would likely miss its 2025 and 2030 targets for emissions from its own operations, which rose in 2023 with transport and ageing refrigeration and stood 19.3% below 2015.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Major donor: Rob Walton gave $17.6 million in the 2024 election cycle, mainly to Republicans (OpenSecrets data), and $5 million to the Koch network’s AFP Action in 2023. Walmart itself reported $7.84 million in federal lobbying in 2025, which is ordinary corporate lobbying.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability. Officials also noted it filled fewer opioid prescriptions than CVS or Walgreens."
+          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability; officials noted it filled fewer opioid prescriptions than CVS or Walgreens. It settled the federal opioid suit in 2026 and FTC charges over delivery-driver pay the same year, without admitting liability.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal case."
+          "reason": "Company settlement above $1 billion (opioids, 2022), plus smaller settlements and a 2019 guilty plea by a Brazilian subsidiary over bribery controls. Rob Walton was a named defendant in a shareholder suit over opioid oversight, settled in 2024 for $123 million paid by insurers, with no admission and no personal penalty.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending company-level matters: opioid cases in the US and Canada, equal-pay claims by about 77,000 Asda store staff that Walmart partly indemnifies, and antitrust proceedings in Mexico and India. The federal opioid suit was settled in 2026. The opioid shareholder suit naming Rob Walton was settled in 2024; no pending personal matter found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The Rob and Melani Walton Foundation, which he leads, disbursed about $108.5 million in 2024 and $79.7 million in 2023 (IRS filings).",
       "status_note": "",
       "sources": [
         "forbes",
         "ap-walmart-opioids",
-        "oxfam"
+        "walmart-reuters-doj-opioid-settlement",
+        "walmart-gray-doj-opioid-settlement",
+        "walmart-wmt-10q-2026q2",
+        "walmart-ftc-spark",
+        "walmart-ftc-money-transfer",
+        "walmart-cfpb-branch",
+        "walmart-ap-fcpa-2019",
+        "walmart-wmt-8k-fcpa",
+        "walmart-wmt-public-policy",
+        "walmart-reuters-climate-targets",
+        "walmart-trellis-climate-targets",
+        "walmart-deseret-nfl-donors",
+        "walmart-opensecrets-afp-2023-gifts",
+        "walmart-sec-derivative-notice",
+        "walmart-ap-derivative",
+        "walmart-berman-derivative-approval",
+        "walmart-propublica-rmwf"
       ]
     },
     {
@@ -2196,37 +3263,67 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mass retail and logistics: freight, packaging and supplier emissions."
+          "basis": "documented",
+          "reason": "Mass retail and logistics. In December 2024 Walmart said it would likely miss its 2025 and 2030 targets for emissions from its own operations, which rose in 2023 with transport and ageing refrigeration and stood 19.3% below 2015.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Major donor: Jim Walton gave $5 million to the Koch network’s AFP Action super PAC in 2023 (OpenSecrets), after a $143,000 gift to the National Republican Senatorial Committee in 2020. Walmart itself reported $7.84 million in federal lobbying in 2025, which is ordinary corporate lobbying.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability."
+          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability; officials noted it filled fewer opioid prescriptions than CVS or Walgreens. It settled the federal opioid suit in 2026 and FTC charges over delivery-driver pay the same year, without admitting liability.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal case."
+          "reason": "Company settlement above $1 billion (opioids, 2022), plus smaller settlements and a 2019 guilty plea by a Brazilian subsidiary over bribery controls; no personal case found.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending company-level matters: opioid cases in the US and Canada, equal-pay claims by about 77,000 Asda store staff that Walmart partly indemnifies, and antitrust proceedings in Mexico and India. The federal opioid suit was settled in 2026. No pending personal matter found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "Town Branch Foundation, which he leads, disbursed about $34.1 million in 2024 and $43.1 million in 2023 (IRS filings).",
       "status_note": "",
       "sources": [
         "forbes",
         "ap-walmart-opioids",
-        "oxfam"
+        "walmart-reuters-doj-opioid-settlement",
+        "walmart-gray-doj-opioid-settlement",
+        "walmart-wmt-10q-2026q2",
+        "walmart-ftc-spark",
+        "walmart-ftc-money-transfer",
+        "walmart-cfpb-branch",
+        "walmart-ap-fcpa-2019",
+        "walmart-wmt-8k-fcpa",
+        "walmart-wmt-public-policy",
+        "walmart-reuters-climate-targets",
+        "walmart-trellis-climate-targets",
+        "walmart-opensecrets-afp-2023-gifts",
+        "walmart-opensecrets-afp-2024",
+        "walmart-nwadg-walton-giving",
+        "walmart-propublica-townbranch"
       ]
     },
     {
@@ -2243,36 +3340,67 @@
       "scores": {
         "ecology": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Technology and platforms: data-centre electricity and electronics supply chains."
+          "basis": "documented",
+          "reason": "Dell Technologies makes computers, servers and storage, mostly through suppliers, so its footprint is indirect: electronics supply chains and the electricity its products use. It reports a cut of about a fifth in its own operational emissions between fiscal 2023 and 2025, but its value-chain emissions, about 32.6 million tonnes a year, are far larger. No major environmental incident was found.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Michael Dell sits on the President’s Council of Advisors on Science and Technology, as he did under President Bush, and he and Susan Dell announced their $6.25 billion Trump Accounts pledge at the White House with President Trump. Dell’s unit won a $9.7 billion Pentagon software contract in 2026 weeks after the President praised the company; officials say it was competitive, and no political favour has been established.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Dell’s Australian arm paid a A$10 million court penalty in 2023 after admitting it overstated monitor discounts, and a New York court found in 2008 that Dell used deceptive financing and warranty advertising. Former employees allege in a pending 2026 suit that Dell mismanaged its 401(k) plan. Supplier working conditions were not examined in this research.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 3,
           "basis": "documented",
-          "reason": "Paid a personal $4 million penalty in 2010 to settle SEC charges that Dell hid large payments from Intel that let it meet earnings targets, without admitting or denying them."
+          "reason": "Paid a personal $4 million penalty and accepted an injunction in 2010 to settle SEC charges that Dell failed to disclose large Intel payments that helped it meet earnings targets, without admitting or denying them. In 2022 Dell Technologies agreed to pay $1 billion to settle a suit over a 2018 share swap that named him as a controlling shareholder, with no reported admission. Company matters include a 2023 Australian consumer penalty and a 2008 New York court finding of deceptive advertising.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A proposed class action filed in 2026 alleges that Dell Technologies mismanaged its employees’ 401(k) plan; it is pending at company level and no ruling has been made. No pending case naming Michael Dell personally was found. Euronews said the timing of a 2026 Pentagon contract was likely to draw ethics scrutiny; no investigation has been reported.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The Michael & Susan Dell Foundation paid $163.8 million in grants in 2024. AL.com reported that $250 deposits from the Dells’ $6.25 billion Trump Accounts pledge had reached eligible children’s accounts by October 2026; no total paid has been reported.",
       "status_note": "",
       "sources": [
         "forbes",
-        "sec-dell"
+        "sec-dell",
+        "michael-dell-reuters-classv",
+        "michael-dell-dclb-classv-fee",
+        "michael-dell-cooley-appraisal",
+        "michael-dell-accc-2023",
+        "michael-dell-nbc-nyag-2008",
+        "michael-dell-olshan-nyag-2009",
+        "michael-dell-americanbazaar-erisa",
+        "michael-dell-ksf-erisa-amended",
+        "michael-dell-aip-pcast",
+        "michael-dell-euronews-pentagon",
+        "michael-dell-nbc-trump-accounts",
+        "michael-dell-alcom-deposits",
+        "michael-dell-msdf-990pf-2024",
+        "michael-dell-dell-fy25-impact"
       ]
     },
     {
@@ -2289,37 +3417,69 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mass retail and logistics: freight, packaging and supplier emissions."
+          "basis": "documented",
+          "reason": "Mass retail and logistics. In December 2024 Walmart said it would likely miss its 2025 and 2030 targets for emissions from its own operations, which rose in 2023 with transport and ageing refrigeration and stood 19.3% below 2015.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Major donor over two decades: $2.6 million to a pro-Bush group in 2004 and $350,000 to a Texas governor’s race in 2014; her federal giving went almost solely to Democrats from late 2013 to 2020. A 2024 report named her among donors to the Koch network’s AFP Action, amount undisclosed, and in 2025 she gave $100,000 to a pro-Cuomo super PAC. Walmart itself reported $7.84 million in federal lobbying in 2025.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability."
+          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability; officials noted it filled fewer opioid prescriptions than CVS or Walgreens. It settled the federal opioid suit in 2026 and FTC charges over delivery-driver pay the same year, without admitting liability.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal case."
+          "reason": "Company settlement above $1 billion (opioids, 2022), plus smaller settlements and a 2019 guilty plea by a Brazilian subsidiary over bribery controls; no personal case found.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending company-level matters: opioid cases in the US and Canada, equal-pay claims by about 77,000 Asda store staff that Walmart partly indemnifies, and antitrust proceedings in Mexico and India. The federal opioid suit was settled in 2026. No pending personal matter found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "Large art philanthropy.",
+      "counterweights": "Large art and health philanthropy: her Art Bridges foundation disbursed about $389.5 million in the year to September 2023, including $249 million reported for the Alice L. Walton School of Medicine.",
       "status_note": "",
       "sources": [
         "forbes",
         "ap-walmart-opioids",
-        "oxfam"
+        "walmart-reuters-doj-opioid-settlement",
+        "walmart-gray-doj-opioid-settlement",
+        "walmart-wmt-10q-2026q2",
+        "walmart-ftc-spark",
+        "walmart-ftc-money-transfer",
+        "walmart-cfpb-branch",
+        "walmart-ap-fcpa-2019",
+        "walmart-wmt-8k-fcpa",
+        "walmart-wmt-public-policy",
+        "walmart-reuters-climate-targets",
+        "walmart-trellis-climate-targets",
+        "walmart-histphil-walton-giving",
+        "walmart-nwadg-walton-giving",
+        "walmart-opensecrets-afp-2024",
+        "walmart-bloomberglaw-cuomo-pac",
+        "walmart-propublica-artbridges",
+        "walmart-newser-medschool"
       ]
     },
     {
@@ -2341,32 +3501,56 @@
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Donations reported in his name to Washington ballot campaigns: $100,000 against a 2010 income tax on high earners and $1 million in 2014 for gun background checks. Both are more than ten years old; no larger political spending was established in this check.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Tech-sector concerns such as market power, data and working conditions; not checked for this company."
+          "value": 3,
+          "basis": "documented",
+          "reason": "In 2001, while Ballmer was Microsoft's chief executive, a US appeals court upheld in part the finding that Microsoft illegally maintained a monopoly in PC operating systems; in 2013 the European Commission fined it €561 million for breaching browser-choice commitments. These are company findings, more than ten years old.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 1,
+          "value": 2,
           "basis": "documented",
-          "reason": "In September 2026 the NBA suspended him for one year and fined the Clippers $30 million for salary-cap circumvention involving Kawhi Leonard. This is league discipline, not a court finding."
+          "reason": "In September 2026 the NBA suspended him for one year and fined the Clippers $30 million for salary-cap circumvention involving Kawhi Leonard; he later said the team would comply and had paid the fine. This is private league discipline, not a court finding. Company level: a 2001 US court finding that Microsoft illegally maintained a monopoly, and a €561 million EU fine in 2013.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "He is a named defendant in a pending investor fraud suit over the Aspiration deals with Leonard; the claims are allegations, which he denies, and he has moved to dismiss. Federal prosecutors are reported to be investigating the Clippers' endorsement deals for Leonard; no charges have been brought and he is not reported as a target.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "Ballmer Group funds economic mobility and social services.",
+      "counterweights": "Ballmer Group gave away more than $500 million in 2024 on economic mobility for children and families (CBS); Fortune reported in 2026 that the Ballmers had given more than $8 billion over two decades.",
       "status_note": "",
       "sources": [
         "forbes",
         "npr-ballmer",
-        "ballmer"
+        "ballmer",
+        "steve-ballmer-ap-ballmer-complies",
+        "steve-ballmer-espn-aspiration-suit",
+        "steve-ballmer-fos-ballmer-counsel",
+        "steve-ballmer-nbc-doj-clippers",
+        "steve-ballmer-dc-circuit-microsoft",
+        "steve-ballmer-ec-microsoft-2013",
+        "steve-ballmer-ap-i1098",
+        "steve-ballmer-herald-i594",
+        "steve-ballmer-cbs-60-minutes",
+        "steve-ballmer-fortune-ballmer-2026"
       ]
     },
     {
@@ -3078,7 +4262,7 @@
         "koch-doj-refinery-plea",
         "koch-epa-refinery-plea",
         "koch-epa-port-arthur",
-        "koch-opensecrets-afp-action",
+        "walmart-opensecrets-afp-2024",
         "koch-chronicle-nyu-langone",
         "koch-propublica-jkff"
       ],
@@ -3183,7 +4367,7 @@
         "koch-doj-refinery-plea",
         "koch-epa-refinery-plea",
         "koch-epa-port-arthur",
-        "koch-opensecrets-afp-action",
+        "walmart-opensecrets-afp-2024",
         "koch-standtogether-forbes-gift",
         "koch-sludge-c4-gift",
         "koch-popinfo-tax",
@@ -4362,37 +5546,65 @@
       "scores": {
         "ecology": {
           "value": 2,
-          "basis": "estimate",
-          "reason": "Mass retail and logistics: freight, packaging and supplier emissions."
+          "basis": "documented",
+          "reason": "Mass retail and logistics. In December 2024 Walmart said it would likely miss its 2025 and 2030 targets for emissions from its own operations, which rose in 2023 with transport and ageing refrigeration and stood 19.3% below 2015.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Occasional donations: by October 2020 Lukas Walton had given $142,000 to the Democratic National Committee and, that year, $5,600 to Joe Biden’s campaign. Walmart reported $7.84 million in federal lobbying in 2025, which is ordinary corporate lobbying.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 3,
           "basis": "documented",
-          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits, without admitting liability."
+          "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability; officials noted it filled fewer opioid prescriptions than CVS or Walgreens. It settled the federal opioid suit in 2026 and FTC charges over delivery-driver pay the same year, without admitting liability.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 2,
           "basis": "documented",
-          "reason": "Company settlement above $1 billion; no personal case."
+          "reason": "Company settlement above $1 billion (opioids, 2022), plus smaller settlements and a 2019 guilty plea by a Brazilian subsidiary over bribery controls; no personal case found.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending company-level matters: opioid cases in the US and Canada, equal-pay claims by about 77,000 Asda store staff that Walmart partly indemnifies, and antitrust proceedings in Mexico and India. The federal opioid suit was settled in 2026. No pending personal matter found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "Large climate and impact investment.",
+      "counterweights": "Large philanthropy: Builders Initiative, which he chairs, disbursed about $98.9 million in 2024 and $83.9 million in 2023 (IRS filings).",
       "status_note": "",
       "sources": [
         "forbes",
         "ap-walmart-opioids",
-        "oxfam"
+        "walmart-reuters-doj-opioid-settlement",
+        "walmart-gray-doj-opioid-settlement",
+        "walmart-wmt-10q-2026q2",
+        "walmart-ftc-spark",
+        "walmart-ftc-money-transfer",
+        "walmart-cfpb-branch",
+        "walmart-ap-fcpa-2019",
+        "walmart-wmt-8k-fcpa",
+        "walmart-wmt-public-policy",
+        "walmart-reuters-climate-targets",
+        "walmart-trellis-climate-targets",
+        "walmart-nwadg-walton-giving",
+        "walmart-propublica-builders"
       ]
     },
     {
@@ -5089,7 +6301,7 @@
         "chanel-adlc-perfume-2006",
         "chanel-lalibre-perfume-appeal-2012",
         "chanel-retailgazette-italy-probe",
-        "chanel-euronews-italy-raids",
+        "bernard-arnault-and-family-euronews-raids-2026",
         "chanel-chanel-slb-2024",
         "chanel-fondation-chanel-accounts-2024",
         "chanel-fortune-dividends-2024",
@@ -5106,7 +6318,7 @@
           "summary": "In July 2026 Italian police searched Chanel offices in a Milan prosecutors' labour probe; Chanel was one of nine brands ordered to hand over supply-chain documents after police accused two Chinese-owned workshops of exploiting undocumented workers to make bags for luxury suppliers. Chanel is not formally under investigation and says it moved to drop the subcontractor in May.",
           "sources": [
             "chanel-retailgazette-italy-probe",
-            "chanel-euronews-italy-raids"
+            "bernard-arnault-and-family-euronews-raids-2026"
           ]
         },
         {
@@ -5183,7 +6395,7 @@
         "chanel-adlc-perfume-2006",
         "chanel-lalibre-perfume-appeal-2012",
         "chanel-retailgazette-italy-probe",
-        "chanel-euronews-italy-raids",
+        "bernard-arnault-and-family-euronews-raids-2026",
         "chanel-chanel-slb-2024",
         "chanel-fondation-chanel-accounts-2024",
         "chanel-fortune-dividends-2024",
@@ -5200,7 +6412,7 @@
           "summary": "In July 2026 Italian police searched Chanel offices in a Milan prosecutors' labour probe; Chanel was one of nine brands ordered to hand over supply-chain documents after police accused two Chinese-owned workshops of exploiting undocumented workers to make bags for luxury suppliers. Chanel is not formally under investigation and says it moved to drop the subcontractor in May.",
           "sources": [
             "chanel-retailgazette-italy-probe",
-            "chanel-euronews-italy-raids"
+            "bernard-arnault-and-family-euronews-raids-2026"
           ]
         },
         {

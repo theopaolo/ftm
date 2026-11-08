@@ -412,6 +412,126 @@
         "accept": true,
         "why": "Same as Alain Wertheimer."
       }
+    },
+    "larry-page": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Controls Alphabet's voting power with Brin (27.4% and 25.3%), so YouTube: 'owner of influential media', as for Mateschitz and Zuckerberg. No personal donations documented."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Several company cases pending on appeal (search, ad tech, EU)."
+      }
+    },
+    "sergey-brin": {
+      "politics": {
+        "value": 3,
+        "accept": true,
+        "why": "$102m in 2026 to the committee fighting California's billionaire tax: among the largest donors of the country, as for Yass ($101m) and Griffin."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "Rubric level 3: released documents (Epstein files, January 2026) raise unanswered questions about the person; he did not respond. The same standard as Gates."
+      }
+    },
+    "mark-zuckerberg": {
+      "social": {
+        "value": 3,
+        "accept": true,
+        "why": "Rubric level 3 names large health-harm settlements: the attorneys-general settlement over teen mental health (up to about $18.59bn) and 2026 youth-harm verdicts."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in the pending D.C. consumer suit (dismissal denied April 2026). Rests on the readable part of a paywalled MLex item; see the notes."
+      }
+    },
+    "bernard-arnault-and-family": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Owner, through LVMH, of influential media (Le Parisien, Les Echos, Paris Match), as for Mateschitz."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in the pending Puech civil suit in Paris (about EUR 14bn), which he and LVMH deny."
+      }
+    },
+    "rob-walton-and-family": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "$17.6m in the 2024 cycle and $5m to AFP Action in 2023: major donor."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending company cases listed in Walmart's quarterly filing."
+      }
+    },
+    "jim-walton-and-family": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "$5m to AFP Action in 2023: major donor."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending company cases listed in Walmart's quarterly filing."
+      }
+    },
+    "alice-walton": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "$2.6m in 2004 and later state and federal giving: major donor, partly more than ten years ago, which the reason says."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending company cases listed in Walmart's quarterly filing."
+      }
+    },
+    "lukas-walton": {
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending company cases listed in Walmart's quarterly filing."
+      }
+    },
+    "michael-dell": {
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "A consumer-law penalty in Australia and a New York court finding of deceptive practices: documented company-level problems."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Pending 401(k) class action at company level."
+      }
+    },
+    "steve-ballmer": {
+      "social": {
+        "value": 3,
+        "accept": true,
+        "why": "Court-established monopoly at Microsoft (2001), while he was its president and CEO, and the 2013 EU fine for conduct during his tenure as CEO. The same standard as for Page and Brin."
+      },
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: company court finding (2001) during his tenure as chief executive. The NBA suspension is private league discipline and alone would be 1."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in the pending Aspiration investors' suit in Los Angeles."
+      }
     }
   },
   "counterweights": {
