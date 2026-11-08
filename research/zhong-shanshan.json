@@ -70,7 +70,9 @@
       "claim": "Nongfu Spring reported using about 1.08 million tonnes of plastic packaging and withdrawing 57 million tonnes of natural water in 2025, both up on 2024. Its first value-chain inventory put total emissions at 5.2 million tonnes CO2e, 78% of it Scope 3, while Scope 1 and 2 intensity fell slightly.",
       "evidence_type": "company_disclosure",
       "date": "2026-04",
-      "source_ids": ["nongfu-sr-2025"]
+      "source_ids": [
+        "nongfu-sr-2025"
+      ]
     },
     {
       "id": "f2",
@@ -81,7 +83,9 @@
       "claim": "In 2013 Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 for unfair competition, finding that in-store pH tests disparaged rival C'estbon; a provincial review and a first-instance court upheld the penalty. The appeal was pending in August 2014 and its outcome was not found. The case is over ten years old.",
       "evidence_type": "regulatory_penalty",
       "date": "2013",
-      "source_ids": ["chinanews-2014"]
+      "source_ids": [
+        "chinanews-2014"
+      ]
     },
     {
       "id": "f3",
@@ -89,10 +93,13 @@
       "theme": "climate",
       "level": "company",
       "entity": "Creswell NZ (Nongfu Spring subsidiary)",
-      "claim": "A plan tied to Nongfu's New Zealand subsidiary Creswell NZ to bottle up to 580 million litres a year from an aquifer at Ōtākiri was contested by the Ngāti Awa iwi and a residents' group. In November 2025 the Supreme Court dismissed their appeals by a 3-2 majority, leaving the consents in place.",
+      "claim": "Consents to expand a bottling plant at Ōtākiri, New Zealand, to up to 580 million litres of aquifer water a year, from 1.9 million, followed a 2016 conditional sale agreement with Creswell NZ, a Nongfu subsidiary. In November 2025 the Supreme Court dismissed appeals by Ngāti Awa and a residents’ group 3-2, so the consents stand; no wrongdoing by the company was at issue.",
       "evidence_type": "final_ruling",
       "date": "2025-11-12",
-      "source_ids": ["nzherald-2025", "nzsc-otakiri"]
+      "source_ids": [
+        "nzherald-2025",
+        "nzsc-otakiri"
+      ]
     },
     {
       "id": "f4",
@@ -103,7 +110,9 @@
       "claim": "Nongfu Spring's 2025 report states that Zhong Shanshan donated RMB100 million through his Zhong Ziyi Education Foundation to set up a scholarship and teacher fund at Zhuji High School. The amount is reported as donated, not pledged.",
       "evidence_type": "documented_giving",
       "date": "2025",
-      "source_ids": ["nongfu-sr-2025"]
+      "source_ids": [
+        "nongfu-sr-2025"
+      ]
     }
   ],
   "proposal": {
@@ -111,17 +120,48 @@
       "ecology": {
         "value": 2,
         "basis": "documented",
-        "reason": "Nongfu Spring reports about 1.08 million tonnes of plastic packaging, 57 million tonnes of natural water withdrawn and 5.2 million tonnes CO2e across its value chain in 2025. A contested New Zealand aquifer bottling plan was upheld by the Supreme Court in 2025. No environmental penalty found.",
-        "finding_ids": ["f1", "f3"]
+        "reason": "Nongfu Spring reports about 1.08 million tonnes of plastic packaging, 57 million tonnes of natural water withdrawn and 5.2 million tonnes CO2e across its value chain in 2025. Consents for a large aquifer bottling expansion in New Zealand, linked to a Nongfu subsidiary, were upheld by the Supreme Court in 2025 against iwi and residents’ appeals. No environmental penalty found.",
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
       },
       "legal": {
         "value": 1,
         "basis": "documented",
         "reason": "Guangzhou's commerce regulator fined Nongfu Spring RMB100,000 in 2013 for disparaging a rival in promotions; a first-instance court upheld it, and the appeal outcome was not found. No other penalty and no personal case found.",
-        "finding_ids": ["f2"]
+        "finding_ids": [
+          "f2"
+        ]
       }
     },
     "counterweights": "Zhong Shanshan gave RMB100 million through his Zhong Ziyi Education Foundation to a school fund in Zhuji in 2025, according to Nongfu Spring's report.",
     "rationale": "Ecology stays at 2: the company's own figures document a material footprint (plastic, water, emissions) typical of mass food and drink, with no disaster or penalty. Legal moves from 0 to 1 because a dated regulatory fine (2013, modest, company level) is now documented. Politics, social and open questions are left as they are: a single self-media profile claiming he holds no political posts was not citable, and the 2024 online attacks on the company are not a concern about him."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Checked against the downloaded PDF (Appendix V and Combating Climate Change): plastic packaging 1,079,655 t in 2025 vs 863,712 t in 2024; natural water withdrawal 57,218,314 t vs 46,864,166 t; total Scope 1+2+3 5,238,981 tCO2e with Scope 3 4,107,849 t (about 78.4%); Scope 1+2 intensity 0.0414 vs 0.0427 t/t. Chairman’s message calls it the first comprehensive value-chain GHG inventory. Units are tonnes throughout."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "China News page credits Guangzhou Daily (来源：广州日报) and reads as a faithful full reprint. It confirms decision 穗工商处字(2013)第245号, a RMB100,000 fine for unfair competition (pH tests against C’estbon, leaflet found to fabricate facts), Guangdong commerce bureau review upholding it (Jan 2014), Tianhe court first-instance dismissal, and a second-instance hearing at Guangzhou Intermediate Court with no outcome. A search found no report of the appeal outcome. Claim already states the outcome is unknown and the case is over ten years old."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the NZ Herald (Whakatāne Beacon) describes Creswell NZ as a Nongfu subsidiary that signed a 2016 conditional sale agreement from which the consent applications arose; it gives 580 million litres a year against 1.9 million now and the 3-2 split. The court page confirms both appeals dismissed on 12 November 2025 but names Otakiri Springs Limited, not Nongfu or Creswell, and gives no split. Claim now says what the link to Nongfu is (a conditional sale agreement, subsidiary level), that the court upheld the consents, and that no wrongdoing by the company was at issue. Kept as a concern only for the planned extraction footprint. Ecology reason trimmed to match."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Report (Corporate Citizenship, Educational Support) says Zhong Shanshan donated RMB100 million through the Zhong Ziyi Education Foundation to set up the fund at Zhuji High School, for scholarships and faculty support; worded as a completed donation, not a pledge. TMTPost (26 Nov 2025) corroborates a gift received at the 22 November 2025 Zhuji education conference, made in his personal name via the foundation, and adds that the money came from an unlisted company he owns."
+      }
+    ],
+    "passed": true
   }
 }
