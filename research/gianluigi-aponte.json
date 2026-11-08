@@ -1,0 +1,207 @@
+{
+  "id": 44,
+  "slug": "gianluigi-aponte",
+  "name": "Gianluigi Aponte",
+  "entity_group": "msc",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "MSC Elsa 3 Kerala High Court compensation deposit MSC ruling",
+    "MSC Gayane cocaine seizure Philadelphia 2019 Justice Department guilty plea crew",
+    "Federal Maritime Commission Mediterranean Shipping Company penalty settlement detention demurrage",
+    "BlackRock MSC Hutchison ports deal Panama Canal 2025 China regulator review",
+    "NGO Shipbreaking Platform MSC beaching South Asia ships sold 2024 list",
+    "Gianluigi Aponte Pandora Papers OR offshore OR tax investigation",
+    "CK Hutchison ports sale MSC TiL BlackRock COSCO status 2026",
+    "Mediterranean Shipping Company fined competition authority 2025 OR 2026",
+    "MSC Zoe Dutch Safety Board report containers lost Wadden Sea findings",
+    "Competition Commission South Africa refers shipping lines Competition Tribunal MSC Maersk cartel 2025 media release",
+    "MSC Foundation donations disbursed million humanitarian 2024 annual report",
+    "compcom.co.za shipping lines general rate increases referral Tribunal December 2025",
+    "MSC Mediterranean Shipping lobbying spending Washington 2025 lobbyists hired",
+    "Rafaela Aponte philanthropy donation OR foundation OR gift",
+    "MSC Foundation donated million earthquake Turkey OR Ukraine OR Gaza humanitarian aid reported"
+  ],
+  "sources": [
+    {
+      "id": "livelaw-elsa3-security",
+      "label": "LiveLaw: Kerala High Court cuts security in State suit over MSC Elsa 3 (2025)",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-state-admiralty-suit-msc-elsa-compensation-305173",
+      "publisher": "LiveLaw",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theweek-elsa3-deposit",
+      "label": "The Week (PTI): MSC Elsa III owners deposit Rs 1,227 crore in Kerala High Court (2026)",
+      "url": "https://www.theweek.in/wire-updates/national/2026/01/08/msc-elsa-iii-owners-deposit-rs-1227-cr-in-kerala-hc-for-release-of-sister-vessel.html",
+      "publisher": "The Week",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fmc-civil-penalty",
+      "label": "FMC: MSC assessed civil penalties totaling $22.67 million (2026)",
+      "url": "https://www.fmc.gov/articles/msc-assessed-civil-penalties-totaling-22-67-million/",
+      "publisher": "US Federal Maritime Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-01-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "shipbreaking-list-2024",
+      "label": "NGO Shipbreaking Platform: list of ships dismantled worldwide in 2024 (2025)",
+      "url": "https://shipbreakingplatform.org/platform-publishes-list-2024/",
+      "publisher": "NGO Shipbreaking Platform",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2025-02-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gcaptain-sa-price-fixing",
+      "label": "gCaptain: South Africa brings price-fixing case against shipping lines (2025)",
+      "url": "https://gcaptain.com/south-africa-hits-global-shipping-giants-with-price-fixing-case",
+      "publisher": "gCaptain",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "baird-sa-price-fixing",
+      "label": "Baird Maritime: South Africa flags eight shipping lines for alleged price-fixing (2025)",
+      "url": "https://www.bairdmaritime.com/shipping/boxships/south-african-authorities-flag-eight-shipping-lines-for-alleged-price-fixing",
+      "publisher": "Baird Maritime",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "unicef-msc-foundation",
+      "label": "UNICEF: MSC Foundation partnership (2025)",
+      "url": "https://www.unicef.org/partnerships/msc-foundation",
+      "publisher": "UNICEF",
+      "publisher_type": "intergovernmental",
+      "names_subject": true,
+      "published": "2025-12",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "MSC Mediterranean Shipping Company",
+      "claim": "Kerala is suing MSC for Rs 9,531 crore over the May 2025 sinking off Kochi of the MSC Elsa 3, which carried fuel and hazardous cargo; most of the claim is for environmental damage. The High Court set interim security at Rs 1,227.62 crore, posted by bank guarantee in December 2025; liability is left for trial.",
+      "evidence_type": "pending_case",
+      "date": "2025-12",
+      "source_ids": [
+        "livelaw-elsa3-security",
+        "theweek-elsa3-deposit"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "MSC Mediterranean Shipping Company",
+      "claim": "The US Federal Maritime Commission assessed $22.67 million in civil penalties against MSC in January 2026 for Shipping Act violations: billing parties not involved in the cargo, tariff omissions, and overcharging on about 23% of non-operating reefer bills in 2021.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-01",
+      "source_ids": [
+        "fmc-civil-penalty"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "MSC Mediterranean Shipping Company",
+      "claim": "The NGO Shipbreaking Platform named MSC the worst corporate dumper of 2024, for the second year running, after 16 of its ships were beached for scrapping in India. It counts more than 100 MSC ships beached in South Asia since 2009.",
+      "evidence_type": "official_report",
+      "date": "2025-02",
+      "source_ids": [
+        "shipbreaking-list-2024"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "MSC Mediterranean Shipping Company",
+      "claim": "In December 2025 South Africa's Competition Commission referred MSC and seven other carriers to the Competition Tribunal over alleged collusion on general rate increases on South Africa-Asia and West Africa routes from 2008 to 2018. These are allegations; the Tribunal has not ruled.",
+      "evidence_type": "pending_case",
+      "date": "2025-12",
+      "source_ids": [
+        "gcaptain-sa-price-fixing",
+        "baird-sa-price-fixing"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "MSC Foundation",
+      "claim": "UNICEF reports that the MSC Foundation, set up by the Aponte family in 2018, has raised a cumulative $17 million for UNICEF in a partnership begun in 2009, alongside donated freight. UNICEF does not say how much was company money rather than other donors' gifts.",
+      "evidence_type": "documented_giving",
+      "date": "2025-12",
+      "source_ids": [
+        "unicef-msc-foundation"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Global container shipping at the largest scale. Kerala is suing MSC over the 2025 sinking of the MSC Elsa 3, which carried fuel and hazardous cargo; liability is not yet decided. An NGO names MSC the leading seller of end-of-life ships to South Asian beaching yards.",
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "The US maritime regulator found MSC overcharged customers on detention and demurrage bills. A price-fixing case in South Africa is an allegation, not yet decided. No finding against the Aponte family personally.",
+        "finding_ids": [
+          "f2",
+          "f4"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Company-level regulatory record: a $22.67 million US Federal Maritime Commission civil penalty against MSC (2026). No personal legal record found for the Aponte family.",
+        "finding_ids": [
+          "f2"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Two pending company-level cases: Kerala's Rs 9,531 crore admiralty suit over the MSC Elsa 3 sinking, and a South African price-fixing referral covering 2008 to 2018. Neither has reached a ruling.",
+        "finding_ids": [
+          "f1",
+          "f4"
+        ]
+      }
+    },
+    "counterweights": "UNICEF reports that the MSC Foundation has raised a cumulative $17 million for it since 2009, plus donated freight. How much came from the company itself is not stated.",
+    "rationale": "Ecology stays 3, now documented. Social 1 to 2: an FMC finding of customer overcharging is a documented company-level consumer problem. Legal 0 to 1: the $22.67m FMC civil penalty is regulatory action; the Kerala order is interim, not a court finding of liability. Unresolved 0 to 2: two pending company-level cases (Kerala suit, South African tribunal referral). Politics not addressed: no specific source opened."
+  }
+}
