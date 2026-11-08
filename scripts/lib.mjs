@@ -22,6 +22,11 @@ export const GROUPS = {
 // (1, 7, 11, 12, 13, 14, 18, 28, 37, 40, 47) already had specific sources.
 export const PHASE1_IDS = [6, 8, 9, 10, 16, 20, 21, 23, 24, 25, 26, 27, 29, 32, 33, 34, 35, 36, 38, 39, 42, 43, 44, 45, 46, 49, 50];
 
+// Phase 4 scope, decided on 2026-11-08 (amendment 10): the 23 top-50 profiles that were
+// checked before Phase 1. Refresh their legal status, research every dimension still on a
+// default, and record findings so each gets a legal record.
+export const PHASE4_IDS = [1, 2, 3, 4, 5, 7, 11, 12, 13, 14, 15, 17, 18, 19, 22, 28, 30, 31, 37, 40, 41, 47, 48];
+
 export const DIMS = ['ecology', 'politics', 'social', 'legal', 'unresolved'];
 
 export const readJSON = (path) => JSON.parse(readFileSync(path, 'utf8'));

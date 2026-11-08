@@ -6,10 +6,17 @@
 //   node scripts/units.mjs status                where each unit stands (missing, researched, verified, passed)
 //   node scripts/units.mjs prompt research <unit>   print the research subagent prompt for a unit
 //   node scripts/units.mjs prompt verify <unit>     print the verification subagent prompt for a unit
+//   Add --phase 4 first to work on the Phase 4 refresh units (prompts/refresh.md for research).
 
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { ROOT, GROUPS, PHASE1_IDS, loadDataset, groupOf, readJSON } from './lib.mjs';
+import { ROOT, GROUPS, PHASE1_IDS, PHASE4_IDS, loadDataset, groupOf, readJSON } from './lib.mjs';
+
+const argv = process.argv.slice(2);
+const phaseAt = argv.indexOf('--phase');
+const PHASE = phaseAt >= 0 ? argv.splice(phaseAt, 2)[1] : '1';
+if (!['1', '4'].includes(PHASE)) { console.error('--phase must be 1 or 4'); process.exit(1); }
+const SCOPE = PHASE === '4' ? PHASE4_IDS : PHASE1_IDS;
 
 const data = loadDataset();
 const byId = new Map(data.people.map((p) => [p.id, p]));
@@ -18,10 +25,10 @@ const today = new Date().toISOString().slice(0, 10);
 function buildUnits() {
   const units = [];
   const seen = new Set();
-  for (const id of PHASE1_IDS) {
+  for (const id of SCOPE) {
     if (seen.has(id)) continue;
     const group = groupOf(id);
-    const ids = group ? GROUPS[group].filter((m) => PHASE1_IDS.includes(m)) : [id];
+    const ids = group ? GROUPS[group].filter((m) => SCOPE.includes(m)) : [id];
     ids.forEach((m) => seen.add(m));
     const people = ids.map((m) => {
       const p = byId.get(m);
@@ -43,7 +50,8 @@ function stateOf(file) {
 }
 
 function render(kind, unit) {
-  const template = readFileSync(join(ROOT, 'prompts', `${kind}.md`), 'utf8');
+  const file = PHASE === '4' && kind === 'research' ? 'refresh' : kind;
+  const template = readFileSync(join(ROOT, 'prompts', `${file}.md`), 'utf8');
   const records = unit.people.map((p) => ({
     ...p,
     sources_resolved: Object.fromEntries(p.sources.map((k) => [k, data.sources[k]])),
@@ -68,7 +76,7 @@ function render(kind, unit) {
 }
 
 const units = buildUnits();
-const [cmd, kind, key] = process.argv.slice(2);
+const [cmd, kind, key] = argv;
 
 if (!cmd) {
   for (const u of units) console.log(`${u.key.padEnd(40)} ${u.people.map((p) => p.id).join(',').padEnd(12)} ${u.files.join(' ')}`);
