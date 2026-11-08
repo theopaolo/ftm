@@ -1,0 +1,393 @@
+{
+  "id": 4,
+  "slug": "jeff-bezos",
+  "name": "Jeff Bezos",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "FTC v. Amazon antitrust monopoly case trial February 2027 Judge Chun 2026 update",
+    "FTC States Sue Amazon Over Secret Ad Surcharge Scheme",
+    "ftc.gov cases-proceedings Amazon.com Inc Amazon eCommerce monopolization FTC v. Amazon 2:23-cv-01495",
+    "Reuters Amazon FTC monopolization trial March 2027 judge rejects delay October 2026",
+    "California attorney general v. Amazon antitrust trial date 2027 San Francisco Superior Court",
+    "Amazon Prime FTC settlement refunds claims 2026 status payments",
+    "Amazon California antitrust trial moved March 2027 Judge Schulman preliminary injunction denied",
+    "Luxembourg administrative court upholds Amazon €746 million GDPR fine CNPD March 2025 appeal",
+    "Court of Justice dismisses Commission appeal Amazon Luxembourg state aid December 2023 curia press release",
+    "Cour administrative Luxembourg annule amende 746 millions Amazon CNPD mars 2026",
+    "Bezos Washington Post opinion section personal liberties free markets February 2025 AP",
+    "Washington Post layoffs 2026 Bezos ownership newsroom cuts",
+    "Bezos op-ed defends Washington Post decision not to endorse presidential candidate October 2024 subscribers cancel",
+    "Amazon 2024 sustainability report carbon footprint 68.25 million metric tons emissions rose",
+    "Amazon 2025 sustainability report July 2026 carbon emissions total",
+    "Bezos Earth Fund total grants awarded to date billion 2026",
+    "Day 1 Families Fund 2025 grants homelessness Bezos total awarded since 2018",
+    "Amazon Italy antitrust fine €1.13 billion Council of State ruling 2025 2026 reduced",
+    "dol.gov OSHA Amazon corporate-wide settlement ergonomic hazards December 2024 warehouses",
+    "Amazon agrees to settle lawsuit 2026 million attorney general",
+    "Amazon return refund class action settlement $1 billion judge Whitehead approval 2026 AP Reuters"
+  ],
+  "sources": [
+    {
+      "id": "pbs-amazon-ftc",
+      "label": "AP: Amazon pays $2.5bn to settle FTC Prime case (2025)",
+      "url": "https://www.pbs.org/newshour/economy/amazon-to-pay-2-5-billion-to-settle-ftc-allegations-it-duped-customers-into-enrolling-in-prime",
+      "publisher": "Associated Press (via PBS NewsHour)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cbs-prime-refunds",
+      "label": "CBS News: Amazon Prime refunds widened, cap raised to $200 (2026)",
+      "url": "https://www.cbsnews.com/news/amazon-prime-ftc-settlement-refunds/",
+      "publisher": "CBS News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ftc-ecommerce-case",
+      "label": "FTC: Amazon.com, Inc. (Amazon eCommerce) monopolization case",
+      "url": "https://www.ftc.gov/node/81711",
+      "publisher": "U.S. Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2024-10-31",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "mlex-trial-dates",
+      "label": "MLex: Amazon to ask FTC to delay monopolization trial (2026)",
+      "url": "https://www.mlex.com/mlex/articles/2526407",
+      "publisher": "MLex",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "pymnts-delay-rejected",
+      "label": "PYMNTS: Amazon loses bid to delay FTC antitrust trial (2026)",
+      "url": "https://pymnts.com/cpi-posts/amazon-loses-bid-to-delay-ftc-antitrust-trial-as-california-case-looms",
+      "publisher": "PYMNTS (CPI)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ftc-ads-complaint",
+      "label": "FTC: FTC and 22 states sue Amazon over secret ad surcharge scheme (2026)",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+      "publisher": "U.S. Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-08-31",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ca-ag-price-case",
+      "label": "California AG: Court denies Amazon summary judgment in price case (2026)",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-delivers-prime-victory-against-amazon-ongoing-price",
+      "publisher": "California Department of Justice, Office of the Attorney General",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2026-04-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-italy-fine",
+      "label": "Reuters: Amazon to appeal Italian antitrust fine, cut to €752.4m (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/01/14/amazon-to-appeal-against-italian-antitrust-fine-even-after-it-was-cut",
+      "publisher": "Reuters (via The Star)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "paperjam-cnpd",
+      "label": "Paperjam: €746m fine, CNPD decision against Amazon annulled (2026)",
+      "url": "https://paperjam.lu/article/amende-de-746-millions-la-decision-de-la-cnpd-contre-amazon-annulee",
+      "publisher": "Paperjam",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "freevacy-cnpd",
+      "label": "Freevacy (Reuters summary): Luxembourg court annuls Amazon €746m GDPR fine (2026)",
+      "url": "https://www.freevacy.com/news/reuters/luxembourg-court-upholds-amazons-appeal-annuls-eur746m-gdpr-fine/7210",
+      "publisher": "Freevacy, summarising Reuters",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gazette-state-aid",
+      "label": "Law Society Gazette: CJEU rejects Commission's Amazon appeal (2023)",
+      "url": "https://www.lawsociety.ie/gazette/top-stories/2023/december/cjeu-rejects-commissions-amazon-appeal",
+      "publisher": "Law Society of Ireland Gazette",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-12-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "returns-motion",
+      "label": "W.D. Wash.: In re Amazon Return Policy Litigation, settlement motion (2026)",
+      "url": "https://www.classaction.org/media/in-re-amazon-return-policy-litigation-proposed-settlement.pdf",
+      "publisher": "U.S. District Court, Western District of Washington (court filing, hosted by ClassAction.org)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-01-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "classaction-returns",
+      "label": "ClassAction.org: Amazon to pay $309.5m over return policies (2026)",
+      "url": "https://www.classaction.org/news/amazon-to-pay-309.5m-to-end-class-action-lawsuit-over-return-policies",
+      "publisher": "ClassAction.org",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2026-01-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "osha-ergonomics",
+      "label": "OSHA: Settlement with Amazon on warehouse ergonomic hazards (2024)",
+      "url": "https://osha.gov/news/newsreleases/osha-national-news-release/20241219",
+      "publisher": "U.S. Department of Labor, Occupational Safety and Health Administration",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2024-12-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nbc-wapo-opinion",
+      "label": "NBC News: Bezos overhauls Washington Post opinion section (2025)",
+      "url": "https://www.nbcnews.com/media/jeff-bezos-washington-post-op-ed-david-shipley-rcna193817",
+      "publisher": "NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-02-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "esgdive-emissions",
+      "label": "ESG Dive: Amazon 2025 emissions jump as AI build-out grows (2026)",
+      "url": "https://www.esgdive.com/news/amazon-2025-emissions-jump-as-ai-brings-momentum-and-complexity-report/825667/",
+      "publisher": "ESG Dive",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-day1",
+      "label": "Fortune: Bezos Day 1 Families Fund gives $102.5m for homelessness (2025)",
+      "url": "https://fortune.com/2025/12/02/jeff-bezos-lauren-sanchez-bezos-donate-102-million-homelessness-us",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-earth-fund",
+      "label": "Fortune: How much has Jeff Bezos donated? (2026)",
+      "url": "https://fortune.com/article/how-much-has-jeff-bezos-donated-lauren-sanchez-bezos-earth-fund/",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-15",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "In September 2025 Amazon agreed to pay $2.5 billion ($1 billion civil penalty, $1.5 billion in refunds) to settle FTC charges over Prime enrolment and cancellation, without admitting wrongdoing. By September 2026 it had refunded over $845 million; a court-approved revision raised the refund cap to $200, with all payments due by April 2027.",
+      "evidence_type": "settlement",
+      "date": "2026-10",
+      "source_ids": ["pbs-amazon-ftc", "cbs-prime-refunds"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "The FTC, joined by state attorneys general, alleges in a 2023 suit (W.D. Wash. 2:23-cv-01495) that Amazon unlawfully maintains an online retail monopoly. The case is pending; in October 2026 the judge refused Amazon's request to delay the trial set for 29 March 2027.",
+      "evidence_type": "pending_case",
+      "date": "2026-10-09",
+      "source_ids": ["ftc-ecommerce-case", "mlex-trial-dates", "pymnts-delay-rejected"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "On 31 August 2026 the FTC and 22 states sued Amazon, alleging that since 2019 it secretly added a surcharge to its search-ad auctions while presenting them as second-price auctions, overcharging over a million sellers. These are allegations in a pending case; no executive is named as a defendant.",
+      "evidence_type": "pending_case",
+      "date": "2026-08-31",
+      "source_ids": ["ftc-ads-complaint"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "California's attorney general sued Amazon in September 2022, alleging that its pricing policies kept prices high across online retail. In April 2026 the court denied Amazon summary judgment on a key crossclaim; the trial, first set for 19 January 2027, was moved to 22 March.",
+      "evidence_type": "pending_case",
+      "date": "2026-09-16",
+      "source_ids": ["ca-ag-price-case", "mlex-trial-dates"]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon (Italy)",
+      "claim": "Italy's competition authority fined Amazon €1.13 billion in 2021 for abusing its dominance in e-commerce logistics. After a September 2025 court ruling, the authority cut the fine to €752.4 million in January 2026; Amazon said it would appeal and the regulator was also reported to appeal.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-01-12",
+      "source_ids": ["reuters-italy-fine"]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Amazon Europe Core",
+      "claim": "In March 2026 Luxembourg's appeal court annulled the €746 million GDPR fine imposed in 2021, for procedural failings, while confirming that Amazon's ad targeting lacked a valid legal basis and breached transparency rules. The case went back to the regulator, which may impose a new penalty.",
+      "evidence_type": "final_ruling",
+      "date": "2026-03-12",
+      "source_ids": ["paperjam-cnpd", "freevacy-cnpd"]
+    },
+    {
+      "id": "f7",
+      "direction": "counterweight",
+      "theme": "tax",
+      "level": "company",
+      "entity": "Amazon",
+      "claim": "In December 2023 the EU Court of Justice dismissed the European Commission's appeal, leaving annulled its 2017 decision that Luxembourg's tax treatment of two Amazon subsidiaries was illegal state aid. Amazon won this matter.",
+      "evidence_type": "final_ruling",
+      "date": "2023-12-14",
+      "source_ids": ["gazette-state-aid"]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "In January 2026 Amazon agreed to settle a class action alleging it failed to refund or re-charged customers for returned items: $309.5 million on top of more than $600 million paid or about to be paid, plus practice changes. The court gave preliminary approval in August 2026; final hearing is set for March 2027.",
+      "evidence_type": "settlement",
+      "date": "2026-08-18",
+      "source_ids": ["returns-motion", "classaction-returns"]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Amazon.com Services LLC",
+      "claim": "In December 2024 Amazon settled OSHA's ergonomics cases from inspections of 10 warehouses since 2022, paying $145,000 and agreeing to corporate-level ergonomic risk controls across its US facilities for two years.",
+      "evidence_type": "settlement",
+      "date": "2024-12-19",
+      "source_ids": ["osha-ergonomics"]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Jeff Bezos",
+      "claim": "Bezos owns The Washington Post. In February 2025 he announced that its opinion section would write daily in defence of personal liberties and free markets, leaving opposing views to other outlets; the opinion editor declined to stay.",
+      "evidence_type": "investigative_reporting",
+      "date": "2025-02-26",
+      "source_ids": ["nbc-wapo-opinion"]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Amazon.com, Inc.",
+      "claim": "Amazon's 2025 sustainability data, released July 2026, show absolute emissions up 16% on 2024, with Scope 3 (construction, products, third-party freight) up 20%, driven mainly by data-centre expansion. Its net-zero target is 2040.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-07-01",
+      "source_ids": ["esgdive-emissions"]
+    },
+    {
+      "id": "f12",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Bezos Day 1 Families Fund",
+      "claim": "The Bezos Day 1 Families Fund gave $102.5 million in homelessness grants to 32 nonprofits in December 2025, bringing its grants since 2018 to more than $850 million.",
+      "evidence_type": "documented_giving",
+      "date": "2025-12-02",
+      "source_ids": ["fortune-day1"]
+    },
+    {
+      "id": "f13",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Bezos Earth Fund",
+      "claim": "By April 2026 the Bezos Earth Fund had deployed about $2.4 billion of the $10 billion Bezos committed in 2020 for climate and nature, leaving about $7 billion to be disbursed by 2030.",
+      "evidence_type": "documented_giving",
+      "date": "2026-04-15",
+      "source_ids": ["fortune-earth-fund"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Mass retail, logistics and data centres. Amazon's own figures show absolute emissions up 16% in 2025, driven mainly by data-centre electricity and construction, products and third-party freight; its net-zero target is 2040.",
+        "finding_ids": ["f11"]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Owns The Washington Post, and in 2025 personally set its opinion section to defend personal liberties and free markets. Amazon's lobbying not assessed here.",
+        "finding_ids": ["f10"]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Amazon paid $2.5 billion in 2025 to settle FTC charges that it enrolled customers in Prime without clear consent and made cancelling hard, without admitting wrongdoing. It also settled a class action over unpaid return refunds in 2026 and OSHA ergonomics cases at its warehouses in 2024.",
+        "finding_ids": ["f1", "f8", "f9"]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company settlement above $1 billion (FTC Prime case, 2025); no personal case. Italy's 2021 abuse-of-dominance fine was cut to €752.4 million in 2026 and is under appeal. Luxembourg's €746 million GDPR fine was annulled in 2026 on procedure, with the breaches confirmed. The EU lost its state-aid case against Amazon in 2023.",
+        "finding_ids": ["f1", "f5", "f6", "f7", "f8"]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "The FTC's antitrust case against Amazon, joined by states, is due for trial on 29 March 2027. The FTC and 22 states also sued in August 2026 over alleged hidden ad-auction surcharges, and California's price case is set for trial in 2027. All are company-level; none names Bezos.",
+        "finding_ids": ["f2", "f3", "f4"]
+      }
+    },
+    "counterweights": "The Bezos Day 1 Families Fund has given more than $850 million in homelessness grants since 2018. The Bezos Earth Fund had deployed about $2.4 billion of a $10 billion climate commitment by 2026.",
+    "rationale": "No value changes. All matters are company-level and none names Bezos, so legal and unresolved stay 2 (R5, R6). Ecology and politics move from estimate to documented at the same level. 'Packaging' in the current ecology reason was not re-sourced and is dropped. The existing source key 'amazon' now resolves to the FTC's 2026 ad-surcharge case page, not the monopolization case, so it was not reused; f2 cites the monopolization case page instead. Earth Fund 'deployed' may mean awarded rather than paid."
+  }
+}
