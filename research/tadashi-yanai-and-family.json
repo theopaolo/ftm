@@ -18,7 +18,8 @@
     "site:fastretailing.com greenhouse gas emissions scope 3 reduction FY2019 baseline progress 2025",
     "ユニクロ 文春 名誉毀損訴訟 最高裁 上告不受理 決定 2014年12月",
     "Uniqlo fined regulator penalty 2024 OR 2025 OR 2026 Fast Retailing",
-    "Korea Fair Trade Commission FRL Korea Uniqlo AIRism heattech advertising fine 153 million won"
+    "Korea Fair Trade Commission FRL Korea Uniqlo AIRism heattech advertising fine 153 million won",
+    "ユニクロ 文春 訴訟 \"最高裁\" 2014 上告 退け 横田増生 (verification)"
   ],
   "sources": [
     {
@@ -92,12 +93,13 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "bunshun-libel",
-      "label": "Bunshun: Review of Masuo Yokota's book on working undercover at Uniqlo",
-      "url": "https://bunshun.jp/articles/-/4859",
-      "publisher": "Bungeishunju (Bunshun Online)",
+      "id": "jcast-libel-2014",
+      "label": "J-CAST News: Uniqlo's loss final at Supreme Court over labour reporting (2014)",
+      "url": "https://www.j-cast.com/2014/12/11222995.html",
+      "publisher": "J-CAST News",
       "publisher_type": "press",
       "names_subject": true,
+      "published": "2014-12-11",
       "accessed": "2026-11-08"
     },
     {
@@ -157,7 +159,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Uniqlo (Fast Retailing)",
-      "claim": "In January 2021 US Customs detained Uniqlo cotton shirts at Los Angeles under an order targeting Xinjiang Production and Construction Corps cotton, and in May 2021 rejected Uniqlo's protest, finding its evidence that no forced labour was involved insufficient. Fast Retailing said its cotton came from outside China; CBP later withdrew the rulings, saying Uniqlo had withdrawn its protests.",
+      "claim": "US Customs detained Uniqlo cotton shirts at Los Angeles in January 2021 under an order on Xinjiang Production and Construction Corps cotton, and in May 2021 rejected Uniqlo's protest, finding its evidence insufficient to show no forced labour was involved. Uniqlo cited cotton from Australia, Brazil and the US; CBP later took the rulings off its website, saying Uniqlo had withdrawn its protests.",
       "evidence_type": "official_report",
       "date": "2021-05",
       "source_ids": [
@@ -171,7 +173,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Uniqlo France (Fast Retailing)",
-      "claim": "NGOs alleged in French complaints from 2021 and 2023 that Uniqlo France and three other groups sold goods made partly with forced Uyghur labour; the company says there is no forced labour in its supply chains. No investigation was opened: prosecutors and a judge declined jurisdiction, upheld on appeal in February 2025, and a new complaint was announced.",
+      "claim": "NGOs and a Uyghur woman alleged in French complaints of 2021 and 2023 that Uniqlo and three other groups sold goods made partly with forced Uyghur labour; all four deny it. Prosecutors closed an initial inquiry, citing lack of jurisdiction, and a judge refused to open a judicial investigation, upheld on appeal in February 2025; a new complaint was announced.",
       "evidence_type": "allegation",
       "date": "2025-02",
       "source_ids": [
@@ -185,7 +187,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Fast Retailing",
-      "claim": "About 2,000 workers lost their jobs when Indonesian supplier Jaba Garmindo went bankrupt in 2015; Clean Clothes Campaign says about $5.5 million in severance is unpaid and Fast Retailing refuses to contribute. The Fair Labor Association found no violation by Fast Retailing and recommended voluntary relief; the company funded an ILO project in Indonesia instead, and the FLA closed the case in 2023.",
+      "claim": "About 2,000 workers lost jobs when Indonesian supplier Jaba Garmindo went bankrupt in 2015; Clean Clothes Campaign says they are owed $5.5 million in severance and that Fast Retailing refuses to contribute. An FLA investigation found no violation by Fast Retailing and suggested voluntary relief; the company funded an ILO project in Indonesia instead, and the FLA closed the case in October 2023.",
       "evidence_type": "allegation",
       "date": "2023-10",
       "source_ids": [
@@ -199,12 +201,12 @@
       "theme": "labour",
       "level": "company",
       "entity": "Fast Retailing and Uniqlo",
-      "claim": "Tokyo courts dismissed Fast Retailing and Uniqlo's ¥220 million libel suit against publisher Bungeishunju in October 2013 and on appeal in March 2014, finding reporting on long hours in Japanese stores true in its important parts. The publisher says the outcome was confirmed by the Supreme Court; the rulings are over ten years old.",
+      "claim": "Tokyo courts dismissed Fast Retailing and Uniqlo's ¥220 million defamation suit against publisher Bungeishunju in October 2013 and on appeal in March 2014, holding the important parts of its reporting on long hours in Japanese stores to be true. The Supreme Court declined to hear a further appeal in December 2014, making the rulings final; they are over ten years old.",
       "evidence_type": "final_ruling",
-      "date": "2014-03",
+      "date": "2014-12",
       "source_ids": [
         "toyokeizai-libel-2014",
-        "bunshun-libel"
+        "jcast-libel-2014"
       ]
     },
     {
@@ -226,7 +228,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "Fast Retailing",
-      "claim": "Fast Retailing reports that by FY2024 it had cut emissions from its stores and main offices by 83.3% and from its supply chain by 18.6% against FY2019, with 84.7% renewable electricity. Its 2030 supply-chain target was raised from 20% to 30% in November 2025; the figures are self-reported.",
+      "claim": "By Fast Retailing's own figures, by FY2024 it had cut emissions from its stores and main offices by 83.3% and from its supply chain by 18.6% against FY2019, with 84.7% renewable electricity. The company raised its 2030 supply-chain target from 20% to 30% in November 2025.",
       "evidence_type": "company_disclosure",
       "date": "2025-11",
       "source_ids": [
@@ -239,7 +241,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Tadashi Yanai",
-      "claim": "Under agreements announced by Kyoto University in 2020, Yanai personally funds cancer immunology and iPS cell research there, including ¥4.5 billion to the iPS Cell Research Foundation paid at ¥500 million a year from FY2021. A clinical iPS cell production site named after him opened in Osaka in June 2025.",
+      "claim": "Under agreements announced by Kyoto University in 2020, Yanai personally supports cancer immunology and iPS cell research there, including a commitment of ¥500 million a year from FY2021 to the iPS Cell Research Foundation. A clinical iPS cell production site named after him and funded from his gift opened in Osaka in June 2025.",
       "evidence_type": "documented_giving",
       "date": "2025-06",
       "source_ids": [
@@ -254,7 +256,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Documented company-level labour problems. US Customs blocked Uniqlo shirts in 2021, finding the company had not shown its cotton was free of Xinjiang forced labour. Workers of a bankrupt Indonesian supplier say $5.5 million in severance is unpaid; a monitor found no violation by Fast Retailing. Japanese courts found reporting on long store hours true in key parts (2013-2014). French forced-labour complaints remain allegations.",
+        "reason": "Documented company-level labour problems. US Customs blocked Uniqlo shirts in 2021, finding its evidence insufficient to show they were free of Xinjiang forced labour. A campaign says workers of a bankrupt Indonesian supplier are owed $5.5 million in severance; an FLA investigation found no violation by Fast Retailing. Japanese courts dismissed Uniqlo's defamation suit over reporting on long store hours, holding its key parts true (final 2014). French forced-labour complaints remain allegations.",
         "finding_ids": [
           "f1",
           "f3",
@@ -265,23 +267,65 @@
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Regulatory record at company level: a provisional fine of 153 million won on Uniqlo's Korean operator for misleading garment ads (2022) and the 2021 US customs detention of Uniqlo shirts. Fast Retailing also lost a libel suit it brought over labour reporting. No personal legal record for Tadashi Yanai was found.",
+        "reason": "Regulatory record at company level: a provisional fine of 153 million won on Uniqlo's Korean operator for misleading garment ads (2022) and the 2021 US customs detention of Uniqlo shirts. Fast Retailing also lost a defamation suit it brought over labour reporting (final 2014). No personal legal record for Tadashi Yanai was found.",
         "finding_ids": [
           "f5",
-          "f1"
+          "f1",
+          "f4"
         ]
       },
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "No pending case or investigation was found. Concerns raised by NGOs remain open: a campaign for unpaid severance at a former Indonesian supplier, which Fast Retailing declines to pay, and forced-labour complaints in France that courts declined to investigate, with a new filing announced. Nothing personal is pending.",
+        "reason": "No pending case or investigation was confirmed. Concerns raised by NGOs remain open: a campaign for unpaid severance at a former Indonesian supplier, to which Fast Retailing has declined to contribute, and forced-labour complaints in France that courts declined to investigate, with a new filing announced. Nothing personal is pending.",
         "finding_ids": [
           "f3",
           "f2"
         ]
       }
     },
-    "counterweights": "Tadashi Yanai personally funds research at Kyoto University, including ¥4.5 billion to its iPS cell foundation in yearly instalments since 2021. Fast Retailing reports an 18.6% cut in supply-chain emissions and 83.3% in its own operations by FY2024 against 2019 (self-reported).",
+    "counterweights": "Tadashi Yanai personally supports research at Kyoto University, including ¥500 million a year from FY2021 committed to its iPS cell foundation, whose site funded by his gift opened in 2025. Fast Retailing reports cutting supply-chain emissions 18.6% and its own 83.3% by FY2024 (its own figures).",
     "rationale": "Social stays 2, now documented: no forced-labour finding against Uniqlo itself (CBP found its evidence insufficient, not forced labour proven), so 3 is not supported. Legal 0 to 1: a Korean regulatory fine on a 51%-owned operator plus the CBP detention fit level 1. Unresolved 0 to 1: open NGO-raised concerns, but no pending case. Ecology and politics not proposed: the emissions disclosure is self-reported and no political activity was checked; ecology stays 3."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: GTR says CBP removed the ruling letters from its website as published in error because Uniqlo withdrew its protests, not that it withdrew the rulings; Uniqlo's cotton origin now stated as given (Australia, Brazil, US). Detention, XPCC order and May 2021 rejection confirmed by GTR and Bloomberg/Taipei Times."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: FashionUnited says the prosecutor's inquiry was opened then closed for lack of jurisdiction, so 'no investigation was opened' became 'no judicial investigation'; complainants include a Uyghur woman; denial attributed to all four groups. Kept as allegation, company level (BHRRC names Uniqlo France)."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: wording tightened so nothing implies wrongdoing beyond the FLA's conclusion (no proven violation, no obligation to follow recommendations, case closed). PDF text checked: titled 'Jaba Garmindo October 2023 Update and Closing', matching label and date, though the file name says Final Report. CCC confirms 2,000 workers, $5.5m and refusal to contribute."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: the Supreme Court step rested on the defendant's own site (Bunshun). Replaced that source with J-CAST News (11 Dec 2014): Supreme Court Third Petty Bench declined to accept the appeal on 9 Dec 2014, making the lower rulings final. Claim now describes the defamation ruling (key parts held true) and the date moved to 2014-12. Toyo Keizai confirms the 2013 and 2014 rulings."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Korea JoongAng Daily confirms FTC, provisional 153 million won, AIRism and DRY-EX, Dec 2018 to Jul 2020 ads, FRL Korea 51% Fast Retailing."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: claim now opens by labelling the figures as the company's own. Uniqlo page shows FY2024 progress 83.3%, 18.6% and 84.7% against FY2019 targets and the November 2025 raise from 20% to 30%."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: removed the ¥4.5 billion total, which read as paid; now states the ¥500 million yearly commitment from FY2021 (Dempa) and the June 2025 opening of the Y-FiT site in Osaka funded from his gift (Dempa, Fashionsnap). Kyoto University page names Yanai's gifts for Honjo's cancer immunology and Yamanaka's iPS work but gives no amounts."
+      }
+    ],
+    "passed": true
   }
 }
