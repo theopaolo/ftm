@@ -37,8 +37,8 @@
       "additionalProperties": false,
       "required": ["id", "label", "url", "publisher", "publisher_type", "names_subject", "accessed"],
       "properties": {
-        "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Local id, unique within this file. The merge prefixes it with the slug." },
-        "label": { "type": "string", "maxLength": 90, "description": "Format used by the site: 'Publisher • short title (year)'." },
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Local id, unique within this file. The merge prefixes it with the entity_group if set, otherwise the slug, and reuses an existing key when the URL is already in the dataset." },
+        "label": { "type": "string", "maxLength": 90, "description": "Format used by the site: 'Publisher: short title (year)', e.g. 'SEC: Dell and Michael Dell settle disclosure charges (2010)'." },
         "url": { "type": "string", "format": "uri", "pattern": "^https://" },
         "publisher": { "type": "string" },
         "publisher_type": { "enum": ["court", "government", "regulator", "legislature", "intergovernmental", "academic", "ngo", "press", "company", "other"] },
@@ -68,14 +68,34 @@
     "proposal": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["tags", "status", "note", "evidence", "rationale"],
-      "description": "A suggestion only. The merge never applies status automatically.",
+      "required": ["scores", "counterweights", "rationale"],
+      "description": "A suggestion only. The site's colour is computed from the five score values, so the merge never changes a value: it applies basis and reason only where the proposed value equals the current one. Every value change goes to REVIEW.md for a human decision.",
       "properties": {
-        "tags": { "type": "array", "items": { "$ref": "#/$defs/theme" } },
-        "status": { "enum": ["red", "orange", "green"] },
-        "note": { "type": "string", "maxLength": 500, "description": "Replacement for the site's note field, same tone: says what is established and what is not." },
-        "evidence": { "type": "string", "maxLength": 60, "description": "Short evidence label, e.g. 'Settlement • company'." },
-        "rationale": { "type": "string", "maxLength": 600 }
+        "scores": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Only the dimensions this research has something to say about. Omitted dimensions stay as they are. Scale for each level: window.FTM_DATA.dimensions.",
+          "properties": {
+            "ecology": { "$ref": "#/$defs/score" },
+            "politics": { "$ref": "#/$defs/score" },
+            "social": { "$ref": "#/$defs/score" },
+            "legal": { "$ref": "#/$defs/score" },
+            "unresolved": { "$ref": "#/$defs/score" }
+          }
+        },
+        "counterweights": { "type": "string", "maxLength": 300, "description": "Replacement for the site's counterweights field ('On the other side'). Must rest on counterweight findings. Empty string keeps the current text." },
+        "rationale": { "type": "string", "maxLength": 600, "description": "For the reviewer: why each proposed value, especially where it differs from the current one." }
+      }
+    },
+    "score": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "basis", "reason", "finding_ids"],
+      "properties": {
+        "value": { "type": "integer", "minimum": 0, "maximum": 4 },
+        "basis": { "enum": ["documented", "estimate"], "description": "documented only when the cited findings support this level of the rubric." },
+        "reason": { "type": "string", "maxLength": 500, "description": "Replacement for the site's reason text, same register: what is established and what is not, company acts kept at company level." },
+        "finding_ids": { "type": "array", "items": { "type": "string" }, "description": "Findings this score rests on. Non-empty when documented, empty when estimate." }
       }
     },
     "verification": {

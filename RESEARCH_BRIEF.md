@@ -2,6 +2,26 @@
 
 This brief is for the orchestrating agent in Claude Code. Read it fully before launching any subagent.
 
+## Amendments, 8 November 2026
+
+Decided with Théo after Phase 0, because the dataset had changed since this brief was written. Where an amendment conflicts with the text below, the amendment wins.
+
+1. **Input.** The site file is `follow-the-money-preview.html` and the dataset is `window.FTM_DATA`, not `power-index-standalone-2.html` and `window.RESEARCH`. `scripts/extract.mjs` accepts both.
+2. **Data model.** People have no `status`, `reviewed`, `note`, `evidence` or `tags`. Each person has five scores (`ecology`, `politics`, `social`, `legal`, `unresolved`), each with a `value` from 0 to 4, a `basis` (`documented` or `estimate`) and a `reason`, plus `counterweights` and `checked`. The rubric for every level is in `dimensions`. The site's colour (lower concern, mixed, high concern) is computed from the sum of the five values and shown only when `checked` is true. The editorial status is therefore the score values: **never change a value**. `checked` plays the role of `reviewed`. Generic sources are those with `kind: "research"`; the keys `politics` and `carbon` do not exist.
+3. **Scope.** Phase 1 covers the 27 of the 38 people below who were still unchecked: 6, 8, 9, 10, 16, 20, 21, 23, 24, 25, 26, 27, 29, 32, 33, 34, 35, 36, 38, 39, 42, 43, 44, 45, 46, 49, 50. That makes 23 units: koch, mars, msc and chanel as groups, everyone else alone. The other 11 (1, 7, 11, 12, 13, 14, 18, 28, 37, 40, 47) already have specific sources and stay as they are, so the walmart group is out of scope. Phase 4 waits until Théo has reviewed Phases 1 to 3.
+4. **Proposal format.** `proposal` holds score proposals (`value`, `basis`, `reason`, `finding_ids`) for the dimensions the findings speak to, plus `counterweights` and `rationale`; see the schema. A documented score must rest on findings that cite a source naming the subject. Source labels follow the site: `Publisher: short title (year)`.
+5. **Merge.** This replaces the Phase 3 bullets.
+   - New sources go into the global dictionary with `kind: "case"`, keyed `<entity_group or slug>-<source id>`. A URL already in the dataset reuses its key, so a group's shared sources appear once on the site.
+   - The person keeps `forbes` and their existing case sources, gains the new keys, and loses generic keys, which stay in the global dictionary.
+   - A proposed score is applied (basis and reason) only where its value equals the current value. Value changes go to REVIEW.md and are never applied.
+   - A grey profile (`checked: false`) with any pending value change is held: none of its score text is applied and it stays grey. Applying part of it would show a colour computed from values its own research disputes.
+   - `checked` goes from false to true when the profile is not held, a remaining finding cites a source with `names_subject: true`, and at least one score is documented. The merge never sets it from true to false; REVIEW.md lists those cases instead.
+   - `counterweights` is replaced when the proposal gives a non-empty text, which must rest on counterweight findings.
+   - `scripts/merge.mjs` refuses to run unless `scripts/validate.mjs` passes, fails if any score value differs from the original, and writes both `data/research.merged.json` and `REVIEW.md`.
+6. **Method section.** It no longer hardcodes "36 dossiers": the checked count is computed from the data. Only the static fallback in `<span data-stat="checked">` needs updating when the HTML is rebuilt. REVIEW.md says so.
+7. **Network.** Phases 1 and 2 need open web access, because subagents must open every page they cite. Run them in a cloud environment with Full network access. The Default environment allows package registries only and blocks every source host.
+8. **Orchestration.** `node scripts/units.mjs` lists the units, `node scripts/units.mjs status` shows progress, and `node scripts/units.mjs prompt research <unit>` or `prompt verify <unit>` prints the exact prompt for a subagent, from the templates in `prompts/`. Pass it verbatim. A unit's verifier must be a different subagent from its researcher, and can start as soon as the unit's research files validate.
+
 ## Goal
 
 Replace sector-level screens and generic sources in the top 50 of the FTM dataset with findings that are specific to each person or their company, sourced, dated and verified. The output is one JSON file per person in `research/`, valid against `schema/person.schema.json`, then a merge into the dataset.

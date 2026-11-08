@@ -9,23 +9,11 @@
 // reads the schema at runtime keeps the repo dependency-free, and it refuses any
 // keyword it does not implement, so a schema change cannot be silently ignored.
 
-import { readFileSync, readdirSync, existsSync } from 'node:fs';
-import { basename, dirname, join } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { readFileSync, existsSync } from 'node:fs';
+import { basename, join } from 'node:path';
+import { ROOT, DATA_PATH, GROUPS, groupOf, listResearchFiles } from './lib.mjs';
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SCHEMA_PATH = join(ROOT, 'schema', 'person.schema.json');
-const RESEARCH_DIR = join(ROOT, 'research');
-const DATA_PATH = join(ROOT, 'data', 'research.json');
-
-// Shared company groups, from the brief.
-const GROUPS = {
-  walmart: [11, 12, 14, 40],
-  koch: [24, 25],
-  mars: [38, 39],
-  msc: [44, 45],
-  chanel: [49, 50],
-};
 
 /* ---------- Minimal JSON Schema interpreter ---------- */
 
@@ -153,8 +141,8 @@ function briefRules(record, file, dataset, today) {
     if (!members) errors.push(`unknown entity_group "${record.entity_group}"`);
     else if (!members.includes(record.id)) errors.push(`id ${record.id} is not a member of group "${record.entity_group}"`);
   } else {
-    const group = Object.entries(GROUPS).find(([, ids]) => ids.includes(record.id));
-    if (group) errors.push(`id ${record.id} belongs to group "${group[0]}" but entity_group is not set`);
+    const group = groupOf(record.id);
+    if (group) errors.push(`id ${record.id} belongs to group "${group}" but entity_group is not set`);
   }
 
   const v = record.verification;
@@ -180,6 +168,28 @@ function briefRules(record, file, dataset, today) {
     }
     if (v.checked_at > today) errors.push(`verification.checked_at is in the future (${v.checked_at})`);
     if (v.checked_at < record.researched_at) errors.push('verification.checked_at is before researched_at');
+  }
+
+  // Proposal: every documented score rests on remaining findings that name the subject.
+  const p = record.proposal;
+  if (p && record.outcome === 'no_specific_source_found') errors.push('no_specific_source_found must not carry a proposal');
+  if (p) {
+    const findingById = new Map(findings.map((f) => [f.id, f]));
+    for (const [dim, score] of Object.entries(p.scores)) {
+      for (const fid of score.finding_ids) if (!findingById.has(fid)) errors.push(`proposal.scores.${dim} cites unknown or deleted finding "${fid}"`);
+      if (score.basis === 'documented') {
+        if (!score.finding_ids.length) errors.push(`proposal.scores.${dim} is documented but cites no finding`);
+        const named = score.finding_ids.some((fid) => (findingById.get(fid)?.source_ids ?? []).some((sid) => byId.get(sid)?.names_subject));
+        if (score.finding_ids.length && !named) errors.push(`proposal.scores.${dim} is documented but none of its findings cites a source naming the subject`);
+      } else if (score.finding_ids.length) {
+        errors.push(`proposal.scores.${dim} is an estimate and must not cite findings`);
+      }
+      const current = person?.scores?.[dim];
+      if (current && current.value !== score.value && !p.rationale.trim()) errors.push(`proposal.scores.${dim} changes the value but rationale is empty`);
+    }
+    if (p.counterweights.trim() && !findings.some((f) => f.direction === 'counterweight')) {
+      errors.push('proposal.counterweights is set but there is no counterweight finding');
+    }
   }
 
   return { errors, warnings };
@@ -218,9 +228,7 @@ function main() {
   if (!dataset) console.warn('validate: data/research.json not found; run scripts/extract.mjs to check ids and names');
   const today = new Date().toISOString().slice(0, 10);
 
-  const files = process.argv.length > 2
-    ? process.argv.slice(2)
-    : existsSync(RESEARCH_DIR) ? readdirSync(RESEARCH_DIR).filter((f) => f.endsWith('.json')).sort().map((f) => join(RESEARCH_DIR, f)) : [];
+  const files = process.argv.length > 2 ? process.argv.slice(2) : listResearchFiles();
   if (!files.length) {
     console.log('validate: no files in research/');
     return 0;
