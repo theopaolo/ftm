@@ -1,0 +1,488 @@
+{
+  "id": 1,
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Musk Twitter shareholder verdict Pampena damages judgment appeal 2026",
+    "Delaware Supreme Court Tornetta Musk 2018 pay package ruling December 2025 rescission reversed",
+    "Elon Musk Epstein files emails island 2026 latest",
+    "Epstein files remaining pages release Justice Department October 2026",
+    "Tesla Vaughn race discrimination class action Fremont trial 2026",
+    "European Commission fines X €120 million Digital Services Act blue checkmark December 2025",
+    "ec.europa.eu presscorner Commission fines X 120 million Digital Services Act",
+    "California Civil Rights Department Tesla trial ruling Borkon November 2026",
+    "Benavides Tesla Autopilot verdict $243 million judge upholds appeal 2026",
+    "xAI Colossus Memphis gas turbines permit lawsuit NAACP Southern Environmental Law Center Clean Air Act 2026",
+    "NAACP sues xAI Southaven turbines April 2026 federal court",
+    "Tesla Impact Report 2024 metric tons CO2e avoided vehicles solar figure",
+    "Musk Foundation grants 2024 tax filing disbursed amount minimum payout New York Times",
+    "Musk Foundation 2024 $474 million gave away record mostly to entities he controls",
+    "Musk spent $291.5 million 2024 election largest donor FEC filings",
+    "jury finds Musk not liable Tesla \"funding secured\" tweets investors trial February 2023",
+    "Grok sexualised images investigation 2026 European Commission X xAI formal proceedings Ofcom California attorney general",
+    "Commission opens formal proceedings against X Grok Digital Services Act January 2026 press release",
+    "California DMV Tesla Autopilot false advertising judge ruling suspension 2026 outcome",
+    "Fifth Circuit en banc NLRB Tesla Musk tweet union stock options ruling",
+    "America PAC $1 million giveaway lawsuit Musk Krasner dismissed Texas judge voters lawsuit outcome",
+    "\"Musk\" \"America PAC\" settle class actions $1 million giveaway October 2026 Reuters",
+    "Tesla impact report customers avoided 32 million metric tons CO2e 2024 report news"
+  ],
+  "sources": [
+    {
+      "id": "tesla-proxy-2026",
+      "label": "Tesla: 2026 proxy statement, Pampena v. Musk and SEC matters (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000110465926116700/tm267596-1_def14a.htm",
+      "publisher": "Tesla, Inc. (filed with the U.S. Securities and Exchange Commission)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "afp-twitter-verdict",
+      "label": "AFP (via EWN): US jury finds Musk misled Twitter shareholders (2026)",
+      "url": "https://www.ewn.co.za/2026/03/21/us-jury-finds-elon-musk-misled-twitter-shareholders",
+      "publisher": "Agence France-Presse, via Eyewitness News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-03-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-2018-settlement",
+      "label": "SEC: Musk settles fraud charges; Musk and Tesla to pay $20 million each (2018)",
+      "url": "https://www.sec.gov/news/press-release/2018-226",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2018-09-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bt-musk-sec",
+      "label": "Business Today: $1.5m SEC settlement and the 2018 fraud charge",
+      "url": "https://www.businesstoday.in/amp/technology/story/elon-musk-settles-sec-lawsuit-over-delayed-twitter-stake-disclosure-agrees-to-15-million-penalty-529816-2026-05-05",
+      "publisher": "Business Today",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-05-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberg-musk-sec",
+      "label": "Bloomberg: judge approves SEC–Musk deal; Musk’s role in government (July 2026)",
+      "url": "https://www.cpapracticeadvisor.com/2026/07/09/u-s-judge-allows-sec-musk-deal-despite-significant-misgivings/186422/",
+      "publisher": "Bloomberg, via CPA Practice Advisor",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-09",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nbc-funding-secured",
+      "label": "NBC News: jury finds Musk did not defraud Tesla investors over 2018 tweets (2023)",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-funding-secured-trial-verdict-rcna68634",
+      "publisher": "NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-02-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cnbc-tornetta",
+      "label": "CNBC: Delaware Supreme Court restores Musk’s 2018 Tesla pay package (2025)",
+      "url": "https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "time-musk-epstein",
+      "label": "Time: Musk’s emails to Epstein in the January 2026 release",
+      "url": "https://time.com/7362868/elon-musk-epstein-emails/",
+      "publisher": "Time",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "newsweek-gates-epstein",
+      "label": "Newsweek: Gates denies claims in Epstein draft emails; about 3.5m of 6m+ pages released",
+      "url": "https://newsweek.com/bill-gates-jeffrey-epstein-std-russian-girls-11447034",
+      "publisher": "Newsweek",
+      "publisher_type": "press",
+      "names_subject": false,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cnn-fec-2024",
+      "label": "CNN (via KTVZ): Musk spent more than $290 million on the 2024 election (2025)",
+      "url": "https://ktvz.com/politics/cnn-us-politics/2025/02/01/elon-musk-spent-more-than-290-million-on-the-2024-election-year-end-fec-filings-show/",
+      "publisher": "CNN, via KTVZ",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-02-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "washex-top-donors",
+      "label": "Washington Examiner: Musk tops OpenSecrets list of 2024 donors (2025)",
+      "url": "https://www.washingtonexaminer.com/?p=3361316",
+      "publisher": "Washington Examiner",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-03-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "newsweek-midterms",
+      "label": "Newsweek: billionaire spending in the 2026 midterms, from OpenSecrets data",
+      "url": "https://www.newsweek.com/the-billionaires-who-spent-won-and-lost-the-most-at-the-midterms-12661688",
+      "publisher": "Newsweek",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nzh-doge",
+      "label": "Washington Post (via NZ Herald): DOGE targeted agencies holding Musk contracts",
+      "url": "https://www.nzherald.co.nz/business/elon-musks-business-empire-is-built-on-us38-billion-in-government-funding/KN2MGEP65VA2XIIBBGE5UU7GKM",
+      "publisher": "The Washington Post, via The New Zealand Herald",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-02-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bgov-america-pac",
+      "label": "Bloomberg Government: Musk settles suits over $1 million voter giveaway (2026)",
+      "url": "https://news.bgov.com/litigation/elon-musk-settles-suit-over-1-million-giveaway-to-2024-voters",
+      "publisher": "Bloomberg Government",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ij-crd-trial",
+      "label": "Insurance Journal: Tesla goes to trial over race bias at Fremont plant (2026)",
+      "url": "https://www.insurancejournal.com/news/west/2026/09/21/886233.htm",
+      "publisher": "Insurance Journal",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "electrek-crd-trial",
+      "label": "Electrek: Tesla racism trial over Fremont factory begins (2026)",
+      "url": "https://electrek.co/2026/09/21/tesla-racism-trial-california-fremont-black-workers/",
+      "publisher": "Electrek",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-benavides",
+      "label": "Reuters (via Business Insurance): judge upholds $243m Autopilot verdict (2026)",
+      "url": "https://www.businessinsurance.com/judge-upholds-243m-verdict-against-tesla-over-fatal-autopilot-crash/",
+      "publisher": "Reuters, via Business Insurance",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "dmv-autopilot",
+      "label": "California DMV: Tesla takes corrective action to avoid suspension (2026)",
+      "url": "https://www.dmv.ca.gov/portal/news-and-media/tesla-takes-corrective-action-to-avoid-dmv-suspension/",
+      "publisher": "California Department of Motor Vehicles",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-02-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "hrdive-nlrb",
+      "label": "HR Dive: Fifth Circuit overturns NLRB order on Musk union tweet (2024)",
+      "url": "https://www.hrdive.com/news/nlrb-musk-tesla-tweet-decision-overturned-fifth-circuit/731243/",
+      "publisher": "HR Dive",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-10-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ec-x-dsa-fine",
+      "label": "European Commission: Commission fines X €120 million under the DSA (2025)",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-x-eu120-million-under-digital-services-act",
+      "publisher": "European Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-12-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ec-grok-investigation",
+      "label": "European Commission: investigation into Grok and X’s recommender systems (2026)",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigates-grok-and-xs-recommender-systems-under-digital-services-act",
+      "publisher": "European Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-01-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wlbt-naacp-xai",
+      "label": "WLBT: NAACP sues xAI over gas turbines in Southaven (2026)",
+      "url": "https://www.wlbt.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/",
+      "publisher": "WLBT",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "tnw-xai-dismissal",
+      "label": "The Next Web: judge rejects xAI bid to dismiss NAACP turbine suit (2026)",
+      "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+      "publisher": "The Next Web",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-11-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberglinea-foundation",
+      "label": "Bloomberg Línea: Musk Foundation gave $474m in 2024, mostly to his own entities (2025)",
+      "url": "https://www.bloomberglinea.com/negocios/elon-musk-dono-us474-millones-en-2024-principalmente-a-organizaciones-bajo-su-control/",
+      "publisher": "Bloomberg Línea",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-11-19",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "In March 2026 a San Francisco federal jury found Musk liable to Twitter shareholders for two false May 2022 statements, and cleared him on a third and on scheme claims; partial judgment against him personally followed on 3 April 2026. In July the judge set aside one of the two statements; Musk appealed to the Ninth Circuit, where the appeal is pending and damages are not yet fixed.",
+      "evidence_type": "final_ruling",
+      "date": "2026-07-30",
+      "source_ids": ["tesla-proxy-2026", "afp-twitter-verdict"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "In 2018 the SEC charged Musk with securities fraud over his post on taking Tesla private. He settled without admitting or denying the allegations, paid a $20 million personal penalty and stepped down as Tesla chairman; Tesla paid a further $20 million. The court approved the settlement in October 2018.",
+      "evidence_type": "settlement",
+      "date": "2018-10-16",
+      "source_ids": ["sec-2018-settlement", "tesla-proxy-2026"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "The SEC sued Musk in January 2025, alleging he disclosed his Twitter stake 11 days late in 2022 and saved up to $150 million at other investors’ expense. He settled in 2026 with a $1.5 million civil penalty paid by his trust, without admitting or denying wrongdoing; a federal judge approved it in July 2026 despite stated misgivings.",
+      "evidence_type": "settlement",
+      "date": "2026-07",
+      "source_ids": ["bt-musk-sec", "bloomberg-musk-sec"]
+    },
+    {
+      "id": "f4",
+      "direction": "counterweight",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "In February 2023 a federal jury in San Francisco unanimously found Musk not liable in a Tesla shareholder class action over his 2018 “funding secured” posts, although the judge had earlier ruled those posts false and reckless.",
+      "evidence_type": "final_ruling",
+      "date": "2023-02-03",
+      "source_ids": ["nbc-funding-secured"]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Elon Musk and Tesla",
+      "claim": "In December 2025 the Delaware Supreme Court reversed the cancellation of Musk’s 2018 Tesla pay package, awarding $1 in nominal damages. It did not overturn the 2024 lower-court findings that Musk controlled Tesla and that the board’s approval process was seriously flawed.",
+      "evidence_type": "final_ruling",
+      "date": "2025-12-19",
+      "source_ids": ["cnbc-tornetta"]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "Justice Department records released in January 2026 include 16 emails from 2012–2013 in which Musk discussed visiting Epstein’s island and Epstein thanked him for a SpaceX tour, contradicting Musk’s earlier statements. Musk says some emails could be misinterpreted; the report notes no indication of wrongdoing. Of over six million identified pages, about 3.5 million have been released.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-01",
+      "source_ids": ["time-musk-epstein", "newsweek-gates-epstein"]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Elon Musk",
+      "claim": "FEC filings show Musk spent more than $290 million on the 2024 election, about $250 million of it through America PAC, his super PAC backing Trump; OpenSecrets ranked him the largest donor of the cycle. In the 2026 midterms OpenSecrets put his outside spending at about $445 million, again the most of any individual.",
+      "evidence_type": "official_report",
+      "date": "2026-11",
+      "source_ids": ["cnn-fec-2024", "washex-top-donors", "newsweek-midterms"]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "public-money",
+      "level": "individual",
+      "entity": "Elon Musk and his companies",
+      "claim": "A February 2025 Washington Post analysis found Musk’s companies had received at least $38 billion in government contracts, loans, subsidies and tax credits. While Musk led the DOGE federal cost-cutting effort, it sought cuts at all seven agencies holding ongoing contracts with his companies.",
+      "evidence_type": "investigative_reporting",
+      "date": "2025-02-26",
+      "source_ids": ["nzh-doge", "bloomberg-musk-sec"]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Elon Musk and America PAC",
+      "claim": "Two Arizona voters sued Musk and America PAC, alleging the 2024 $1 million petition giveaway was falsely presented as a random lottery. In October 2026 both sides filed notices of settlement in federal court in Austin; terms were not disclosed and await the judge’s approval. Liability was not established.",
+      "evidence_type": "pending_case",
+      "date": "2026-10-15",
+      "source_ids": ["bgov-america-pac"]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Tesla",
+      "claim": "California’s Civil Rights Department alleges that Black workers at Tesla’s Fremont plant faced racial slurs, graffiti, lower pay and segregation into the worst jobs; a bench trial opened in September 2026 and no ruling has been reported. Tesla denies wrongdoing. A separate EEOC suit is pending, and a 2021 jury verdict for one worker was later reduced.",
+      "evidence_type": "pending_case",
+      "date": "2026-09-21",
+      "source_ids": ["ij-crd-trial", "electrek-crd-trial"]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "health",
+      "level": "company",
+      "entity": "Tesla",
+      "claim": "In August 2025 a Miami federal jury found Tesla 33% responsible for a fatal 2019 crash involving Autopilot, awarding $42.6 million in compensatory and $200 million in punitive damages. The judge upheld the verdict in 2026; Tesla was expected to appeal.",
+      "evidence_type": "final_ruling",
+      "date": "2026-02-20",
+      "source_ids": ["reuters-benavides"]
+    },
+    {
+      "id": "f12",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Tesla",
+      "claim": "An administrative law judge found in November 2025 that Tesla’s use of “Autopilot” in marketing was misleading and broke California law. The DMV adopted the finding in December 2025 but stayed the proposed licence suspension; Tesla avoided it in February 2026 by dropping the term in California.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-02-17",
+      "source_ids": ["dmv-autopilot"]
+    },
+    {
+      "id": "f13",
+      "direction": "counterweight",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Tesla",
+      "claim": "In 2021 the NLRB found that Musk’s 2018 tweet suggesting workers would lose stock options if they unionised broke labour law, and that Tesla fired a union supporter. In October 2024 the full Fifth Circuit, 9–8, vacated the order to delete the tweet and the reinstatement order, and sent the case back.",
+      "evidence_type": "final_ruling",
+      "date": "2024-10-25",
+      "source_ids": ["hrdive-nlrb"]
+    },
+    {
+      "id": "f14",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "X",
+      "claim": "In December 2025 the European Commission fined X €120 million, its first Digital Services Act non-compliance decision, over its deceptive paid blue checkmark, an opaque ad repository and barriers to researcher data access. In January 2026 it opened a further investigation into risks from Grok on X, including sexually explicit manipulated images; that case is open.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2026-01-26",
+      "source_ids": ["ec-x-dsa-fine", "ec-grok-investigation"]
+    },
+    {
+      "id": "f15",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "xAI (now part of SpaceX)",
+      "claim": "The NAACP sued xAI in April 2026 under the Clean Air Act, alleging it ran at least 27 gas turbines at its Southaven, Mississippi data-centre power plant without an air permit in late 2025, with potential emissions of about 1,700 tons of nitrogen oxides a year. A federal judge refused to dismiss the suit in October 2026; it is pending.",
+      "evidence_type": "pending_case",
+      "date": "2026-10",
+      "source_ids": ["wlbt-naacp-xai", "tnw-xai-dismissal"]
+    },
+    {
+      "id": "f16",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Musk Foundation",
+      "claim": "The Musk Foundation’s tax filing shows it gave a record $474 million in 2024, but about $370 million went to The Foundation, a school nonprofit Musk set up, and $35 million to a donor-advised fund; it held $14.7 billion at year end.",
+      "evidence_type": "documented_giving",
+      "date": "2025-11-19",
+      "source_ids": ["bloomberglinea-foundation"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Tesla makes cars, a material footprint under the rubric; rockets and xAI data centres add energy use. xAI is sued under the Clean Air Act over gas turbines run without a permit at a Mississippi data-centre plant in 2025; a judge refused to dismiss the case, which is pending. Emissions avoided by Tesla’s electric cars are not independently assessed here.",
+        "finding_ids": ["f15"]
+      },
+      "politics": {
+        "value": 4,
+        "basis": "documented",
+        "reason": "Largest US political donor of 2024 (over $290 million) and of the 2026 midterms (about $445 million). Led the DOGE cost-cutting effort in 2025, which targeted agencies holding contracts with his companies; those companies received at least $38 billion in public contracts, loans, subsidies and tax credits. He and America PAC settled voter suits over the 2024 $1 million giveaway in 2026, without disclosed terms or a finding of liability.",
+        "finding_ids": ["f7", "f8", "f9"]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level problems are documented: a jury found Tesla partly responsible for a fatal Autopilot crash (2025, upheld 2026); California is trying a race-discrimination case over Tesla’s Fremont plant, which Tesla denies; the EU fined X €120 million in 2025 under the Digital Services Act and is investigating sexualised Grok images on X. None is a personal finding.",
+        "finding_ids": ["f10", "f11", "f12", "f14"]
+      },
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Personal civil liability: a San Francisco jury found him liable in March 2026 for misleading Twitter shareholders; the judgment is on appeal. Charged by the SEC with securities fraud in 2018 over Tesla tweets, he paid a $20 million personal penalty without admitting wrongdoing; settled a second SEC case in 2026 ($1.5 million), also without admission. Won a 2023 investor trial and, in 2025, the appeal restoring his Tesla pay package.",
+        "finding_ids": ["f1", "f2", "f3", "f4", "f5", "f11", "f12", "f14"]
+      },
+      "unresolved": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Named defendant in pending matters: his appeal of the Twitter shareholder judgment, and the giveaway settlements awaiting court approval. The January 2026 Epstein files include 2012–2013 emails in which he discussed visiting Epstein’s island, which contradicts his earlier statement that he refused. He says the emails are misinterpreted. No authority has accused him of a crime. Millions of identified pages remain unreleased.",
+        "finding_ids": ["f1", "f6", "f9", "f10", "f15"]
+      }
+    },
+    "counterweights": "",
+    "rationale": "No value changes. Legal stays 3 (R2: personal SEC penalty; personal civil judgment, now on appeal). Unresolved stays 3 (R6: named defendant in pending matters, plus Epstein documents). Social: 2 now documented on company-level findings; the fatal-crash verdict could argue for 3 but is one case. The 2024 figure is given as over $290m: OpenSecrets could not be opened, sources give $290–291m. Counterweights kept: the EV and launch-cost text could not be re-sourced independently, and the foundation’s giving went mostly to his own entities."
+  }
+}
