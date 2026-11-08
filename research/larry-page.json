@@ -1,0 +1,567 @@
+{
+  "id": 2,
+  "slug": "larry-page",
+  "name": "Larry Page",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Google search antitrust appeal Mehta remedies D.C. Circuit 2026",
+    "Brinkema ad tech remedies ruling Google 2026",
+    "justice.gov Google ad tech remedies decision Eastern District of Virginia September 2026",
+    "Epic v. Google settlement Judge Donato approved 2026 Play Store",
+    "Alphabet shareholder derivative settlement $500 million compliance antitrust Page Brin defendants",
+    "Larry Page California billionaire tax move Florida 2026",
+    "California billionaire tax ballot measure November 2026 result Proposition opposition donors Page Brin",
+    "Larry Page political donations FEC contributions",
+    "Reuters Google appeals search monopoly ruling January 2026 notice of appeal Mehta",
+    "Larry Page subpoena Virgin Islands Epstein JPMorgan",
+    "Epstein files 2026 Larry Page Google co-founder emails mention",
+    "CNBC Virgin Islands Larry Page subpoena Epstein Rakoff alternative service 2023",
+    "\"Alphabet\" derivative settlement final approval Judge Rita Lin $500 million compliance",
+    "Donato Epic Google settlement ruling injunction modified 2026 hearing outcome",
+    "Court of Justice judgment Google Android €4.1 billion fine appeal 2026 C-738/22",
+    "European Commission fines Google €2.95 billion adtech press release September 2025",
+    "Court of Justice upholds €2.4 billion Google Shopping fine 10 September 2024",
+    "General Court annuls Google AdSense €1.49 billion fine September 2024",
+    "Commission appeal AdSense annulment Google Court of Justice C- 2024 appeal lodged",
+    "Google AdSense fine Court of Justice hearing July 2026 Commission appeal Reuters Foo Yun Chee",
+    "Texas Attorney General Google $1.375 billion settlement privacy May 2025",
+    "YouTube settles Trump lawsuit $24.5 million ballroom Trust for the National Mall",
+    "OpenSecrets Alphabet Inc lobbying 2025 total federal",
+    "Alphabet proxy statement 2026 Larry Page Sergey Brin combined voting power percent Class B",
+    "Google 2025 environmental report emissions rose 51% since 2019 data centre electricity carbon-free energy",
+    "Google 2026 environmental report emissions ambition-based total",
+    "ProPublica Nonprofit Explorer Carl Victor Page Memorial Foundation",
+    "\"Carl Victor Page Memorial Foundation\" 990-PF grants Fidelity Charitable donor-advised",
+    "site:projects.propublica.org \"Carl Victor Page\"",
+    "California billionaire tax election results November 4 2026 voters rejected approved",
+    "Larry Page donated campaign against billionaire tax California committee contribution",
+    "justice.gov Department of Justice prevails in landmark antitrust case against Google ad tech April 17 2025",
+    "Alphabet settles shareholder lawsuits sexual harassment $310 million Page Brin defendants 2020",
+    "D.C. Circuit oral argument Google search monopoly appeal date scheduled",
+    "Larry Page foundation \"Carl Victor Page\" donor-advised funds billions Chronicle of Philanthropy OR Bloomberg OR \"Inside Philanthropy\""
+  ],
+  "sources": [
+    {
+      "id": "doj-search-remedies",
+      "label": "U.S. DOJ: Google search monopoly remedies (2025)",
+      "url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+      "publisher": "U.S. Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2025-09-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberg-search-appeal",
+      "label": "Bloomberg: Google appeals ruling that it illegally monopolized search (2026)",
+      "url": "https://www.spokesman.com/stories/2026/jan/16/google-to-appeal-us-court-ruling-of-illegal-monopo/",
+      "publisher": "Bloomberg (via The Spokesman-Review)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "silicon-doj-appeal",
+      "label": "Silicon UK: DOJ and states appeal Google search remedies (2026)",
+      "url": "https://www.silicon.co.uk/e-regulation/legal/doj-states-google-appeal-628612",
+      "publisher": "Silicon UK",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "doj-adtech-liability",
+      "label": "U.S. DOJ: Court rules Google monopolized ad tech markets (2025)",
+      "url": "https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google",
+      "publisher": "U.S. Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2025-04-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-adtech-remedies",
+      "label": "Reuters: Judge orders Google ad tech changes, rejects AdX sale (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds",
+      "publisher": "Reuters (via The Star)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-epic-settlement",
+      "label": "AP: Epic Games and Google settle Android app store fight (2025)",
+      "url": "https://abc7news.com/post/fortnite-maker-epic-games-google-say-settling-5-year-legal-fight-android-app-store/18116677/",
+      "publisher": "Associated Press (via ABC7 News)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-11-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "pymnts-play-settlement",
+      "label": "PYMNTS: Judge approves Google $700 million Play Store settlement (2026)",
+      "url": "https://www.pymnts.com/cpi-posts/judge-approves-googles-700-million-play-store-settlement/",
+      "publisher": "PYMNTS / CPI",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "euronews-shopping",
+      "label": "Euronews: Google loses €2.4bn EU Shopping case (2024)",
+      "url": "https://www.euronews.com/2024/09/10/google-loses-24-bn-eu-antitrust-case-for-favouring-its-own-shopping-service",
+      "publisher": "Euronews",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-09-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "euronews-android",
+      "label": "Euronews: EU top court upholds €4.1bn Google Android fine (2026)",
+      "url": "https://www.euronews.com/my-europe/2026/07/02/eu-court-of-justice-rejects-googles-appeal-against-record-41-billion-fine",
+      "publisher": "Euronews",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gazette-eu-adtech",
+      "label": "Law Society Gazette: EU fines Google €2.95bn over adtech (2025)",
+      "url": "https://www.lawsociety.ie/gazette/top-stories/2025/september/eu-fines-google-2.95-billion-for-ad-breaches",
+      "publisher": "Law Society of Ireland Gazette",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "rte-adsense",
+      "label": "RTÉ: EU court annuls €1.49bn Google AdSense fine (2024)",
+      "url": "https://www.rte.ie/news/business/2024/0918/1470639-eu-court-annuls-1-5-billion-google-antitrust-fine",
+      "publisher": "RTÉ",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-09-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-adsense-appeal",
+      "label": "Reuters: Google urges EU top court to back AdSense ruling (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/15/google-urges-eu-top-court-to-back-ruling-scrapping-17-billion-antitrust-fine",
+      "publisher": "Reuters (via The Star)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "kron-texas",
+      "label": "KRON4: Google to pay Texas $1.375 billion in privacy settlement (2025)",
+      "url": "https://www.yahoo.com/news/google-pay-texas-more-1-011119296.html",
+      "publisher": "KRON4 / Nexstar (via Yahoo News)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "techmonitor-texas",
+      "label": "Tech Monitor: Google $1.38bn Texas data privacy settlement (2025)",
+      "url": "https://www.techmonitor.ai/digital-economy/big-tech/google-1-38bn-settlement-texas-data-privacy",
+      "publisher": "Tech Monitor",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-derivative-2025",
+      "label": "Reuters: Google to spend $500 million on compliance in shareholder deal (2025)",
+      "url": "https://amp.insurancejournal.com/news/national/2025/06/02/825966.htm",
+      "publisher": "Reuters (via Insurance Journal)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-06-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberglaw-derivative-judgment",
+      "label": "Bloomberg Law: Alphabet investor suit ends after $500 million reform deal (2025)",
+      "url": "https://news.bloomberglaw.com/litigation/alphabet-investor-suit-ends-after-500-million-deal-for-reforms",
+      "publisher": "Bloomberg Law",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-10-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cnbc-derivative-2020",
+      "label": "CNBC: Alphabet settles shareholder suits over misconduct handling (2020)",
+      "url": "https://www.cnbc.com/2020/09/25/read-google-ceo-sundar-pichais-email-after-misconduct-settlement.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-09-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nbc-derivative-2020",
+      "label": "NBC News: Alphabet settles shareholder suit over sexual misconduct (2020)",
+      "url": "https://www.nbcnews.com/tech/tech-news/alphabet-settles-shareholder-lawsuit-alleged-mishandling-sexual-miscon-rcna139",
+      "publisher": "NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-09-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "foxbusiness-usvi",
+      "label": "Fox Business: Virgin Islands seeks to serve Larry Page in Epstein suit (2023)",
+      "url": "https://www.foxbusiness.com/features/jeffrey-epstein-related-suit-virgin-islands-says-it-cant-find-google-co-founder-larry-page",
+      "publisher": "Fox Business",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-05-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cbs-youtube-trump",
+      "label": "CBS News: YouTube to pay $22 million toward White House ballroom (2025)",
+      "url": "https://www.cbsnews.com/news/youtube-settles-trump-lawsuit-white-house-ballroom",
+      "publisher": "CBS News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-lobbying",
+      "label": "Fortune: Big Tech lobbying spending in Q1 2026 (2026)",
+      "url": "https://fortune.com/2026/04/23/big-tech-lobbying-spending-q1-2026/",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-proxy-2026",
+      "label": "SEC: Alphabet 2026 proxy statement (DEF 14A) (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817926000342/goog-20260424.htm",
+      "publisher": "Alphabet Inc. (filed with the SEC)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-04-24",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "esgtoday-env-2026",
+      "label": "ESG Today: Google says climate goals getting harder (2026)",
+      "url": "https://www.esgtoday.com/google-cuts-operational-emissions-but-says-moonshot-climate-goals-getting-harder/",
+      "publisher": "ESG Today",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-01",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "npq-foundation",
+      "label": "Nonprofit Quarterly: Larry Page and donor-advised funds (2019)",
+      "url": "https://nonprofitquarterly.org/larry-page-makes-a-good-case-for-the-regulation-of-donor-advised-funds/",
+      "publisher": "Nonprofit Quarterly",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2019-12-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "causeiq-foundation",
+      "label": "Cause IQ: Carl Victor Page Memorial Foundation, Form 990-PF data",
+      "url": "https://causeiq.com/organizations/carl-victor-page-memorial-foundation,201922957",
+      "publisher": "Cause IQ (IRS Form 990-PF data)",
+      "publisher_type": "other",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A federal court in Washington ruled in August 2024 that Google illegally maintained a monopoly in search, and in September 2025 barred exclusive distribution deals and ordered data sharing with rivals, without forcing a Chrome sale. Google appealed in January 2026 and the DOJ and 35 states and territories appealed the remedies as too weak; the D.C. Circuit has not ruled.",
+      "evidence_type": "final_ruling",
+      "date": "2026-02-04",
+      "source_ids": [
+        "doj-search-remedies",
+        "bloomberg-search-appeal",
+        "silicon-doj-appeal"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A federal court in Virginia ruled in April 2025 that Google illegally monopolized open-web advertising technology markets. Its remedies opinion, unsealed in September 2026, rejected the DOJ's demand to sell AdX and ordered six years of conduct changes and a compliance monitor; Google said it would appeal the liability ruling.",
+      "evidence_type": "final_ruling",
+      "date": "2026-09-16",
+      "source_ids": [
+        "doj-adtech-liability",
+        "reuters-adtech-remedies"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "A jury found Google's Android app store an illegal monopoly in Epic Games' suit, and the Ninth Circuit unanimously upheld the verdict in July 2025; Epic and Google filed a settlement in November 2025. Separately, a judge gave final approval in August 2026 to a $700 million Play Store settlement with all states and consumers, in which Google denies wrongdoing.",
+      "evidence_type": "final_ruling",
+      "date": "2026-08-19",
+      "source_ids": [
+        "ap-epic-settlement",
+        "pymnts-play-settlement"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In September 2024 the EU Court of Justice dismissed Google's final appeal and upheld the €2.4 billion fine the European Commission imposed in 2017 for favouring its own Shopping service in search results over rival comparison sites.",
+      "evidence_type": "final_ruling",
+      "date": "2024-09-10",
+      "source_ids": [
+        "euronews-shopping"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google and Alphabet",
+      "claim": "In July 2026 the EU Court of Justice dismissed the appeal of Google and Alphabet and confirmed a fine of about €4.1 billion, as reduced by the General Court in 2022, over Android deals with phone makers that the Commission found favoured Google Search and Chrome.",
+      "evidence_type": "final_ruling",
+      "date": "2026-07-02",
+      "source_ids": [
+        "euronews-android"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In September 2025 the European Commission fined Google €2.95 billion, finding it had abused dominant positions in ad tech since at least 2014 by favouring its own AdX exchange. The Commission said only a sale of part of the business would end the conflict of interest; Google called the fine unjustified and said it would appeal.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2025-09-08",
+      "source_ids": [
+        "gazette-eu-adtech"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "counterweight",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In September 2024 the EU General Court annulled the €1.49 billion fine imposed in 2019 over Google's AdSense contracts, while agreeing with most of the Commission's assessment. The Commission appealed; the Court of Justice heard the case in July 2026 and has not ruled.",
+      "evidence_type": "final_ruling",
+      "date": "2026-07-15",
+      "source_ids": [
+        "rte-adsense",
+        "reuters-adsense-appeal"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Google",
+      "claim": "In May 2025 Google agreed to pay Texas $1.375 billion to settle two 2022 state lawsuits alleging it tracked users' location, incognito searches and biometric data such as voiceprints without authorization. No admission of wrongdoing was reported.",
+      "evidence_type": "settlement",
+      "date": "2025-05-10",
+      "source_ids": [
+        "kron-texas",
+        "techmonitor-texas"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Larry Page",
+      "claim": "Page, Brin and CEO Sundar Pichai were among Alphabet officials named in shareholder derivative suits alleging they breached fiduciary duties by exposing the company to antitrust liability. In 2025 Alphabet agreed to spend $500 million over ten years on compliance reforms, with no payment to shareholders; Google denied wrongdoing and a federal judge entered judgment in October 2025.",
+      "evidence_type": "settlement",
+      "date": "2025-10-23",
+      "source_ids": [
+        "reuters-derivative-2025",
+        "bloomberglaw-derivative-judgment"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Larry Page",
+      "claim": "Page and Brin were among executives named in 2019 shareholder suits alleging Alphabet's board shielded senior executives accused of sexual misconduct. Alphabet settled in September 2020 by committing $310 million over ten years to diversity initiatives and changing severance, arbitration and NDA policies; no personal payment or admission was reported.",
+      "evidence_type": "settlement",
+      "date": "2020-09-25",
+      "source_ids": [
+        "cnbc-derivative-2020",
+        "nbc-derivative-2020"
+      ]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "individual",
+      "entity": "Larry Page",
+      "claim": "In April and May 2023 the US Virgin Islands sought documents from Page by subpoena in its suit against JPMorgan over Jeffrey Epstein, describing him as someone Epstein may have referred or tried to refer to the bank, and asked the court to allow service through Alphabet. No wrongdoing was alleged against Page; no response from him was reported.",
+      "evidence_type": "investigative_reporting",
+      "date": "2023-05-07",
+      "source_ids": [
+        "foxbusiness-usvi"
+      ]
+    },
+    {
+      "id": "f12",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "YouTube / Alphabet",
+      "claim": "In September 2025 YouTube and Alphabet agreed to pay $24.5 million to settle Donald Trump's suit over his 2021 account suspension, $22 million of it to the trust funding the White House ballroom; CBS also reported that Google donated to the ballroom, amount not stated. Alphabet spent $4.13 million on federal lobbying in the first quarter of 2026.",
+      "evidence_type": "settlement",
+      "date": "2026-04-23",
+      "source_ids": [
+        "cbs-youtube-trump",
+        "fortune-lobbying"
+      ]
+    },
+    {
+      "id": "f13",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "individual",
+      "entity": "Larry Page",
+      "claim": "Alphabet's 2026 proxy statement lists Page with 46.5% of the ten-vote Class B stock and 27.4% of total voting power, and Sergey Brin with 25.3%, a majority together. Page is a director and chairs the board's executive committee; the board opposed a shareholder proposal for equal voting.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-04-24",
+      "source_ids": [
+        "sec-proxy-2026"
+      ]
+    },
+    {
+      "id": "f14",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Google",
+      "claim": "Google's 2026 environmental report says its electricity use rose 37% in 2025, its largest increase, and supply-chain (scope 3) emissions, about 80% of its total, rose 25%, while operational emissions fell 2%. It reports matching all its electricity use with renewable purchases and says reaching its climate goals is getting harder.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-07-01",
+      "source_ids": [
+        "esgtoday-env-2026"
+      ]
+    },
+    {
+      "id": "f15",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Carl Victor Page Memorial Foundation",
+      "claim": "Form 990-PF data for 2024 list grants by Page's family foundation including $235 million to National Philanthropic Trust, a donor-advised fund that need not disclose onward grants, $10 million to Climate Breakthrough and $6 million to Windward Fund. Nonprofit Quarterly reported in 2019 that 99.5% of its payouts in 2017 went to donor-advised funds.",
+      "evidence_type": "documented_giving",
+      "date": "2024-12",
+      "source_ids": [
+        "causeiq-foundation",
+        "npq-foundation"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Data centres and electronics supply chains: an indirect footprint. Google reports that its electricity use rose 37% in 2025, its largest increase, and that supply-chain emissions, about 80% of its total, rose 25% while operational emissions fell 2%. It reports matching all its electricity use with renewable purchases and says its climate goals are getting harder to reach.",
+        "finding_ids": [
+          "f14"
+        ]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Page holds 27.4% of Alphabet's voting power and, with Sergey Brin, a majority, so the two control YouTube. In 2025 YouTube agreed to pay $24.5 million to settle Donald Trump's suit over his account suspension, $22 million of it to the White House ballroom trust; Google also gave to the ballroom, amount not stated. Alphabet's federal lobbying was $4.13 million in early 2026. No personal political donations by Page were found.",
+        "finding_ids": [
+          "f12",
+          "f13"
+        ]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising technology (2025), and a jury found its Android app store an illegal monopoly, upheld on appeal in 2025. EU courts upheld fines for favouring its own services. Google agreed in 2025 to pay Texas $1.375 billion over alleged tracking of location and biometric data. These are company acts.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f5",
+          "f8"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level court findings: US monopoly rulings in search, ad tech and app distribution; EU fines of €2.4 billion (Shopping) and €4.1 billion (Android) upheld as final; a €2.95 billion EU ad tech fine under appeal; a €1.49 billion AdSense fine annulled in 2024. Settlements of $1.375 billion (Texas) and $700 million (Play Store). Page was named in shareholder suits settled in 2020 and 2025 with reforms paid by Alphabet; no personal penalty or finding.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f4",
+          "f5",
+          "f6",
+          "f7",
+          "f8",
+          "f9",
+          "f10"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Pending at company level: Google's appeal and the DOJ's cross-appeal in the search case, Google's announced appeals in the US ad tech case and against the €2.95 billion EU ad tech fine, and the Commission's appeal over AdSense. In 2023 the US Virgin Islands sought documents from Page in its Epstein-related suit against JPMorgan; no wrongdoing was alleged against him and no response was reported. No pending case names him.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f6",
+          "f7",
+          "f11"
+        ]
+      }
+    },
+    "counterweights": "Page's family foundation, the Carl Victor Page Memorial Foundation, reported 2024 grants including $235 million to a donor-advised fund, which need not disclose onward grants, $10 million to Climate Breakthrough and $6 million to Windward Fund.",
+    "rationale": "Politics 1→2: largest single holder of Alphabet votes, controlling YouTube with Brin (Zuckerberg precedent: platform control), plus a company payment to the ballroom fund via the Trump settlement (Huang precedent); 1 is arguable since no personal giving was found. Unresolved 0→2: several pending company appeals; he is not a named defendant in a pending case (R6), and the 2023 subpoena alleged nothing. Legal stays 2 (R5); the derivative suits named him but cost him nothing."
+  }
+}
