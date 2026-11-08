@@ -423,7 +423,7 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Larry Page",
-      "claim": "Page and Brin were among executives named in 2019 shareholder suits alleging Alphabet's board shielded senior executives accused of sexual misconduct. Alphabet settled in September 2020 by committing $310 million over ten years to diversity initiatives and changing severance, arbitration and NDA policies; no personal payment or admission was reported.",
+      "claim": "Page and Brin were among executives named in a 2019 shareholder suit alleging that Alphabet's board shielded senior executives accused of sexual misconduct. Alphabet settled in September 2020 by committing $310 million over ten years to diversity initiatives and changing severance, arbitration and NDA policies; no personal payment or admission was reported.",
       "evidence_type": "settlement",
       "date": "2020-09-25",
       "source_ids": [
@@ -437,9 +437,9 @@
       "theme": "epstein",
       "level": "individual",
       "entity": "Larry Page",
-      "claim": "In April and May 2023 the US Virgin Islands sought documents from Page by subpoena in its suit against JPMorgan over Jeffrey Epstein, describing him as someone Epstein may have referred or tried to refer to the bank, and asked the court to allow service through Alphabet. No wrongdoing was alleged against Page; no response from him was reported.",
+      "claim": "In May 2023 the US Virgin Islands told a federal court in New York it had been unable to serve Page with a subpoena for documents in its suit against JPMorgan over Jeffrey Epstein, describing him as someone Epstein may have referred or tried to refer to the bank, and asked to serve him through Alphabet. The report alleged no wrongdoing by Page and carried no comment from him.",
       "evidence_type": "investigative_reporting",
-      "date": "2023-05-07",
+      "date": "2023-05",
       "source_ids": [
         "foxbusiness-usvi"
       ]
@@ -490,7 +490,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Carl Victor Page Memorial Foundation",
-      "claim": "Form 990-PF data for 2024 list grants by Page's family foundation including $235 million to National Philanthropic Trust, a donor-advised fund that need not disclose onward grants, $10 million to Climate Breakthrough and $6 million to Windward Fund. Nonprofit Quarterly reported in 2019 that 99.5% of its payouts in 2017 went to donor-advised funds.",
+      "claim": "Form 990-PF data for 2024 list grants by Page's family foundation including $235 million to a donor-advised fund at National Philanthropic Trust, $10 million to Climate Breakthrough and $6 million to Windward Fund. Nonprofit Quarterly reported in 2019 that 99.5% of its 2017 payouts went to donor-advised funds, whose onward grants it said cannot be tracked.",
       "evidence_type": "documented_giving",
       "date": "2024-12",
       "source_ids": [
@@ -512,7 +512,7 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Page holds 27.4% of Alphabet's voting power and, with Sergey Brin, a majority, so the two control YouTube. In 2025 YouTube agreed to pay $24.5 million to settle Donald Trump's suit over his account suspension, $22 million of it to the White House ballroom trust; Google also gave to the ballroom, amount not stated. Alphabet's federal lobbying was $4.13 million in early 2026. No personal political donations by Page were found.",
+        "reason": "Page holds 27.4% of Alphabet's voting power and Sergey Brin 25.3%, together a majority of votes in YouTube's parent. In 2025 YouTube and Alphabet agreed to pay $24.5 million to settle Donald Trump's suit over his account suspension, $22 million of it to the trust funding the White House ballroom; CBS reported that Google also gave to the ballroom, amount not stated. Alphabet's federal lobbying was $4.13 million in early 2026. This research found no personal political donations by Page.",
         "finding_ids": [
           "f12",
           "f13"
@@ -521,7 +521,7 @@
       "social": {
         "value": 3,
         "basis": "documented",
-        "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising technology (2025), and a jury found its Android app store an illegal monopoly, upheld on appeal in 2025. EU courts upheld fines for favouring its own services. Google agreed in 2025 to pay Texas $1.375 billion over alleged tracking of location and biometric data. These are company acts.",
+        "reason": "US courts found that Google illegally maintained monopolies in search (2024) and online advertising technology (2025), both under appeal, and a jury found its Android app store an illegal monopoly, upheld on appeal in 2025. EU courts upheld fines for favouring its own services. Google agreed in 2025 to pay Texas $1.375 billion over alleged tracking of location and biometric data. These are company acts.",
         "finding_ids": [
           "f1",
           "f2",
@@ -551,7 +551,7 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "Pending at company level: Google's appeal and the DOJ's cross-appeal in the search case, Google's announced appeals in the US ad tech case and against the €2.95 billion EU ad tech fine, and the Commission's appeal over AdSense. In 2023 the US Virgin Islands sought documents from Page in its Epstein-related suit against JPMorgan; no wrongdoing was alleged against him and no response was reported. No pending case names him.",
+        "reason": "Pending at company level: Google's appeal and the DOJ's cross-appeal in the search case, Google's announced appeals in the US ad tech case and against the €2.95 billion EU ad tech fine, and the Commission's appeal over AdSense. In May 2023 the US Virgin Islands asked a court to let it serve Page through Alphabet with a subpoena for documents in its Epstein-related suit against JPMorgan; the report alleged no wrongdoing by him. No pending case names him.",
         "finding_ids": [
           "f1",
           "f2",
@@ -561,7 +561,88 @@
         ]
       }
     },
-    "counterweights": "Page's family foundation, the Carl Victor Page Memorial Foundation, reported 2024 grants including $235 million to a donor-advised fund, which need not disclose onward grants, $10 million to Climate Breakthrough and $6 million to Windward Fund.",
-    "rationale": "Politics 1→2: largest single holder of Alphabet votes, controlling YouTube with Brin (Zuckerberg precedent: platform control), plus a company payment to the ballroom fund via the Trump settlement (Huang precedent); 1 is arguable since no personal giving was found. Unresolved 0→2: several pending company appeals; he is not a named defendant in a pending case (R6), and the 2023 subpoena alleged nothing. Legal stays 2 (R5); the derivative suits named him but cost him nothing."
+    "counterweights": "Page's family foundation, the Carl Victor Page Memorial Foundation, reported 2024 grants including $235 million to a donor-advised fund, whose onward grants are not public, $10 million to Climate Breakthrough and $6 million to Windward Fund.",
+    "rationale": "Politics 1→2: largest single holder of Alphabet votes, a majority with Brin (Zuckerberg precedent: platform control), plus a company payment to the ballroom fund via the Trump settlement (Huang precedent); 1 is arguable since no personal giving was found. Unresolved 0→2: several pending company appeals; he is not a named defendant in a pending case (R6), and the 2023 subpoena filing alleged no wrongdoing by him. Legal stays 2 (R5); the derivative suits named him but cost him nothing."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "DOJ release confirms Aug 2024 liability ruling and Sept 2025 remedies (exclusive deals barred, data sharing, no Chrome sale); Bloomberg confirms Google notice of appeal 16 Jan 2026; Silicon UK confirms DOJ and 35 of 38 states and territories appealed remedies, D.C. Circuit yet to rule. Searches found no D.C. Circuit decision as of 2026-11-08."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "DOJ release confirms April 2025 liability ruling (open-web ad markets); Reuters confirms 106-page remedies opinion unsealed 16 Sept 2026, AdX sale rejected, six years of changes, internal compliance monitor, Google to appeal liability. Final judgment was not yet entered at that date; the claim does not say otherwise."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "AP confirms jury verdict, unanimous Ninth Circuit affirmance in July 2025, and joint settlement filing on 4 Nov 2025 that still needed Judge Donato's approval; the claim correctly does not say it was approved. CPI/PYMNTS (citing MLex) confirms final approval of the $700m settlement with all 50 states, DC, PR, USVI and consumers, Google denying wrongdoing."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Euronews confirms 10 Sept 2024 Court of Justice dismissal and the 2017 €2.4bn Shopping fine."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Euronews confirms 2 July 2026 Court of Justice dismissal of Google and Alphabet appeal, fine as reduced to €4.1bn by the General Court in 2022, pre-installation deals favouring Search and Chrome."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Gazette confirms €2.95bn fine on 8 Sept 2025, abuse since at least 2014 favouring AdX, Commission view that only a sell-off would resolve conflicts, Google to appeal."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "RTÉ confirms 18 Sept 2024 annulment of €1.49bn 2019 fine with the court mostly agreeing with the Commission; Reuters confirms Commission appeal (C-826/24 P) heard 15 July 2026, ruling pending."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "KRON4 and Tech Monitor confirm $1.375bn, two 2022 suits, alleged tracking of location, incognito and biometric data; no admission reported."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Reuters confirms Pichai, Brin and Page named, fiduciary-duty claims over antitrust exposure, $500m over ten years, no payment to shareholders, Google denied wrongdoing; Bloomberg Law confirms Judge Lin entered final judgment 22 Oct 2025."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: \"2019 shareholder suits\" changed to \"a 2019 shareholder suit\", as both sources describe one suit. CNBC says Page and Brin were among executives named in it (NBC does not name them); NBC confirms $310m over ten years and the policy changes; no personal payment or admission reported."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Rewritten: dropped \"April and\" (the Fox Business report dates only the May 2023 motion) and recast to state only what is documented: the USVI said it could not serve Page with a document subpoena, quoted the filing's description of him, and asked to serve via Alphabet. \"No wrongdoing was alleged\" changed to \"the report alleged no wrongdoing\", since the source does not state this explicitly. Fox Business (Fox Corporation) is a major outlet; date set to 2023-05."
+      },
+      {
+        "finding_id": "f12",
+        "verdict": "supported",
+        "comment": "CBS confirms 29 Sept 2025 settlement by YouTube and Alphabet, $24.5m total, about $22m to the Trust for the National Mall for the ballroom, and that Google gave to the ballroom per sources, no amount. CBS does not mention Page; the finding is correctly company-level. Fortune confirms Alphabet Q1 2026 lobbying of $4.13m."
+      },
+      {
+        "finding_id": "f13",
+        "verdict": "supported",
+        "comment": "Proxy (DEF 14A, 24 Apr 2026) confirms Page 46.5% of Class B and 27.4% of total voting power, Brin 25.3%; \"majority together\" is the sum (52.7%), not a figure the proxy states. Confirms Page director and Executive Committee chair, board recommends against equal-voting proposal 7."
+      },
+      {
+        "finding_id": "f14",
+        "verdict": "supported",
+        "comment": "ESG Today confirms 37% electricity rise (largest reported), scope 3 about 80% of total and up 25%, scope 1 and 2 down 2%, 100% renewable matching, goals getting harder."
+      },
+      {
+        "finding_id": "f15",
+        "verdict": "supported",
+        "comment": "Rewritten: \"a donor-advised fund that need not disclose onward grants\" replaced by NPQ's own point that DAF onward grants cannot be tracked; NPT described as holding a donor-advised fund, as Cause IQ lists it. Cause IQ confirms the three FY2024 grants ($235m, $10m, $6m); its $102.7m \"grants, contributions\" line is revenue received, not a conflicting payout total. NPQ confirms the foundation is Page's and the 99.5% figure for 2017."
+      }
+    ],
+    "passed": true
   }
 }
