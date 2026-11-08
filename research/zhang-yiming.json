@@ -84,19 +84,19 @@
     },
     {
       "id": "reuters-jv",
-      "label": "Reuters (via The Standard): TikTok clinches deal for new US joint venture (2026)",
-      "url": "https://www.thestandard.com.hk/world/article/322444/TikTok-clinches-deal-for-new-US-joint-venture-to-avoid-American-ban",
-      "publisher": "Reuters, republished by The Standard (Hong Kong)",
+      "label": "Reuters (via Yahoo Finance): TikTok seals deal for new US joint venture (2026)",
+      "url": "https://finance.yahoo.com/news/tiktok-reaches-deal-us-joint-010506658.html",
+      "publisher": "Reuters (David Shepardson), republished by Yahoo Finance",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026-01-23",
+      "published": "2026-01-22",
       "accessed": "2026-11-08"
     },
     {
       "id": "bloomberg-stake",
       "label": "Bloomberg (via BusinessDay): Beijing takes stake and board seat in ByteDance unit (2021)",
       "url": "https://www.businessday.co.za/bd/companies/2021-08-17-beijing-tightens-grip-with-1-stake-and-seat-on-board-of-bytedance-unit/",
-      "publisher": "Bloomberg News, republished by BusinessDay",
+      "publisher": "Bloomberg News (Zheping Huang), republished by BusinessDay",
       "publisher_type": "press",
       "names_subject": true,
       "published": "2021-08-17",
@@ -106,7 +106,7 @@
       "id": "bloomberg-gift",
       "label": "Bloomberg (via The Star): ByteDance founder donates $77 million to education fund (2021)",
       "url": "https://www.thestar.com.my/tech/tech-news/2021/06/22/bytedance-founder-donates-us77mil-to-education-fund",
-      "publisher": "Bloomberg News, republished by The Star (Malaysia)",
+      "publisher": "Bloomberg News (Zheping Huang), republished by The Star (Malaysia)",
       "publisher_type": "press",
       "names_subject": true,
       "published": "2021-06-22",
@@ -120,10 +120,13 @@
       "theme": "platforms",
       "level": "company",
       "entity": "TikTok Technology Limited (ByteDance group)",
-      "claim": "In May 2025 Ireland's data regulator fined TikTok €530 million, finding it had not shown that EEA user data accessed remotely by staff in China was protected to EU standards, and that its privacy notice did not name China. The regulator also said TikTok had told the inquiry no EEA data was stored in China, which TikTok later corrected; the fine is under appeal.",
+      "claim": "In May 2025 Ireland's data regulator announced a €530 million fine on TikTok, finding it had not shown that EEA user data accessed remotely by staff in China was protected to EU standards, and that its privacy notice did not name China. It also said TikTok had told the inquiry no EEA data was stored in China, which TikTok later corrected; the fine is pending appeal.",
       "evidence_type": "regulatory_penalty",
       "date": "2025-05-02",
-      "source_ids": ["dpc-2025", "dpc-fines"]
+      "source_ids": [
+        "dpc-2025",
+        "dpc-fines"
+      ]
     },
     {
       "id": "f2",
@@ -134,7 +137,10 @@
       "claim": "In September 2023 Ireland's data regulator fined TikTok €345 million for GDPR breaches concerning child users in the second half of 2020, including public-by-default account settings and age verification. TikTok has appealed the decision.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-09-01",
-      "source_ids": ["dpc-2023", "dpc-fines"]
+      "source_ids": [
+        "dpc-2023",
+        "dpc-fines"
+      ]
     },
     {
       "id": "f3",
@@ -145,7 +151,9 @@
       "claim": "In August 2026 TikTok, ByteDance and affiliates agreed to pay $400 million to resolve a 2024 US Justice Department suit over compliance with the children's online privacy law (COPPA). The department states the claims are allegations only and there has been no determination of liability.",
       "evidence_type": "settlement",
       "date": "2026-08-21",
-      "source_ids": ["doj-2026"]
+      "source_ids": [
+        "doj-2026"
+      ]
     },
     {
       "id": "f4",
@@ -156,7 +164,9 @@
       "claim": "In November 2026 the European Commission preliminarily found TikTok's 'For You' feed in breach of the Digital Services Act over 'rabbit hole' effects, after preliminary findings on addictive design (February 2026) and minors' safety (July 2026). The proceedings are open; findings do not prejudge the outcome, and a final decision could carry a fine of up to 6% of turnover.",
       "evidence_type": "pending_case",
       "date": "2026-11-06",
-      "source_ids": ["ec-2026"]
+      "source_ids": [
+        "ec-2026"
+      ]
     },
     {
       "id": "f5",
@@ -164,10 +174,13 @@
       "theme": "politics",
       "level": "company",
       "entity": "ByteDance Ltd.",
-      "claim": "In January 2025 the US Supreme Court unanimously upheld the law requiring TikTok's US operation to be severed from ByteDance, noting a congressional report that ByteDance is subject to Chinese laws requiring cooperation with state intelligence work. A US joint venture was set up in January 2026, with ByteDance keeping a 19.9% stake.",
+      "claim": "In January 2025 the US Supreme Court unanimously upheld a law barring TikTok in the US unless its US operation was severed from Chinese control, noting a congressional report that ByteDance is subject to Chinese laws requiring cooperation with state intelligence work. ByteDance said in January 2026 it had finalised a US joint venture, keeping a 19.9% stake, Reuters reported.",
       "evidence_type": "final_ruling",
       "date": "2025-01-17",
-      "source_ids": ["scotus-2025", "reuters-jv"]
+      "source_ids": [
+        "scotus-2025",
+        "reuters-jv"
+      ]
     },
     {
       "id": "f6",
@@ -178,7 +191,9 @@
       "claim": "In April 2021 an entity owned by three Chinese state bodies, including a fund controlled by the internet regulator, bought 1% of Beijing ByteDance Technology with the right to appoint one of its three directors, Bloomberg reported. The stake is in a domestic subsidiary, not in TikTok or the group's parent company.",
       "evidence_type": "investigative_reporting",
       "date": "2021-04-30",
-      "source_ids": ["bloomberg-stake"]
+      "source_ids": [
+        "bloomberg-stake"
+      ]
     },
     {
       "id": "f7",
@@ -189,7 +204,9 @@
       "claim": "In June 2021 Zhang Yiming transferred 500 million yuan (about $77 million) of his own money to the Fangmei Educational Development Fund in his home city of Longyan, for teacher training, education technology and dormitories, according to the local education bureau as reported by Bloomberg. How the fund has spent it is not documented here.",
       "evidence_type": "documented_giving",
       "date": "2021-06-22",
-      "source_ids": ["bloomberg-gift"]
+      "source_ids": [
+        "bloomberg-gift"
+      ]
     }
   ],
   "proposal": {
@@ -197,29 +214,85 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "The US Supreme Court upheld a law forcing ByteDance to give up control of TikTok in the US, citing ByteDance's exposure to Chinese laws on cooperation with state intelligence; a US joint venture was formed in 2026, with ByteDance keeping 19.9%. Chinese state bodies hold 1% and a board seat in ByteDance's main domestic subsidiary. These are company-level facts; no personal political act by Zhang Yiming is documented.",
-        "finding_ids": ["f5", "f6"]
+        "reason": "The US Supreme Court upheld a law barring TikTok in the US unless its US operation was severed from Chinese control, noting a congressional report that ByteDance is subject to Chinese laws on cooperation with state intelligence work; ByteDance kept 19.9% of the US joint venture formed in 2026. In 2021 Chinese state bodies took 1% and a board seat in ByteDance's main domestic subsidiary. These are company-level facts; no personal political act by Zhang Yiming is documented.",
+        "finding_ids": [
+          "f5",
+          "f6"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Company-level problems over children and users: an Irish GDPR fine over child users' settings (under appeal), a $400 million US settlement over children's privacy without admission of liability, and EU preliminary findings on addictive design and harmful recommendations, still open.",
-        "finding_ids": ["f2", "f3", "f4"]
+        "reason": "Company-level problems over children and users: an Irish GDPR fine over child users' settings (pending appeal), a $400 million US settlement over children's privacy with no determination of liability, and EU preliminary findings on addictive design and harmful recommendations, still open.",
+        "finding_ids": [
+          "f2",
+          "f3",
+          "f4"
+        ]
       },
       "legal": {
-        "value": 2,
+        "value": 1,
         "basis": "documented",
-        "reason": "Irish GDPR fines of €530 million (data access from China, 2025) and €345 million (children's data, 2023), both under appeal, and a $400 million US settlement in 2026 with no finding of liability. All are company-level; nothing personal against Zhang Yiming was found.",
-        "finding_ids": ["f1", "f2", "f3"]
+        "reason": "Company-level regulatory penalties: Irish GDPR fines of €530 million (data access from China, 2025) and €345 million (children's data, 2023), both pending appeal, and a $400 million US settlement in 2026 with no determination of liability. No court finding, plea or single settlement above $1 billion; nothing personal against Zhang Yiming was found.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
       },
       "unresolved": {
         "value": 2,
         "basis": "documented",
         "reason": "Pending at company level: the European Commission's Digital Services Act proceedings against TikTok, with three sets of preliminary findings in 2026, and TikTok's appeals against both Irish GDPR fines. No personal matter was found.",
-        "finding_ids": ["f1", "f2", "f4"]
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f4"
+        ]
       }
     },
     "counterweights": "In 2021 Zhang Yiming transferred 500 million yuan (about $77 million) to an education fund in his home city of Longyan, as reported by Bloomberg; how it has been spent is not documented.",
-    "rationale": "Politics 2 to 3: documented state proximity (a state-linked director on ByteDance's domestic unit, a Supreme Court record on Chinese intelligence laws); 2 is defensible since none of it is Zhang's own act. Legal 0 to 2: about $1.4bn in fines and a settlement combined, but no single outcome tops $1bn, both fines are under appeal and none is a court finding, so 1 is a strict reading. Social 1 to 2: company-level child-privacy outcomes. Unresolved 0 to 2: pending EU proceedings and appeals."
+    "rationale": "Politics 2 to 3: documented company-level state proximity (a state-appointed director on ByteDance's domestic unit, a Supreme Court record on Chinese intelligence laws); 2 is defensible since none of it is Zhang's own act. Legal 0 to 1 (verification lowered it from 2): regulatory fines, both pending appeal, and a $400 million settlement; no court finding, plea or settlement above $1 billion, which level 2 requires. Social 1 to 2: company-level child-privacy outcomes. Unresolved 0 to 2: pending EU proceedings and appeals."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: \"fined\" became \"announced a fine\" (DPC register dates the decision 30 April 2025; press release 2 May 2025) and \"under appeal\" became \"pending appeal\", the register's wording. Facts on remote access from China, the privacy notice and the inaccurate information to the inquiry match the DPC release."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "DPC release: €345m, decision 1 September 2023, period 31 July to 31 December 2020, scope includes public-by-default settings and age verification. DPC fines register lists it as Pending Appeal."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "DOJ release of 21 August 2026: $400m settlement with TikTok, ByteDance and affiliates resolving the 2024 COPPA suit; states the claims are allegations only and there has been no determination of liability. It does not say whether liability was admitted or denied. Zhang not named."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "EC IP/26/2361 of 6 November 2026 confirms the preliminary finding, earlier findings on addictive design (February 2026) and minors (July 2026), the 6% ceiling and that findings do not prejudge the outcome."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the Act bars TikTok unless its US operation is severed from Chinese control (per curiam, no dissents), rather than \"requiring\" severance; the joint venture is attributed to ByteDance's announcement as reported by Reuters. Source replaced: The Standard's copy credits only \"Reuters\"; the Yahoo Finance copy is the same Reuters story with the original byline (David Shepardson) and editing credits, and confirms the 19.9% stake."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "BusinessDay copy is a full Bloomberg News syndication with the original byline (Zheping Huang). Confirms the 1% stake in Beijing ByteDance Technology sold on 30 April 2021 to WangTouZhongWen, owned by three state entities including the CAC-controlled China Internet Investment Fund, one of three board seats, and that the entity is separate from ByteDance Ltd, which runs TikTok."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "The Star copy is a Bloomberg syndication with the original byline (Zheping Huang). It says Zhang \"transferred the money\" (500m yuan of personal wealth) to the Fangmei fund, per the Longyan education bureau: a transfer, not a pledge. Spending by the fund is not documented."
+      }
+    ]
   }
 }
