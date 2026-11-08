@@ -1,0 +1,441 @@
+{
+  "id": 22,
+  "slug": "giancarlo-devasini",
+  "name": "Giancarlo Devasini",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Tether Bitfinex class action market manipulation Devasini defendant 2026",
+    "\"Tether\" \"Bitfinex\" class certification Judge Failla 2026 manipulation ruling",
+    "Tether Bitfinex Second Circuit denies appeal class certification manipulation lawsuit 2026",
+    "Celsius Tether settlement $299.5 million lawsuit 2025",
+    "New York Attorney General Bitfinex Tether $18.5 million settlement 2021 ag.ny.gov",
+    "Tether federal investigation sanctions money laundering Manhattan prosecutors status 2025 2026",
+    "Giancarlo Devasini profile Tether chairman Italy software piracy 1990s",
+    "Devasini 1995 pirateria Microsoft multa lire Corriere",
+    "Tether El Salvador headquarters Bukele Devasini citizenship 2025",
+    "ICIJ Tether Devasini investigation El Salvador citizenship Le Monde L'Espresso",
+    "ICIJ Coin Laundry Tether USDT illicit funds freeze",
+    "EPPO Northern Data Peak Mining VAT fraud Boden Sweden raid Tether investigation",
+    "Lutnick Cantor Fitzgerald Tether stake conflict of interest Commerce Secretary Reuters",
+    "Tether lobbying disclosure 2025 GENIUS Act spending USAT Bo Hines",
+    "Tether Rumble $775 million investment stake percent completed February 2025",
+    "Blumenthal letter Tether Ardoino Bo Hines Nxum October 2026",
+    "Blumenthal Tether inquiry Iran Russia sanctions evasion USDT letter 2026 Permanent Subcommittee on Investigations",
+    "\"Tethered to Terrorism\" Permanent Subcommittee on Investigations minority staff report Tether Iran",
+    "Tether controlling stake Adecoagro 70% completed 2025 Reuters",
+    "Tether bitcoin mining Uruguay exit unpaid electricity UTE 2025 energy",
+    "Tether Justice Department probe dropped OR closed OR ended 2025 Trump administration Tether investigation",
+    "Devasini patteggiamento pirateria informatica Microsoft 100 milioni di lire",
+    "Giancarlo Devasini Microsoft counterfeit software 1995 settled fine Financial Times Tether CFO background",
+    "Computerworld 1996 Microsoft Italy Point G Srl Devasini $65,000 piracy settlement",
+    "Lutnick children trust loan from Tether Cantor stake sale Warren Wyden letter 2025",
+    "Tether donation donated million charity hospital 2025 Devasini philanthropy",
+    "Northern Data EPPO investigation update 2026 charges Peak Mining Rumble acquisition Tether",
+    "EPPO searches Germany Sweden VAT fraud graphics processing units crypto mining September 2025 press release (eppo.europa.eu)",
+    "Tether Bitfinex 23(f) petition denied Second Circuit class certification July 2026 crypto manipulation investors",
+    "reuters How Tether's bitcoin mining plans in Uruguay unraveled (reuters.com, refused)"
+  ],
+  "sources": [
+    {
+      "id": "cftc",
+      "label": "CFTC: Tether/Bitfinex civil penalties (2021)",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/8450-21",
+      "publisher": "U.S. Commodity Futures Trading Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2021-10-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nyag",
+      "label": "New York AG: Bitfinex and Tether settlement (2021)",
+      "url": "https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal",
+      "publisher": "Office of the New York State Attorney General",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2021-02-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cnbc-nyag",
+      "label": "CNBC: Tether and Bitfinex pay $18.5 million to end New York probe (2021)",
+      "url": "https://www.cnbc.com/2021/02/23/tether-bitfinex-reach-settlement-with-new-york-attorney-general.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-02-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sdny-classcert",
+      "label": "SDNY: In re Tether and Bitfinex, class certification order (2026)",
+      "url": "https://blogs.duanemorris.com/classactiondefense/wp-content/uploads/sites/56/2026/03/In-re-Tether-Class-Cert-Order.pdf",
+      "publisher": "U.S. District Court for the Southern District of New York",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-03-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theblock-mtd",
+      "label": "The Block: judge dismisses some claims against Bitfinex and Tether (2021)",
+      "url": "https://www.theblock.co/post/119054/judge-dismisses-some-claims-against-bitfinex-and-tether-but-class-action-lawsuit-continues",
+      "publisher": "The Block",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-09-29",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theblock-celsius",
+      "label": "The Block: Celsius wins nearly $300 million from Tether (2025)",
+      "url": "https://www.theblock.co/post/374625/celsius-wins-300-million-tether-bankruptcy-case-fraction-4-3-billion-claim",
+      "publisher": "The Block",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-10-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ifq-northern",
+      "label": "Il Fatto Quotidiano: Tether, the Swedish mining probe (2025)",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/19/tether-indagine-svezia-mining-bitcoin-news-dettagli/8233594/",
+      "publisher": "Il Fatto Quotidiano",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-12-19",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cdt-devasini",
+      "label": "Corriere del Ticino: Giancarlo Devasini, the man behind Tether (2024)",
+      "url": "https://www.cdt.ch/news/plan-b-giancarlo-devasini-luomo-dietro-a-tether-tra-i-piu-ricchi-ditalia-347898",
+      "publisher": "Corriere del Ticino",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-04-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "lespresso-2026",
+      "label": "L’Espresso: Tether, who is Giancarlo Devasini (2026)",
+      "url": "https://lespresso.it/c/inchieste/2026/8/12/tether-giancarlo-devasini-chi-e-uomo-piu-ricco-d-italia/63905",
+      "publisher": "L’Espresso",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-lutnick",
+      "label": "Fortune: Commerce nominee Lutnick is a Tether booster (2024)",
+      "url": "https://fortune.com/crypto/2024/11/25/commerce-nominee-howard-lutnick-tether-booster-cantor-fitzgerald",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-11-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "coindesk-loan",
+      "label": "CoinDesk: senators question Lutnick on Tether loan to family (2026)",
+      "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+      "publisher": "CoinDesk",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cointelegraph-hines",
+      "label": "Cointelegraph: senator probes Tether deal tied to Bo Hines (2026)",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
+      "publisher": "Cointelegraph",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "decrypt-hines",
+      "label": "Decrypt: Senate Democrat probes Tether payments to ex-adviser (2026)",
+      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "publisher": "Decrypt",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-10-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-iran",
+      "label": "Reuters: Tether USDT aids Iran funding, Senate report says (2026)",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/tether-usdt-aids-iran-funding-senate-report-says",
+      "publisher": "Reuters (via Internazionale)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theblock-iran",
+      "label": "The Block: USDT at centre of Iran shadow banking, Senate report (2026)",
+      "url": "https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+      "publisher": "The Block",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-doj",
+      "label": "Fortune: Tether reportedly under federal probe (2024)",
+      "url": "https://fortune.com/crypto/2024/10/25/tether-department-justice-probe-money-laundering-sanctions-binance-crypto/",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-10-25",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "coindesk-adecoagro",
+      "label": "CoinDesk: Tether finalises 70% stake in Adecoagro (2025)",
+      "url": "https://www.coindesk.com/markets/2025/04/30/tether-finalizes-buying-70-of-adecoagro-stake-securing-tokenization-ambition",
+      "publisher": "CoinDesk",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-04-30",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-uruguay",
+      "label": "Reuters: how Tether’s bitcoin mining plans in Uruguay unravelled (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/how-tether039s-bitcoin-mining-plans-in-uruguay-unraveled",
+      "publisher": "Reuters (via The Star)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-21",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Tether and Bitfinex",
+      "claim": "In October 2021 the CFTC fined Tether $41 million for untrue or misleading claims that USDT was fully backed by fiat reserves (2016 to 2019), and fined Bitfinex $1.5 million for illegal off-exchange retail trading and for breaching a 2016 CFTC order. Both orders were settled; no individual was named. No appeal or later change was found.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2021-10-15",
+      "source_ids": [
+        "cftc"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Tether and Bitfinex (iFinex)",
+      "claim": "In February 2021 Tether and Bitfinex agreed to pay $18.5 million to settle New York’s case, stop serving New Yorkers and file quarterly reserve reports, without admitting wrongdoing. The attorney general said Tether at times held no reserves backing USDT one-to-one despite saying so, and that Bitfinex hid an apparent $850 million loss.",
+      "evidence_type": "settlement",
+      "date": "2021-02-23",
+      "source_ids": [
+        "nyag",
+        "cnbc-nyag"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Giancarlo Devasini",
+      "claim": "Two Italian-language papers report that in 1995, when Milan investigators targeted a ring counterfeiting Microsoft software, Devasini settled his case by a plea bargain (patteggiamento) and a fine, which Il Fatto Quotidiano puts at 100 million lire. The matter is over 30 years old; no court record was found and his response is not reported in these sources.",
+      "evidence_type": "investigative_reporting",
+      "date": "1995",
+      "source_ids": [
+        "ifq-northern",
+        "cdt-devasini"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Giancarlo Devasini, Tether and Bitfinex",
+      "claim": "Devasini is a named defendant, with Tether and Bitfinex entities, in a New York class action filed in 2019 alleging that unbacked USDT was used to inflate bitcoin prices. In 2021 the judge dismissed the racketeering claims but kept market-manipulation and antitrust claims; in February 2026 she certified narrowed classes. No liability has been decided.",
+      "evidence_type": "pending_case",
+      "date": "2026-02-23",
+      "source_ids": [
+        "sdny-classcert",
+        "theblock-mtd"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "In October 2025 Tether agreed to pay $299.5 million to settle the Celsius bankruptcy estate’s suit, which alleged that Tether improperly liquidated about 39,500 bitcoins pledged by Celsius in 2022 and sought about $4.3 billion. Tether had called the suit baseless; no admission of wrongdoing was reported.",
+      "evidence_type": "settlement",
+      "date": "2025-10-14",
+      "source_ids": [
+        "theblock-celsius"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "Cantor Fitzgerald, led by Howard Lutnick until he became Commerce Secretary in 2025, is the main custodian of Tether’s Treasury reserves and reportedly took a 5% stake. In April 2026 Senators Warren and Wyden asked whether a reported Tether loan to a trust for Lutnick’s children financed their purchase of Cantor; no wrongdoing has been established.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-04-29",
+      "source_ids": [
+        "fortune-lutnick",
+        "coindesk-loan"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "In October 2026 Senator Blumenthal asked Tether for records after the Wall Street Journal reported that Tether paid $6.3 million to Nxum, a firm part-owned by White House crypto adviser Bo Hines, starting while he was in office and as the GENIUS Act was drafted. These are allegations; Tether says outside counsel found no wrongdoing. Hines now runs Tether’s US arm.",
+      "evidence_type": "allegation",
+      "date": "2026-10-22",
+      "source_ids": [
+        "cointelegraph-hines",
+        "decrypt-hines"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "A September 2026 report by Democratic staff of the Senate Permanent Subcommittee on Investigations found that 84% of 846 sanctioned Iran-linked wallets it studied transacted in USDT, and said Tether repeatedly failed to freeze wallets showing illicit-finance signs; it asked Treasury and DOJ to investigate. Tether says USDT is no haven and that it helped freeze about $550 million.",
+      "evidence_type": "legislative_finding",
+      "date": "2026-09-28",
+      "source_ids": [
+        "reuters-iran",
+        "theblock-iran"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "In October 2024 the Wall Street Journal reported that Manhattan federal prosecutors were investigating whether Tether breached anti-money-laundering and sanctions laws, alongside an older probe into possible bank fraud by its backers. Tether denied being under investigation; prosecutors declined to comment. No charges or closure were found as of November 2026.",
+      "evidence_type": "allegation",
+      "date": "2024-10-25",
+      "source_ids": [
+        "fortune-doj"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "company",
+      "entity": "Northern Data (Tether-controlled)",
+      "claim": "In September 2025 German and Swedish police, under the European Public Prosecutor’s Office, searched Northern Data, a Tether-controlled company, and made four arrests over suspected VAT fraud above €100 million tied to chips allegedly used for crypto mining. Tether and the companies deny fraud. Devasini is not reported as a suspect; no charges were reported.",
+      "evidence_type": "pending_case",
+      "date": "2025-12-19",
+      "source_ids": [
+        "ifq-northern"
+      ]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Giancarlo Devasini",
+      "claim": "L’Espresso, reporting with the ICIJ, found that Devasini became a Salvadoran citizen in early 2025, as Tether moved its legal base from the British Virgin Islands to El Salvador, and reported that as such he pays no tax on Tether dividends. A January 2026 SEC filing cited there gives him over 50% of Tether’s voting rights.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-08-12",
+      "source_ids": [
+        "lespresso-2026"
+      ]
+    },
+    {
+      "id": "f12",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Tether",
+      "claim": "In April 2025 Tether raised its stake in Adecoagro, a producer of sugar, rice, dairy and bioenergy in Brazil, Argentina and Uruguay, to about 70%. Tether’s CEO says it has invested over $2 billion in energy and bitcoin mining; in 2025 it shut its Uruguay mining sites after a power dispute with the state utility, later settling unpaid bills.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-08-21",
+      "source_ids": [
+        "coindesk-adecoagro",
+        "reuters-uruguay"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Tether is mainly a stablecoin issuer, but its holdings now include about 70% of Adecoagro, a South American producer of sugar, rice, dairy and bioenergy, taken in 2025, and bitcoin mining: its CEO says it has invested over $2 billion in energy and mining. It shut its Uruguay mining sites in 2025 after a power dispute. Emissions are not quantified here.",
+        "finding_ids": [
+          "f12"
+        ]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level ties to the Trump administration: Cantor Fitzgerald, led by Howard Lutnick until he became Commerce Secretary, holds Tether’s Treasury reserves and reportedly a 5% stake, and senators asked in 2026 about a Tether loan to his children’s trust. A senator is examining reported Tether payments to a firm part-owned by a White House crypto adviser while in office; Tether says counsel found no wrongdoing. Devasini became a Salvadoran citizen in 2025 as Tether moved there.",
+        "finding_ids": [
+          "f6",
+          "f7",
+          "f11"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "New York’s attorney general said in 2021 that Tether at times lacked the reserves it told customers backed USDT. In 2026 Senate Democratic staff reported that 84% of 846 sanctioned Iran-linked wallets they studied used USDT and that Tether failed to freeze suspicious wallets; Tether says it helped freeze about $550 million. These are company-level problems.",
+        "finding_ids": [
+          "f2",
+          "f8"
+        ]
+      },
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Italian press report that he plea-bargained a personal fine in a 1995 Milan counterfeit Microsoft software case; this is over 30 years old and no court record was found. At company level, the CFTC fined Tether $41 million and Bitfinex $1.5 million in 2021 over misleading reserve claims and illegal trading, the firms paid $18.5 million to settle New York’s case without admission, and Tether paid $299.5 million in 2025 to settle Celsius’s suit.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f5"
+        ]
+      },
+      "unresolved": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Named defendant, with Tether and Bitfinex, in a pending New York class action alleging unbacked USDT was used to inflate bitcoin prices; classes were certified in 2026 and no liability is decided. At company level, US prosecutors were reported in 2024 to be investigating Tether, which denied it; Senate Democrats asked Treasury and DOJ to investigate in 2026; EU prosecutors are probing suspected VAT fraud at Tether-controlled Northern Data.",
+        "finding_ids": [
+          "f4",
+          "f8",
+          "f9",
+          "f10"
+        ]
+      }
+    },
+    "counterweights": "",
+    "rationale": "Legal 1 to 3: a personal fine plea-bargained in 1995 (R2 personal penalty). Two papers call it a patteggiamento, a criminal plea; if a court record confirms that, the rubric would point to 4. Unresolved 0 to 3 under R6: named defendant in the pending class action. Politics 1 to 2 under R7: company-level ties only. Social 1 to 2: company-level findings. Ecology 1 to 2: holdings now assessed (70% of an agribusiness, mining). CFTC 2021 status unchanged. No disbursed giving found."
+  }
+}
