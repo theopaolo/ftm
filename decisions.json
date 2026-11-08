@@ -556,6 +556,23 @@
         "accept": true,
         "why": "Court-established monopoly at Microsoft (2001), which he founded and ran; the opinion recounts his own dealings. The same standard as for Ballmer, Page and Brin."
       }
+    },
+    "michael-bloomberg": {
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R3: a personal civil settlement with no penalty and no admission (the Garrison suit, filed 1997, settled 2000), as for Ellison 2005. More than 25 years old, which the reason says. The SEC penalties on his units are company-level 1."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "A 2025 jury verdict against his campaign (under appeal) and SEC findings that Bloomberg units misled customers: documented company-level problems."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: a federal judge let a contract claim proceed against him personally (June 2026), pending."
+      }
     }
   },
   "counterweights": {

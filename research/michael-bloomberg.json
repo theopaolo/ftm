@@ -30,12 +30,16 @@
     "FEC complaint Bloomberg campaign $18 million transfer DNC outcome dismissed MUR",
     "Huckabee v. Bloomberg BloombergGPT Books3 copyright lawsuit fair use ruling status",
     "Huckabee Bloomberg L.P. Garnett opinion and order motion to dismiss denied November 2025 courtlistener",
-    "Not citable: opensecrets.org (could not be fetched); npr.org transcript (503); Justia and counselstack opinions (403/429); Bloomberg Philanthropies annual report page (no totals) and video page (403); Chronicle of Philanthropy pages (access via network, possibly paywalled); lawandcrime.com (403)"
+    "Not citable: opensecrets.org (could not be fetched); npr.org transcript (503); Justia and counselstack opinions (403/429); Bloomberg Philanthropies annual report page (no totals) and video page (403); Chronicle of Philanthropy pages (access via network, possibly paywalled); lawandcrime.com (403)",
+    "Verification: \"Sipp-Alpers\" Bloomberg (found FindLaw copy of D. Mass. opinion, No. 25-cv-11822-PBS)",
+    "Verification: Sekiko Sakai Garrison lawsuit Bloomberg filed 1997 settled",
+    "Verification: Bloomberg Garrison 1997 lawsuit settled 2000 Associated Press",
+    "Verification: Huckabee v. Bloomberg 23-cv-09152 docket status 2026"
   ],
   "sources": [
     {
       "id": "elb-2024",
-      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data",
+      "label": "Election Law Blog: Hasen on the ultrarich and 2024 elections (2025)",
       "url": "https://electionlawblog.org/?p=149186",
       "publisher": "Election Law Blog (Rick Hasen)",
       "publisher_type": "academic",
@@ -64,9 +68,9 @@
     },
     {
       "id": "fec-mur7722",
-      "label": "FEC: Statement of reasons, MURs 7722 and 7723, Bloomberg et al. (2023)",
+      "label": "FEC: Weintraub statement of reasons, MURs 7722 and 7723 (2023)",
       "url": "https://www.fec.gov/files/legal/murs/7723/7723_18.pdf",
-      "publisher": "Federal Election Commission",
+      "publisher": "Federal Election Commission (statement of Commissioner Ellen L. Weintraub)",
       "publisher_type": "regulator",
       "names_subject": true,
       "published": "2023-07-05",
@@ -123,6 +127,16 @@
       "accessed": "2026-11-08"
     },
     {
+      "id": "ap-2007",
+      "label": "AP (via NBC News): Harassment allegations could haunt Bloomberg (2007)",
+      "url": "https://www.nbcnews.com/id/wbna20022420",
+      "publisher": "Associated Press, republished by NBC News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2007-07-29",
+      "accessed": "2026-11-08"
+    },
+    {
       "id": "globe-2025",
       "label": "Boston Globe: Ex-Bloomberg campaign staffer awarded back pay (2025)",
       "url": "https://www.bostonglobe.com/2025/05/23/metro/michael-bloomberg-lawsuit-contract-breach-massachusetts/",
@@ -143,10 +157,20 @@
       "accessed": "2026-11-08"
     },
     {
+      "id": "dmass-sipp-2026",
+      "label": "D. Mass. (via FindLaw): Sipp-Alpers v. Bloomberg, motion to dismiss (2026)",
+      "url": "https://caselaw.findlaw.com/court/us-dis-crt-d-mas/144613.html",
+      "publisher": "U.S. District Court, District of Massachusetts (opinion text hosted by FindLaw)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-06-18",
+      "accessed": "2026-11-08"
+    },
+    {
       "id": "sdny-huckabee-2025",
-      "label": "S.D.N.Y.: Huckabee v. Bloomberg L.P., opinion denying dismissal (2025)",
-      "url": "https://chatgptiseatingtheworld.com/wp-content/uploads/2025/11/Judge-Garnett-opinion-denying-Bloomberg-motion-to-dismiss-Nov-24-2025.pdf",
-      "publisher": "U.S. District Court, Southern District of New York (copy hosted by ChatGPT Is Eating the World)",
+      "label": "S.D.N.Y. (via CourtListener): Huckabee v. Bloomberg, dismissal denied (2025)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.608447/gov.uscourts.nysd.608447.98.0.pdf",
+      "publisher": "U.S. District Court, Southern District of New York (RECAP copy via CourtListener)",
       "publisher_type": "court",
       "names_subject": true,
       "published": "2025-11-24",
@@ -180,7 +204,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Michael Bloomberg",
-      "claim": "Using OpenSecrets data, the Election Law Blog reported that Bloomberg gave $64.3 million in the 2024 cycle, nearly all to Democrats, making him the largest donor on that side. Forbes records that he was mayor of New York from 2002 to 2013 and owns 88% of Bloomberg LP.",
+      "claim": "In a Slate piece excerpted on the Election Law Blog, Rick Hasen reported that Bloomberg gave $64.3 million in the 2024 cycle, all but $1 million to the Democratic side, the biggest donor on that side. Forbes records that he was mayor of New York from 2002 to 2013 and owns about 88% of Bloomberg LP.",
       "evidence_type": "investigative_reporting",
       "date": "2025-03-27",
       "source_ids": [
@@ -207,7 +231,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Michael Bloomberg; Mike Bloomberg 2020, Inc.",
-      "claim": "Bloomberg put about $1.09 billion of his own money into his 2020 presidential campaign. A complaint said the campaign’s $18 million transfer to the DNC broke contribution limits. In May 2023 the FEC dismissed it as a matter of prosecutorial discretion, citing no sign of intent to get around the limits.",
+      "claim": "FEC data show about $1.09 billion of Bloomberg’s own money went into his 2020 campaign. Complaints said its $18 million transfer to the DNC evaded contribution limits; in May 2023 the FEC dismissed them as a matter of prosecutorial discretion, and commissioners saw no sign he meant to evade the limits.",
       "evidence_type": "official_report",
       "date": "2023-05-31",
       "source_ids": [
@@ -233,7 +257,7 @@
       "theme": "finance",
       "level": "company",
       "entity": "Bloomberg Finance L.P.",
-      "claim": "In January 2023 Bloomberg Finance paid a $5 million SEC penalty. The SEC said that from 2016 to 2022 it did not tell BVAL customers that some bond valuations could rest on a single input such as one broker quote. It settled without admitting or denying the findings.",
+      "claim": "In January 2023 Bloomberg Finance paid a $5 million SEC penalty. The SEC said that from 2016 to 2022 it did not tell BVAL customers that some bond valuations could rest on a single input such as one broker quote; it settled without admitting or denying the findings.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-01-23",
       "source_ids": [
@@ -246,7 +270,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Bloomberg L.P.",
-      "claim": "The EEOC sued Bloomberg L.P. in 2007, alleging a pattern of discrimination against pregnant employees. In August 2011 a federal judge dismissed the pattern-or-practice claim, finding the evidence insufficient; individual claims could proceed. Bloomberg was not named personally.",
+      "claim": "The EEOC sued Bloomberg’s company in 2007, alleging a pattern of discrimination against pregnant employees. In August 2011 Judge Loretta Preska granted summary judgment against that pattern-or-practice claim, finding the evidence insufficient; individual claims could proceed, and Bloomberg was not named personally.",
       "evidence_type": "final_ruling",
       "date": "2011-08-17",
       "source_ids": [
@@ -259,11 +283,12 @@
       "theme": "labour",
       "level": "individual",
       "entity": "Michael Bloomberg; Bloomberg L.P.",
-      "claim": "Former saleswoman Sekiko Sakai Garrison sued Bloomberg personally and his company over alleged harassment and pregnancy discrimination in 1995, over 25 years ago. He denied it under oath and settled confidentially. In 2020 he let three women out of NDAs over his alleged comments and ended such agreements.",
+      "claim": "Former saleswoman Sekiko Sakai Garrison sued Bloomberg personally and his company in 1997 over alleged sexual harassment and discrimination, including a 1995 remark on her pregnancy he denied under oath; it was settled confidentially in 2000, without admission, over 25 years ago. In 2020 he released three women from NDAs over comments they said he made.",
       "evidence_type": "settlement",
-      "date": "1995",
+      "date": "2000",
       "source_ids": [
         "wapo-2020",
+        "ap-2007",
         "ap-nda-2020"
       ]
     },
@@ -273,7 +298,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Mike Bloomberg 2020, Inc.",
-      "claim": "In May 2025 a Massachusetts jury found that Bloomberg’s 2020 campaign broke an oral promise of work through November 2020 to field organizer Nygel O’Bannon; the judgment was later set at about $53,750. Both sides appealed. In a related state case, Doty, a claim against the campaign is pending.",
+      "claim": "In May 2025 a Middlesex County jury found that Bloomberg’s 2020 campaign broke an oral promise of work through November 2020 to field organizer Nygel O’Bannon; the judgment, with interest and costs, was later set at about $53,750, and both sides appealed. In a related state case, Doty, a contract claim against the campaign is pending.",
       "evidence_type": "pending_case",
       "date": "2025-05-23",
       "source_ids": [
@@ -287,11 +312,12 @@
       "theme": "labour",
       "level": "individual",
       "entity": "Michael Bloomberg",
-      "claim": "In June 2026 a federal judge in Massachusetts let a former campaign worker pursue a breach-of-contract claim against Bloomberg personally and his campaign over the promised jobs. The case is pending; he denies making the promise. A state judge had dismissed him personally from the Doty case in March 2026.",
+      "claim": "In June 2026 Judge Patti Saris (D. Mass.) let a former campaign worker pursue a claim that Bloomberg personally made an oral job promise on a call with staff; this is a pleading-stage ruling and he denies the promise under oath. In March 2026 a state judge had dismissed him personally from the related Doty case for lack of jurisdiction.",
       "evidence_type": "pending_case",
       "date": "2026-06-18",
       "source_ids": [
-        "amny-2026"
+        "amny-2026",
+        "dmass-sipp-2026"
       ]
     },
     {
@@ -300,7 +326,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "Bloomberg L.P.; Bloomberg Finance L.P.",
-      "claim": "Authors led by Mike Huckabee allege that Bloomberg trained its BloombergGPT model on their copyrighted books without permission. In November 2025 a federal judge in New York denied Bloomberg’s motion to dismiss, saying fair use needs a factual record. The case is pending; nothing has been decided on the merits.",
+      "claim": "Authors led by Mike Huckabee allege that Bloomberg trained its BloombergGPT model on their copyrighted books without permission. In November 2025 a federal judge in New York denied Bloomberg’s motion to dismiss, saying fair use needs a factual record; the case is pending and nothing has been decided on the merits.",
       "evidence_type": "pending_case",
       "date": "2025-11-24",
       "source_ids": [
@@ -326,7 +352,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Michael Bloomberg",
-      "claim": "The Chronicle of Philanthropy ranked Bloomberg the largest US donor of 2025, with $4.3 billion, personally and through Bloomberg Philanthropies, and $25.4 billion over his lifetime. The Chronicle counts multiyear gifts in the year announced, so this is not a disbursed total.",
+      "claim": "The Chronicle of Philanthropy ranked Bloomberg first among US donors for 2025, with $4.3 billion, and put his lifetime giving, personally and through Bloomberg Philanthropies, at $25.4 billion. It counts multiyear gifts when announced and left out some larger givers, so this is not a disbursed total.",
       "evidence_type": "documented_giving",
       "date": "2026-03",
       "source_ids": [
@@ -340,7 +366,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Gave $64.3 million in the 2024 cycle, nearly all to Democrats, the largest donor on that side by OpenSecrets data, and about $80 million in autumn 2026 by his team’s account. Put about $1.09 billion into his 2020 presidential run; the FEC dismissed a complaint over an $18 million transfer to the DNC. Mayor of New York from 2002 to 2013 and owner of 88% of Bloomberg LP, a major news organisation.",
+        "reason": "Gave $64.3 million in the 2024 cycle, all but $1 million to the Democratic side, the biggest donor on that side, and about $80 million in autumn 2026 by his team’s account. Put about $1.09 billion into his 2020 presidential run; the FEC dismissed complaints over an $18 million transfer to the DNC. Mayor of New York from 2002 to 2013 and owner of about 88% of Bloomberg LP, a major news organisation.",
         "finding_ids": [
           "f1",
           "f2",
@@ -350,7 +376,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "A Massachusetts jury found in 2025 that his 2020 campaign broke a promise of work to a field organizer; the verdict is on appeal. The SEC found that Bloomberg units misled customers on order routing (2020) and bond valuations (2023), settled without admission. An EEOC pattern-of-pregnancy-bias claim against Bloomberg L.P. was dismissed in 2011. In 2020 he released three women from NDAs over his alleged comments.",
+        "reason": "A Massachusetts jury found in 2025 that his 2020 campaign broke a promise of work to a field organizer; the verdict is on appeal. The SEC found that Bloomberg units misled customers on order routing (2020) and failed to disclose bond-valuation practices (2023), settled without admission. An EEOC pattern-of-pregnancy-bias claim against his company was dismissed in 2011. In 2020 he released three women from NDAs over comments they said he made.",
         "finding_ids": [
           "f4",
           "f5",
@@ -362,7 +388,7 @@
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Bloomberg was a named defendant in a 1990s harassment and pregnancy-discrimination suit that he settled confidentially, denying the claims. At company level, Bloomberg units paid $5 million SEC penalties in 2020 and 2023 without admitting the findings, and the EEOC’s pattern-of-discrimination claim was dismissed in 2011. The FEC dismissed a complaint about his campaign’s transfer to the DNC in 2023. No penalty against him personally was found.",
+        "reason": "Bloomberg was a named defendant in a harassment and discrimination suit filed in 1997 and settled confidentially in 2000, without admission; he denied the claims. At company level, Bloomberg units paid $5 million SEC penalties in 2020 and 2023 without admitting the findings, and the EEOC’s pattern-of-discrimination claim was dismissed in 2011. The FEC dismissed complaints about his campaign’s transfer to the DNC in 2023. No penalty against him personally was found.",
         "finding_ids": [
           "f3",
           "f4",
@@ -374,7 +400,7 @@
       "unresolved": {
         "value": 3,
         "basis": "documented",
-        "reason": "Since June 2026 a federal court in Massachusetts has let a former campaign worker pursue a contract claim against Bloomberg personally; he denies making the promise. Related claims against his 2020 campaign, including an appealed jury verdict, are pending. A copyright suit over training BloombergGPT on authors’ books is pending against Bloomberg L.P. after dismissal was denied in 2025.",
+        "reason": "Since June 2026 a federal court in Massachusetts has let a former campaign worker pursue a contract claim against Bloomberg personally, at the pleading stage; he denies making the promise. Related claims against his 2020 campaign, including an appealed jury verdict, are pending. A copyright suit over training BloombergGPT on authors’ books is pending against Bloomberg L.P. and Bloomberg Finance after dismissal was denied in 2025.",
         "finding_ids": [
           "f8",
           "f9",
@@ -382,7 +408,73 @@
         ]
       }
     },
-    "counterweights": "The Bloomberg Family Foundation reported about $1.47 billion in charitable disbursements in 2024 (Form 990-PF). The Chronicle of Philanthropy counted $4.3 billion given or committed in 2025, the most of any US donor.",
-    "rationale": "Legal 0 to 2: R3, a personal settlement with no penalty (Garrison suit), as for Ellison 2005; company SEC penalties alone are 1. Unresolved 0 to 3: R6, he is a named defendant in a pending federal contract suit (amNY, July 2026; single source). Social 1 to 2: company-level labour verdict and SEC findings. Politics stays 3. Not re-sourced: “top ten” and “one of two” (OpenSecrets unreachable)."
+    "counterweights": "The Bloomberg Family Foundation reported about $1.47 billion in charitable disbursements in 2024 (Form 990-PF). The Chronicle of Philanthropy ranked him first among US donors for 2025, with $4.3 billion, counting multiyear pledges when announced.",
+    "rationale": "Legal 0 to 2: R3, a personal settlement with no penalty (Garrison suit), as for Ellison 2005; company SEC penalties alone are 1. Unresolved 0 to 3: R6, he is a named defendant in a pending federal contract suit (D. Mass. opinion of June 2026, reported by amNY). Social 1 to 2: company-level labour verdict and SEC findings. Politics stays 3. Not re-sourced: “top ten” and “one of two” (OpenSecrets unreachable)."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: the $64.3 million figure is Hasen’s (Slate excerpt on ELB); the post does not attribute that sentence to OpenSecrets, so \"using OpenSecrets data\" was dropped; \"nearly all\" made exact (all but $1 million). Forbes confirms mayor 2002-2013 and about 88% of Bloomberg LP. Source label put in site format."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "NYT (Schleifer, Oreskes) via Inquirer, 20 Oct 2026: about $80 million in Sept-Oct 2026 per his team (Wolfson), $24M Everytown, $16M House Majority PAC, given before filings were due."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: source is Commissioner Weintraub’s statement of reasons (5 July 2023), which cites FEC data of $1,089,255,532 in candidate contributions and the 31 May 2023 certification dismissing on prosecutorial discretion; she agrees with colleagues there was no indication of intent to circumvent. Wording made \"complaints\" (two MURs) and label names the commissioner."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "SEC order 33-10783, 6 May 2020: Bloomberg Tradebook LLC, then an agency broker-dealer and wholly owned by Bloomberg L.P., misleading statements on the Low Cost Router (Nov 2010 to Sept 2018); censure, $5,000,000 penalty, without admitting or denying. Company level."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "SEC release 2023-14, 23 Jan 2023: Bloomberg Finance L.P., BVAL valuations from at least 2016 to October 2022 could rest on a single input such as one broker quote; $5 million penalty, without admitting or denying. Company level. Punctuation only: merged to two sentences."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: Business Insurance (17 Aug 2011) names the defendant only as \"Bloomberg Inc.\", so the claim now says \"Bloomberg’s company\"; judge (Preska) and summary-judgment posture added. Evidence type kept as final_ruling for the pattern-or-practice claim only; individual claims were left to proceed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: WaPo (Kranish, 2020) confirms he was sued personally, denied under oath, confidential settlement, alleged 1995 remark; it gives no filing or settlement year, so AP (2007, via NBC News) added for filing in 1997 and settlement in 2000 without admitting wrongdoing. \"Pregnancy discrimination\" narrowed to the alleged pregnancy remark; date set to 2000. AP (2020, via PBS) confirms three NDA releases. Legal matter, sourced by major outlets, not private life."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: amNY (18 July 2026) says the $53,750.20 total includes interest and costs (damages $27,762); jury located (Middlesex County) per Boston Globe. Verdict against the campaign, not Bloomberg; both sides appealing; Doty contract claim against the campaign pending."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: confirmed from the court opinion (FindLaw copy: Sipp-Alpers v. Bloomberg, No. 25-cv-11822-PBS, Judge Patti B. Saris, 18 June 2026), added as a source: claim against Bloomberg personally survives only on an alleged independent oral contract, at the pleading stage. Sworn denial and the March 2026 Doty dismissal (lack of jurisdiction) per amNY."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Blog-hosted PDF checked: it is byte-identical (same MD5) to the CourtListener RECAP copy of Dkt. 98, Huckabee v. Bloomberg L.P., No. 1:23-cv-09152-MMG, Judge Margaret M. Garnett, filed 24 Nov 2025, motion to dismiss denied in full, fair use needs a factual record. URL replaced with the RECAP copy and labelled as such. Answer filed Jan 2026, discovery open; no merits ruling found. Punctuation only: merged to two sentences."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "ProPublica Nonprofit Explorer: Form 990-PF charitable disbursements $1,473,990,509 (2024, filed 14 Nov 2025) and $1,423,427,842 (2023)."
+      },
+      {
+        "finding_id": "f12",
+        "verdict": "supported",
+        "comment": "Rewritten: eJewishPhilanthropy (11 Mar 2026) attributes \"personally and through Bloomberg Philanthropies\" to the $25.4 billion lifetime total only, and says the first place came partly because larger givers (Dells pledge, MacKenzie Scott) were left out; claim and counterweights narrowed accordingly. Forbes confirms the $25.4 billion lifetime figure."
+      }
+    ],
+    "passed": true
   }
 }

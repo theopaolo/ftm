@@ -1538,6 +1538,81 @@
       "url": "https://saharareporters.com/2026/07/09/binance-tax-evasion-case-adjourned-september-nigeria-crypto-firm-pursue-out-court",
       "kind": "case"
     },
+    "michael-bloomberg-nyt-2026": {
+      "label": "New York Times (via Inquirer): Bloomberg gives Democrats $80M (2026)",
+      "url": "https://www.inquirer.com/politics/michael-bloomberg-80-million-donations-house-democratic-candidates-shapiro-20261020.html",
+      "kind": "case"
+    },
+    "michael-bloomberg-forbes-profile": {
+      "label": "Forbes: Michael Bloomberg profile (2026)",
+      "url": "https://www.forbes.com/profile/michael-bloomberg/",
+      "kind": "case"
+    },
+    "michael-bloomberg-fec-mur7722": {
+      "label": "FEC: Weintraub statement of reasons, MURs 7722 and 7723 (2023)",
+      "url": "https://www.fec.gov/files/legal/murs/7723/7723_18.pdf",
+      "kind": "case"
+    },
+    "michael-bloomberg-sec-tradebook-2020": {
+      "label": "SEC: Order against Bloomberg Tradebook over order routing (2020)",
+      "url": "https://www.sec.gov/litigation/admin/2020/33-10783.pdf",
+      "kind": "case"
+    },
+    "michael-bloomberg-sec-bval-2023": {
+      "label": "SEC: Bloomberg Finance to pay $5M over BVAL disclosures (2023)",
+      "url": "https://www.sec.gov/news/press-release/2023-14",
+      "kind": "case"
+    },
+    "michael-bloomberg-bi-eeoc-2011": {
+      "label": "Business Insurance: Judge dismisses pregnancy bias suit against Bloomberg (2011)",
+      "url": "https://www.businessinsurance.com/judge-dismisses-pregnancy-bias-suit-against-bloomberg-criticizes-eeoc/",
+      "kind": "case"
+    },
+    "michael-bloomberg-wapo-2020": {
+      "label": "Washington Post (via ADN): Bloomberg and women’s allegations (2020)",
+      "url": "https://adn.com/nation-world/2020/02/16/bloomberg-for-years-has-battled-womens-allegations-of-profane-sexist-comments",
+      "kind": "case"
+    },
+    "michael-bloomberg-ap-nda-2020": {
+      "label": "AP (via PBS): Bloomberg says 3 women can be released from NDAs (2020)",
+      "url": "https://www.pbs.org/newshour/amp/politics/bloomberg-says-3-women-can-be-released-from-ndas-over-alleged-comments",
+      "kind": "case"
+    },
+    "michael-bloomberg-ap-2007": {
+      "label": "AP (via NBC News): Harassment allegations could haunt Bloomberg (2007)",
+      "url": "https://www.nbcnews.com/id/wbna20022420",
+      "kind": "case"
+    },
+    "michael-bloomberg-globe-2025": {
+      "label": "Boston Globe: Ex-Bloomberg campaign staffer awarded back pay (2025)",
+      "url": "https://www.bostonglobe.com/2025/05/23/metro/michael-bloomberg-lawsuit-contract-breach-massachusetts/",
+      "kind": "case"
+    },
+    "michael-bloomberg-amny-2026": {
+      "label": "amNY: Bloomberg fights deposition in 2020 campaign workers’ suits (2026)",
+      "url": "https://www.amny.com/politics/bloomberg-deposition-presidential-campaign/",
+      "kind": "case"
+    },
+    "michael-bloomberg-dmass-sipp-2026": {
+      "label": "D. Mass. (via FindLaw): Sipp-Alpers v. Bloomberg, motion to dismiss (2026)",
+      "url": "https://caselaw.findlaw.com/court/us-dis-crt-d-mas/144613.html",
+      "kind": "case"
+    },
+    "michael-bloomberg-sdny-huckabee-2025": {
+      "label": "S.D.N.Y. (via CourtListener): Huckabee v. Bloomberg, dismissal denied (2025)",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.608447/gov.uscourts.nysd.608447.98.0.pdf",
+      "kind": "case"
+    },
+    "michael-bloomberg-propublica-bff": {
+      "label": "ProPublica: Bloomberg Family Foundation, Form 990-PF data",
+      "url": "https://projects.propublica.org/nonprofits/organizations/205602483",
+      "kind": "case"
+    },
+    "michael-bloomberg-ejp-2026": {
+      "label": "eJewishPhilanthropy: Bloomberg again named top philanthropist (2026)",
+      "url": "https://ejewishphilanthropy.com/bloomberg-again-named-top-philanthropist-despite-being-outspent-by-dells-and-scott/",
+      "kind": "case"
+    },
     "bill-gates-ftc-hsr-penalty": {
       "label": "FTC: Bill Gates to pay $800,000 civil penalty over premerger filing (2004)",
       "url": "https://www.ftc.gov/node/41469",
@@ -3954,31 +4029,61 @@
         "politics": {
           "value": 3,
           "basis": "documented",
-          "reason": "Gave $64.3 million in the 2024 cycle, among the top ten US donors and one of two on Democrats’ side. Former mayor and owner of a major news organisation."
+          "reason": "Gave $64.3 million in the 2024 cycle, all but $1 million to the Democratic side, the biggest donor on that side, and about $80 million in autumn 2026 by his team’s account. Put about $1.09 billion into his 2020 presidential run; the FEC dismissed complaints over an $18 million transfer to the DNC. Mayor of New York from 2002 to 2013 and owner of about 88% of Bloomberg LP, a major news organisation.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "A Massachusetts jury found in 2025 that his 2020 campaign broke a promise of work to a field organizer; the verdict is on appeal. The SEC found that Bloomberg units misled customers on order routing (2020) and failed to disclose bond-valuation practices (2023), settled without admission. An EEOC pattern-of-pregnancy-bias claim against his company was dismissed in 2011. In 2020 he released three women from NDAs over comments they said he made.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Bloomberg was a named defendant in a harassment and discrimination suit filed in 1997 and settled confidentially in 2000, without admission; he denied the claims. At company level, Bloomberg units paid $5 million SEC penalties in 2020 and 2023 without admitting the findings, and the EEOC’s pattern-of-discrimination claim was dismissed in 2011. The FEC dismissed complaints about his campaign’s transfer to the DNC in 2023. No penalty against him personally was found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Since June 2026 a federal court in Massachusetts has let a former campaign worker pursue a contract claim against Bloomberg personally, at the pleading stage; he denies making the promise. Related claims against his 2020 campaign, including an appealed jury verdict, are pending. A copyright suit over training BloombergGPT on authors’ books is pending against Bloomberg L.P. and Bloomberg Finance after dismissal was denied in 2025.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "Large climate and public-health philanthropy.",
+      "counterweights": "The Bloomberg Family Foundation reported about $1.47 billion in charitable disbursements in 2024 (Form 990-PF). The Chronicle of Philanthropy ranked him first among US donors for 2025, with $4.3 billion, counting multiyear pledges when announced.",
       "status_note": "",
       "sources": [
         "forbes",
         "elb-2024",
-        "opensecrets-2024"
+        "opensecrets-2024",
+        "michael-bloomberg-nyt-2026",
+        "michael-bloomberg-forbes-profile",
+        "michael-bloomberg-fec-mur7722",
+        "michael-bloomberg-sec-tradebook-2020",
+        "michael-bloomberg-sec-bval-2023",
+        "michael-bloomberg-bi-eeoc-2011",
+        "michael-bloomberg-wapo-2020",
+        "michael-bloomberg-ap-nda-2020",
+        "michael-bloomberg-ap-2007",
+        "michael-bloomberg-globe-2025",
+        "michael-bloomberg-amny-2026",
+        "michael-bloomberg-dmass-sipp-2026",
+        "michael-bloomberg-sdny-huckabee-2025",
+        "michael-bloomberg-propublica-bff",
+        "michael-bloomberg-ejp-2026"
       ]
     },
     {
