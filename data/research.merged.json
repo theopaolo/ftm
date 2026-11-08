@@ -1948,6 +1948,66 @@
       "url": "https://www.courtsofnz.govt.nz/cases/sustainable-otariki-incorporated-v-whakatane-district-council-and-creswell-nz-limited",
       "kind": "case"
     },
+    "jeff-yass-propublica-2022": {
+      "label": "ProPublica: How Jeff Yass and Susquehanna cut his taxes (2022)",
+      "url": "https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance",
+      "kind": "case"
+    },
+    "jeff-yass-ca3-2019": {
+      "label": "Justia: SIH Partners LLLP v. Commissioner, Third Circuit opinion (2019)",
+      "url": "https://internationaltradeopinions.justia.com/2019/05/07/sih-partners-lllp-v-commissioner-of-internal-revenue/",
+      "kind": "case"
+    },
+    "jeff-yass-tpcases-2019": {
+      "label": "TPcases: US v. SIH Partners, Third Circuit upholds tax on $377M (2019)",
+      "url": "https://tpcases.com/?p=11044",
+      "kind": "case"
+    },
+    "jeff-yass-alston-2026": {
+      "label": "Alston & Bird: Tax Court undercuts 70/30 basket hedges in SIH Partners (2026)",
+      "url": "https://www.alston.com/en/insights/publications/2026/08/tax-court-undercuts-70-30-basket-hedges",
+      "kind": "case"
+    },
+    "jeff-yass-ey-2026": {
+      "label": "EY Tax News: Tax Court anti-abuse rule denies QDI and foreign tax credits (2026)",
+      "url": "https://taxnews.ey.com/news/2026-1774-tax-court-applies-anti-abuse-rule-to-deny-qualified-dividend-income-and-foreign-tax-credits",
+      "kind": "case"
+    },
+    "jeff-yass-ie-coa-2025": {
+      "label": "Courts Service of Ireland: Revenue v Susquehanna International Group (2025)",
+      "url": "https://judgments.courts.ie/view/judgments/0bb1cbe0-47e1-4e6e-9c6d-4514b6d4a09b/15b86349-8d2c-4a64-a2d7-7f7c2551b419/2025_IECA_123.pdf/pdf",
+      "kind": "case"
+    },
+    "jeff-yass-irishtimes-2020": {
+      "label": "Irish Times: Revenue challenges relief on Susquehanna €46.6m losses (2020)",
+      "url": "https://www.irishtimes.com/business/financial-services/revenue-asks-high-court-to-reverse-tax-relief-ruling-on-company-s-46-6m-losses-1.4399406",
+      "kind": "case"
+    },
+    "jeff-yass-finra-2025": {
+      "label": "FINRA: Disciplinary and other actions, August 2025 (2025)",
+      "url": "https://www.finra.org/sites/default/files/2025-08/disciplinary-actions-august-2025.pdf",
+      "kind": "case"
+    },
+    "jeff-yass-box-2023": {
+      "label": "BOX Exchange: Disciplinary actions, April 2023 (2023)",
+      "url": "https://boxexchange.com/assets/2023-Disciplinary-Actions_April-13-2023.pdf",
+      "kind": "case"
+    },
+    "jeff-yass-sec-2009": {
+      "label": "SEC: 14 specialist firms charged over improper proprietary trading (2009)",
+      "url": "https://www.sec.gov/news/press/2009/2009-42.htm",
+      "kind": "case"
+    },
+    "jeff-yass-fortune-2024": {
+      "label": "Fortune: Jeff Yass, Susquehanna's ByteDance stake and Trump's TikTok stance (2024)",
+      "url": "https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban",
+      "kind": "case"
+    },
+    "jeff-yass-texastribune-2025": {
+      "label": "Texas Tribune: Jeff Yass gives $100 million to University of Austin (2025)",
+      "url": "https://www.texastribune.org/2025/11/05/university-austin-jeff-yass-donation-free-tuition/",
+      "kind": "case"
+    },
     "dieter-schwarz-bkarta-2015": {
       "label": "Bundeskartellamt: Vertical resale price maintenance in food retail (2015)",
       "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2015/18_06_2015_Vertikalfall.html",
@@ -4973,7 +5033,10 @@
         "politics": {
           "value": 3,
           "basis": "documented",
-          "reason": "Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and more than $100 million again before the 2026 midterms."
+          "reason": "Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and $109 million of outside spending in the 2025-26 midterm cycle, third among billionaires, per OpenSecrets data. Reporting has set his and Susquehanna's reported ByteDance stakes against Trump's 2024 shift on a TikTok ban; no link is established.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
           "value": 1,
@@ -4981,24 +5044,44 @@
           "reason": "Social effects depend on how capital is allocated; not checked."
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Susquehanna's partnership SIH lost contested US tax cases: tax on about $377 million of income upheld on appeal in 2019, and dividend tax benefits denied under an anti-abuse rule by the Tax Court in August 2026. Its Irish units lost a group-relief case in 2025. ProPublica reported that Yass and two partners were hit with $121 million in back taxes in 2019. Fines were modest: FINRA $100,000 (2025), BOX $80,000 (2023), SEC settlement (2009). No penalty or charge against Yass personally was found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Tax-avoidance concerns rest on ProPublica's 2022 reporting from a trove of IRS data; Susquehanna says the records were stolen and the story has numerous errors. No appeal of the August 2026 Tax Court ruling was found. No pending personal case was found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "The University of Austin said in November 2025 it had received $50 million from Yass toward a $100 million gift for free tuition.",
       "status_note": "",
       "sources": [
         "forbes",
         "elb-2024",
         "opensecrets-2024",
-        "newsweek-midterms"
+        "newsweek-midterms",
+        "jeff-yass-propublica-2022",
+        "jeff-yass-ca3-2019",
+        "jeff-yass-tpcases-2019",
+        "jeff-yass-alston-2026",
+        "jeff-yass-ey-2026",
+        "jeff-yass-ie-coa-2025",
+        "jeff-yass-irishtimes-2020",
+        "jeff-yass-finra-2025",
+        "jeff-yass-box-2023",
+        "jeff-yass-sec-2009",
+        "jeff-yass-fortune-2024",
+        "jeff-yass-texastribune-2025"
       ]
     },
     {

@@ -573,6 +573,18 @@
         "accept": true,
         "why": "R6: a federal judge let a contract claim proceed against him personally (June 2026), pending."
       }
+    },
+    "jeff-yass": {
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: Susquehanna's partnership lost contested US tax cases, including a 2026 Tax Court ruling applying an anti-abuse rule, and an Irish appeal. These are court findings of material size at company level. ProPublica's report of the partners' back taxes rests on IRS data it obtained, not on an official record."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "Tax concerns raised by reporting (ProPublica, 2022), disputed by Susquehanna."
+      }
     }
   },
   "counterweights": {

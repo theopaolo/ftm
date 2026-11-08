@@ -128,7 +128,7 @@
     },
     {
       "id": "elb-2024",
-      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data",
+      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data (2025)",
       "url": "https://electionlawblog.org/?p=149186",
       "publisher": "Election Law Blog",
       "publisher_type": "academic",
@@ -138,7 +138,7 @@
     },
     {
       "id": "newsweek-midterms",
-      "label": "Newsweek: billionaire spending in the 2026 midterms, from OpenSecrets data",
+      "label": "Newsweek: billionaire spending in the 2026 midterms, from OpenSecrets (2026)",
       "url": "https://www.newsweek.com/the-billionaires-who-spent-won-and-lost-the-most-at-the-midterms-12661688",
       "publisher": "Newsweek",
       "publisher_type": "press",
@@ -202,7 +202,7 @@
       "theme": "tax",
       "level": "company",
       "entity": "Susquehanna International Group Limited and Irish affiliates",
-      "claim": "Ireland's Revenue challenged group relief that Susquehanna's Irish units claimed on €46.6 million of 2010 to 2012 losses, which a tax appeals commissioner had allowed in 2019. The High Court reversed that in 2024 and the Court of Appeal dismissed Susquehanna's appeal on 27 May 2025; no wrongdoing was alleged.",
+      "claim": "Ireland's Revenue refused group relief that Susquehanna's Irish units claimed for 2010 and 2011, which the Tax Appeals Commission allowed in April 2019; the Irish Times put the losses at €46.6 million. The High Court reversed that in October 2024 and the Court of Appeal dismissed the units' appeal on 27 May 2025, holding their fiscally transparent US parent was not US-resident under the treaty.",
       "evidence_type": "final_ruling",
       "date": "2025-05-27",
       "source_ids": [
@@ -216,7 +216,7 @@
       "theme": "finance",
       "level": "company",
       "entity": "Susquehanna Financial Group, LLLP",
-      "claim": "In June 2025 FINRA censured Susquehanna Financial Group and fined it $100,000 for misreporting bond trades to TRACE without a required indicator and lacking supervision of that reporting. The firm neither admitted nor denied the findings and had fixed the error.",
+      "claim": "In June 2025 FINRA censured Susquehanna Financial Group and fined it $100,000 for reporting TRACE-eligible trades without a required indicator and having no supervisory system for that reporting. The firm neither admitted nor denied the findings and fixed the error after FINRA flagged it.",
       "evidence_type": "regulatory_penalty",
       "date": "2025-06-09",
       "source_ids": [
@@ -255,7 +255,7 @@
       "theme": "tax",
       "level": "individual",
       "entity": "Jeff Yass",
-      "claim": "Using leaked IRS data, ProPublica reported in 2022 that Yass paid an average 19% federal income tax rate from 2013 to 2018, avoided an estimated $1 billion through Susquehanna trading strategies, and paid $121 million in back taxes with two partners in 2019 after a dispute the firm took to the Supreme Court. Susquehanna called the story error-ridden and based on stolen records.",
+      "claim": "Drawing on a trove of IRS data, ProPublica reported in 2022 that Yass paid an average 19% federal income tax rate in 2013-2018, put his tax savings at $1 billion or more, and said he and two partners were hit with $121 million in back taxes in 2019 after Susquehanna lost an IRS dispute it appealed to the Supreme Court. Susquehanna said the story, from stolen records, had numerous errors.",
       "evidence_type": "investigative_reporting",
       "date": "2022-06-21",
       "source_ids": [
@@ -268,7 +268,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Jeff Yass",
-      "claim": "Jeff and Janine Yass gave $101.1 million in the 2024 cycle, sixth among the six US donors above $100 million, per OpenSecrets data. In the 2026 cycle OpenSecrets counted $109 million of his outside spending, third among billionaires, including top backing for Vivek Ramaswamy in Ohio.",
+      "claim": "Per OpenSecrets data cited by Election Law Blog, Jeff and Janine Yass gave $101.1 million in the 2024 cycle, sixth of six US donors above $100 million. Newsweek, citing OpenSecrets, listed $109 million for Yass in 2025-26 outside spending, third among billionaires, and said he and his wife were the top backers of Vivek Ramaswamy's Ohio governor bid.",
       "evidence_type": "official_report",
       "date": "2026-11",
       "source_ids": [
@@ -295,7 +295,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Jeff Yass",
-      "claim": "In 2025 Yass gave $100 million to the University of Austin to make tuition permanently free, on condition it never takes government money. The university had received $50 million by November 2025, with the rest due over four years.",
+      "claim": "The University of Austin said in November 2025 that it had received $50 million from Yass toward a $100 million gift for permanently free tuition, with the rest expected over four years. Yass made it conditional on the school never taking government money.",
       "evidence_type": "documented_giving",
       "date": "2025-11-05",
       "source_ids": [
@@ -308,7 +308,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and $109 million of outside spending again in the 2026 midterm cycle, third among billionaires, per OpenSecrets data. Reporting has linked his family's ByteDance stake to Trump's 2024 TikTok shift; no influence is established.",
+        "reason": "Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and $109 million of outside spending in the 2025-26 midterm cycle, third among billionaires, per OpenSecrets data. Reporting has set his and Susquehanna's reported ByteDance stakes against Trump's 2024 shift on a TikTok ban; no link is established.",
         "finding_ids": [
           "f8",
           "f9"
@@ -317,7 +317,7 @@
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Susquehanna's partnership lost contested US tax cases: tax on about $377 million upheld on appeal in 2019, and dividend tax benefits denied under an anti-abuse rule by the Tax Court in August 2026. Its Irish units lost a group-relief case in 2025. Regulatory fines are small (FINRA 2025, BOX 2023, SEC 2009). No penalty or charge against Yass personally was found.",
+        "reason": "Susquehanna's partnership SIH lost contested US tax cases: tax on about $377 million of income upheld on appeal in 2019, and dividend tax benefits denied under an anti-abuse rule by the Tax Court in August 2026. Its Irish units lost a group-relief case in 2025. ProPublica reported that Yass and two partners were hit with $121 million in back taxes in 2019. Fines were modest: FINRA $100,000 (2025), BOX $80,000 (2023), SEC settlement (2009). No penalty or charge against Yass personally was found.",
         "finding_ids": [
           "f1",
           "f2",
@@ -331,14 +331,70 @@
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "Tax-avoidance concerns rest on ProPublica's 2022 reporting from leaked IRS data, which Susquehanna disputes. Whether the August 2026 Tax Court ruling has been appealed was not found. No pending personal case was found.",
+        "reason": "Tax-avoidance concerns rest on ProPublica's 2022 reporting from a trove of IRS data; Susquehanna says the records were stolen and the story has numerous errors. No appeal of the August 2026 Tax Court ruling was found. No pending personal case was found.",
         "finding_ids": [
           "f2",
           "f7"
         ]
       }
     },
-    "counterweights": "Gave $100 million to the University of Austin in 2025 for free tuition; $50 million had been received by November 2025.",
-    "rationale": "Politics stays 3; both current facts re-sourced. Legal 0 to 2: court findings against Susquehanna's partnership in contested tax cases (2019, 2026), and Yass with partners paid $121m in back taxes (Simons precedent, R3). If tax-deficiency rulings are not 'wrongdoing' under R5, legal 1 (small fines) is the alternative. Unresolved 0 to 1: concerns raised by reporting; no pending case found."
+    "counterweights": "The University of Austin said in November 2025 it had received $50 million from Yass toward a $100 million gift for free tuition.",
+    "rationale": "Politics stays 3; both current facts re-sourced. Legal 0 to 2: court findings against Susquehanna's partnership in contested tax cases (2019, 2026); ProPublica reports Yass and two partners were hit with $121m in back taxes (Simons precedent, R3). If tax-deficiency rulings are not 'wrongdoing' under R5, legal 1 (small fines) is the alternative. Unresolved 0 to 1: concerns raised by reporting; no pending case found."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Justia (Third Circuit opinion, 7 May 2019) confirms the IRS win on regulation validity and the $1.5bn Merrill Lynch loan guaranteed by the CFCs; TPcases confirms about $377m of income and names Susquehanna. No penalty in either source."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Alston & Bird and EY confirm Tax Court, 6 August 2026 (167 T.C. No. 8), tax year 2012, about $170.8m of dividends and $25.6m of FTCs denied under the Reg. 1.246-5(c)(1)(vi) anti-abuse rule; Alston names Morgan Stanley and Susquehanna. Neither mentions penalties or an appeal; a search found no appeal."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the Court of Appeal judgment ([2025] IECA 123) concerns claims for 2010 and 2011 only (Revenue withdrew 2012, per the Irish Times), so \"2010 to 2012 losses\" became claims for 2010 and 2011, with the €46.6m attributed to the Irish Times; added the High Court date (2 October 2024) and the holding; dropped \"no wrongdoing was alleged\", which neither source states."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: FINRA says TRACE-eligible securities (not \"bond trades\") and that the firm remediated the error after FINRA made it aware of it; claim adjusted to say so. Censure, $100,000 fine, 9 June 2025 AWC, no admission or denial confirmed."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "BOX list as of 13 April 2023 confirms censure and $80,000 total fine for exceeding options position limits four times, January to March 2021, after a FINRA review."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "SEC release 2009-42 (4 March 2009) names Susquehanna Investment Group among eight firms in settled administrative proceedings, conduct 1999-2005, without admitting or denying; only aggregate amounts are given."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: ProPublica describes \"a trove of IRS data\" and does not say \"leaked\" in this article, so the wording now follows it; \"avoided an estimated $1 billion through Susquehanna trading strategies\" became ProPublica's estimate of $1bn or more in tax savings; \"paid\" became \"were hit with\" $121m, as ProPublica says; Susquehanna's response now matches its statement (stolen records, numerous misstatements and errors)."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: Election Law Blog (Hasen, 27 March 2025) confirms $101.1m for Jeffrey and Janine Yass, sixth of six $100m+ donors, from OpenSecrets. Newsweek lists $109m for Yass from OpenSecrets for the 2025-26 cycle, ranked by outside spending, third, and says he and his wife were the top backers of Ramaswamy; claim now attributes each figure to its source and states that wording."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Fortune (9 December 2024) gives a 15% Susquehanna stake (via NYT) and 7% for Yass (via Bloomberg), presents any link to Trump's TikTok shift as speculation, and quotes no statement by Yass on it."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: claim now leads with the amount received ($50m, as the university said by 5 November 2025) and calls the $100m a gift with the rest expected over four years, rather than stating $100m as given. Texas Tribune confirms the free-tuition purpose and the no-government-money condition."
+      }
+    ],
+    "passed": true
   }
 }
