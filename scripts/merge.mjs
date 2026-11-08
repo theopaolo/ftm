@@ -4,6 +4,7 @@
 // Plain Node, no dependencies.
 //
 // Usage: node scripts/merge.mjs [--research DIR] [--out FILE] [--review FILE]
+// If review-notes.md exists at the root, it is included in REVIEW.md after the summary.
 //
 // Mapping onto window.FTM_DATA (decided 2026-11-08, see RESEARCH_BRIEF.md amendments):
 // - Sources: added to the global dictionary with kind "case", keyed

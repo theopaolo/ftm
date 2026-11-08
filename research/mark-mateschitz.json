@@ -23,7 +23,10 @@
     "ServusTV Marktanteil 2025 Jahresbilanz größter Privatsender Österreich",
     "Wings for Life UK Spinal Cord Research Foundation 1138804 Charity Commission accounts",
     "FIA Cost Cap Administration Accepted Breach Agreement Red Bull Racing 2021 Financial Regulations (site: fia.com)",
-    "VfGH Wegscheider ServusTV Objektivitätsgebot Erkenntnis November 2026"
+    "VfGH Wegscheider ServusTV Objektivitätsgebot Erkenntnis November 2026",
+    "VfGH ServusTV Wegscheider Objektivitätsgebot Erkenntnis (verification)",
+    "site:vfgh.gv.at ServusTV Objektivitätsgebot (verification)",
+    "Red Bull AT.40819 Commission energy drinks investigation 2026 (verification)"
   ],
   "sources": [
     {
@@ -34,6 +37,16 @@
       "publisher_type": "regulator",
       "names_subject": true,
       "published": "2025-11-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "vfgh-2026",
+      "label": "VfGH: Servus TV broadcasts breached objectivity rule only in part, E 1838/2026 (2026)",
+      "url": "https://www.vfgh.gv.at/medien/Social-Media-Accounts.de.php",
+      "publisher": "Verfassungsgerichtshof (Austrian Constitutional Court)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-11-04",
       "accessed": "2026-11-08"
     },
     {
@@ -103,10 +116,12 @@
       "theme": "legal",
       "level": "company",
       "entity": "Red Bull GmbH",
-      "claim": "On 13 November 2025 the European Commission opened a formal abuse-of-dominance investigation into Red Bull, suspecting it paid retailers, at least in the Netherlands, to delist or disadvantage rival energy drinks above 250ml and misused its category-manager role. These are allegations; the Commission says the opening does not prejudge the outcome.",
+      "claim": "On 13 November 2025 the European Commission opened a formal abuse-of-dominance investigation into Red Bull, suspecting that, at least in the Netherlands, it gave retailers monetary and non-monetary incentives to delist or disadvantage rival energy drinks above 250ml and misused its category-manager role. These are allegations; the Commission says the opening does not prejudge the outcome.",
       "evidence_type": "pending_case",
       "date": "2025-11-13",
-      "source_ids": ["ec-2025"]
+      "source_ids": [
+        "ec-2025"
+      ]
     },
     {
       "id": "f2",
@@ -114,10 +129,13 @@
       "theme": "politics",
       "level": "company",
       "entity": "Red Bull Media House GmbH (ServusTV)",
-      "claim": "ORF reported on 4 November 2026 that Austria's Constitutional Court confirmed that Covid-related statements in ServusTV's 2021 show Der Wegscheider breached the broadcasting law's objectivity rule, rejecting a satire defence. The case began with a KommAustria decision; the court disagreed with a lower court on some other statements.",
+      "claim": "In a decision of 6 October 2026 (E 1838/2026), published 4 November, Austria's Constitutional Court held that some Covid statements on ServusTV's show Der Wegscheider in late 2021 breached the objectivity rule, notably accusing politicians of knowingly lying. It partly rejected Red Bull Media House's complaint against KommAustria and court rulings, finding one statement protected.",
       "evidence_type": "final_ruling",
-      "date": "2026-11-04",
-      "source_ids": ["orf-2026"]
+      "date": "2026-10-06",
+      "source_ids": [
+        "vfgh-2026",
+        "orf-2026"
+      ]
     },
     {
       "id": "f3",
@@ -125,10 +143,13 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Mark Mateschitz; Red Bull Media House",
-      "claim": "Mark Mateschitz inherited Distribution & Marketing GmbH, which holds 49% of Red Bull GmbH, in March 2023; trend reported he had no operational role. The group's media arm includes ServusTV, which APA reported as Austria's most-watched private channel in 2025, with a 4.7% share against 34.6% for the ORF group.",
+      "claim": "Mark Mateschitz inherited Distribution & Marketing GmbH, which holds 49% of Red Bull GmbH, in March 2023; trend reported in 2023 that he had no operational management role. The group's Red Bull Media House includes ServusTV, which APA reported as Austria's most-watched domestic private channel in 2025, with a 4.7% share against 34.6% for the ORF group.",
       "evidence_type": "investigative_reporting",
       "date": "2026-01-02",
-      "source_ids": ["trend-2023", "apa-2026"]
+      "source_ids": [
+        "trend-2023",
+        "apa-2026"
+      ]
     },
     {
       "id": "f4",
@@ -136,10 +157,13 @@
       "theme": "legal",
       "level": "company",
       "entity": "Red Bull Racing F1 Team",
-      "claim": "In October 2022 Red Bull Racing accepted an FIA agreement that it misreported its 2021 costs and exceeded the Formula 1 cost cap by £1.86 million (1.6%), and paid a $7 million penalty with a cut in aerodynamic testing. The FIA said there was no evidence of bad faith or concealment.",
+      "claim": "In October 2022 Red Bull Racing accepted an FIA agreement that it misreported its 2021 costs and exceeded the Formula 1 cost cap by £1.86 million (1.6%), with a $7 million financial penalty and a 10% cut in aerodynamic testing. The FIA said there was no evidence of bad faith or concealment.",
       "evidence_type": "settlement",
       "date": "2022-10-26",
-      "source_ids": ["fia-2022", "fia-2022-news"]
+      "source_ids": [
+        "fia-2022",
+        "fia-2022-news"
+      ]
     },
     {
       "id": "f5",
@@ -147,10 +171,13 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Wings for Life UK Spinal Cord Research Foundation",
-      "claim": "The 2024 accounts of Wings for Life UK report £2.25 million in research grants and say Red Bull's UK company covers almost all running costs (£161,066 in kind in 2024); most income comes from public donations. Mark Mateschitz has sat on the board of the Wings for Life foundation since January 2022, trend reported.",
+      "claim": "Wings for Life UK's 2024 accounts report £2.25 million in new research grants committed by the charity (£2.13 million in grants still payable at year-end); Red Bull's UK company paid almost all its overheads and gave a further £161,066 in kind. trend reported in 2023 that Mark Mateschitz had sat on the board of Wings for Life, which his father co-founded, since January 2022.",
       "evidence_type": "documented_giving",
       "date": "2024-12-31",
-      "source_ids": ["wfl-uk-2024", "trend-2023"]
+      "source_ids": [
+        "wfl-uk-2024",
+        "trend-2023"
+      ]
     }
   ],
   "proposal": {
@@ -158,29 +185,70 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Owner of influential media through a minority stake: Mark Mateschitz holds 49% of Red Bull, whose media arm runs ServusTV, Austria's most-watched private channel in 2025. Austria's Constitutional Court confirmed in 2026 that Covid statements on its show Der Wegscheider breached the objectivity rule. He has no operational role, and no political donations by him were found in this research.",
-        "finding_ids": ["f2", "f3"]
+        "reason": "Indirect part-owner of influential media: Mark Mateschitz inherited the company holding 49% of Red Bull, whose Red Bull Media House runs ServusTV, Austria's most-watched domestic private channel in 2025. Austria's Constitutional Court confirmed in 2026 that some Covid statements on its show Der Wegscheider breached the objectivity rule. trend reported in 2023 that he had no operational role; no political donations by him were found in this research.",
+        "finding_ids": [
+          "f2",
+          "f3"
+        ]
       },
       "social": {
         "value": 1,
         "basis": "documented",
-        "reason": "Competition concerns are specific but unproven: the European Commission is investigating whether Red Bull pushed retailers to delist or disadvantage rival energy drinks. No finding has been made. Labour and consumer conditions were not checked.",
-        "finding_ids": ["f1"]
+        "reason": "Competition concerns are specific but unproven: the European Commission is investigating whether Red Bull used retailer incentives and its category-manager role to have rival energy drinks delisted or disadvantaged. No finding has been made. Labour and consumer conditions were not checked.",
+        "finding_ids": [
+          "f1"
+        ]
       },
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Company-level record only: Red Bull Racing accepted a $7 million FIA penalty in 2022 for breaching the 2021 Formula 1 cost cap, and Austrian courts upheld findings that ServusTV breached broadcasting objectivity rules. No personal legal record for Mark Mateschitz was found.",
-        "finding_ids": ["f2", "f4"]
+        "reason": "Company-level record only: Red Bull Racing accepted a $7 million FIA penalty in 2022 for breaching the 2021 Formula 1 cost cap, and Austria's Constitutional Court upheld in part findings that ServusTV broadcasts breached the objectivity rule. No personal legal record for Mark Mateschitz was found.",
+        "finding_ids": [
+          "f2",
+          "f4"
+        ]
       },
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "A formal EU antitrust investigation into Red Bull, opened in November 2025, is pending; the Commission says it does not prejudge the outcome and Red Bull has not commented. Nothing personal is pending.",
-        "finding_ids": ["f1"]
+        "reason": "A formal EU antitrust investigation into Red Bull, opened in November 2025, is pending; the Commission says the opening does not prejudge the outcome. Nothing personal is pending.",
+        "finding_ids": [
+          "f1"
+        ]
       }
     },
-    "counterweights": "Red Bull's UK company covers almost all running costs of Wings for Life UK, which paid £2.25 million in spinal cord research grants in 2024, mostly from public donations. Mark Mateschitz sits on the Wings for Life foundation's board. No personal giving with amounts disbursed was confirmed.",
-    "rationale": "Politics 1 to 2: ServusTV is Austria's largest private channel and a court confirmed objectivity breaches; his stake is a 49% minority with no operational role, which could argue for 1. Legal 0 to 1: an FIA sporting-finance penalty and a broadcasting ruling, both company level. Unresolved 0 to 2: a pending formal EU antitrust case at company level fits level 2 literally. Social stays 1, now documented. A reported €5m flood donation rests only on tabloid attribution and was left out. Ecology not researched."
+    "counterweights": "Wings for Life UK committed £2.25 million in spinal cord research grants in 2024; the grants are the charity's, while Red Bull's UK company paid almost all its overheads. Mark Mateschitz sits on the Wings for Life board, not the UK charity's. No personal giving by him with amounts paid was found.",
+    "rationale": "Politics 1 to 2: ServusTV is Austria's largest domestic private channel and the Constitutional Court confirmed objectivity breaches in part; his stake is an indirect 49% minority with no operational role reported in 2023, which could argue for 1. Legal 0 to 1: an FIA sporting-finance penalty and a broadcasting ruling, both company level. Unresolved 0 to 2: a pending formal EU antitrust case at company level fits level 2 literally. Social stays 1, now documented. A reported €5m flood donation rests only on tabloid attribution and was left out. Ecology not researched."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: the Commission press release (IP/25/2671, 13 Nov 2025) speaks of monetary and non-monetary incentives to off-trade customers, not payments; 'paid retailers' replaced. Pending case, company level, allegation framing and no-prejudgement statement confirmed. No later decision or statement of objections found."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: the VfGH's own press release (4 Nov 2026) dates the decision 6 October 2026 (E 1838/2026), so the date moved from 4 Nov (publication) to 6 Oct and the court's release added as primary source beside ORF; leadersnet also confirms. Holding narrowed: breaches confirmed only in part, complaint by Red Bull Media House, one statement found protected speech. The court agreed it was opinion commentary with a satirical note, so satire did not exempt it. Company level."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: APA (via Vienna.at) says ServusTV led domestic ('heimische') private channels, so 'most-watched private channel' became 'most-watched domestic private channel'; 'no operational role' dated to trend's 2023 report. 49% via Distribution & Marketing GmbH, heir date 27 March 2023, and Red Bull Media House belonging to Red Bull confirmed by trend. No source documents any role by him at ServusTV."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: the FIA summary says RBR 'must pay' USD 7,000,000; 'paid' replaced by the penalty as imposed, and the 10% aero-testing cut made explicit. £1,864,000 (1.6%) overspend, procedural breach, ABA dated 26 Oct 2022 and the no-bad-faith statement confirmed. Company level; an ABA is an agreed settlement."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the accounts show £2,253,848 in grants committed in 2024 with £2,127,203 still payable at year-end, so 'grants' is now 'committed' and the payable figure added; the cash actually paid out is not stated. 'Most income comes from public donations' removed: note 3 shows £3.47m of £3.87m donations from corporate sponsors and £63k from individuals, plus a £1.70m World Run allocation. £161,066 is additional in-kind support on top of Red Bull UK paying the overheads, not the whole cover. OpenCharities' PDF and OCR match the totals OpenCharities lists for FYE 2024 (income £4,760,522, expenditure £3,312,024); the Charity Commission register itself could not be loaded (403/JS). Mateschitz is not among the UK trustees; trend (2023) puts him on the Wings for Life board."
+      }
+    ],
+    "passed": true
   }
 }
