@@ -77,7 +77,10 @@
       "claim": "In June 2025 Pignataro agreed to pay the Italian Revenue Agency EUR 280 million in five instalments, closing an assessment that treated him as Italian tax resident for 2013 to 2023; the original claim was reported at about EUR 1.2 billion with interest. His lawyers said the deal implies no admission of evasion and that penalties were not applied.",
       "evidence_type": "settlement",
       "date": "2025-06",
-      "source_ids": ["sole24ore-2025", "ilpost-2025-06"]
+      "source_ids": [
+        "sole24ore-2025",
+        "ilpost-2025-06"
+      ]
     },
     {
       "id": "f2",
@@ -85,10 +88,13 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Andrea Pignataro",
-      "claim": "Bologna prosecutors opened a criminal tax evasion investigation in April 2025, alleging about EUR 500 million unpaid over 2013 to 2023. In October 2025 Il Post reported that the Bologna preliminary investigations judge dismissed the case, finding his business interests were centred abroad; no charge was brought.",
+      "claim": "In October 2025 a Bologna preliminary investigations judge dismissed a criminal tax evasion investigation into Pignataro, finding his business and interests were centred abroad; it closed at the investigation stage without charges or trial. Prosecutors had opened it in April 2025, alleging about EUR 500 million evaded over 2013 to 2023.",
       "evidence_type": "final_ruling",
       "date": "2025-10",
-      "source_ids": ["ilpost-2025-06", "ilpost-2025-10"]
+      "source_ids": [
+        "ilpost-2025-06",
+        "ilpost-2025-10"
+      ]
     },
     {
       "id": "f3",
@@ -99,25 +105,56 @@
       "claim": "Reuters reported in January 2024, citing sources, that the Bank of Italy was examining ION's complex multi-country ownership structure in detail. Italy's government cleared ION's debt-financed Prelios takeover in 2024 with conditions, after ION disclosed the loan collateral terms Rome had requested.",
       "evidence_type": "investigative_reporting",
       "date": "2024-03",
-      "source_ids": ["reuters-2024-01", "reuters-2024-03"]
+      "source_ids": [
+        "reuters-2024-01",
+        "reuters-2024-03"
+      ]
     }
   ],
   "proposal": {
     "scores": {
       "legal": {
-        "value": 3,
+        "value": 1,
         "basis": "documented",
-        "reason": "In 2025 Pignataro personally agreed to pay the Italian tax agency EUR 280 million over his tax residence for 2013 to 2023, against an original claim of about EUR 1.2 billion; his lawyers said it implies no admission of evasion. A parallel criminal tax investigation was dismissed by a Bologna judge in October 2025 without charges.",
-        "finding_ids": ["f1", "f2"]
+        "reason": "In 2025 Pignataro agreed to pay the Italian tax agency EUR 280 million to close an assessment over his tax residence for 2013 to 2023, against an original claim of about EUR 1.2 billion; his lawyers said the deal implies no admission of evasion and that no penalties were applied. A parallel criminal tax investigation was dismissed by a Bologna judge in October 2025 without charges.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
       },
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "No pending personal matter: the criminal tax investigation was dismissed in 2025 and the tax claim settled. ION is privately held through entities in several countries; Reuters reported in 2024 that the Bank of Italy was examining its ownership structure, with no public outcome.",
-        "finding_ids": ["f2", "f3"]
+        "reason": "No pending personal matter was found: the criminal tax investigation was dismissed in 2025 and the tax claim settled. Reuters reported in 2024, citing sources, that the Bank of Italy was examining ION's complex ownership structure, which spans several countries.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
       }
     },
     "counterweights": "",
-    "rationale": "Legal 0 to 3: a EUR 280 million personal tax settlement reads as personal civil liability under level 3, even without penalties or admission; if the reviewer treats a negotiated tax assessment as an ordinary regulatory settlement, level 1 is the alternative. The dismissed probe was an investigation, not an indictment, so it does not by itself reach level 3. Unresolved 0 to 1: nothing pending personally, but reported central bank scrutiny of an opaque private structure fits level 1. No political, social, ecological or philanthropic source was found."
+    "rationale": "Legal 0 to 1: level 3 requires personal civil liability or penalty, personal sanctions or an indictment. The EUR 280 million deal is a negotiated tax settlement with no admission and, per his lawyers, no penalties, and the criminal probe was dismissed without charges, so level 3 is not met as written; level 1 (regulatory action) is what the rubric supports. A reviewer reading an agreed tax assessment as personal civil liability could set 3. Unresolved 0 to 1: nothing pending personally; reported central bank scrutiny of ION's structure fits level 1."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Il Sole 24 Ore (8 June 2025) names Pignataro: EUR 280m agreement with the Agenzia delle Entrate (Bologna office) for 2013-2023 over alleged Italian tax residence, against EUR 1.2bn including penalties and interest; lawyers' note says no admission of guilt or evasion and penalties disapplied. Il Post (9 June 2025) confirms EUR 280m in five instalments, 1.2bn with interest, no admission. Settlement, individual level: correct."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: the dismissal now leads the claim, and 'closed at the investigation stage without charges or trial' replaces 'no charge was brought'. Il Post (22 Oct 2025) reports the Bologna GIP archived the probe, finding his business and interests centred abroad; Il Post (9 June 2025) gives the April 2025 opening and about EUR 500m alleged for 2013-2023. evidence_type final_ruling kept as the closest type for a judge's archiviazione decree; it is not a verdict after trial."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Both copies are faithful Reuters syndications: MarketScreener carries 'ROME, Jan 25 (Reuters)' and '(c) Reuters 2024'; swissinfo.ch carries the Reuters byline (Fonte, Za), 11 March 2024. Bank of Italy examination is attributed to two unnamed sources and written as reporting, not a finding; conditional golden-power clearance of Prelios after ION disclosed collateral terms is supported. Company level (ION) correct."
+      }
+    ]
   }
 }

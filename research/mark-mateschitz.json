@@ -1,0 +1,186 @@
+{
+  "id": 43,
+  "slug": "mark-mateschitz",
+  "name": "Mark Mateschitz",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "European Commission Red Bull antitrust investigation formal proceedings energy drinks",
+    "Mark Mateschitz ServusTV KommAustria",
+    "Commission opens investigation into possible anticompetitive practices by Red Bull press release ec.europa.eu",
+    "Red Bull antitrust investigation energy drinks category management (site: ec.europa.eu)",
+    "Red Bull EU antitrust 2026 statement of objections OR commitments Commission energy drinks",
+    "Mark Mateschitz ServusTV Eigentümer Red Bull Media House Einfluss",
+    "KommAustria ServusTV Verletzung Objektivitätsgebot Bescheid Corona",
+    "\"Mark Mateschitz\" Servus TV 2025 OR 2026",
+    "Mark Mateschitz Spende Millionen Stiftung",
+    "Mateschitz fünf Millionen Euro Hochwasser Spende \"Österreich hilft Österreich\" 2024",
+    "Wings for Life Foundation annual report research funding million euros projects funded Red Bull covers administrative costs",
+    "Mark Mateschitz Erbschaftssteuer keine Erbe Red Bull Anteil 49 Prozent steuerfrei",
+    "FIA statement Red Bull Racing cost cap breach 2021 accepted breach agreement fine $7 million",
+    "Mark Mateschitz zwei Prozent Red Bull Treuhänder Schweiz Firmenbuch 2025 derstandard OR kurier OR diepresse",
+    "Mateschitz Red Bull Parteispende Rechnungshof Spenden Partei",
+    "ServusTV Marktanteil 2025 Jahresbilanz größter Privatsender Österreich",
+    "Wings for Life UK Spinal Cord Research Foundation 1138804 Charity Commission accounts",
+    "FIA Cost Cap Administration Accepted Breach Agreement Red Bull Racing 2021 Financial Regulations (site: fia.com)",
+    "VfGH Wegscheider ServusTV Objektivitätsgebot Erkenntnis November 2026"
+  ],
+  "sources": [
+    {
+      "id": "ec-2025",
+      "label": "European Commission: Formal antitrust investigation into Red Bull (2025)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/it/ip_25_2671/IP_25_2671_EN.pdf",
+      "publisher": "European Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-11-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "orf-2026",
+      "label": "ORF: Verletztes Objektivitätsgebot, VfGH-Spruch zu Wegscheider (2026)",
+      "url": "https://orf.at/stories/3447184/",
+      "publisher": "ORF",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-11-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "trend-2023",
+      "label": "trend: Mark Mateschitz, der Red-Bull-Erbe und reichste Österreicher (2023)",
+      "url": "https://www.trend.at/personen/mark-mateschitz",
+      "publisher": "trend",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-07-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "apa-2026",
+      "label": "Vienna.at (APA): Diese Sendungen dominierten die TV-Quoten 2025 (2026)",
+      "url": "https://www.vienna.at/diese-sendungen-dominierten-die-tv-quoten-2025/9899174",
+      "publisher": "Vienna.at, citing APA",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fia-2022",
+      "label": "FIA: Red Bull Racing accepted breach agreement, 2021 cost cap (2022)",
+      "url": "https://www.fia.com/sites/default/files/rbr_public_summary_aba_-_article_6.32_1.pdf",
+      "publisher": "FIA",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2022-10-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fia-2022-news",
+      "label": "FIA: Accepted Breach Agreement between Red Bull Racing and the FIA (2022)",
+      "url": "https://www.fia.com/news/accepted-breach-agreement-between-red-bull-racing-team-and-fia-breach-2021-fia-formula-one",
+      "publisher": "FIA",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2022-10-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wfl-uk-2024",
+      "label": "Wings for Life UK: Annual report and financial statements (2024)",
+      "url": "https://opencharities.uk/ew/1138804/files/2024-12-31-accounts.html",
+      "publisher": "Wings for Life UK Spinal Cord Research Foundation (filed accounts, via OpenCharities)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Red Bull GmbH",
+      "claim": "On 13 November 2025 the European Commission opened a formal abuse-of-dominance investigation into Red Bull, suspecting it paid retailers, at least in the Netherlands, to delist or disadvantage rival energy drinks above 250ml and misused its category-manager role. These are allegations; the Commission says the opening does not prejudge the outcome.",
+      "evidence_type": "pending_case",
+      "date": "2025-11-13",
+      "source_ids": ["ec-2025"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Red Bull Media House GmbH (ServusTV)",
+      "claim": "ORF reported on 4 November 2026 that Austria's Constitutional Court confirmed that Covid-related statements in ServusTV's 2021 show Der Wegscheider breached the broadcasting law's objectivity rule, rejecting a satire defence. The case began with a KommAustria decision; the court disagreed with a lower court on some other statements.",
+      "evidence_type": "final_ruling",
+      "date": "2026-11-04",
+      "source_ids": ["orf-2026"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Mark Mateschitz; Red Bull Media House",
+      "claim": "Mark Mateschitz inherited Distribution & Marketing GmbH, which holds 49% of Red Bull GmbH, in March 2023; trend reported he had no operational role. The group's media arm includes ServusTV, which APA reported as Austria's most-watched private channel in 2025, with a 4.7% share against 34.6% for the ORF group.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-01-02",
+      "source_ids": ["trend-2023", "apa-2026"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Red Bull Racing F1 Team",
+      "claim": "In October 2022 Red Bull Racing accepted an FIA agreement that it misreported its 2021 costs and exceeded the Formula 1 cost cap by £1.86 million (1.6%), and paid a $7 million penalty with a cut in aerodynamic testing. The FIA said there was no evidence of bad faith or concealment.",
+      "evidence_type": "settlement",
+      "date": "2022-10-26",
+      "source_ids": ["fia-2022", "fia-2022-news"]
+    },
+    {
+      "id": "f5",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Wings for Life UK Spinal Cord Research Foundation",
+      "claim": "The 2024 accounts of Wings for Life UK report £2.25 million in research grants and say Red Bull's UK company covers almost all running costs (£161,066 in kind in 2024); most income comes from public donations. Mark Mateschitz has sat on the board of the Wings for Life foundation since January 2022, trend reported.",
+      "evidence_type": "documented_giving",
+      "date": "2024-12-31",
+      "source_ids": ["wfl-uk-2024", "trend-2023"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Owner of influential media through a minority stake: Mark Mateschitz holds 49% of Red Bull, whose media arm runs ServusTV, Austria's most-watched private channel in 2025. Austria's Constitutional Court confirmed in 2026 that Covid statements on its show Der Wegscheider breached the objectivity rule. He has no operational role, and no political donations by him were found in this research.",
+        "finding_ids": ["f2", "f3"]
+      },
+      "social": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Competition concerns are specific but unproven: the European Commission is investigating whether Red Bull pushed retailers to delist or disadvantage rival energy drinks. No finding has been made. Labour and consumer conditions were not checked.",
+        "finding_ids": ["f1"]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Company-level record only: Red Bull Racing accepted a $7 million FIA penalty in 2022 for breaching the 2021 Formula 1 cost cap, and Austrian courts upheld findings that ServusTV breached broadcasting objectivity rules. No personal legal record for Mark Mateschitz was found.",
+        "finding_ids": ["f2", "f4"]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "A formal EU antitrust investigation into Red Bull, opened in November 2025, is pending; the Commission says it does not prejudge the outcome and Red Bull has not commented. Nothing personal is pending.",
+        "finding_ids": ["f1"]
+      }
+    },
+    "counterweights": "Red Bull's UK company covers almost all running costs of Wings for Life UK, which paid £2.25 million in spinal cord research grants in 2024, mostly from public donations. Mark Mateschitz sits on the Wings for Life foundation's board. No personal giving with amounts disbursed was confirmed.",
+    "rationale": "Politics 1 to 2: ServusTV is Austria's largest private channel and a court confirmed objectivity breaches; his stake is a 49% minority with no operational role, which could argue for 1. Legal 0 to 1: an FIA sporting-finance penalty and a broadcasting ruling, both company level. Unresolved 0 to 2: a pending formal EU antitrust case at company level fits level 2 literally. Social stays 1, now documented. A reported €5m flood donation rests only on tabloid attribution and was left out. Ecology not researched."
+  }
+}
