@@ -105,7 +105,7 @@
       "theme": "military",
       "level": "company",
       "entity": "CATL",
-      "claim": "In January 2025 the US Defense Department added CATL to its Section 1260H list of Chinese military companies; the June 2026 list keeps it, citing affiliation with China's industry ministry and state-assets commission. CATL calls the listing a mistake, denies any military activity and, as of April 2026, was lobbying for removal.",
+      "claim": "In January 2025 the US Defense Department added CATL to its Section 1260H list of Chinese military companies, and its June 2026 list keeps it there as affiliated with China's industry ministry (MIIT) and state-assets commission (SASAC). CATL called the 2025 listing a mistake, denies military involvement and, as of April 2026, was seeking removal.",
       "evidence_type": "official_report",
       "date": "2026-06-10",
       "source_ids": [
@@ -120,7 +120,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Robin Zeng (Zeng Yuqun)",
-      "claim": "As of March 2026 Zeng Yuqun is a member of the National Committee of the Chinese People's Political Consultative Conference and a vice-chairman of the All-China Federation of Industry and Commerce, and spoke at the March 2026 CPPCC session.",
+      "claim": "As of March 2026 Zeng Yuqun is a member of the National Committee of the Chinese People's Political Consultative Conference and a vice-chairman of the All-China Federation of Industry and Commerce. On 4 March 2026 he spoke at the CPPCC members' group interview held before the committee's annual session opened.",
       "evidence_type": "investigative_reporting",
       "date": "2026-03-05",
       "source_ids": [
@@ -134,7 +134,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "CATL",
-      "claim": "In June 2024 the chairs of two House committees, joined by Senator Rubio and two other members, asked DHS to put CATL on the Uyghur forced labour entity list, alleging supplier links to Xinjiang state firms accused of forced labour. These are allegations; CATL called them groundless and said some supplier ties had ended.",
+      "claim": "In June 2024 the chairs of two House committees, joined by Senator Rubio and two other House members, asked DHS to add CATL to the Uyghur forced labour entity list, alleging supplier links to the US-sanctioned Xinjiang Production and Construction Corps. These are allegations; CATL called them groundless and said some supplier ties had ended long ago.",
       "evidence_type": "allegation",
       "date": "2024-06-05",
       "source_ids": [
@@ -148,7 +148,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "CATL",
-      "claim": "CATL reports that its core battery production bases were certified carbon neutral under ISO 14068-1 in 2025, with their emissions down from 2.35 to 1.75 MtCO2e, after buying 1.55 million tonnes of carbon credits. Group-wide zero-carbon power was 74.22%, and reported value-chain (Scope 3) emissions were about 111 MtCO2e.",
+      "claim": "CATL reports that its core battery bases (those running over a year) were certified carbon neutral under ISO 14068-1 in 2025, partly through 1.55 million tonnes of purchased carbon credits, and that emissions from its battery production bases fell from 2.35 to 1.75 MtCO2e. It reports 74.22% zero-carbon power company-wide and value-chain (Scope 3) emissions of about 111 MtCO2e.",
       "evidence_type": "company_disclosure",
       "date": "2026-03",
       "source_ids": [
@@ -161,7 +161,7 @@
       "ecology": {
         "value": 2,
         "basis": "documented",
-        "reason": "Battery manufacturing at global scale. CATL reports its core battery bases were certified carbon neutral in 2025 (emissions 1.75 MtCO2e, offset in part with 1.55 million tonnes of purchased credits), group-wide zero-carbon power of 74.22%, and value-chain emissions of about 111 MtCO2e, which dominate its footprint. These are company figures, not independently audited here.",
+        "reason": "Battery manufacturing at global scale. CATL reports its core battery bases were certified carbon neutral in 2025, partly by offsetting residual emissions with 1.55 million tonnes of purchased credits, and battery-base emissions of 1.75 MtCO2e. It reports company-wide zero-carbon power of 74.22% and value-chain emissions of about 111 MtCO2e, which dominate its footprint. These are CATL's own figures, not independently checked here.",
         "finding_ids": [
           "f4"
         ]
@@ -169,7 +169,7 @@
       "politics": {
         "value": 3,
         "basis": "documented",
-        "reason": "Zeng Yuqun sits on the National Committee of the CPPCC, China's top political advisory body, and is a vice-chairman of the All-China Federation of Industry and Commerce. Since January 2025 the US Defense Department has listed CATL as a Chinese military company, renewed in June 2026; CATL says the listing is a mistake. No donations or lobbying record was checked.",
+        "reason": "Zeng Yuqun sits on the National Committee of the CPPCC, China's top political advisory body, and is a vice-chairman of the All-China Federation of Industry and Commerce. Since January 2025 the US Defense Department has listed CATL as a Chinese military company under Section 1260H, a listing kept in June 2026; CATL called it a mistake. No individual donations or lobbying record was checked.",
         "finding_ids": [
           "f2",
           "f1"
@@ -178,7 +178,7 @@
       "social": {
         "value": 1,
         "basis": "documented",
-        "reason": "US lawmakers alleged in 2024 that CATL's supply chain has links to Xinjiang firms accused of using Uyghur forced labour and asked DHS to blacklist it; CATL denies this. No official forced-labour finding against CATL was found.",
+        "reason": "Five US lawmakers alleged in 2024 that CATL has supplier links to the Xinjiang Production and Construction Corps, a US-sanctioned body accused of using Uyghur forced labour, and asked DHS to add CATL to its forced-labour entity list; CATL denies this. No official forced-labour finding against CATL was found.",
         "finding_ids": [
           "f3"
         ]
@@ -193,7 +193,33 @@
         ]
       }
     },
-    "counterweights": "CATL reports its core battery bases were certified carbon neutral in 2025, using 1.55 million tonnes of purchased carbon credits for residual emissions; group-wide zero-carbon power was 74.22%. These are the company's own figures.",
+    "counterweights": "CATL reports its core battery bases were certified carbon neutral in 2025, a result that relies partly on 1.55 million tonnes of purchased carbon credits for residual emissions; company-wide zero-carbon power was 74.22%. These are the company's own figures.",
     "rationale": "Politics 1 to 3: CPPCC National Committee seat and ACFIC vice-chair are documented proximity to an authoritarian state, plus the 1260H listing (same reading as Ma Huateng). Unresolved 0 to 1: disputed designation and denied lawmaker allegations, no pending case. Social stays 1: allegations only. Ecology stays 2. Legal untouched: no penalty found. Zeng's SJTU share gifts left out: announced, transfer not confirmed."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "passed": true,
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: CATL's 'mistake' statement dated to 2025 as Reuters reported it; 'lobbying' replaced by 'seeking removal' (Bloomberg, 15 Apr 2026: co-chairman Pan Jian pushing for removal, exploring legal options, no lawsuit filed); MIIT/SASAC named. FR Doc. 2026-11571 (dated 5 Jun 2026, published 10 Jun 2026) lists CATL as indirectly affiliated with MIIT and directly and indirectly with SASAC. Reuters via Daily Maverick (7 Jan 2025) confirms the January 2025 addition. Company level."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: 'spoke at the March 2026 CPPCC session' narrowed to the 4 March group interview held before the opening of the fourth session of the 14th CPPCC National Committee. China Daily (5 Mar 2026, hosted on chinaservicesinfo.com, China Daily copyright) gives both CPPCC National Committee member and ACFIC vice-chairman; Gasgoo (5 Mar 2026) gives the CPPCC role and the Members' Passage interview, not the ACFIC role. Individual level; state media acceptable for official appointments."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: letter alleges affiliation with the Xinjiang Production and Construction Corps (XPCC) via suppliers, so 'Xinjiang state firms' replaced by XPCC; 'two other members' made 'two other House members'. Letter dated 5 Jun 2024 to DHS Under Secretary Silvers, signed by Moolenaar (Chair, Select Committee on the CCP), Green (Chair, Homeland Security), Sen. Rubio, LaHood and Gimenez; it asks for UFLPA Entity List placement, it does not report one. pv magazine USA (13 Jun 2024) carries CATL's 7 June denial ('groundless and completely false') and that some supplier relations ceased long ago. Kept as allegation, company level."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: the 2.35 to 1.75 MtCO2e figures are for all battery production bases (ESG table p.203), not only the core bases certified carbon neutral (bases operating over a year), so the two are now separated; 1.55 Mt of VCS/Gold Standard credits offset residual core-operations emissions (p.112 note 5); 74.22% zero-carbon electricity (company-wide); Group Scope 3 111,151,357.75 tCO2e (selected categories). CATL 2025 ESG Report, March 2026, HKEX filing; company disclosure. Ecology reason and counterweights aligned."
+      }
+    ]
   }
 }
