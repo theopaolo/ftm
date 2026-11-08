@@ -1,0 +1,213 @@
+{
+  "id": 49,
+  "slug": "alain-wertheimer",
+  "name": "Alain Wertheimer",
+  "entity_group": "chanel",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Chanel Korea personal information fine PIPC customer data leak",
+    "Chanel Mission 1.5 greenhouse gas emissions reduction progress report 2024",
+    "Conseil de la concurrence 2006 amende parfums Chanel entente prix",
+    "Fondation CHANEL grants disbursed million women girls annual",
+    "Chanel 2024 results revenue operating profit Fondation Chanel contribution",
+    "Fondation CHANEL charity 1195353 register-of-charities",
+    "Chanel Korea fined 2022 Personal Information Protection Commission hacking 81,654 customers penalty won",
+    "Chanel supplier labour exploitation investigation workshop Italy OR China luxury subcontractor Chanel named",
+    "Wertheimer brothers Chanel ownership structure Chanel Limited London tax Switzerland Mousse Partners",
+    "\"Alain Wertheimer\" OR \"Gérard Wertheimer\" political donation OR lobbying OR investigation",
+    "Reuters Chanel cuts ties subcontractor Italian labour probe Milan prosecutors July 2026",
+    "Chanel Limited annual report ultimate parent Mousse Investments Cayman Islands Wertheimer dividend"
+  ],
+  "sources": [
+    {
+      "id": "adlc-perfume-2006",
+      "label": "Autorité de la concurrence: Vertical agreements in the luxury perfume sector (2006)",
+      "url": "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/14-march-2006-vertical-agreements-luxury-perfume-sector",
+      "publisher": "Conseil de la concurrence (now Autorité de la concurrence)",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2006-03-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "lalibre-perfume-appeal-2012",
+      "label": "La Libre Belgique: Paris appeal court upholds perfume price-fixing fines (2012)",
+      "url": "https://www.lalibre.be/lifestyle/mode/2012/01/27/grosse-amende-pour-de-grands-noms-du-parfum-NWIWZCHVHBFZHIQ3DBN4HZHIOQ/",
+      "publisher": "La Libre Belgique",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2012-01-27",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "retailgazette-italy-probe",
+      "label": "Retail Gazette: Italian police search Chanel offices in luxury labour probe (2026)",
+      "url": "https://www.retailgazette.co.uk/blog/2026/07/italian-police-search-chanel-offices-in-luxury-labour-probe/",
+      "publisher": "Retail Gazette",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "euronews-italy-raids",
+      "label": "Euronews: Italian police raid luxury brands in labour abuse probe (2026)",
+      "url": "https://www.euronews.com/2026/07/16/italian-police-conduct-raids-on-several-luxury-brands-in-labour-abuse-probe",
+      "publisher": "Euronews (with AFP)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "chanel-slb-2024",
+      "label": "Chanel: Sustainability-Linked Bond Update 2024 (2024)",
+      "url": "https://www.chanel.cn/puls-img/1758023141952-chanel-sustainability-linked-bond-update-2024.pdf",
+      "publisher": "Chanel Limited",
+      "publisher_type": "company",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fondation-chanel-accounts-2024",
+      "label": "Fondation CHANEL: Report and accounts to 9 July 2024 (2024)",
+      "url": "https://opencharities.uk/ew/1195353/files/2024-07-09-accounts.md",
+      "publisher": "Fondation CHANEL (accounts filed with the Charity Commission, copy via OpenCharities)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2024",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-dividends-2024",
+      "label": "Fortune (Bloomberg): Chanel owners’ dividends reach $12.4 billion in 3 years (2024)",
+      "url": "https://fortune.com/europe/2024/06/06/chanel-family-personal-wealth-jumped-12-4-billion-3-years-billionaire-brothers-wertheimers/",
+      "publisher": "Fortune (Bloomberg report)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-06-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "fortune-dividend-2025",
+      "label": "Fortune: Chanel holds off on dividend after 2024 profit fall (2025)",
+      "url": "https://fortune.com/europe/2025/05/23/chanel-dividend-2024-earnings/",
+      "publisher": "Fortune",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-23",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Chanel",
+      "claim": "In March 2006 France's competition council fined Chanel €3 million, among 13 perfume suppliers and 3 retail chains fined about €45 million in all, for agreements in 1997-2000 that kept luxury perfume retail prices up. The Paris Court of Appeal upheld the finding in 2012, cutting total fines to about €40 million.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2006-03",
+      "source_ids": [
+        "adlc-perfume-2006",
+        "lalibre-perfume-appeal-2012"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Chanel supply chain (Italy)",
+      "claim": "In July 2026 Italian police in a Milan prosecutors' probe searched Chanel's offices, one of nine brands told to hand over supply-chain records, after two Chinese-owned workshops were accused of using undocumented workers to make bags for suppliers of luxury houses. Chanel is not formally under investigation and says it had the subcontractor dropped in May.",
+      "evidence_type": "allegation",
+      "date": "2026-07-16",
+      "source_ids": [
+        "retailgazette-italy-probe",
+        "euronews-italy-raids"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Chanel",
+      "claim": "Chanel reports that its Scope 1 and 2 emissions fell 42% from 2018 to 2024 and that 99% of electricity in its own operations was renewable in 2024, while Scope 3 emissions, 97% of a 950,043-tonne footprint, rose 12%. The figures are self-reported in a bond update that cites no independent assurance.",
+      "evidence_type": "company_disclosure",
+      "date": "2024",
+      "source_ids": [
+        "chanel-slb-2024"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Fondation CHANEL",
+      "claim": "Fondation CHANEL, a UK charity funded solely by the Chanel group, reported grant spending of US$25.9 million in 2023 and US$19.7 million from January to 9 July 2024, in accounts audited by Ernst & Young. It received US$85 million in cash donations in 2023.",
+      "evidence_type": "documented_giving",
+      "date": "2024-07-09",
+      "source_ids": [
+        "fondation-chanel-accounts-2024"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "family",
+      "entity": "Alain and Gérard Wertheimer (Chanel owners)",
+      "claim": "Bloomberg reported in 2024, citing filings, that Chanel paid $5.7 billion in dividends for 2023 and $12.4 billion over three years to its owners, the Wertheimer brothers, via a Cayman Islands-based holding company. The reporting does not name that company or describe its accounts.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-06-06",
+      "source_ids": [
+        "fortune-dividends-2024",
+        "fortune-dividend-2025"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Chanel makes and sells fashion, leather goods, fragrance, cosmetics and jewellery worldwide, a reported footprint of about 950,000 tonnes CO2e in 2024. It reports a 42% cut in own-operations emissions since 2018 but a 12% rise in value-chain emissions; the figures are self-reported. No major environmental incident was found.",
+        "finding_ids": [
+          "f3"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "France's competition council fined Chanel in 2006 for keeping luxury perfume retail prices up in 1997-2000, upheld on appeal in 2012. In 2026 Italian police searched Chanel's offices in a probe of workshops accused of exploiting workers; Chanel is not under formal investigation and says it dropped the subcontractor. No labour finding against Chanel was found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Regulatory action at company level: a €3 million fine from France's competition council in 2006 for perfume price agreements from 1997 to 2000, upheld on appeal. No court finding of scale, settlement above $1 billion or personal matter was found.",
+        "finding_ids": [
+          "f1"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Chanel is privately held; Bloomberg reported that its dividends, $12.4 billion over three years, go to a Cayman Islands holding company of the Wertheimer brothers, unnamed in that reporting. A 2026 Milan labour probe reached Chanel's supply chain, but Chanel is not formally under investigation.",
+        "finding_ids": [
+          "f2",
+          "f5"
+        ]
+      }
+    },
+    "counterweights": "Fondation CHANEL, funded solely by the Chanel group, reported US$25.9 million in grants in 2023. Chanel reports a 42% cut in own-operations emissions since 2018, self-reported; value-chain emissions rose 12%.",
+    "rationale": "Legal 0 to 1: the 2006 French competition fine of €3 million is a regulatory penalty naming Chanel, modest in scale, so not level 2. Unresolved 0 to 1: private ownership through an offshore holding company, with the holding company unnamed, plus a supply-chain probe in which Chanel is not a suspect; level 2 would need a case against Chanel itself. Ecology and social keep their values on documented findings. Politics not checked: no source found on Wertheimer or Chanel political spending."
+  }
+}
