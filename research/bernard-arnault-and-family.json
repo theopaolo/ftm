@@ -297,7 +297,10 @@
       "claim": "In June 2024 a Milan court placed Manufactures Dior, an Italian Dior subsidiary, under judicial administration over subcontractors alleged to mistreat workers; contractors reportedly charged €53 for a bag Dior sold for €2,600. Dior itself faced no criminal probe; the court lifted the measure early in 2025, citing reformed supplier selection.",
       "evidence_type": "final_ruling",
       "date": "2024-06",
-      "source_ids": ["reuters-dior", "afp-dior-lifted"]
+      "source_ids": [
+        "reuters-dior",
+        "afp-dior-lifted"
+      ]
     },
     {
       "id": "f2",
@@ -308,7 +311,9 @@
       "claim": "In May 2025 the Italian competition authority closed its consumer-law probe into Dior's ethical claims about working conditions at leather suppliers without a finding of wrongdoing, accepting commitments including supplier controls and €2 million over five years to help victims of labour exploitation.",
       "evidence_type": "settlement",
       "date": "2025-05",
-      "source_ids": ["ilsole-agcm"]
+      "source_ids": [
+        "ilsole-agcm"
+      ]
     },
     {
       "id": "f3",
@@ -319,7 +324,10 @@
       "claim": "In July 2025 a Milan court placed Loro Piana under judicial administration, finding it had negligently facilitated labour exploitation at subcontractors making its clothing; the company was not under criminal investigation. The court lifted the measure early in April 2026 after Loro Piana strengthened supplier oversight.",
       "evidence_type": "final_ruling",
       "date": "2025-07",
-      "source_ids": ["irishtimes-loropiana", "fu-loropiana-lifted"]
+      "source_ids": [
+        "irishtimes-loropiana",
+        "fu-loropiana-lifted"
+      ]
     },
     {
       "id": "f4",
@@ -330,7 +338,11 @@
       "claim": "In December 2025 Milan prosecutors sought governance and audit documents from 13 brands including Givenchy Italia, suspected of using exploitative subcontractors but not formally investigated; in July 2026 police searched offices of brands including Bulgari in the same probe. No charges against either have been reported.",
       "evidence_type": "allegation",
       "date": "2026-07",
-      "source_ids": ["afp-milan-13brands", "euronews-raids-2026", "lvmh-maisons"]
+      "source_ids": [
+        "afp-milan-13brands",
+        "euronews-raids-2026",
+        "lvmh-maisons"
+      ]
     },
     {
       "id": "f5",
@@ -341,7 +353,9 @@
       "claim": "In December 2021 LVMH agreed a CJIP with the Paris prosecutor, validated by a judge, paying a €10 million public-interest fine over possible influence peddling in 2008–2016 revealed by a judicial investigation opened in 2011. The prosecutor stated that the validation is not a declaration of guilt.",
       "evidence_type": "settlement",
       "date": "2021-12-17",
-      "source_ids": ["parquet-cjip"]
+      "source_ids": [
+        "parquet-cjip"
+      ]
     },
     {
       "id": "f6",
@@ -352,7 +366,10 @@
       "claim": "In March 2025 a Paris court convicted former intelligence chief Bernard Squarcini, later an LVMH consultant, of offences including obtaining confidential information for LVMH, and he said he would appeal. Bernard Arnault testified in 2024 as a witness, was never charged, and denied knowing of the scheme.",
       "evidence_type": "criminal_conviction",
       "date": "2025-03-07",
-      "source_ids": ["afp-squarcini-verdict", "afp-arnault-witness"]
+      "source_ids": [
+        "afp-squarcini-verdict",
+        "afp-arnault-witness"
+      ]
     },
     {
       "id": "f7",
@@ -363,7 +380,10 @@
       "claim": "François Ruffin, whose newspaper Fakir was allegedly surveilled for LVMH in 2013–2016, sued LVMH in civil court for a symbolic euro over intrusion into his private life. In November 2025 a Paris judge allowed the case to proceed to trial; no ruling has been reported.",
       "evidence_type": "pending_case",
       "date": "2025-11",
-      "source_ids": ["fu-ruffin-civil", "cdj-ruffin"]
+      "source_ids": [
+        "fu-ruffin-civil",
+        "cdj-ruffin"
+      ]
     },
     {
       "id": "f8",
@@ -374,7 +394,10 @@
       "claim": "In June 2013 the AMF enforcement committee fined LVMH a then-record €8 million for failing to inform the market as it prepared its 2010 stake-building in Hermès via equity swaps, and over its 2008–2009 accounts. LVMH called the fine unjustified but said in September 2013 it would not appeal. This is over ten years old.",
       "evidence_type": "regulatory_penalty",
       "date": "2013-06-25",
-      "source_ids": ["fu-amf-2013", "reuters-amf-noappeal"]
+      "source_ids": [
+        "fu-amf-2013",
+        "reuters-amf-noappeal"
+      ]
     },
     {
       "id": "f9",
@@ -385,7 +408,11 @@
       "claim": "In May 2025 Hermès heir Nicolas Puech filed a civil suit in Paris naming LVMH and Bernard Arnault as defendants, claiming about €14 billion over some six million Hermès shares he says his adviser diverted to LVMH. LVMH and the Arnault family deny diverting any Hermès shares; the case is pending.",
       "evidence_type": "pending_case",
       "date": "2025-05-15",
-      "source_ids": ["bloomberg-puech", "afp-puech", "reuters-puech-2002"]
+      "source_ids": [
+        "bloomberg-puech",
+        "afp-puech",
+        "reuters-puech-2002"
+      ]
     },
     {
       "id": "f10",
@@ -396,7 +423,10 @@
       "claim": "In a related Paris criminal investigation, prosecutors confirmed in May 2026 that Swiss lawyers had been charged, one suspected of helping divert Puech's shares to LVMH; LVMH and Arnault are not charged. Reuters reported in 2026 a 2002 LVMH agreement to buy Puech's shares, which LVMH told a Swiss court was never executed.",
       "evidence_type": "pending_case",
       "date": "2026-05-29",
-      "source_ids": ["afp-hermes-charges", "reuters-puech-2002"]
+      "source_ids": [
+        "afp-hermes-charges",
+        "reuters-puech-2002"
+      ]
     },
     {
       "id": "f11",
@@ -407,7 +437,9 @@
       "claim": "LVMH, already the owner of the national dailies Le Parisien and Les Échos, took over the weekly Paris Match from Lagardère on 1 October 2024, at a reported valuation of €120 million.",
       "evidence_type": "investigative_reporting",
       "date": "2024-10-01",
-      "source_ids": ["cbnews-parismatch"]
+      "source_ids": [
+        "cbnews-parismatch"
+      ]
     },
     {
       "id": "f12",
@@ -418,7 +450,9 @@
       "claim": "In January 2022 Bernard Arnault told the Senate inquiry into media concentration that LVMH had made no written offer for Paris Match and the JDD; LVMH and Arnault corrected this by letter the same day, confirming a written offer had been sent. The commission said it would not pursue the matter.",
       "evidence_type": "investigative_reporting",
       "date": "2022-01-20",
-      "source_ids": ["publicsenat-arnault"]
+      "source_ids": [
+        "publicsenat-arnault"
+      ]
     },
     {
       "id": "f13",
@@ -429,7 +463,9 @@
       "claim": "At a 2018 National Assembly hearing on a Cour des comptes report that audited the Fondation Louis Vuitton, rapporteur Gilles Carrez said LVMH accounted for 8% of France's corporate philanthropy tax expenditure since 2004 and that 60% of the museum's cost of just over €900 million qualified for tax reductions.",
       "evidence_type": "official_report",
       "date": "2018-11-28",
-      "source_ids": ["an-mecenat-2018"]
+      "source_ids": [
+        "an-mecenat-2018"
+      ]
     },
     {
       "id": "f14",
@@ -440,7 +476,10 @@
       "claim": "In September 2023 the Arnault family announced €10 million for the food charity Restos du Cœur after its emergency appeal; an AFP report in October 2024 said the family had contributed the €10 million.",
       "evidence_type": "documented_giving",
       "date": "2023-09-04",
-      "source_ids": ["afp-restos-2023", "afp-restos-2024"]
+      "source_ids": [
+        "afp-restos-2023",
+        "afp-restos-2024"
+      ]
     },
     {
       "id": "f15",
@@ -451,7 +490,9 @@
       "claim": "LVMH reports that by 2025 it had halved Scope 1 and 2 emissions from energy use against 2019, two years ahead of its target, and that Scope 3, 96% of its footprint, fell 13% from 2023 to 2025. These are company figures; the cited page names SBTi validation of targets but no auditor.",
       "evidence_type": "company_disclosure",
       "date": "2026",
-      "source_ids": ["lvmh-climate"]
+      "source_ids": [
+        "lvmh-climate"
+      ]
     }
   ],
   "proposal": {
@@ -460,29 +501,46 @@
         "value": 2,
         "basis": "documented",
         "reason": "LVMH owns the national dailies Le Parisien and Les Échos and in 2024 took over the weekly Paris Match. In 2022 Arnault told a Senate inquiry into media concentration that LVMH had made no written offer for Paris Match, then corrected this by letter the same day. Personal political donations and LVMH's lobbying were not assessed here.",
-        "finding_ids": ["f11", "f12"]
+        "finding_ids": [
+          "f11",
+          "f12"
+        ]
       },
       "social": {
         "value": 2,
         "basis": "documented",
         "reason": "In 2024 a Milan court placed a Dior manufacturing unit under administration over subcontractors that exploited workers; one bag cost €53 to supply and sold for €2,600. In 2025 the Italian competition authority closed its probe with Dior committing €2 million to victims, without a finding against Dior. In 2025 the same court found Loro Piana had negligently facilitated exploitation at subcontractors. Both administrations were lifted early.",
-        "finding_ids": ["f1", "f2", "f3"]
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
       },
       "legal": {
         "value": 2,
         "basis": "documented",
-        "reason": "Court-imposed administration of two subsidiaries, Manufactures Dior (2024) and Loro Piana (2025); neither was criminally charged. In 2021 LVMH paid a €10 million fine under a prosecutor agreement over influence peddling, without a finding of guilt; an ex-spy chief who consulted for LVMH was convicted in 2025 and is appealing. In 2013 the AMF fined LVMH €8 million over its Hermès stake-building. Arnault has not been personally charged or penalised.",
-        "finding_ids": ["f1", "f3", "f5", "f6", "f8"]
+        "reason": "Court-imposed administration of two subsidiaries, Manufactures Dior (2024) and Loro Piana (2025); neither was criminally charged. In 2021 LVMH paid a €10 million fine under a prosecutor agreement over influence peddling, without a finding of guilt; an ex-spy chief who consulted for LVMH was convicted in 2025 and said he would appeal. In 2013 the AMF fined LVMH €8 million over its Hermès stake-building. Arnault has not been personally charged or penalised.",
+        "finding_ids": [
+          "f1",
+          "f3",
+          "f5",
+          "f6",
+          "f8"
+        ]
       },
       "unresolved": {
         "value": 3,
         "basis": "documented",
         "reason": "Bernard Arnault and LVMH are named defendants in a pending Paris civil suit by Hermès heir Nicolas Puech, who claims about €14 billion over shares he says were diverted to LVMH; both deny it. A related criminal investigation has charged Swiss advisers, not LVMH or Arnault. A privacy suit by François Ruffin against LVMH is also pending, and Milan prosecutors have drawn Givenchy and Bulgari into a labour probe.",
-        "finding_ids": ["f9", "f10", "f7", "f4"]
+        "finding_ids": [
+          "f9",
+          "f10",
+          "f7",
+          "f4"
+        ]
       }
     },
     "counterweights": "The Arnault family gave €10 million to the food charity Restos du Cœur in 2023. LVMH reports halving Scope 1 and 2 emissions from energy against 2019 by 2025; Scope 3, 96% of its footprint, fell 13% from 2023 (company figures).",
-    "rationale": "Politics 1 to 2: rubric 'owner of influential media' via LVMH's dailies and Paris Match, following the Mateschitz company-level precedent; no personal role per R7. Unresolved 0 to 3: R6, Arnault is a named defendant in the pending Puech suit. Legal stays 2: company court administrations (R5); no personal charge, so not R2. Social stays 2 with Loro Piana added. Squarcini's appeal: none heard or decided found. The €200m Notre-Dame gift is left out: disbursement not confirmed by a citable source.",
-    "counterweights_note": null
+    "rationale": "Politics 1 to 2: rubric 'owner of influential media' via LVMH's dailies and Paris Match, following the Mateschitz company-level precedent; no personal role per R7. Unresolved 0 to 3: R6, Arnault is a named defendant in the pending Puech suit. Legal stays 2: company court administrations (R5); no personal charge, so not R2. Social stays 2 with Loro Piana added. Squarcini's appeal: none heard or decided found. The €200m Notre-Dame gift is left out: disbursement not confirmed by a citable source."
   }
 }

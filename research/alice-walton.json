@@ -1,0 +1,464 @@
+{
+  "id": 14,
+  "slug": "alice-walton",
+  "name": "Alice Walton",
+  "entity_group": "walmart",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Justice Department lawsuit Walmart opioid Controlled Substances Act status 2025",
+    "Walmart $3.1 billion opioid settlement final states join 2023",
+    "FTC Walmart Spark drivers lawsuit settlement 2025",
+    "Walmart settles Justice Department opioid lawsuit August 2026",
+    "justice.gov Walmart agrees to pay resolve allegations unlawfully dispensed controlled substances 2026",
+    "\"Walmart Agrees to Pay $50 Million for Illegally Filling Unlawful Opioid Prescriptions\"",
+    "Walmart opioid settlement $3.1 billion effective local governments sign-on attorney general announces 2023",
+    "Walton family political donations 2024 election Alice Walton Jim Walton super PAC",
+    "Walmart lobbying spending OpenSecrets 2024 2025",
+    "Rob Walton Broncos owner political donations Republicans 2024 cycle Sportico",
+    "Jim Walton donation million super PAC 2024 Republicans FEC",
+    "Alice Walton political contributions 2024 Democrats Republicans donation million",
+    "Lukas Walton political donations",
+    "\"Americans for Prosperity Action\" Walton \"$10 million\" OR \"$5 million\" Jim Walton Alice Walton 2024",
+    "Alice Walton $5 million Americans for Prosperity Action Nikki Haley",
+    "\"Alice Walton\" AFP Action donation December 2023 Haley Koch super PAC donors",
+    "FTC Walmart money transfer fraud lawsuit settlement $10 million 2025",
+    "CFPB Walmart Branch Messenger lawsuit dismissed 2025",
+    "Walmart FCPA resolution 2019 $282 million SEC justice.gov Mexico Brazil India China",
+    "ftc.gov press release Walmart pay $10 million settle FTC lawsuit money transfer fraud June 2025 (restricted to ftc.gov)",
+    "justice.gov Walmart Inc. and Brazil-based subsidiary agree to pay $137 million to resolve Foreign Corrupt Practices Act investigation",
+    "Walton Family Foundation 2024 grants awarded total annual report",
+    "Builders Initiative Lukas Walton grants paid 990 ProPublica",
+    "Alice Walton gift Crystal Bridges OR medical school donation disbursed 2024 2025",
+    "Forbes Alice Walton biggest donation $249 million medical school tax return Art Bridges Foundation 2023",
+    "ProPublica nonprofit explorer \"Art Bridges Foundation\" 990-PF",
+    "forbes.com Alice Walton just made her biggest donation yet medical school (restricted to forbes.com)",
+    "Walton Family Foundation board of directors Jim Walton Alice Walton Rob Walton Lukas Walton family members govern",
+    "Rob and Melani Walton Foundation gift Arizona State University million sustainability",
+    "Jim Walton donation gift million foundation philanthropy 2024 OR 2025",
+    "ProPublica nonprofit explorer \"Rob Walton Foundation\" OR \"Rob and Melani Walton Foundation\"",
+    "Jim Walton $500,000 Arkansas Educational Rights Amendment ballot 2024 Arkansas Advocate",
+    "Walmart unlikely to meet 2025 2030 emissions targets climate goals report",
+    "Walmart opioid shareholder derivative lawsuit directors Delaware Supreme Court Walton 2025 2026",
+    "Walmart directors $123 million settlement opioid shareholder lawsuit approved Laster December 2024",
+    "Walmart sued 2026 attorney general lawsuit pending",
+    "Minnesota Attorney General Ellison sues Walmart Reynolds recycling bags lawsuit",
+    "Walmart Form 10-Q quarter ended July 31 2026 legal proceedings opioid litigation"
+  ],
+  "sources": [
+    {
+      "id": "ap-opioids-2022",
+      "label": "AP: Walmart $3.1bn opioid settlement (2022)",
+      "url": "https://www.pbs.org/newshour/economy/walmart-offers-to-pay-3-1-billion-to-settle-opioid-epidemic-lawsuits",
+      "publisher": "Associated Press (PBS NewsHour)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2022-11-15",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-doj-opioid-settlement",
+      "label": "Reuters: Walmart settles US government’s opioid lawsuit (2026)",
+      "url": "https://www.aljazeera.com/economy/2026/8/28/walmart-settles-us-governments-opioid-lawsuit",
+      "publisher": "Reuters (republished by Al Jazeera)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "gray-doj-opioid-settlement",
+      "label": "Gray News: Walmart to pay $50 million over opioid prescriptions (2026)",
+      "url": "https://www.kcrg.com/2026/08/31/walmart-pay-50-million-illegally-filling-opioid-prescriptions/",
+      "publisher": "Gray News (KCRG)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-31",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wmt-10q-2026q2",
+      "label": "Walmart: Form 10-Q, quarter ended 31 July 2026 (2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000154/wmt-20260731.htm",
+      "publisher": "Walmart Inc. (SEC filing)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ftc-spark",
+      "label": "FTC: Walmart agrees to $100 million judgment over Spark driver pay (2026)",
+      "url": "https://ftc.gov/news-events/news/press-releases/2026/02/walmart-agrees-100-million-judgment-settle-ftc-states-charges-over-deceptive-earnings-claims-related",
+      "publisher": "US Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-02-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ftc-money-transfer",
+      "label": "FTC: Walmart to pay $10 million over wire transfer scams (2025)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/06/walmart-pay-10-million-settle-ftc-allegations-it-allowed-scammers-obtain-millions-consumers-using",
+      "publisher": "US Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-06-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cfpb-branch",
+      "label": "CFPB: Walmart and Branch Messenger enforcement action (2025)",
+      "url": "https://www.consumerfinance.gov/enforcement/actions/walmart-inc-and-branch-messenger-inc/",
+      "publisher": "US Consumer Financial Protection Bureau",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2025-05-13",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-fcpa-2019",
+      "label": "CBS/AP: Walmart to pay $282 million to settle bribery charges (2019)",
+      "url": "https://www.cbsnews.com/news/walmart-to-pay-282-million-to-settle-federal-bribery-charges",
+      "publisher": "CBS News with the Associated Press",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2019-06-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wmt-8k-fcpa",
+      "label": "Walmart: Form 8-K on DOJ and SEC FCPA resolutions (2019)",
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416919000030/pressreleasedatedjune202019.htm",
+      "publisher": "Walmart Inc. (SEC filing)",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2019-06-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wmt-public-policy",
+      "label": "Walmart: Responsible engagement in public policy (2025)",
+      "url": "https://corporate.walmart.com/purpose/esgreport/responsible-engagement-in-public-policy",
+      "publisher": "Walmart Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2025",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-climate-targets",
+      "label": "Reuters: Walmart likely to miss 2025 and 2030 climate targets (2024)",
+      "url": "https://theprint.in/environment/walmart-says-it-is-likely-to-miss-2025-2030-climate-change-targets/2411575/",
+      "publisher": "Reuters (republished by ThePrint)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-12-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "trellis-climate-targets",
+      "label": "Trellis: Walmart misses emissions reduction goals (2024)",
+      "url": "https://trellis.net/article/walmart-misses-emissions-reduction-goals/",
+      "publisher": "Trellis Group (formerly GreenBiz)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-12-20",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "histphil-walton-giving",
+      "label": "HistPhil: Walmart heirs’ political contributions (2019)",
+      "url": "https://histphil.org/2019/06/03/walmart-heirs-shift-from-red-to-purple-the-evolving-political-contributions-of-the-nations-richest-family/",
+      "publisher": "HistPhil (Finger and Reckhow)",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "published": "2019-06-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nwadg-walton-giving",
+      "label": "Arkansas Democrat-Gazette: Some Walton giving leans to left (2020)",
+      "url": "https://www.nwaonline.com/news/2020/oct/18/data-shows-some-walton-giving-leans-to-left/",
+      "publisher": "Northwest Arkansas Democrat-Gazette",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2020-10-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "opensecrets-afp-2024",
+      "label": "OpenSecrets via Raw Story: Koch network super PAC pours money into 2024 elections (2024)",
+      "url": "https://www.rawstory.com/koch-networks-flagship-super-pac-pours-big-money-into-2024-elections/",
+      "publisher": "OpenSecrets (republished by Raw Story)",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2024-08-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bloomberglaw-cuomo-pac",
+      "label": "Bloomberg Law: Alice Walton gives $100,000 to Cuomo PAC (2025)",
+      "url": "https://news.bloomberglaw.com/new-york-brief/billionaire-alice-walton-donates-100-000-to-cuomo-pac-correct",
+      "publisher": "Bloomberg Law",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-08-12",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "propublica-artbridges",
+      "label": "ProPublica Nonprofit Explorer: Art Bridges Inc (2025)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/810842855",
+      "publisher": "ProPublica (IRS Form 990-PF data)",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2025",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "newser-medschool",
+      "label": "Newser: Alice Walton’s biggest donation yet (2024)",
+      "url": "https://www.newser.com/story/357259/worlds-richest-woman-makes-her-biggest-donation-yet.html",
+      "publisher": "Newser (citing Forbes)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-10-03",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "health",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In November 2022 Walmart agreed to pay $3.1 billion to settle opioid lawsuits by state and local governments over prescriptions filled at its pharmacies, without admitting liability. Nebraska’s attorney general noted it had filled significantly fewer opioid prescriptions than CVS or Walgreens.",
+      "evidence_type": "settlement",
+      "date": "2022-11-15",
+      "source_ids": [
+        "ap-opioids-2022",
+        "reuters-doj-opioid-settlement"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In August 2026 Walmart settled the Justice Department’s 2020 civil suit alleging its pharmacies unlawfully filled opioid prescriptions from 2013, without admitting liability. Reports put the payment at $50 million, which Walmart called immaterial; it also signed a DEA agreement on monitoring future dispensing.",
+      "evidence_type": "settlement",
+      "date": "2026-08-28",
+      "source_ids": [
+        "reuters-doj-opioid-settlement",
+        "gray-doj-opioid-settlement",
+        "wmt-10q-2026q2"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "A whistleblower False Claims Act case filed in 2019, alleging Walmart breached the Controlled Substances Act and state pharmacy rules, was settled in 2026 for an amount Walmart called immaterial, without admitting liability. The Justice Department had declined to intervene.",
+      "evidence_type": "settlement",
+      "date": "2026",
+      "source_ids": [
+        "wmt-10q-2026q2"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In February 2026 Walmart agreed to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order adds ten years of earnings-verification obligations.",
+      "evidence_type": "settlement",
+      "date": "2026-02-26",
+      "source_ids": [
+        "ftc-spark",
+        "wmt-10q-2026q2"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In June 2025 Walmart agreed to a $10 million judgment to settle an FTC suit filed in 2022 alleging that, from 2013 to 2018, it let scammers use its money transfer services by failing to adopt effective anti-fraud measures, train staff or warn customers.",
+      "evidence_type": "settlement",
+      "date": "2025-06-20",
+      "source_ids": [
+        "ftc-money-transfer"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In December 2024 the CFPB sued Walmart and Branch Messenger, alleging unfair, deceptive and abusive practices over deposit accounts opened for delivery drivers. The Bureau dismissed the case with prejudice in May 2025; no court ruled on the allegations.",
+      "evidence_type": "allegation",
+      "date": "2025-05-13",
+      "source_ids": [
+        "cfpb-branch"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In June 2019 Walmart paid about $282.7 million to resolve DOJ and SEC Foreign Corrupt Practices Act investigations into internal controls at subsidiaries in Brazil, Mexico, India and China before 2011, under a non-prosecution agreement; its Brazilian subsidiary pleaded guilty to a books-and-records charge.",
+      "evidence_type": "settlement",
+      "date": "2019-06-20",
+      "source_ids": [
+        "ap-fcpa-2019",
+        "wmt-8k-fcpa"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In its filing for the quarter to July 2026, Walmart reported pending matters: opioid cases in the federal MDL and in Canada, equal-pay claims by about 77,000 current and former Asda store staff that it partly indemnifies, its appeal of a Mexican antitrust fine, and Indian competition and investment proceedings against Flipkart.",
+      "evidence_type": "pending_case",
+      "date": "2026",
+      "source_ids": [
+        "wmt-10q-2026q2"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "Walmart disclosed $7.84 million in US federal lobbying expenses for 2025. Its employee-funded PAC gave 55.2% of its federal contributions to Republicans and 44.8% to Democrats that year.",
+      "evidence_type": "company_disclosure",
+      "date": "2025",
+      "source_ids": [
+        "wmt-public-policy"
+      ]
+    },
+    {
+      "id": "f10",
+      "direction": "concern",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Walmart",
+      "claim": "In December 2024 Walmart said it would likely miss its targets to cut emissions from its own operations by 35% by 2025 and 65% by 2030 from 2015 levels. Those emissions rose 3.9% in 2023, citing ageing refrigeration and transport, and were 19.3% below 2015.",
+      "evidence_type": "company_disclosure",
+      "date": "2024-12-18",
+      "source_ids": [
+        "reuters-climate-targets",
+        "trellis-climate-targets"
+      ]
+    },
+    {
+      "id": "f11",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Alice Walton",
+      "claim": "Alice Walton gave $2.6 million in 2004 to a 527 group backing George W. Bush’s re-election and $350,000 to Greg Abbott’s 2014 Texas campaign; both are over ten years old. OpenSecrets data show she gave mostly to Democrats after late 2013.",
+      "evidence_type": "investigative_reporting",
+      "date": "2019-06-03",
+      "source_ids": [
+        "histphil-walton-giving",
+        "nwadg-walton-giving"
+      ]
+    },
+    {
+      "id": "f12",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Alice Walton",
+      "claim": "OpenSecrets listed Alice Walton among contributors to the Koch network’s AFP Action super PAC in 2024, without giving the amount. In August 2025 she gave $100,000 to a super PAC backing Andrew Cuomo for New York mayor.",
+      "evidence_type": "investigative_reporting",
+      "date": "2025-08-06",
+      "source_ids": [
+        "opensecrets-afp-2024",
+        "bloomberglaw-cuomo-pac"
+      ]
+    },
+    {
+      "id": "f13",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Art Bridges",
+      "claim": "Art Bridges, with Alice Walton as director and president, reported charitable disbursements of about $389.5 million in the year to September 2023. Forbes, as reported by Newser, said $249 million of that funded the Alice L. Walton School of Medicine.",
+      "evidence_type": "documented_giving",
+      "date": "2023-09-30",
+      "source_ids": [
+        "propublica-artbridges",
+        "newser-medschool"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Mass retail and logistics. In December 2024 Walmart said it would likely miss its 2025 and 2030 targets for emissions from its own operations, which rose in 2023 with transport and ageing refrigeration and stood 19.3% below 2015.",
+        "finding_ids": [
+          "f10"
+        ]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Major donor over two decades: $2.6 million to a pro-Bush group in 2004 and $350,000 to a Texas governor’s race in 2014, then mostly Democratic giving; in 2024 a gift of undisclosed size to the Koch network’s AFP Action and in 2025 $100,000 to a pro-Cuomo super PAC. Walmart itself reported $7.84 million in federal lobbying in 2025.",
+        "finding_ids": [
+          "f9",
+          "f11",
+          "f12"
+        ]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability; officials noted it filled fewer opioid prescriptions than CVS or Walgreens. It settled the federal opioid suit in 2026 and FTC charges over delivery-driver pay the same year, without admitting liability.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f4"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company settlement above $1 billion (opioids, 2022), plus smaller settlements and a 2019 guilty plea by a Brazilian subsidiary over bribery controls; no personal case found.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f5",
+          "f7"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Pending company-level matters: opioid cases in the US and Canada, equal-pay claims by about 77,000 Asda store staff that Walmart partly indemnifies, and antitrust proceedings in Mexico and India. The federal opioid suit was settled in 2026. No pending personal matter found.",
+        "finding_ids": [
+          "f8"
+        ]
+      }
+    },
+    "counterweights": "Large art and health philanthropy: her Art Bridges foundation disbursed about $389.5 million in the year to September 2023, including $249 million reported for the Alice L. Walton School of Medicine.",
+    "rationale": "Politics 1 to 2: seven- and six-figure political gifts make her a major donor, though her largest documented gift is from 2004 and her recent amounts are smaller or undisclosed; the reviewer may prefer 1. Unresolved 0 to 2: Walmart reports several pending company cases (f8). Counterweight now rests on disbursed amounts."
+  }
+}
