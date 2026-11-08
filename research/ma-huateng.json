@@ -1,0 +1,214 @@
+{
+  "id": 33,
+  "slug": "ma-huateng",
+  "name": "Ma Huateng",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Pentagon 1260H list Tencent Chinese military company January 2025",
+    "SAMR Tencent China Music exclusive copyright penalty July 2021",
+    "Tenpay fined 2.99 billion yuan People's Bank of China July 2023",
+    "federalregister.gov 2025-00070 Entities Identified as Chinese Military Companies Section 1260H",
+    "Pony Ma Huateng National People's Congress delegate 2023 not on list",
+    "Citizen Lab WeChat censorship surveillance non-China accounts report",
+    "Ma Huateng NPC deputy Shenzhen proposals \"two sessions\" 2019 Tencent chairman lawmaker",
+    "Tencent lawsuit Department of Defense 1260H list challenge court",
+    "Ma Huateng donates 100 million Tencent shares charity foundation 2016",
+    "New Cornerstone Science Foundation Tencent 10 billion yuan investigators funded grants awarded",
+    "Tencent ESG report 2024 green electricity share carbon emissions scope 1 2 reduction 2030 carbon neutral progress"
+  ],
+  "sources": [
+    {
+      "id": "cnbc-samr-music",
+      "label": "CNBC: China's regulator orders Tencent to give up exclusive music rights (2021)",
+      "url": "https://www.cnbc.com/2021/07/24/china-crackdown-antitrust-regulator-orders-tencent-music-to-give-up-music-label-rights.html",
+      "publisher": "CNBC",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2021-07-24",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "techcrunch-tenpay",
+      "label": "TechCrunch: China fines Tencent and Alibaba to wrap up fintech crackdown (2023)",
+      "url": "https://techcrunch.com/2023/07/07/china-wraps-up-fintech-crackdown-with-big-fines-on-tencent-and-alibaba/",
+      "publisher": "TechCrunch",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-07-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "citizenlab-wechat",
+      "label": "Citizen Lab: We Chat, They Watch (2020)",
+      "url": "https://citizenlab.ca/2020/05/we-chat-they-watch/",
+      "publisher": "Citizen Lab, Munk School, University of Toronto",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "published": "2020-05-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-1260h-2025",
+      "label": "Reuters (via Daily Maverick): US adds Tencent, CATL to Chinese military list (2025)",
+      "url": "https://www.dailymaverick.co.za/article/2025-01-07-us-adds-tencent-catl-to-list-of-chinese-firms-allegedly-aiding-beijings-military",
+      "publisher": "Reuters, republished by Daily Maverick",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-01-07",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "dod-1260h-2026",
+      "label": "US Department of Defense: Designation of Chinese military companies (2026)",
+      "url": "https://public-inspection.federalregister.gov/2026-11571.pdf",
+      "publisher": "U.S. Department of Defense, Federal Register",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2026-06-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-npc-2023",
+      "label": "Reuters (via TechCentral): Tencent founder absent from China's parliament list (2023)",
+      "url": "https://techcentral.co.za/tencent-founder-appears-to-lose-political-clout-in-china/222898/",
+      "publisher": "Reuters, republished by TechCentral",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2023-03-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "tencent-carbon-2026",
+      "label": "Tencent: Carbon Neutrality Mid-Term Report (2026)",
+      "url": "https://www.tencent.com/climate/assets/pdf/Tencent_Carbon_Neutrality_Mid-Term_Report_EN.pdf",
+      "publisher": "Tencent Holdings",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026-08",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Tencent",
+      "claim": "In July 2021 China's market regulator SAMR found that Tencent held over 80% of exclusive music library resources after its 2016 China Music acquisition, ordered it to end exclusive licensing within 30 days and fined it 500,000 yuan.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2021-07-24",
+      "source_ids": [
+        "cnbc-samr-music"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "Tencent (Tenpay)",
+      "claim": "In July 2023 the People's Bank of China fined Tencent and its payments unit Tenpay about 2.99 billion yuan (roughly $410 million) for past regulatory breaches in payment services in mainland China, as Tencent disclosed in a filing.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2023-07-07",
+      "source_ids": [
+        "techcrunch-tenpay"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Tencent (WeChat)",
+      "claim": "A 2020 Citizen Lab technical study found that WeChat surveilled files and images exchanged only between accounts registered outside China and used them to build its censorship index for China-registered accounts. Tencent's policies did not clearly disclose this, and it did not answer the researchers' letter.",
+      "evidence_type": "investigative_reporting",
+      "date": "2020-05-07",
+      "source_ids": [
+        "citizenlab-wechat"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "military",
+      "level": "company",
+      "entity": "Tencent",
+      "claim": "In January 2025 the US Defense Department added Tencent to its Section 1260H list of Chinese military companies, and its June 2026 list keeps it there as indirectly affiliated with the PLA. Tencent calls the listing a mistake and says it is not a military company or supplier.",
+      "evidence_type": "official_report",
+      "date": "2026-06-10",
+      "source_ids": [
+        "reuters-1260h-2025",
+        "dod-1260h-2026"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Ma Huateng",
+      "claim": "Ma Huateng served two five-year terms as a deputy to China's National People's Congress and was absent from the delegate list published in March 2023, Reuters reported.",
+      "evidence_type": "investigative_reporting",
+      "date": "2023-03-03",
+      "source_ids": [
+        "reuters-npc-2023"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "counterweight",
+      "theme": "climate",
+      "level": "company",
+      "entity": "Tencent",
+      "claim": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025, and 82.9% in owned data centres, against a 2030 target of 100%. The emission cuts it reports are measured against a business-as-usual scenario; these are company figures.",
+      "evidence_type": "company_disclosure",
+      "date": "2026-08",
+      "source_ids": [
+        "tencent-carbon-2026"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "ecology": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Footprint is indirect, mainly data-centre electricity. Tencent reports green electricity rose to 48.5% of its consumption in 2025, targeting 100% by 2030; its reported emission cuts are measured against a business-as-usual scenario. These are company figures, not independently audited here.",
+        "finding_ids": [
+          "f6"
+        ]
+      },
+      "politics": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Ma Huateng sat for two five-year terms as a deputy to China's National People's Congress, ending in 2023, per Reuters. Since January 2025 the US Defense Department has listed Tencent as a Chinese military company, renewed in June 2026; Tencent says the listing is a mistake. No individual donations or lobbying record was checked.",
+        "finding_ids": [
+          "f5",
+          "f4"
+        ]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "China's market regulator found in 2021 that Tencent held over 80% of exclusive music rights and ordered it to end exclusivity. A 2020 Citizen Lab study found WeChat surveilled files exchanged by users outside China to feed its censorship of China-registered accounts. No labour findings were checked.",
+        "finding_ids": [
+          "f1",
+          "f3"
+        ]
+      },
+      "legal": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Company-level regulatory penalties: a 500,000-yuan fine and remedies from SAMR over the 2016 China Music deal (2021), and a 2.99-billion-yuan (about $410 million) fine on Tenpay from the People's Bank of China (2023). No court finding or personal liability found.",
+        "finding_ids": [
+          "f1",
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "Tencent reports that green electricity rose from 22.0% of its consumption in 2024 to 48.5% in 2025 (82.9% in owned data centres), against a 2030 target of 100%. These are the company's own figures.",
+    "rationale": "Politics 1 to 3: a decade as an NPC deputy is documented proximity to an authoritarian state, reinforced by the company's 1260H listing. Social 1 to 3: the rubric puts surveillance at 3; this rests on a 2020 academic report, so 2 (market power alone) is the fallback. Legal 0 to 1: two company regulatory fines, both under $1 billion. Ecology unchanged. Ma's 2016 share pledge was left out: pledged, not disbursed."
+  }
+}
