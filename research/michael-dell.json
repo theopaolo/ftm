@@ -100,13 +100,22 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "bloomberglaw-erisa",
-      "label": "Bloomberg Law: Dell sued over target-date fund returns in 401(k) plan (2026)",
-      "url": "https://news.bloomberglaw.com/class-action/dell-sued-over-target-date-fund-returns-in-worker-401k-plan",
-      "publisher": "Bloomberg Law",
+      "id": "americanbazaar-erisa",
+      "label": "The American Bazaar: Former Dell employees sue over 401(k) plan (2026)",
+      "url": "https://americanbazaaronline.com/2026/02/05/former-dell-employees-sue-the-company-for-318-million-474568/",
+      "publisher": "The American Bazaar",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026-01-29",
+      "published": "2026-02-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ksf-erisa-amended",
+      "label": "Kahn Swick & Foti: Amended ERISA complaint against Dell (2026)",
+      "url": "https://ksfcounsel.com/?p=10869",
+      "publisher": "Kahn Swick & Foti LLC (plaintiffs’ counsel)",
+      "publisher_type": "other",
+      "names_subject": true,
       "accessed": "2026-11-08"
     },
     {
@@ -200,11 +209,11 @@
     },
     {
       "id": "f3",
-      "direction": "concern",
+      "direction": "counterweight",
       "theme": "legal",
       "level": "company",
       "entity": "Dell Inc.",
-      "claim": "In December 2017 the Delaware Supreme Court reversed a 2016 Chancery appraisal that had valued Dell shares at $17.62, about 28% above the $13.75 paid in the 2013 buyout led by Michael Dell and Silver Lake. It was a valuation case: no finding of wrongdoing was made, and the court called the sale process sound.",
+      "claim": "In December 2017 the Delaware Supreme Court reversed and sent back a 2016 Chancery appraisal that had valued Dell shares at $17.62, about 28% above the $13.75 paid in the 2013 buyout led by Michael Dell and Silver Lake. It was a valuation case with no finding of wrongdoing, and the court called both the sale process and Michael Dell’s conduct praiseworthy.",
       "evidence_type": "final_ruling",
       "date": "2017-12-14",
       "source_ids": [
@@ -217,7 +226,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "Dell Australia",
-      "claim": "In August 2023 Australia's Federal Court ordered Dell Australia, a Dell Technologies subsidiary, to pay a A$10 million penalty after it admitted overstating discounts on more than 5,300 add-on monitors sold on its website; it was also ordered to refund affected customers.",
+      "claim": "In August 2023 Australia’s Federal Court ordered Dell Australia, a Dell Technologies subsidiary, to pay a A$10 million penalty after it admitted overstating discounts on more than 5,300 add-on monitors sold on its website; it had also been ordered to offer refunds to affected customers.",
       "evidence_type": "regulatory_penalty",
       "date": "2023-08-14",
       "source_ids": [
@@ -244,11 +253,12 @@
       "theme": "labour",
       "level": "company",
       "entity": "Dell Technologies",
-      "claim": "Five former employees filed a proposed class action against Dell Technologies in federal court in Texas in January 2026, alleging that it mismanaged its 401(k) plan with underperforming in-house target-date funds, at a claimed cost of over $318 million. These are allegations; no ruling was found.",
+      "claim": "Five former employees filed a proposed class action against Dell Technologies in federal court in Austin, Texas, in January 2026, alleging that its 401(k) plan kept underperforming funds, including Dell’s in-house target-date series, at a claimed cost of over $318 million; a July 2026 amended complaint seeks over $270 million. These are allegations; no ruling was found.",
       "evidence_type": "pending_case",
       "date": "2026-01-28",
       "source_ids": [
-        "bloomberglaw-erisa"
+        "americanbazaar-erisa",
+        "ksf-erisa-amended"
       ]
     },
     {
@@ -271,7 +281,7 @@
       "theme": "public-money",
       "level": "company",
       "entity": "Dell Technologies",
-      "claim": "In May 2026 the Pentagon awarded Dell Federal Systems a five-year, $9.7 billion contract to supply Microsoft software, under three weeks after President Trump publicly urged Americans to buy a Dell. Officials said the award was competitive; ethics critics questioned the timing, and no finding of impropriety was reported.",
+      "claim": "In May 2026 the Pentagon awarded Dell Federal Systems a five-year, $9.7 billion contract to supply Microsoft software, under three weeks after President Trump publicly urged Americans to buy a Dell. Officials said the award followed a competitive process; Euronews said the timing was likely to draw ethics scrutiny, and no investigation or finding of impropriety was reported.",
       "evidence_type": "investigative_reporting",
       "date": "2026-05-27",
       "source_ids": [
@@ -284,7 +294,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Michael and Susan Dell",
-      "claim": "In December 2025 Michael and Susan Dell pledged $6.25 billion to put $250 into Trump Accounts for about 25 million children. AL.com reported that the first deposits reached eligible children's accounts by 9 October 2026; the amount paid so far was not reported.",
+      "claim": "In December 2025 Michael and Susan Dell pledged $6.25 billion to put $250 into Trump Accounts for about 25 million children. AL.com, citing the nonprofit handling the funds, reported that $250 deposits had arrived in eligible children’s accounts by 9 October 2026; no total paid was reported.",
       "evidence_type": "documented_giving",
       "date": "2026-10-09",
       "source_ids": [
@@ -298,7 +308,7 @@
       "theme": "philanthropy",
       "level": "foundation",
       "entity": "Michael & Susan Dell Foundation",
-      "claim": "The Michael & Susan Dell Foundation's 2024 tax return reports $163.8 million in grants paid and $247.5 million in qualified charitable distributions, against assets worth about $7.8 billion at year end and $1.45 billion in contributions received that year.",
+      "claim": "The Michael & Susan Dell Foundation’s 2024 tax return reports $163.8 million in grants paid and $247.5 million in qualifying distributions, a total that also counts operating costs and programme-related investments, against assets worth about $7.8 billion at year end and $1.45 billion in contributions received that year.",
       "evidence_type": "documented_giving",
       "date": "2024",
       "source_ids": [
@@ -311,7 +321,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "Dell Technologies",
-      "claim": "Dell reports that its Scope 1 and market-based Scope 2 emissions fell from about 199,000 to 155,000 tonnes CO2e between fiscal 2023 and 2025, with limited third-party assurance. Its Scope 3 emissions, about 32.6 million tonnes in fiscal 2025, are over 200 times larger, and its 50% cut and 75% renewable electricity goals are for 2030.",
+      "claim": "Dell reports that its Scope 1 and market-based Scope 2 emissions fell from about 199,000 to 155,000 tonnes CO2e between fiscal 2023 and 2025, with limited third-party assurance of the fiscal 2025 figures. Its Scope 3 emissions, about 32.6 million tonnes in fiscal 2025, are over 200 times larger.",
       "evidence_type": "company_disclosure",
       "date": "2025-01-31",
       "source_ids": [
@@ -332,7 +342,7 @@
       "politics": {
         "value": 1,
         "basis": "documented",
-        "reason": "Michael Dell sits on the President's Council of Advisors on Science and Technology, as he did under President Bush, and announced his $6.25 billion Trump Accounts pledge at the White House with President Trump. Dell's unit won a $9.7 billion Pentagon software contract in 2026 weeks after the President praised the company; officials say it was competitive, and no political favour has been established.",
+        "reason": "Michael Dell sits on the President’s Council of Advisors on Science and Technology, as he did under President Bush, and he and Susan Dell announced their $6.25 billion Trump Accounts pledge at the White House with President Trump. Dell’s unit won a $9.7 billion Pentagon software contract in 2026 weeks after the President praised the company; officials say it was competitive, and no political favour has been established.",
         "finding_ids": [
           "f7",
           "f8",
@@ -342,7 +352,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Dell's Australian arm paid a A$10 million court penalty in 2023 after admitting it overstated monitor discounts, and a New York court found in 2008 that Dell used deceptive financing and warranty advertising. Former employees allege in a pending 2026 suit that Dell mismanaged its 401(k) plan. Supplier working conditions were not checked beyond Dell's own audit figures.",
+        "reason": "Dell’s Australian arm paid a A$10 million court penalty in 2023 after admitting it overstated monitor discounts, and a New York court found in 2008 that Dell used deceptive financing and warranty advertising. Former employees allege in a pending 2026 suit that Dell mismanaged its 401(k) plan. Supplier working conditions were not examined in this research.",
         "finding_ids": [
           "f4",
           "f5",
@@ -352,11 +362,10 @@
       "legal": {
         "value": 3,
         "basis": "documented",
-        "reason": "Paid a personal $4 million penalty in 2010 to settle SEC charges that Dell hid large payments from Intel that let it meet earnings targets, without admitting or denying them. In 2022 Dell Technologies paid $1 billion to settle a suit naming him as a controlling shareholder over a 2018 share swap, without reported admission. Company matters include a 2023 Australian consumer penalty.",
+        "reason": "Paid a personal $4 million penalty and accepted an injunction in 2010 to settle SEC charges that Dell failed to disclose large Intel payments that helped it meet earnings targets, without admitting or denying them. In 2022 Dell Technologies agreed to pay $1 billion to settle a suit over a 2018 share swap that named him as a controlling shareholder, with no reported admission. Company matters include a 2023 Australian consumer penalty and a 2008 New York court finding of deceptive advertising.",
         "finding_ids": [
           "f1",
           "f2",
-          "f3",
           "f4",
           "f5"
         ]
@@ -364,14 +373,75 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "A proposed class action filed in 2026 alleges that Dell Technologies mismanaged its employees' 401(k) plan; it is pending at company level and no ruling has been made. No pending case naming Michael Dell personally was found. Questions raised about the timing of a 2026 Pentagon contract rest on reporting only.",
+        "reason": "A proposed class action filed in 2026 alleges that Dell Technologies mismanaged its employees’ 401(k) plan; it is pending at company level and no ruling has been made. No pending case naming Michael Dell personally was found. Euronews said the timing of a 2026 Pentagon contract was likely to draw ethics scrutiny; no investigation has been reported.",
         "finding_ids": [
           "f6",
           "f8"
         ]
       }
     },
-    "counterweights": "The Michael & Susan Dell Foundation paid $163.8 million in grants in 2024 ($247.5 million in qualifying distributions). The first $250 deposits from the Dells' $6.25 billion Trump Accounts pledge reached children's accounts in October 2026; the amount paid is not yet reported.",
-    "rationale": "Legal stays 3 under R2 (personal SEC penalty); the 2010 matter is unchanged and the $1B Class V settlement, where he was a named defendant, is added. Social 1 to 2: a court-ordered consumer penalty and a court finding of deceptive practices are documented company-level problems. Unresolved 0 to 2: a pending company-level ERISA suit; none names him personally as far as found. Politics stays 1: an advisory seat and a public gift, no favour established. Ecology stays 1."
+    "counterweights": "The Michael & Susan Dell Foundation paid $163.8 million in grants in 2024. AL.com reported that $250 deposits from the Dells’ $6.25 billion Trump Accounts pledge had reached eligible children’s accounts by October 2026; no total paid has been reported.",
+    "rationale": "Legal stays 3 under R2 (personal SEC penalty); the 2010 matter is unchanged and the $1B Class V settlement, which named him as a controlling shareholder, is added. Social 1 to 2: a court-ordered consumer penalty and a court finding of deceptive practices are documented company-level problems. Unresolved 0 to 2: a pending company-level ERISA suit; none names him personally as far as found. Politics stays 1: an advisory seat and a public gift, no favour established. Ecology stays 1."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "SEC release confirms the $4m personal penalty, $100m company penalty, permanent injunctions and settlement without admitting or denying."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Reuters via Claims Journal confirms Dell Technologies agreed to pay $1bn cash (insurers may cover part), the suit named Michael Dell and Silver Lake as controlling shareholders, $10.7bn sought, no admission reported; the blog confirms the 14 Aug 2024 Supreme Court affirmance of the $266.7m fee."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: direction changed from concern to counterweight, since the ruling reversed an appraisal against Dell, found no wrongdoing and called the sale process and Michael Dell’s conduct praiseworthy; added that the case was sent back; removed from the legal score’s findings."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: \"ordered to refund\" narrowed to \"ordered to offer refunds\", as the ACCC release states; penalty, admission, monitor count and subsidiary status confirmed."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "AP via NBC confirms the May 2008 ruling by Justice Teresi on false and deceptive financing and warranty advertising, and that Dell disagreed; Olshan confirms the 2009 $4m settlement with practice changes. Company level; Michael Dell not named."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: paywalled Bloomberg Law source replaced by The American Bazaar (open; five plaintiffs, in-house target-date series, over $318m) and plaintiffs’ counsel KSF (July 2026 amended complaint seeking over $270m); added the amended complaint. Pending, no ruling found."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "AIP FYI confirms the 25 March 2026 PCAST appointment and earlier service under a Bush administration; NBC confirms the White House announcement with President Trump."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: \"ethics critics questioned the timing\" changed to Euronews saying the timing was likely to draw ethics scrutiny, since the article quotes no critic; contract details and the competitive-process statement confirmed."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: \"first deposits reached\" changed to deposits having arrived by 9 October 2026 per AL.com citing the nonprofit handling the funds; the source gives no total paid, and none is stated."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: \"qualified charitable distributions\" changed to qualifying distributions, noting they include operating costs and programme-related investments. Grants paid $163,778,073 (Part I col. d line 25), qualifying distributions $247,517,242, assets $7,770,844,151, contributions $1,450,477,987 confirmed in the 990-PF."
+      },
+      {
+        "finding_id": "f11",
+        "verdict": "supported",
+        "comment": "Rewritten: deleted the 2030 goals (50% cut, 75% renewable electricity), which the FY25 Impact By The Numbers sheet does not state; limited assurance narrowed to the FY25 figures. Scope 1+2 totals (199,100 to 155,400 t) and Scope 3 (32,586,900 t) confirmed."
+      }
+    ],
+    "passed": true
   }
 }

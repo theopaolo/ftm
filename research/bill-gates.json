@@ -1,0 +1,369 @@
+{
+  "id": 19,
+  "slug": "bill-gates",
+  "name": "Bill Gates",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Bill Gates $800,000 civil penalty Hart-Scott-Rodino ICOS 2004",
+    "Gates Foundation external review Epstein findings 2026",
+    "Bill Gates House Oversight Committee Epstein testimony June 2026 transcribed interview",
+    "Gates apologized foundation staff town hall Epstein February 2026",
+    "United States v. Microsoft 253 F.3d 34 D.C. Circuit 2001 monopoly maintenance affirmed opinion",
+    "European Commission Microsoft fine €899 million 2008 €497 million 2004 €561 million browser choice 2013",
+    "Bill Gates $50 million Future Forward Harris donation report",
+    "FTC Microsoft antitrust investigation cloud AI licensing status 2026",
+    "Gates Foundation spent more than $100 billion since 2000 close 2045 AP",
+    "Gates Foundation WHO largest donor influence global health priorities 2025 US withdrawal",
+    "Bill Gates Epstein October 2026",
+    "WilmerHale review Gates Foundation Epstein \"personal communications\" about 30 times staff concerns",
+    "Microsoft 2025 environmental sustainability report emissions up 23.4% since 2020 data centers",
+    "Justice Department Epstein files remaining unreleased pages 6 million identified 3.5 million released status"
+  ],
+  "sources": [
+    {
+      "id": "ftc-hsr-penalty",
+      "label": "FTC: Bill Gates to pay $800,000 civil penalty over premerger filing (2004)",
+      "url": "https://www.ftc.gov/node/41469",
+      "publisher": "U.S. Federal Trade Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2004-05-03",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "dc-circuit-microsoft",
+      "label": "D.C. Circuit: United States v. Microsoft, en banc opinion (2001)",
+      "url": "https://law.resource.org/pub/us/case/reporter/F3/253/253.F3d.34.00-5213.00-5212.html",
+      "publisher": "U.S. Court of Appeals for the D.C. Circuit (via Public.Resource.Org)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2001-06-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-eu-timeline",
+      "label": "Reuters: Timeline of Microsoft’s battle with EU antitrust regulators (2013)",
+      "url": "https://www.foxbusiness.com/markets/timeline-microsofts-battle-with-eu-antitrust-regulators",
+      "publisher": "Reuters (via Fox Business)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2013-03-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "aljazeera-eu-browser",
+      "label": "Al Jazeera: EU fines Microsoft $730m over browser choice (2013)",
+      "url": "https://www.aljazeera.com/news/2013/3/6/eu-fines-microsoft-730m-over-browser-choice",
+      "publisher": "Al Jazeera",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2013-03-06",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "foxbiz-harris-donation",
+      "label": "Fox Business: Gates gave $50 million to back Harris, report says (2024)",
+      "url": "https://foxbusiness.com/politics/billionaire-bill-gates-gave-50-million-back-kamala-harris-president-report",
+      "publisher": "Fox Business",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-10-22",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "brusselstimes-harris-donation",
+      "label": "Brussels Times: Gates donates $50 million to pro-Harris group, NYT reports (2024)",
+      "url": "https://brusselstimes.com/1281935/bill-gates-donates-50-million-to-pro-harris-group-the-new-york-times-reports",
+      "publisher": "The Brussels Times",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-10-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bmj-who-funding",
+      "label": "BMJ: WHO priorities shaped by reliance on Gates Foundation grants (2025)",
+      "url": "https://bmjgroup.com/world-health-organizations-priorities-shaped-by-its-reliance-on-grants-from-donor-organisations-such-as-the-gates-foundation/",
+      "publisher": "BMJ Group (BMJ Global Health study)",
+      "publisher_type": "academic",
+      "names_subject": true,
+      "published": "2025-10-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "cbs-staff-apology",
+      "label": "CBS News: Gates apologises to foundation staff over Epstein ties (2026)",
+      "url": "https://www.cbsnews.com/news/bill-gates-epstein-files-apology-gates-foundation-melinda-gates",
+      "publisher": "CBS News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-02-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-review-opened",
+      "label": "AP: Gates Foundation reviewing its Epstein ties (2026)",
+      "url": "https://wtop.com/national/2026/04/the-gates-foundation-is-reviewing-its-epstein-ties-as-released-emails-raise-questions-for-funders/",
+      "publisher": "Associated Press (via WTOP)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-04-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "newsweek-drafts",
+      "label": "Newsweek: Gates denies claims in Epstein draft emails (2026)",
+      "url": "https://newsweek.com/bill-gates-jeffrey-epstein-std-russian-girls-11447034",
+      "publisher": "Newsweek",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "house-oversight-transcript",
+      "label": "House Oversight Committee: Gates and Groff interview transcripts released (2026)",
+      "url": "https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/",
+      "publisher": "U.S. House Committee on Oversight",
+      "publisher_type": "legislature",
+      "names_subject": true,
+      "published": "2026-06-23",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "pbs-house-interview",
+      "label": "PBS NewsHour: Gates and Epstein, as he is interviewed in House probe (2026)",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-bill-gates-relationship-with-jeffrey-epstein-as-he-is-interviewed-in-house-probe",
+      "publisher": "PBS NewsHour",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-06-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ap-review-findings",
+      "label": "AP: Gates Foundation met Epstein about 30 times, external review says (2026)",
+      "url": "https://wtop.com/national/2026/07/the-gates-foundation-met-with-epstein-about-30-times-despite-staff-concerns-an-external-review-says/",
+      "publisher": "Associated Press (via WTOP)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "reuters-review-findings",
+      "label": "Reuters: Gates Foundation engaged with Epstein but made no payments (2026)",
+      "url": "https://www.thestar.com.my/news/world/2026/07/22/gates-foundation-engaged-with-epstein-but-made-no-payments-to-him-review-finds",
+      "publisher": "Reuters (via The Star)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "aljazeera-review",
+      "label": "Al Jazeera: External review finds no wrongdoing in Gates Foundation–Epstein links (2026)",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/external-review-finds-no-wrongdoing-in-gates-foundation-epstein",
+      "publisher": "Al Jazeera",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "foxbiz-foundation-2045",
+      "label": "Fox Business: Gates to give away his wealth, close foundation in 2045 (2025)",
+      "url": "https://www.foxbusiness.com/business-leaders/bill-gates-pledges-give-away-nearly-all-his-wealth-close-his-foundation-2045",
+      "publisher": "Fox Business",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "deseret-foundation-2045",
+      "label": "Deseret News: Gates Foundation to close in 2045 after $100 billion spent (2025)",
+      "url": "https://www.deseret.com/u-s-world/2025/05/08/bill-melinda-gates-foundation-closing-health-education-billions",
+      "publisher": "Deseret News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-05-08",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Bill Gates",
+      "claim": "In May 2004 Gates agreed to pay an $800,000 civil penalty, in a complaint the FTC had the Justice Department file, for buying ICOS shares in 2002 without the premerger filing the Hart-Scott-Rodino Act requires. The FTC had sought no penalty for an earlier 2001 filing lapse over Republic Services shares; the matter is more than 20 years old.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2004-05-03",
+      "source_ids": [
+        "ftc-hsr-penalty"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Microsoft",
+      "claim": "In June 2001 the full D.C. Circuit upheld a finding that Microsoft illegally maintained its monopoly in PC operating systems, reversed the attempted-monopolisation finding, sent the tying claim back and vacated the remedy. The opinion describes conduct by Gates himself in dealings with Apple and Intel; the ruling is 25 years old.",
+      "evidence_type": "final_ruling",
+      "date": "2001-06-28",
+      "source_ids": [
+        "dc-circuit-microsoft"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "platforms",
+      "level": "company",
+      "entity": "Microsoft",
+      "claim": "The European Commission fined Microsoft €497 million in 2004 for withholding data from rivals and tying Media Player to Windows, then €280.5 million (2006) and €899 million (2008) for not complying; an EU court cut the 2008 fine to €860 million in 2012. In 2013 it fined Microsoft €561 million for breaking a browser-choice commitment, which Microsoft blamed on a technical error.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2013-03-06",
+      "source_ids": [
+        "reuters-eu-timeline",
+        "aljazeera-eu-browser"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Bill Gates",
+      "claim": "The New York Times reported in October 2024, citing people briefed, that Gates privately said he had given about $50 million to Future Forward USA Action, a group backing Kamala Harris that does not disclose its donors. Gates did not publicly confirm the gift.",
+      "evidence_type": "investigative_reporting",
+      "date": "2024-10-22",
+      "source_ids": [
+        "foxbiz-harris-donation",
+        "brusselstimes-harris-donation"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "health",
+      "level": "foundation",
+      "entity": "Gates Foundation",
+      "claim": "A 2025 BMJ Global Health study found the Gates Foundation gave WHO $5.5 billion in 640 grants from 2000 to 2024, 9.5% of WHO revenue in 2010-2023, second only to the US, with almost 60% for polio. The authors say earmarked donor funds let donor-favoured areas draw more resources than others.",
+      "evidence_type": "official_report",
+      "date": "2025-10-28",
+      "source_ids": [
+        "bmj-who-funding"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "individual",
+      "entity": "Bill Gates",
+      "claim": "Justice Department releases include emails, calendar entries and photos documenting meetings with Epstein, which Gates says ran from 2011, after Epstein’s 2008 plea, to December 2014. Gates reportedly apologised to foundation staff in February 2026 and told a House committee on 10 June 2026 it was a grave error; he denies knowing of Epstein’s crimes and is not accused of any.",
+      "evidence_type": "official_report",
+      "date": "2026-06-23",
+      "source_ids": [
+        "ap-review-opened",
+        "cbs-staff-apology",
+        "house-oversight-transcript",
+        "pbs-house-interview",
+        "reuters-review-findings"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "individual",
+      "entity": "Bill Gates",
+      "claim": "The files hold two unsent drafts dated 18 July 2013, from Epstein’s account, making sexual allegations about Gates; his spokesperson calls them absurd and false, and Gates told lawmakers they suggest Epstein contemplated blackmail. Lawmakers said in 2026 that about 3.5 million of more than 6 million identified pages had been released.",
+      "evidence_type": "allegation",
+      "date": "2026-06-10",
+      "source_ids": [
+        "newsweek-drafts",
+        "pbs-house-interview"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "epstein",
+      "level": "foundation",
+      "entity": "Gates Foundation",
+      "claim": "A WilmerHale review for the foundation, released in July 2026 as a three-page summary, found Gates and staff met Epstein about 30 times in 2011-2014 despite staff concerns, and found no payments to him and no evidence of knowledge of his crimes. It did not cover Gates’s personal communications or personal-capacity dealings with Epstein.",
+      "evidence_type": "official_report",
+      "date": "2026-07-21",
+      "source_ids": [
+        "ap-review-findings",
+        "reuters-review-findings",
+        "aljazeera-review"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "Gates Foundation",
+      "claim": "The Gates Foundation says it distributed more than $100 billion in its first 25 years, to 2025, for vaccines, infectious disease, nutrition and education, and plans to spend about $200 billion more before closing in 2045. Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
+      "evidence_type": "documented_giving",
+      "date": "2025-05-08",
+      "source_ids": [
+        "foxbiz-foundation-2045",
+        "deseret-foundation-2045",
+        "aljazeera-review"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "The Gates Foundation gave WHO $5.5 billion from 2000 to 2024 and was its second-largest funder in 2010–2023; a 2025 study found these earmarked grants, almost 60% for polio, shape which programmes get funded. The New York Times reported in 2024 that Gates privately said he gave about $50 million to a group backing Kamala Harris that does not disclose its donors; he did not confirm it publicly.",
+        "finding_ids": [
+          "f4",
+          "f5"
+        ]
+      },
+      "social": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "In 2001 a US appeals court upheld a finding that Microsoft illegally maintained its monopoly in PC operating systems; the opinion describes Gates’s own conduct in dealings with Apple and Intel. EU regulators fined Microsoft repeatedly from 2004 to 2013 over interoperability, bundling and browser choice. These are company acts more than ten years old; this research did not check Microsoft’s current conduct.",
+        "finding_ids": [
+          "f2",
+          "f3"
+        ]
+      },
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Paid a personal $800,000 civil penalty in 2004 to settle FTC charges that he bought ICOS shares in 2002 without a required premerger filing. At company level, a US appeals court upheld in 2001 that Microsoft illegally maintained a monopoly, and the European Commission fined Microsoft €497 million (2004), €280.5 million (2006), €899 million (2008, cut to €860 million) and €561 million (2013). All are over ten years old.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3"
+        ]
+      },
+      "unresolved": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Released Epstein files document meetings and correspondence after Epstein’s conviction; Gates calls them a grave error, apologised to foundation staff and told a House committee in 2026 he knew nothing of the crimes. Unsent 2013 drafts by Epstein make sexual allegations his spokesperson calls false; no authority has substantiated them. A 2026 review for the foundation found about 30 meetings and no payments, but did not cover his personal communications. Lawmakers say many pages are unreleased.",
+        "finding_ids": [
+          "f6",
+          "f7",
+          "f8"
+        ]
+      }
+    },
+    "counterweights": "The Gates Foundation says it distributed more than $100 billion in its first 25 years, to 2025, including $5.5 billion to WHO; Warren Buffett has given it more than $47 billion in Berkshire stock since 2006.",
+    "rationale": "Legal 0→3: a personal $800,000 FTC civil penalty in 2004 (R2, Dell precedent), though over 20 years old. Social 1→3: the rubric names a court-established monopoly, and the 2001 ruling upheld one for Microsoft and describes Gates’s own conduct; 2 is arguable given its age. Politics stays 2. Unresolved stays 3: no pending case names him (R6), but released documents leave questions; the foundation review is complete. Reuters (Feb 2026) and the Boston 25 AP copy could not be opened; CBS and WTOP replace them."
+  }
+}
