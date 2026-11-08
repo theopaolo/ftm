@@ -1,0 +1,859 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Follow the Money: who owns our future?</title>
+  <meta name="description" content="The hundred largest private fortunes, scored on ecology, politics, social impact, legal record and open questions, with every score sourced or marked as an estimate.">
+  <meta property="og:title" content="Follow the Money: who owns our future?">
+  <meta property="og:description" content="The hundred largest private fortunes, scored on five dimensions, with a clear line between evidence and estimate.">
+  <meta property="og:type" content="website">
+  <meta name="color-scheme" content="light dark">
+  <style>
+/* Follow the Money
+   Tokens first. Every colour and size used below comes from here. */
+
+:root {
+  --paper: #f2f3f5;
+  --surface: #fbfbfc;
+  --ink: #1c2230;
+  --muted: #5b6372;
+  --line: #d3d8e0;
+  --accent: #2443b8;
+  --high: #c2412d;
+  --mixed: #b07b12;
+  --low: #2f7d5b;
+  --none: #b9bec8;
+  --heat: #a8402c;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Charter, "Bitstream Charter", Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Type scale, ratio 1.25 */
+  --step--1: 0.8rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.563rem;
+  --step-3: 1.953rem;
+  --step-4: 2.441rem;
+
+  --wide: 72rem;
+  --measure: 40rem;
+  --gap: clamp(1rem, 3vw, 2rem);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #13161c;
+    --surface: #1a1e26;
+    --ink: #e6e8ee;
+    --muted: #9aa1ae;
+    --line: #2d333e;
+    --accent: #93a8ff;
+    --high: #e2735f;
+    --mixed: #d8a646;
+    --low: #5fb48b;
+    --none: #4a505c;
+    --heat: #ee876d;
+    color-scheme: dark;
+  }
+}
+
+/* Base */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 1rem; -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: var(--step-0);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, p, dl, dd, figure { margin: 0; }
+a { color: var(--accent); text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+strong { font-weight: 600; }
+
+.wrap { width: min(var(--wide), 100% - 2 * var(--gap)); margin-inline: auto; }
+.small { font-size: var(--step--1); color: var(--muted); }
+.skip { position: absolute; left: 1rem; top: -4rem; background: var(--ink); color: var(--paper); padding: 0.5rem 1rem; z-index: 10; }
+.skip:focus { top: 1rem; }
+
+/* Header and footer */
+.site-header { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding-block: 1.25rem; }
+.wordmark { font-family: var(--serif); font-size: var(--step-1); color: var(--ink); text-decoration: none; }
+.site-header nav { display: flex; gap: 1.25rem; font-size: var(--step--1); }
+.site-header nav a { color: var(--muted); text-decoration: none; }
+.site-header nav a:hover { color: var(--ink); }
+.site-footer { border-top: 1px solid var(--line); padding-block: 2.5rem 3rem; margin-top: 4rem; }
+.site-footer p { max-width: var(--measure); }
+.site-footer p + p { margin-top: 0.75rem; }
+
+/* Hero: the headline sits in the empty space the distribution leaves above its tail. */
+.hero { display: grid; padding-top: clamp(2rem, 6vw, 4rem); }
+.hero-text, .chart-figure { grid-area: 1 / 1; }
+.hero-text { position: relative; z-index: 1; padding-left: 14%; align-self: start; pointer-events: none; }
+.hero-text a { pointer-events: auto; }
+h1 {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(3rem, 8vw, 6.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+  max-width: 9ch;
+}
+.lede { font-family: var(--serif); font-size: var(--step-1); line-height: 1.5; max-width: 32rem; margin-top: 1.5rem; }
+.hero-text .small { margin-top: 1rem; }
+
+.chart-figure { align-self: end; }
+.chart { display: flex; align-items: flex-end; gap: 2px; height: clamp(28rem, 62vh, 40rem); border-bottom: 1px solid var(--ink); }
+.bar {
+  flex: 1 1 0;
+  min-width: 1px;
+  height: var(--h);
+  background: var(--c);
+  cursor: pointer;
+  transform-origin: bottom;
+  animation: rise 700ms cubic-bezier(.2, .7, .2, 1) both;
+  animation-delay: calc(var(--i) * 6ms);
+}
+
+.bar:hover { opacity: 1; outline: 1px solid var(--ink); outline-offset: 1px; }
+@keyframes rise { from { transform: scaleY(0); } }
+.chart-figure figcaption { margin-top: 0.75rem; max-width: var(--measure); }
+
+.figures { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--gap); margin-top: 3rem; }
+.figures > div { border-top: 1px solid var(--line); padding-top: 0.75rem; }
+.figures dt { font-size: var(--step--1); color: var(--muted); }
+.figures dd:not(.small) { font-family: var(--serif); font-size: var(--step-4); line-height: 1.1; margin-top: 0.25rem; font-variant-numeric: lining-nums tabular-nums; }
+.figures dd.small { margin-top: 0.35rem; }
+
+/* Sections */
+.section { padding-top: clamp(4rem, 9vw, 7rem); }
+h2 { font-family: var(--serif); font-weight: 400; font-size: var(--step-4); line-height: 1.1; letter-spacing: -0.01em; }
+h3 { font-size: var(--step-0); font-weight: 600; margin-top: 2rem; }
+.intro { font-family: var(--serif); font-size: var(--step-1); line-height: 1.5; max-width: var(--measure); margin-top: 1rem; }
+.prose > * { max-width: var(--measure); }
+.prose > .findings, .prose > .levy { max-width: calc(var(--measure) + 6rem); }
+.prose > p:not(.intro):not(.small) { font-family: var(--serif); font-size: 1.125rem; line-height: 1.65; margin-top: 1rem; }
+.prose h3 + p { margin-top: 0.5rem !important; }
+.note { color: var(--muted); }
+
+/* Controls */
+.controls { display: grid; grid-template-columns: 2fr repeat(3, 1fr); gap: 0.75rem; margin-top: 2.5rem; }
+.field { display: grid; gap: 0.3rem; font-size: var(--step--1); color: var(--muted); }
+.field input, .field select {
+  width: 100%;
+  min-width: 0;
+  height: 2.75rem;
+  padding: 0 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  font-size: var(--step-0);
+  color: var(--ink);
+}
+.field input:focus-visible, .field select:focus-visible { outline-offset: 0; }
+
+.status-filter { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; }
+.status-filter button {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.45rem 0.8rem;
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: var(--step--1);
+  cursor: pointer;
+}
+.status-filter button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.status-filter .count { color: var(--muted); font-variant-numeric: tabular-nums; }
+.status-filter button[aria-pressed="true"] .count { color: inherit; opacity: 0.7; }
+
+.legend-note { margin-top: 0.35rem; }
+.legend-note .mark { font-size: inherit; }
+.results { margin-top: 1.5rem; font-size: var(--step--1); color: var(--muted); }
+.text-button { background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; text-underline-offset: 0.2em; cursor: pointer; font-size: inherit; }
+.empty { padding-block: 3rem; color: var(--muted); }
+.downloads { margin-top: 1.5rem; font-size: var(--step--1); color: var(--muted); }
+
+/* Overall band mark, used in the profile and the filters. */
+.mark { display: inline-flex; align-items: center; gap: 0.45rem; white-space: nowrap; font-size: var(--step--1); }
+.mark::before { content: ""; width: 0.65rem; height: 0.65rem; background: var(--c); border: 1.5px solid var(--c); flex: none; }
+
+[data-band="high"] { --c: var(--high); }
+[data-band="mixed"] { --c: var(--mixed); }
+[data-band="low"] { --c: var(--low); }
+[data-band="unchecked"] { --c: var(--none); }
+.status-filter [data-band]::before { content: ""; width: 0.6rem; height: 0.6rem; background: var(--c); }
+
+/* Register of profiles */
+.register { margin-top: 0.75rem; border-top: 1px solid var(--ink); }
+.entry { border-bottom: 1px solid var(--line); }
+.entry[hidden] { display: none; }
+.entry summary {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr) 5.5rem 10.5rem 1rem;
+  gap: 0.75rem;
+  align-items: baseline;
+  padding: 0.7rem 0.25rem;
+  cursor: pointer;
+  list-style: none;
+}
+.entry summary::-webkit-details-marker { display: none; }
+.entry summary:hover { background: var(--surface); }
+.entry summary::after { content: "+"; color: var(--muted); text-align: right; }
+.entry[open] summary::after { content: "\2212"; }
+.rank { color: var(--muted); font-size: var(--step--1); font-variant-numeric: tabular-nums; }
+.who strong { display: block; font-weight: 600; }
+.who span { display: block; font-size: var(--step--1); color: var(--muted); margin-top: 0.1rem; }
+.worth { text-align: right; font-variant-numeric: tabular-nums; }
+
+.entry-body { padding: 0.25rem 0.25rem 1.5rem calc(2.5rem + 0.75rem + 0.25rem); max-width: calc(var(--measure) + 4rem); }
+.entry-body > p:first-child { font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; }
+.facts { display: grid; grid-template-columns: 6.5rem 1fr; gap: 0.35rem 1rem; margin-top: 1rem; font-size: var(--step--1); }
+.facts dt { color: var(--muted); }
+.entry-sources { margin: 1rem 0 0; padding: 0; list-style: none; font-size: var(--step--1); }
+.entry-sources li + li { margin-top: 0.35rem; }
+.caveat { margin-top: 1rem; font-size: var(--step--1); color: var(--muted); max-width: var(--measure); }
+.entry-body .text-button { margin-top: 1rem; font-size: var(--step--1); }
+
+/* Findings and directions */
+.findings { margin-top: 2rem; border-top: 1px solid var(--line); }
+.findings > div { display: grid; grid-template-columns: 9rem 1fr; gap: 1.5rem; padding-block: 1.25rem; border-bottom: 1px solid var(--line); align-items: baseline; }
+.findings dt { font-family: var(--serif); font-size: var(--step-3); line-height: 1; font-variant-numeric: lining-nums; }
+.findings dd { font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; }
+.findings a { display: block; margin-top: 0.35rem; font-family: var(--sans); font-size: var(--step--1); }
+.directions { margin-top: 1.5rem; }
+.directions > div + div { margin-top: 1.25rem; }
+.directions dt { font-weight: 600; }
+.directions dd { font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; margin-top: 0.25rem; }
+
+/* Levy */
+.levy { margin-top: 2rem; padding: 1.5rem; background: var(--surface); border: 1px solid var(--line); border-radius: 4px; }
+.levy label { font-size: var(--step--1); color: var(--muted); }
+.levy output { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+.levy input[type="range"] { display: block; width: 100%; margin-top: 0.75rem; accent-color: var(--accent); }
+.levy-result { font-family: var(--serif); font-size: var(--step-2); line-height: 1.3; margin-top: 1.25rem; }
+.gauge { position: relative; height: 0.75rem; background: var(--line); margin-top: 1rem; }
+.gauge-fill { height: 100%; width: 40%; background: var(--accent); }
+.gauge-mark { position: absolute; top: -0.35rem; bottom: -0.35rem; width: 2px; background: var(--ink); left: var(--mark, 87%); }
+.levy .small { margin-top: 0.75rem; }
+
+/* Sources */
+#source-list h3 { margin-top: 2rem; }
+#source-list ul { margin: 0.5rem 0 0; padding: 0; list-style: none; }
+#source-list li { padding-block: 0.5rem; border-bottom: 1px solid var(--line); font-size: var(--step--1); }
+
+
+/* Score heat: one hue, five levels. Estimates are hatched. */
+[data-v="0"] { --a: 0; }
+[data-v="1"] { --a: 0.28; }
+[data-v="2"] { --a: 0.5; }
+[data-v="3"] { --a: 0.74; }
+[data-v="4"] { --a: 1; }
+.cell, .key-swatch, .seg {
+  background: color-mix(in srgb, var(--heat) calc(var(--a) * 100%), transparent);
+}
+.cell[data-basis="estimate"], .seg.est {
+  background:
+    repeating-linear-gradient(135deg, transparent 0 2px, var(--surface) 2px 4px),
+    color-mix(in srgb, var(--heat) calc(var(--a) * 100%), transparent);
+}
+[data-v="0"].cell, .key-swatch[data-v="0"] { background: transparent; box-shadow: inset 0 0 0 1px var(--line); }
+.cell[data-v="0"][data-basis="estimate"] { box-shadow: inset 0 0 0 1px var(--line); background: transparent; }
+
+.strip { display: grid; grid-template-columns: repeat(5, 1fr); gap: 3px; align-self: center; }
+.cell { height: 1.1rem; border-radius: 2px; }
+.register-head { display: grid; grid-template-columns: 2.5rem minmax(0, 1fr) 5.5rem 10.5rem 1rem; gap: 0.75rem; padding: 0 0.25rem 0.4rem; margin-top: 1.25rem; font-size: var(--step--1); color: var(--muted); border-bottom: 1px solid var(--ink); }
+.register-head .worth { text-align: right; }
+.strip-head { display: grid; grid-template-columns: repeat(5, 1fr); gap: 3px; text-align: center; font-size: 0.7rem; }
+.register { border-top: 0; margin-top: 0; }
+.total { font-variant-numeric: tabular-nums; }
+
+/* Profile body */
+.history { font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; }
+.status-note { margin-top: 0.5rem; font-size: var(--step--1); color: var(--muted); }
+.dims { margin: 1.25rem 0 0; display: grid; gap: 1rem; }
+.dim-head { display: grid; grid-template-columns: 7.5rem 1fr auto; gap: 0.75rem; align-items: center; font-size: var(--step--1); }
+.dim-name { font-weight: 600; }
+.meter { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2px; height: 0.6rem; }
+.meter span { background: var(--line); border-radius: 1px; }
+.meter[data-basis="documented"] span.on { background: var(--heat); }
+.meter[data-basis="estimate"] span.on { background: repeating-linear-gradient(135deg, var(--heat) 0 2px, transparent 2px 4px); box-shadow: inset 0 0 0 1px var(--heat); }
+.dim-value { font-variant-numeric: tabular-nums; color: var(--muted); white-space: nowrap; }
+.dim-reason { margin: 0.35rem 0 0 8.25rem; font-size: 0.95rem; line-height: 1.55; }
+.basis { font-size: 0.72rem; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0 0.45rem; margin-left: 0.4rem; white-space: nowrap; }
+.overall { margin-top: 1.25rem; padding-top: 0.75rem; border-top: 1px solid var(--line); font-size: var(--step--1); }
+.counterweight { margin-top: 1rem; font-size: 0.95rem; }
+
+/* Spread chart */
+.spread { margin-top: 2rem; display: grid; gap: 0.9rem; max-width: 56rem; }
+.spread-row { display: grid; grid-template-columns: 8rem 1fr 6rem; gap: 1rem; align-items: center; font-size: var(--step--1); }
+.spread-row .name { font-weight: 600; }
+.spread-bar { display: flex; height: 1.6rem; gap: 2px; }
+.seg { min-width: 2px; display: grid; place-items: center; font-size: 0.7rem; color: var(--ink); border-radius: 2px; }
+.seg[data-v="0"] { background: transparent; box-shadow: inset 0 0 0 1px var(--line); }
+.seg[data-v="0"].est { background: repeating-linear-gradient(135deg, transparent 0 2px, var(--line) 2px 3px); }
+.seg[data-v="4"], .seg[data-v="3"] { color: #fff; }
+.spread-row .doc { color: var(--muted); text-align: right; }
+.scale-key { margin-top: 1rem; display: flex; align-items: center; flex-wrap: wrap; gap: 0.4rem; }
+.key-swatch { display: inline-block; width: 0.9rem; height: 0.9rem; border-radius: 2px; margin-left: 0.4rem; }
+
+/* Cost channels */
+.channels { margin-top: 1.5rem; border-top: 1px solid var(--line); }
+.channels article { padding: 1.25rem 0; border-bottom: 1px solid var(--line); }
+.channels h3 { margin-top: 0; }
+.channels p { font-family: var(--serif); font-size: 1.125rem; line-height: 1.65; margin-top: 0.5rem; }
+.channels .objection { color: var(--muted); }
+.channels .objection strong { color: var(--ink); font-family: var(--sans); font-size: var(--step--1); }
+.channels .cite { font-family: var(--sans); font-size: var(--step--1); }
+.question { font-family: var(--serif); font-weight: 400; font-size: var(--step-2); margin-top: 2.5rem; }
+
+/* Method scales */
+#scales details { border-bottom: 1px solid var(--line); padding: 0.6rem 0; }
+#scales summary { cursor: pointer; font-weight: 600; font-size: var(--step-0); }
+#scales ol { margin: 0.5rem 0 0.25rem; padding-left: 0; list-style: none; font-size: 0.95rem; line-height: 1.5; }
+#scales li { display: grid; grid-template-columns: 1.5rem 1fr; gap: 0.5rem; padding: 0.2rem 0; }
+#scales li b { font-variant-numeric: tabular-nums; }
+
+/* Narrow screens */
+@media (max-width: 900px) {
+  .hero-text { padding-left: 0; pointer-events: auto; }
+  .hero-text, .chart-figure { grid-area: auto; }
+  .chart-figure { margin-top: 2.5rem; }
+  .chart { height: 13rem; gap: 1px; }
+  .figures { grid-template-columns: 1fr; gap: 1.25rem; }
+  .controls { grid-template-columns: 1fr 1fr; }
+  .field-search, .controls .field:last-child { grid-column: 1 / -1; }
+}
+@media (max-width: 600px) {
+  .site-header nav a:first-child { display: none; }
+  .entry summary { grid-template-columns: 2rem minmax(0, 1fr) auto; grid-template-areas: "rank who worth" ". strip strip"; row-gap: 0.5rem; }
+  .entry summary .strip { grid-area: strip; max-width: 14rem; }
+  .register-head { display: none; }
+  .register { border-top: 1px solid var(--ink); }
+  .dim-head { grid-template-columns: 6.5rem 1fr auto; }
+  .dim-reason { margin-left: 0; }
+  .spread-row { grid-template-columns: 1fr; gap: 0.3rem; }
+  .spread-row .doc { text-align: left; }
+  .entry summary::after { display: none; }
+  .rank { grid-area: rank; }
+  .who { grid-area: who; }
+  .worth { grid-area: worth; }
+  .entry-body { padding-left: 2.75rem; }
+  .findings > div { grid-template-columns: 1fr; gap: 0.5rem; }
+  .facts { grid-template-columns: 1fr; }
+  .facts dd { margin-bottom: 0.4rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .bar { animation: none; }
+}
+
+@media print {
+  .site-header nav, .controls, .status-filter, .results, .downloads, .chart-figure, .levy, .skip { display: none !important; }
+  body { background: white; color: black; }
+  .section { padding-top: 2rem; break-inside: avoid-page; }
+}
+</style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header wrap">
+    <a class="wordmark" href="#top">Follow the Money</a>
+    <nav aria-label="Sections">
+      <a href="#profiles">Profiles</a>
+      <a href="#cost">The cost</a>
+      <a href="#method">Method</a>
+      <a href="#sources">Sources</a>
+    </nav>
+  </header>
+
+  <main id="main">
+
+    <section class="hero" id="top" aria-labelledby="title">
+      <div class="wrap hero-text">
+        <h1 id="title">Who owns our future?</h1>
+        <p class="lede">The hundred largest private fortunes, scored on ecology, politics, social impact, legal record and open questions. Every score says whether it is documented or estimated, and links its sources.</p>
+        <p class="small">Wealth estimates from Forbes, 1 March 2026. Edition of 8 November 2026.</p>
+      </div>
+      <figure class="wrap chart-figure">
+        <div class="chart" id="chart" aria-hidden="true"></div>
+        <figcaption class="small">Each bar is one fortune, in rank order. The largest is worth more than the last <span data-stat="tail">29</span> on the list combined. Colour shows the overall concern for checked profiles; grey bars have not been checked yet.</figcaption>
+      </figure>
+      <dl class="wrap figures">
+        <div><dt>Combined net worth</dt><dd data-stat="total">$7.12tn</dd></div>
+        <div><dt>Share of all billionaire wealth</dt><dd data-stat="share">35.4%</dd><dd class="small">Forbes counted <span data-stat="forbes-total">$20.1tn</span> in total.</dd></div>
+        <div><dt>Profiles checked against sources</dt><dd><span data-stat="checked">41</span> of 100</dd><dd class="small">The rest carry sector estimates only.</dd></div>
+      </dl>
+    </section>
+
+    <section class="section" id="overview" aria-labelledby="overview-title">
+      <div class="wrap">
+        <h2 id="overview-title">Where the concerns lie</h2>
+        <p class="intro">Each fortune gets five scores from 0 to 4. This is how the hundred spread across each scale. Solid segments are documented scores; hatched segments are estimates from the sector alone.</p>
+        <div class="spread" id="spread"></div>
+        <p class="small scale-key"><span class="key-swatch" data-v="0"></span>0 <span class="key-swatch" data-v="1"></span>1 <span class="key-swatch" data-v="2"></span>2 <span class="key-swatch" data-v="3"></span>3 <span class="key-swatch" data-v="4"></span>4. The full scale for each dimension is in the method.</p>
+      </div>
+    </section>
+
+    <section class="section" id="profiles" aria-labelledby="profiles-title">
+      <div class="wrap">
+        <h2 id="profiles-title">The hundred</h2>
+        <p class="intro">Search by name, company or country, and sort by any dimension. Open a profile to read the reason behind each score and the sources that support it.</p>
+
+        <div class="controls">
+          <label class="field field-search">
+            <span>Search</span>
+            <input id="search" type="search" placeholder="Name, company, country" autocomplete="off">
+          </label>
+          <label class="field">
+            <span>Sort by</span>
+            <select id="sort"></select>
+          </label>
+        </div>
+        <div class="status-filter" id="band-filter" role="group" aria-label="Filter by overall concern"></div>
+
+        <p class="results" aria-live="polite"><span id="results"></span> <button type="button" class="text-button" id="clear" hidden>Clear filters</button></p>
+        <noscript><p>The profiles need JavaScript. The raw data is in <a href="data/research.json">data/research.json</a>.</p></noscript>
+        <div class="register-head" aria-hidden="true"><span></span><span>Person</span><span class="worth">Net worth</span><span class="strip-head" id="strip-head"></span><span></span></div>
+        <div class="register" id="register"></div>
+        <p class="empty" id="empty" hidden>No profile matches these filters. <button type="button" class="text-button" id="empty-clear">Clear filters</button></p>
+
+        <p class="downloads">Download the data as <button type="button" class="text-button" data-download="json">JSON</button> or <button type="button" class="text-button" data-download="csv">CSV</button>.</p>
+      </div>
+    </section>
+
+    <section class="section" id="cost" aria-labelledby="cost-title">
+      <div class="wrap prose">
+        <h2 id="cost-title">What do these fortunes cost the rest of us?</h2>
+        <p class="intro">There is no single bill. A fortune can cost the public through some channels and give back through others. For each channel, here is what the evidence says and the strongest objection to it.</p>
+
+        <div class="channels">
+          <article>
+            <h3>Tax</h3>
+            <p>Billionaire wealth grew by about 7.5% a year above inflation over four decades, while the taxes billionaires pay amount to about 0.3% of their wealth each year. A minimum tax of 2% of wealth on about 3,000 billionaires would raise $200 billion to $250 billion a year, according to a report to the G20 by Gabriel Zucman.</p>
+            <p class="objection"><strong>Objection.</strong> Most of this wealth is unsold company shares, which are hard to value and whose profits are already taxed at company level. Critics of wealth taxes also point to liquidity problems and capital flight.</p>
+            <p class="cite"><a href="https://gabriel-zucman.eu/files/report-g20.pdf">Zucman, report to the G20, 2024</a></p>
+          </article>
+          <article>
+            <h3>Public money</h3>
+            <p>Large fortunes are often built with public support. Elon Musk’s companies alone received at least $38 billion in public contracts, loans, subsidies and tax credits over two decades, according to the Washington Post.</p>
+            <p class="objection"><strong>Objection.</strong> Much of this money pays for services the state chose to buy, and supporters argue that SpaceX lowered launch costs for the public.</p>
+            <p class="cite"><a href="https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/">Washington Post, 2025</a></p>
+          </article>
+          <article>
+            <h3>Climate</h3>
+            <p>Oxfam estimated in 2022 that the investments of 125 of the richest billionaires emit about 3 million tonnes of CO₂ equivalent each per year, roughly a million times the 2.76 tonnes of a person in the poorest 90% of humanity.</p>
+            <p class="objection"><strong>Objection.</strong> Assigning a company’s emissions to its owners is a choice; the same emissions can be assigned to the customers who buy its products. Owners can also steer companies towards lower emissions.</p>
+            <p class="cite"><a href="https://webassets.oxfamamerica.org/media/documents/bn-carbon-billlionaires-071122-en.pdf">Oxfam, Carbon Billionaires, 2022</a></p>
+          </article>
+          <article>
+            <h3>Political power</h3>
+            <p>In the 2024 US election cycle, six donors each gave more than $100 million; before 2018 no individual had given that much in a cycle. In the 2026 midterms, Elon Musk alone gave about $445 million.</p>
+            <p class="objection"><strong>Objection.</strong> Spending does not guarantee results, large donors exist on both sides, and US courts treat political spending as protected speech.</p>
+            <p class="cite"><a href="https://electionlawblog.org/?p=149186">Election Law Blog, from OpenSecrets data</a>; <a href="https://www.newsweek.com/the-billionaires-who-spent-won-and-lost-the-most-at-the-midterms-12661688">Newsweek, 2026</a></p>
+          </article>
+          <article>
+            <h3>Innovation and value</h3>
+            <p>William Nordhaus estimated that innovators keep only about 2.2% of the social value of their innovations; the rest reaches consumers as lower prices and better products. Steven Kaplan and Joshua Rauh argue that top fortunes mostly reflect market returns to talent and scale.</p>
+            <p class="objection"><strong>Objection.</strong> Josh Bivens and Lawrence Mishel argue that much top income is rent, captured through market power and finance rather than created.</p>
+            <p class="cite"><a href="https://www.nber.org/digest/oct04/who-gains-innovation">Nordhaus, 2004</a>; <a href="https://doi.org/10.1257/jep.27.3.35">Kaplan and Rauh, 2013</a>; <a href="https://doi.org/10.1257/jep.27.3.57">Bivens and Mishel, 2013</a>; <a href="https://doi.org/10.1257/jep.27.3.21">Mankiw, 2013</a></p>
+          </article>
+          <article>
+            <h3>Inheritance</h3>
+            <p><span data-stat="origin-sentence">Of these hundred fortunes, 62 were built by their current holder and 26 were inherited from a parent or a spouse.</span> Across all billionaires, UBS counted a record $297.8 billion inherited by 91 heirs in 2025 and expects $5.9 trillion to pass to children within 15 years.</p>
+            <p class="objection"><strong>Objection.</strong> The same UBS report counted 196 new self-made billionaires in 2025, the most since 2021.</p>
+            <p class="cite"><a href="https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html">UBS, Billionaire Ambitions Report, 2025</a></p>
+          </article>
+        </div>
+
+        <h3 class="question">Is it acceptable to have fortunes this large?</h3>
+        <p>The evidence above can show what a fortune costs and contributes through each channel. It cannot decide how to weigh them, because that depends on values. Three positions in political philosophy frame the question. John Rawls argued that inequalities are just only if they benefit the least advantaged. Robert Nozick argued that holdings are just if they were acquired and transferred justly, whatever distribution results. Ingrid Robeyns argues for an upper limit on personal wealth, because extreme fortunes turn into political power and are not needed for anyone to flourish.</p>
+        <p>This site does not choose between them. It tries to make the facts each position needs easy to check.</p>
+      </div>
+    </section>
+
+    <section class="section" id="levy" aria-labelledby="levy-title">
+      <div class="wrap prose">
+        <h2 id="levy-title">What would a levy raise?</h2>
+        <p class="intro">Apply a hypothetical yearly levy to the combined net worth of the hundred. This compares orders of magnitude only. Real receipts would depend on valuation, avoidance, enforcement, jurisdiction and market effects.</p>
+        <div class="levy">
+          <label for="rate">Levy rate: <output id="rate-out" for="rate">2%</output></label>
+          <input type="range" id="rate" min="0.5" max="5" step="0.5" value="2">
+          <p class="levy-result" id="levy-result" aria-live="polite">At 2% a year, the levy would raise about $142B.</p>
+          <div class="gauge" aria-hidden="true"><div class="gauge-fill" id="gauge"></div><div class="gauge-mark"></div></div>
+          <p class="small">The marker shows $310B, the lower estimate of yearly adaptation needs in developing countries.</p>
+        </div>
+        <p>The United Nations Environment Programme (UNEP) estimates that developing countries will need $310B to $365B a year for climate adaptation by 2035. International public finance for adaptation reached $26B in 2023. <a href="https://www.unep.org/en/publications/report/adaptation-gap-report-2025">UNEP Adaptation Gap Report 2025</a></p>
+      </div>
+    </section>
+
+    <section class="section" id="method" aria-labelledby="method-title">
+      <div class="wrap prose">
+        <h2 id="method-title">Read this before sharing</h2>
+        <h3>What is measured</h3>
+        <p>Names, ranks and net worths come from the Forbes annual list of 1 March 2026. Tied entries share a rank. A net worth is an estimate of asset values. It is not cash, it moves with markets, and this list is not updated between editions.</p>
+        <h3>How the scores work</h3>
+        <p>Each fortune gets five scores from 0 to 4. A score is <strong>documented</strong> when a linked source supports it, and an <strong>estimate</strong> when it comes from the sector rubric alone. Estimates are hatched everywhere on the site. A company’s settlement is not a personal conviction, and allegations are described as allegations. Open each scale to see what every level means.</p>
+        <div id="scales"></div>
+        <h3>Totals and colours</h3>
+        <p>The total is a plain sum from 0 to 20, used for sorting and colour. It is crude: an old tax penalty and a mine disaster can add up to the same number, so read the profile. Only profiles with at least one documented score get a colour: <span data-stat="band-rule">0 to 4 is lower concern, 5 to 8 mixed, 9 or more high concern</span>. The others stay grey until someone checks them, because an unchecked fortune scoring low would only mean nobody has looked.</p>
+        <h3>About the Epstein files</h3>
+        <p>In January 2026 the US Justice Department released about 3.5 million of more than 6 million identified pages, many of them redacted, and said the release was complete. Lawmakers have questioned what was withheld. Being named in the files is not evidence of a crime. Where released documents raise unanswered questions about a person, this site scores them under open questions, records the person’s denial, and does not treat withheld pages as proof of anything.</p>
+        <h3>Changes since the Forbes snapshot</h3>
+        <p>Changpeng Zhao was pardoned in October 2025. The US criminal case against Gautam Adani was dismissed in August 2026. Klaus-Michael Kühne died in August 2026. The NBA suspended Steve Ballmer in September 2026. Net worths are still those of 1 March 2026.</p>
+        <h3>What remains unknown</h3>
+        <p>Full portfolio holdings, the attribution of corporate emissions, tax exposure, political networks and positive effects all need deeper review. The absence of a known controversy does not prove a clean record, and a high score does not establish criminal behaviour.</p>
+      </div>
+    </section>
+
+    <section class="section" id="sources" aria-labelledby="sources-title">
+      <div class="wrap prose">
+        <h2 id="sources-title">Sources</h2>
+        <p class="intro">Every link used on this site, grouped by role. They are offered for scrutiny. None of them is a legal finding about an individual unless it says so.</p>
+        <div id="source-list"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Follow the Money is an independent research prototype. It is not affiliated with Forbes, Oxfam, UNEP or anyone profiled here. It is built to be questioned and corrected.</p>
+      <p class="small"><span id="repo-link"></span>Edition of 8 November 2026. <a href="#top">Back to top</a></p>
+    </div>
+  </footer>
+
+  <script>window.FTM_DATA = {"meta":{"title":"Follow the Money","edition":"2026-11-08","snapshot":"2026-03-01","forbes_total_billions":20100,"adaptation_need_billions":[310,365],"adaptation_finance_2023_billions":26,"repo":"","note":"Wealth: Forbes annual list, 1 March 2026. Scores: editorial judgments on a published rubric; estimates are marked as such."},"sources":{"forbes":{"label":"Forbes: World’s Billionaires List 2026 (snapshot of 1 March 2026)","url":"https://www.forbes.com/sites/chasewithorn/2026/03/10/forbes-worlds-billionaires-list-2026-the-top-200/","kind":"data"},"wir-2026":{"label":"World Inequality Report 2026: ownership emissions","url":"https://wid.world/document/world-inequality-report-2026/","kind":"research"},"bua-2026":{"label":"Bua et al. (2026): Carbon content of billionaire wealth","url":"https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.70035","kind":"research"},"wid-summary":{"label":"WID: summary of billionaire portfolio emissions research","url":"https://wid.world/news-article/the-carbon-content-of-billionaire-wealth-composition-concentration-and-taxation/","kind":"research"},"oxfam":{"label":"Oxfam: Resisting the Rule of the Rich (2026)","url":"https://www.oxfam.org/en/research/resisting-rule-rich","kind":"research"},"oxcarbon":{"label":"Oxfam: Climate Plunder methodology (2025)","url":"https://www.oxfamfrance.org/app/uploads/2025/10/Methodologie-ENG-Rapport-inegalites-demissions-2025-Oxfam.pdf","kind":"research"},"unep-emissions":{"label":"UNEP: Emissions Gap Report 2025","url":"https://www.unep.org/en/publications/report/emissions-gap-report-2025","kind":"research"},"unep-adaptation":{"label":"UNEP: Adaptation Gap Report 2025","url":"https://www.unep.org/en/publications/report/adaptation-gap-report-2025","kind":"research"},"ipbes":{"label":"IPBES: Global Assessment (2019) summary","url":"https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf","kind":"research"},"google":{"label":"U.S. DOJ: Google search monopoly remedies (2025)","url":"https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google","kind":"case"},"meta":{"label":"U.S. DOJ: Facebook privacy settlement (2019)","url":"https://www.justice.gov/archives/opa/pr/facebook-agrees-pay-5-billion-and-implement-robust-new-protections-user-information","kind":"case"},"amazon":{"label":"FTC: Amazon antitrust litigation","url":"https://www.ftc.gov/legal-library/browse/cases-proceedings/amazon","kind":"case"},"binance":{"label":"U.S. DOJ: Binance and Zhao guilty pleas (2023)","url":"https://www.justice.gov/criminal/case/united-states-v-binance-holdings-limited-dba-binancecom","kind":"case"},"adani":{"label":"U.S. DOJ: Adani indictment (2024; allegations)","url":"https://www.justice.gov/usao-edny/pr/billionaire-chairman-conglomerate-and-seven-other-senior-business-executives-indicted","kind":"case"},"cftc":{"label":"CFTC: Tether/Bitfinex civil penalties (2021)","url":"https://www.cftc.gov/PressRoom/PressReleases/8450-21","kind":"case"},"kerimov":{"label":"U.S. Treasury: Kerimov sanctions network (2022)","url":"https://home.treasury.gov/news/press-releases/jy1102","kind":"case"},"sec":{"label":"U.S. SEC: Bechtolsheim insider-trading settlement","url":"https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25955","kind":"case"},"epstein":{"label":"Reuters: Gates acknowledged Epstein meetings (2026)","url":"https://www.reuters.com/world/us/bill-gates-took-responsibility-his-actions-over-epstein-links-foundation-says-2026-02-25/","kind":"case"},"yield":{"label":"Yield Giving: grant disclosures","url":"https://yieldgiving.com/","kind":"case"},"panorama-scott":{"label":"Panorama Global: MacKenzie Scott 2025 giving analysis","url":"https://panobucket.nyc3.digitaloceanspaces.com/panobucket/documents/Panorama_Global_MKS_Analysis_2025.pdf","kind":"case"},"ballmer":{"label":"Ballmer Group: About & areas of support","url":"https://ballmergroup.org/","kind":"case"},"hca":{"label":"U.S. DOJ: HCA healthcare fraud settlement (2003)","url":"https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm","kind":"case"},"grupo-mexico":{"label":"Associated Press: Grupo México mine spill coverage","url":"https://apnews.com/article/71c84b4c396875718b1b65d035c7dde6","kind":"case"},"ferrero":{"label":"Guardian: Ferrero hazelnut supply chains","url":"https://www.theguardian.com/global-development/2019/dec/20/are-ferrero-rocher-chocolates-tainted-by-child-labour","kind":"case"},"temu":{"label":"U.S. House Select Committee: Temu supply-chain findings","url":"https://chinaselectcommittee.house.gov/media/press-releases/select-committee-releases-interim-findings-shein-temu-forced-labor","kind":"case"},"oxfam-power":{"label":"Oxfam: Billionaire power and democratic accountability","url":"https://www.oxfamamerica.org/explore/research-publications/resisting-the-rule-of-the-rich/","kind":"research"},"serum":{"label":"Serum Institute: company information","url":"https://www.seruminstitute.com/","kind":"case"},"sun-pharma":{"label":"FDA: Sun Pharma warning letter (2024)","url":"https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/sun-pharmaceutical-industries-limited-677337-06182024","kind":"case"},"time-musk-epstein":{"label":"Time: Musk’s emails to Epstein in the January 2026 release","url":"https://time.com/7362868/elon-musk-epstein-emails/","kind":"case"},"newsweek-gates-epstein":{"label":"Newsweek: Gates denies claims in Epstein draft emails; about 3.5m of 6m+ identified pages released","url":"https://newsweek.com/bill-gates-jeffrey-epstein-std-russian-girls-11447034","kind":"case"},"ap-gates-review":{"label":"AP: Gates Foundation commissions external review of Epstein ties (2026)","url":"https://www.boston25news.com/news/business/gates-foundation-is/3P764Q4GT42RNCDUNUPDIEZHLI/","kind":"case"},"axios-zhao-pardon":{"label":"Axios: Trump pardons Changpeng Zhao (October 2025)","url":"https://www.axios.com/2025/10/23/trump-pardon-binance-cz","kind":"case"},"ap-lee":{"label":"AP: Supreme Court upholds Lee Jae-yong acquittal; earlier bribery conviction (2025)","url":"https://m.washingtontimes.com/news/2025/jul/17/samsungs-lee-jae-yong-acquittal-upheld-south-koreas-top-court/","kind":"case"},"afp-lee-pardon":{"label":"AFP: Lee pardoned in 2022, acquittal upheld in 2025","url":"https://www.bssnews.net/international/293034","kind":"case"},"bs-adani-2026":{"label":"Business Standard: Adani criminal case dismissed, SEC case settled (August 2026)","url":"https://www.business-standard.com/companies/news/adani-s-us-legal-saga-from-bribery-indictment-to-criminal-case-dismissal-126081101061_1.html","kind":"case"},"reuters-musk-sec-2026":{"label":"Reuters: Musk settles SEC Twitter disclosure case; jury verdict in shareholder suit (2026)","url":"https://english.aaj.tv/news/330458235","kind":"case"},"bt-musk-sec":{"label":"Business Today: $1.5m SEC settlement and the 2018 fraud charge","url":"https://www.businesstoday.in/amp/technology/story/elon-musk-settles-sec-lawsuit-over-delayed-twitter-stake-disclosure-agrees-to-15-million-penalty-529816-2026-05-05","kind":"case"},"bloomberg-musk-sec":{"label":"Bloomberg: judge approves SEC–Musk deal; Musk’s role in government (July 2026)","url":"https://www.cpapracticeadvisor.com/2026/07/09/u-s-judge-allows-sec-musk-deal-despite-significant-misgivings/186422/","kind":"case"},"wapo-musk-38bn":{"label":"Washington Post: Musk’s companies received at least $38bn in public funding (2025)","url":"https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/","kind":"case"},"nzh-doge":{"label":"Washington Post (via NZ Herald): DOGE targeted agencies holding Musk contracts","url":"https://www.nzherald.co.nz/business/elon-musks-business-empire-is-built-on-us38-billion-in-government-funding/KN2MGEP65VA2XIIBBGE5UU7GKM","kind":"case"},"opensecrets-2024":{"label":"OpenSecrets: biggest individual donors, 2024 cycle","url":"https://www.opensecrets.org/elections-overview/biggest-donors?cycle=2024","kind":"case"},"elb-2024":{"label":"Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data","url":"https://electionlawblog.org/?p=149186","kind":"case"},"newsweek-midterms":{"label":"Newsweek: billionaire spending in the 2026 midterms, from OpenSecrets data","url":"https://www.newsweek.com/the-billionaires-who-spent-won-and-lost-the-most-at-the-midterms-12661688","kind":"case"},"qz-donors":{"label":"Quartz: biggest billionaire donors of the 2024 cycle","url":"https://qz.com/gateway/top-billionaire-2024-election-donors-trump-harris-1851688403","kind":"case"},"ap-meta-ftc":{"label":"AP: judge rejects FTC monopoly case against Meta; Google rulings (November 2025)","url":"https://6abc.com/post/meta-prevails-historic-ftc-antitrust-case-have-break-off-whatsapp-instagram/18170444/","kind":"case"},"pbs-amazon-ftc":{"label":"AP: Amazon pays $2.5bn to settle FTC Prime case (2025)","url":"https://www.pbs.org/newshour/economy/amazon-to-pay-2-5-billion-to-settle-ftc-allegations-it-duped-customers-into-enrolling-in-prime","kind":"case"},"mt-lukoil":{"label":"Moscow Times: UK sanctions Lukoil; Alekperov sanctioned since 2022","url":"https://www.themoscowtimes.com/2025/10/15/united-kingdom-declares-russian-oil-is-off-the-market-as-it-sanctions-rosneft-and-lukoil-a90819/pdf","kind":"case"},"bne-lukoil":{"label":"bne IntelliNews: US sanctions Lukoil; Alekperov’s Soviet ministry past","url":"https://www.intellinews.com/moscow-blog-lukoil-to-sell-foreign-assets-due-to-us-oil-sanctions-408437","kind":"case"},"ap-potanin":{"label":"AP: US sanctions Potanin, former deputy prime minister (2022)","url":"https://www.columbian.com/news/2022/dec/15/u-s-imposes-more-penalties-on-russias-financial-sector/","kind":"case"},"reuters-2018-list":{"label":"Reuters: US Treasury’s 2018 list of oligarchs close to the Kremlin","url":"https://www.odt.co.nz/news/world/us-pens-russian-oligarch-list-kyn11cxt","kind":"case"},"cnbc-renaissance":{"label":"CNBC: Renaissance executives to pay up to $7bn to the IRS (2021)","url":"https://www.cnbc.com/2021/09/03/renaissance-executives-agree-to-pay-7-billion-to-settle-tax-dispute.html","kind":"case"},"jta-quandt":{"label":"JTA: family-commissioned study on Quandt forced labour (2011)","url":"https://www.jta.org/2011/09/28/global/bmw-family-admits-using-slave-labor-for-nazis","kind":"case"},"swissinfo-kuehne":{"label":"Swissinfo: Kühne+Nagel to examine its Nazi-era past (2026)","url":"https://www.swissinfo.ch/eng/various/k%C3%BChnenagel-wants-to-shed-light-on-its-nazi-past/92113951","kind":"case"},"tt-kuehne-death":{"label":"Transport Topics: Klaus-Michael Kühne dies at 89 (August 2026)","url":"https://www.ttnews.com/articles/kuehne-nagel-owner-dies-89","kind":"case"},"afp-arcelormittal":{"label":"AFP: Kazakhstan mourns 45 dead in ArcelorMittal mine disaster (2023)","url":"https://www.dawn.com/news/1784901","kind":"case"},"ap-walmart-opioids":{"label":"AP: Walmart $3.1bn opioid settlement (2022)","url":"https://www.pbs.org/newshour/economy/walmart-offers-to-pay-3-1-billion-to-settle-opioid-epidemic-lawsuits","kind":"case"},"reuters-dior":{"label":"Reuters: Milan court places Dior manufacturing unit under administration (2024)","url":"https://businesslive.co.za/bd/companies/retail-and-consumer/2024-06-11-court-steps-in-over-lvmh-units-labour-exploitation","kind":"case"},"nss-dior":{"label":"NSS: Italian competition authority closes Dior probe with €2m commitment (2025)","url":"https://www.nssmag.com/en/article/37005","kind":"case"},"npr-ballmer":{"label":"NPR: NBA suspends Ballmer for one year (September 2026)","url":"https://www.wvia.org/news/2026-09-02/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case","kind":"case"},"wiki-wurth":{"label":"Wikipedia (citing Der Spiegel, 2008): Würth tax evasion penalty","url":"https://en.wikipedia.org/wiki/Reinhold_W%C3%BCrth","kind":"case"},"sec-dell":{"label":"SEC: Dell and Michael Dell settle disclosure charges (2010)","url":"https://www.sec.gov/news/press/2010/2010-131.htm","kind":"case"},"reuters-kering":{"label":"Reuters: Kering pays €1.25bn to settle Italian tax claims (2019)","url":"https://ae.fashionnetwork.com/news/Gucci-owner-Kering-to-pay-1-25-billion-euros-to-Italian-tax-authorities,1097455.html","kind":"case"},"wwd-kering":{"label":"WWD: French prosecutors open Kering tax inquiry (2020)","url":"https://www.pressreader.com/usa/wwd-digital-daily/20201218/281535113587559","kind":"case"},"zucman-g20":{"label":"Zucman (2024): blueprint for a minimum tax on billionaires, report to the G20","url":"https://gabriel-zucman.eu/files/report-g20.pdf","kind":"research"},"oxfam-carbon":{"label":"Oxfam (2022): Carbon Billionaires, investment emissions","url":"https://webassets.oxfamamerica.org/media/documents/bn-carbon-billlionaires-071122-en.pdf","kind":"research"},"nordhaus-2004":{"label":"Nordhaus (2004): Schumpeterian profits, NBER digest","url":"https://www.nber.org/digest/oct04/who-gains-innovation","kind":"research"},"mankiw-2013":{"label":"Mankiw (2013): Defending the One Percent, Journal of Economic Perspectives","url":"https://doi.org/10.1257/jep.27.3.21","kind":"research"},"kaplan-rauh-2013":{"label":"Kaplan and Rauh (2013): It’s the Market, Journal of Economic Perspectives","url":"https://doi.org/10.1257/jep.27.3.35","kind":"research"},"bivens-mishel-2013":{"label":"Bivens and Mishel (2013): Executive pay as evidence of rents, Journal of Economic Perspectives","url":"https://doi.org/10.1257/jep.27.3.57","kind":"research"},"ubs-2025":{"label":"UBS (2025): Billionaire Ambitions Report","url":"https://www.ubs.com/global/en/media/display-page-ndp/en-20251204-billionaire-ambitions-report-2025.html","kind":"research"}},"people":[{"id":1,"rank":1,"name":"Elon Musk","slug":"elon-musk","wealth":839,"company":"Tesla · SpaceX · xAI","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Zip2 and X.com (later PayPal), then built Tesla and SpaceX. Bought Twitter in 2022 (now X) and founded xAI.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Tesla’s electric cars cut tailpipe emissions; rockets and xAI data centres add energy use. Not assessed in detail."},"politics":{"value":4,"basis":"documented","reason":"Largest US political donor of 2024 ($291.5 million) and of the 2026 midterms (about $445 million). Led the DOGE cost-cutting effort in 2025, which targeted agencies holding contracts with his companies; those companies received at least $38 billion in public contracts, loans, subsidies and tax credits."},"social":{"value":2,"basis":"estimate","reason":"Labour disputes at his companies and content moderation on X are widely reported; not yet sourced here."},"legal":{"value":3,"basis":"documented","reason":"Personal civil liability: a San Francisco jury found him liable in March 2026 for defrauding Twitter shareholders. Charged by the SEC with securities fraud in 2018 over Tesla tweets; settled a second SEC case in 2026 ($1.5 million) without admitting wrongdoing."},"unresolved":{"value":3,"basis":"documented","reason":"The January 2026 Epstein files include 2012–2013 emails in which he discussed visiting Epstein’s island, which contradicts his earlier statement that he refused. He says the emails are misinterpreted. No authority has accused him of a crime. Millions of identified pages remain unreleased."}},"checked":true,"counterweights":"Tesla accelerated the shift to electric cars; SpaceX lowered launch costs.","status_note":"","sources":["forbes","opensecrets-2024","newsweek-midterms","bloomberg-musk-sec","wapo-musk-38bn","nzh-doge","reuters-musk-sec-2026","bt-musk-sec","time-musk-epstein","newsweek-gates-epstein"]},{"id":2,"rank":2,"name":"Larry Page","slug":"larry-page","wealth":257,"company":"Alphabet / Google","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Google in 1998 with Sergey Brin.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"US courts found that Google illegally maintained monopolies in search (2024) and online advertising (2025)."},"legal":{"value":2,"basis":"documented","reason":"Company-level court findings; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","google","ap-meta-ftc"]},{"id":3,"rank":3,"name":"Sergey Brin","slug":"sergey-brin","wealth":237,"company":"Alphabet / Google","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Google in 1998 with Larry Page.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"US courts found that Google illegally maintained monopolies in search (2024) and online advertising (2025)."},"legal":{"value":2,"basis":"documented","reason":"Company-level court findings; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","google","ap-meta-ftc"]},{"id":4,"rank":4,"name":"Jeff Bezos","slug":"jeff-bezos","wealth":224,"company":"Amazon","country":"United States","sector":"Technology","origin":"built","history":"Founded Amazon in 1994. Also owns Blue Origin and The Washington Post.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":2,"basis":"estimate","reason":"Owns a major national newspaper; Amazon’s lobbying not assessed here."},"social":{"value":2,"basis":"documented","reason":"Amazon paid $2.5 billion in 2025 to settle FTC charges that it enrolled customers in Prime without clear consent and made cancelling hard, without admitting wrongdoing."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal case."},"unresolved":{"value":2,"basis":"documented","reason":"The FTC’s antitrust case against Amazon, joined by states, is due for trial in 2027."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","pbs-amazon-ftc","amazon"]},{"id":5,"rank":5,"name":"Mark Zuckerberg","slug":"mark-zuckerberg","wealth":222,"company":"Meta","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Facebook in 2004; controls Meta through voting shares.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":2,"basis":"estimate","reason":"Controls platforms central to political communication worldwide."},"social":{"value":2,"basis":"documented","reason":"Facebook paid $5 billion in 2019 to settle FTC privacy charges. In November 2025 a judge rejected the FTC’s case that Meta holds a monopoly today."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal criminal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","meta","ap-meta-ftc"]},{"id":6,"rank":6,"name":"Larry Ellison","slug":"larry-ellison","wealth":190,"company":"Oracle","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Oracle in 1977.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":7,"rank":7,"name":"Bernard Arnault & family","slug":"bernard-arnault-and-family","wealth":171,"company":"LVMH","country":"France","sector":"Fashion & Retail","origin":"family-business","history":"Took over his family’s construction firm, then built LVMH from 1984 into the largest luxury group.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Luxury goods: leather, textiles, metals and global retail."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"documented","reason":"In 2024 a Milan court placed a Dior manufacturing unit under administration over subcontractors that exploited workers; one bag cost €53 to supply and sold for €2,600. In 2025 the Italian competition authority closed its probe with Dior committing €2 million to victims, without a finding against Dior."},"legal":{"value":2,"basis":"documented","reason":"Court-imposed administration of a subsidiary; Dior itself was not criminally charged."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","reuters-dior","nss-dior"]},{"id":8,"rank":8,"name":"Jensen Huang","slug":"jensen-huang","wealth":154,"company":"Nvidia","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Nvidia in 1993.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"AI chips and data centres: fast-growing electricity demand."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":9,"rank":9,"name":"Warren Buffett","slug":"warren-buffett","wealth":149,"company":"Berkshire Hathaway","country":"United States","sector":"Finance & Investments","origin":"built","history":"Built Berkshire Hathaway from a textile company into a conglomerate from 1965.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Berkshire owns large utility, railway and energy businesses; portfolio emissions research covers billionaires like him."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Gives most of his fortune away, in large part through annual gifts to the Gates Foundation.","status_note":"","sources":["forbes","bua-2026"]},{"id":10,"rank":10,"name":"Amancio Ortega","slug":"amancio-ortega","wealth":148,"company":"Inditex / Zara","country":"Spain","sector":"Fashion & Retail","origin":"built","history":"Co-founded Inditex (Zara) in 1975.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Fast fashion at global scale: textile volume, water, chemicals and waste."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":11,"rank":11,"name":"Rob Walton & family","slug":"rob-walton-and-family","wealth":146,"company":"Walmart","country":"United States","sector":"Fashion & Retail","origin":"inherited","history":"Son of Walmart founder Sam Walton.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability. Officials also noted it filled fewer opioid prescriptions than CVS or Walgreens."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","ap-walmart-opioids","oxfam"]},{"id":12,"rank":12,"name":"Jim Walton & family","slug":"jim-walton-and-family","wealth":143,"company":"Walmart","country":"United States","sector":"Fashion & Retail","origin":"inherited","history":"Son of Walmart founder Sam Walton.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","ap-walmart-opioids","oxfam"]},{"id":13,"rank":13,"name":"Michael Dell","slug":"michael-dell","wealth":141,"company":"Dell Technologies","country":"United States","sector":"Technology","origin":"built","history":"Founded Dell in 1984 in his university dorm room.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":3,"basis":"documented","reason":"Paid a personal $4 million penalty in 2010 to settle SEC charges that Dell hid large payments from Intel that let it meet earnings targets, without admitting or denying them."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","sec-dell"]},{"id":14,"rank":14,"name":"Alice Walton","slug":"alice-walton","wealth":134,"company":"Walmart","country":"United States","sector":"Fashion & Retail","origin":"inherited","history":"Daughter of Walmart founder Sam Walton.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits over prescriptions filled at its pharmacies, without admitting liability."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Large art philanthropy.","status_note":"","sources":["forbes","ap-walmart-opioids","oxfam"]},{"id":15,"rank":15,"name":"Steve Ballmer","slug":"steve-ballmer","wealth":126,"company":"Microsoft / Ballmer Group","country":"United States","sector":"Technology","origin":"executive","history":"Joined Microsoft in 1980 and was its chief executive from 2000 to 2014; owns the LA Clippers.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":1,"basis":"documented","reason":"In September 2026 the NBA suspended him for one year and fined the Clippers $30 million for salary-cap circumvention involving Kawhi Leonard. This is league discipline, not a court finding."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Ballmer Group funds economic mobility and social services.","status_note":"","sources":["forbes","npr-ballmer","ballmer"]},{"id":16,"rank":16,"name":"Carlos Slim Helú & family","slug":"carlos-slim-helu-and-family","wealth":125,"company":"América Móvil","country":"Mexico","sector":"Telecom","origin":"built","history":"Built a conglomerate in Mexico and bought the state telephone company Telmex in 1990.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Telecom networks: energy use of infrastructure."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Telecom markets with high concentration; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":17,"rank":17,"name":"Changpeng Zhao","slug":"changpeng-zhao","wealth":110,"company":"Binance","country":"Canada","sector":"Finance & Investments","origin":"built","history":"Founded the Binance crypto exchange in 2017.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":2,"basis":"documented","reason":"Pardoned by President Trump in October 2025 after Binance had backed the Trump family’s crypto venture World Liberty Financial. Critics called it corruption; the White House said he had been targeted by a war on crypto."},"social":{"value":2,"basis":"documented","reason":"US authorities said Binance failed to stop criminals from using it to move money."},"legal":{"value":4,"basis":"documented","reason":"Pleaded guilty in 2023 to failing to maintain an anti-money-laundering programme and served four months in prison. The 2025 pardon is recorded here; it does not erase the plea."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","binance","axios-zhao-pardon"]},{"id":18,"rank":18,"name":"Michael Bloomberg","slug":"michael-bloomberg","wealth":109,"company":"Bloomberg LP","country":"United States","sector":"Finance & Investments","origin":"built","history":"Founded Bloomberg LP in 1981; mayor of New York from 2002 to 2013.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":3,"basis":"documented","reason":"Gave $64.3 million in the 2024 cycle, among the top ten US donors and one of two on Democrats’ side. Former mayor and owner of a major news organisation."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Large climate and public-health philanthropy.","status_note":"","sources":["forbes","elb-2024","opensecrets-2024"]},{"id":19,"rank":19,"name":"Bill Gates","slug":"bill-gates","wealth":108,"company":"Microsoft / Gates Foundation","country":"United States","sector":"Technology","origin":"built","history":"Co-founded Microsoft in 1975; co-chaired the Gates Foundation.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":2,"basis":"estimate","reason":"Foundation spending gives him large influence over global health priorities."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":3,"basis":"documented","reason":"Released Epstein files document meetings and correspondence after Epstein’s conviction; Gates has called them a mistake and apologised to foundation staff. The files also contain unsent 2013 drafts in which Epstein made sexual allegations about Gates; his spokesperson calls them absurd and false, and no authority has substantiated them. The Gates Foundation commissioned an external review in 2026. A large share of identified pages remains unreleased."}},"checked":true,"counterweights":"The Gates Foundation is one of the largest funders of global health.","status_note":"","sources":["forbes","epstein","newsweek-gates-epstein","ap-gates-review"]},{"id":20,"rank":20,"name":"Françoise Bettencourt Meyers & family","slug":"francoise-bettencourt-meyers-and-family","wealth":100,"company":"L’Oréal","country":"France","sector":"Fashion & Retail","origin":"inherited","history":"Granddaughter of L’Oréal founder Eugène Schueller.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Healthcare and pharmaceuticals: moderate direct footprint."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":21,"rank":21,"name":"Mukesh Ambani","slug":"mukesh-ambani","wealth":99.7,"company":"Reliance Industries","country":"India","sector":"Diversified","origin":"family-business","history":"Took over Reliance Industries, founded by his father Dhirubhai Ambani.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Reliance’s core businesses include oil refining and petrochemicals."},"politics":{"value":2,"basis":"estimate","reason":"Owns major Indian media and telecom assets; not checked."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":22,"rank":22,"name":"Giancarlo Devasini","slug":"giancarlo-devasini","wealth":89.3,"company":"Tether","country":"Italy","sector":"Finance & Investments","origin":"built","history":"Early executive and shareholder of the Bitfinex exchange and the Tether stablecoin.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":1,"basis":"documented","reason":"The CFTC fined Tether and Bitfinex in 2021 over misleading claims about Tether’s reserves. A company case; no personal finding."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","cftc"]},{"id":23,"rank":23,"name":"Thomas Peterffy","slug":"thomas-peterffy","wealth":82.9,"company":"Interactive Brokers","country":"United States","sector":"Finance & Investments","origin":"built","history":"Founded Interactive Brokers.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":24,"rank":24,"name":"Julia Koch & family","slug":"julia-koch-and-family","wealth":81.2,"company":"Koch Inc.","country":"United States","sector":"Diversified","origin":"spouse","history":"Widow of David Koch, co-owner of Koch Industries.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":3,"basis":"estimate","reason":"The Koch network is among the most influential political funding networks in the US; amounts not checked here."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":1,"basis":"estimate","reason":"Koch Industries is privately held and discloses little."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","oxfam-power"]},{"id":25,"rank":25,"name":"Charles Koch & family","slug":"charles-koch-and-family","wealth":73.8,"company":"Koch Inc.","country":"United States","sector":"Diversified","origin":"family-business","history":"Took over Koch Industries from his father in 1967 and expanded it.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":3,"basis":"estimate","reason":"The Koch network is among the most influential political funding networks in the US; amounts not checked here."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":1,"basis":"estimate","reason":"Koch Industries is privately held and discloses little."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","oxfam-power"]},{"id":26,"rank":26,"name":"Zhang Yiming","slug":"zhang-yiming","wealth":69.3,"company":"ByteDance / TikTok","country":"China","sector":"Technology","origin":"built","history":"Founded ByteDance (TikTok) in 2012.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":2,"basis":"estimate","reason":"TikTok’s ownership is the subject of national-security disputes in several countries."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":27,"rank":27,"name":"Zhong Shanshan","slug":"zhong-shanshan","wealth":68.1,"company":"Nongfu Spring","country":"China","sector":"Food & Beverage","origin":"built","history":"Founded Nongfu Spring, China’s largest bottled-water company.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Bottled drinks: plastic packaging and water extraction."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":28,"rank":28,"name":"Jeff Yass","slug":"jeff-yass","wealth":67.4,"company":"Susquehanna","country":"United States","sector":"Finance & Investments","origin":"built","history":"Co-founded the trading firm Susquehanna; early investor in ByteDance.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":3,"basis":"documented","reason":"Gave $101.1 million with his wife in the 2024 cycle, one of six US donors above $100 million, and more than $100 million again before the 2026 midterms."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","elb-2024","opensecrets-2024","newsweek-midterms"]},{"id":29,"rank":29,"name":"Dieter Schwarz","slug":"dieter-schwarz","wealth":67.2,"company":"Lidl / Kaufland","country":"Germany","sector":"Fashion & Retail","origin":"family-business","history":"Built Lidl and Kaufland from the wholesale business his father co-founded.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Retail labour and supplier pressure; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Large science and education philanthropy.","status_note":"","sources":["forbes","oxfam"]},{"id":30,"rank":30,"name":"Germán Larrea & family","slug":"german-larrea-and-family","wealth":67.1,"company":"Grupo México","country":"Mexico","sector":"Metals & Mining","origin":"family-business","history":"Took over Grupo México, founded by his father.","scores":{"ecology":{"value":4,"basis":"documented","reason":"A Grupo México mine spilled toxic copper solution into the Sonora River in 2014, one of Mexico’s worst environmental disasters."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","grupo-mexico"]},{"id":31,"rank":31,"name":"Gautam Adani","slug":"gautam-adani","wealth":63.8,"company":"Adani Group","country":"India","sector":"Diversified","origin":"built","history":"Founded the Adani Group in 1988; it spans ports, power, coal and renewables.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"The group mines and burns coal alongside large renewable projects."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":3,"basis":"documented","reason":"Indicted in New York in 2024 over an alleged $265 million bribery scheme. In August 2026 a judge dismissed the criminal case at the Justice Department’s request without ruling the allegations false; he settled the SEC civil case with a $6 million penalty without admitting the allegations. Adani Enterprises separately paid $275 million to settle a US sanctions matter."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","adani","bs-adani-2026"]},{"id":32,"rank":32,"name":"Tadashi Yanai & family","slug":"tadashi-yanai-and-family","wealth":61.8,"company":"Fast Retailing / Uniqlo","country":"Japan","sector":"Fashion & Retail","origin":"family-business","history":"Turned his father’s tailoring shop into Fast Retailing (Uniqlo).","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Fast fashion at global scale: textile volume, water, chemicals and waste."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":33,"rank":33,"name":"Ma Huateng","slug":"ma-huateng","wealth":53.8,"company":"Tencent","country":"China","sector":"Technology","origin":"built","history":"Co-founded Tencent in 1998.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":34,"rank":34,"name":"Robin Zeng","slug":"robin-zeng","wealth":53.2,"company":"CATL","country":"Hong Kong","sector":"Energy","origin":"built","history":"Founded CATL, the world’s largest battery maker.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Battery manufacturing: mined inputs and energy, while enabling electrification."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":35,"rank":35,"name":"Iris Fontbona & family","slug":"iris-fontbona-and-family","wealth":52.6,"company":"Antofagasta","country":"Chile","sector":"Metals & Mining","origin":"spouse","history":"Widow of Andrónico Luksic; the family controls Antofagasta.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","bua-2026"]},{"id":36,"rank":36,"name":"Masayoshi Son","slug":"masayoshi-son","wealth":51.5,"company":"SoftBank","country":"Japan","sector":"Finance & Investments","origin":"built","history":"Founded SoftBank in 1981.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":37,"rank":37,"name":"Ken Griffin","slug":"ken-griffin","wealth":49.8,"company":"Citadel","country":"United States","sector":"Finance & Investments","origin":"built","history":"Founded the hedge fund Citadel in 1990.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":3,"basis":"documented","reason":"Gave $108.4 million in the 2024 cycle, the fifth-largest US donor."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Large university and museum gifts.","status_note":"","sources":["forbes","elb-2024","opensecrets-2024"]},{"id":38,"rank":38,"name":"Jacqueline Mars","slug":"jacqueline-mars","wealth":49.1,"company":"Mars Inc.","country":"United States","sector":"Food & Beverage","origin":"inherited","history":"Granddaughter of Mars Inc. founder Frank C. Mars.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial food and drink: farmland, water and packaging."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Agricultural supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":39,"rank":38,"name":"John Mars","slug":"john-mars","wealth":49.1,"company":"Mars Inc.","country":"United States","sector":"Food & Beverage","origin":"inherited","history":"Grandson of Mars Inc. founder Frank C. Mars.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial food and drink: farmland, water and packaging."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Agricultural supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":40,"rank":40,"name":"Lukas Walton","slug":"lukas-walton","wealth":48.9,"company":"Walmart / impact investing","country":"United States","sector":"Fashion & Retail","origin":"inherited","history":"Grandson of Walmart founder Sam Walton.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"Walmart agreed in 2022 to a $3.1 billion settlement of opioid lawsuits, without admitting liability."},"legal":{"value":2,"basis":"documented","reason":"Company settlement above $1 billion; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Large climate and impact investment.","status_note":"","sources":["forbes","ap-walmart-opioids","oxfam"]},{"id":41,"rank":41,"name":"Giovanni Ferrero","slug":"giovanni-ferrero","wealth":48.8,"company":"Ferrero","country":"Italy","sector":"Food & Beverage","origin":"inherited","history":"Grandson of Ferrero founder Pietro Ferrero.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial food and drink: farmland, water and packaging."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"documented","reason":"Reporting has linked hazelnut supply chains used by Ferrero to child labour in Turkey."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","ferrero"]},{"id":42,"rank":42,"name":"Li Ka-shing","slug":"li-ka-shing","wealth":47,"company":"CK Hutchison","country":"Hong Kong","sector":"Diversified","origin":"built","history":"Built CK Hutchison from a plastics factory into a ports, telecom and infrastructure group.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Conglomerate with heavy-industry or fossil-linked assets."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":43,"rank":43,"name":"Mark Mateschitz","slug":"mark-mateschitz","wealth":45.8,"company":"Red Bull","country":"Austria","sector":"Food & Beverage","origin":"inherited","history":"Inherited his father’s stake in Red Bull in 2022.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial food and drink: farmland, water and packaging."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":44,"rank":44,"name":"Gianluigi Aponte","slug":"gianluigi-aponte","wealth":44.5,"company":"MSC Shipping","country":"Switzerland","sector":"Logistics","origin":"built","history":"Co-founded the shipping line MSC in 1970 with his wife Rafaela.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Global shipping and logistics: heavy-fuel transport at scale."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":45,"rank":44,"name":"Rafaela Aponte-Diamant","slug":"rafaela-aponte-diamant","wealth":44.5,"company":"MSC Shipping","country":"Switzerland","sector":"Logistics","origin":"built","history":"Co-founded the shipping line MSC in 1970 with her husband Gianluigi.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Global shipping and logistics: heavy-fuel transport at scale."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":46,"rank":46,"name":"Andrea Pignataro","slug":"andrea-pignataro","wealth":42.6,"company":"ION Group","country":"Italy","sector":"Finance & Investments","origin":"built","history":"Founded ION Group, a financial software and data company.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":47,"rank":47,"name":"Klaus-Michael Kühne","slug":"klaus-michael-kuhne","wealth":41.9,"company":"Kuehne + Nagel","country":"Germany","sector":"Logistics","origin":"family-business","history":"Third-generation owner of Kuehne + Nagel. In 1933 the firm forced out its Jewish partner Adolf Maass; during the war it moved property seized from Jewish homes in occupied Western Europe. Kühne died in August 2026.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Global shipping and logistics: heavy-fuel transport at scale."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":2,"basis":"documented","reason":"Kühne opposed an in-depth study of the firm’s Nazi-era past during his lifetime. After his death in August 2026 the company said it would examine it."}},"checked":true,"counterweights":"","status_note":"Died in August 2026, after the Forbes snapshot.","sources":["forbes","swissinfo-kuehne","tt-kuehne-death"]},{"id":48,"rank":48,"name":"Thomas Frist Jr. & family","slug":"thomas-frist-jr-and-family","wealth":41.1,"company":"HCA Healthcare","country":"United States","sector":"Healthcare","origin":"built","history":"Co-founded the hospital company HCA in 1968 with his father.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Healthcare and pharmaceuticals: moderate direct footprint."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"documented","reason":"HCA settled major federal fraud cases over hospital billing."},"legal":{"value":2,"basis":"documented","reason":"Company-level fraud settlements; no personal charge."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","hca"]},{"id":49,"rank":49,"name":"Alain Wertheimer","slug":"alain-wertheimer","wealth":39.4,"company":"Chanel","country":"France","sector":"Fashion & Retail","origin":"inherited","history":"Grandson of Pierre Wertheimer, early backer of Chanel.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Luxury goods: leather, textiles, metals and global retail."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":50,"rank":49,"name":"Gérard Wertheimer","slug":"gerard-wertheimer","wealth":39.4,"company":"Chanel","country":"France","sector":"Fashion & Retail","origin":"inherited","history":"Grandson of Pierre Wertheimer, early backer of Chanel.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Luxury goods: leather, textiles, metals and global retail."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":51,"rank":51,"name":"Savitri Jindal & family","slug":"savitri-jindal-and-family","wealth":39.1,"company":"Jindal Group","country":"India","sector":"Metals & Mining","origin":"spouse","history":"Widow of O. P. Jindal, founder of the Jindal steel and power group.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":52,"rank":52,"name":"Stephen Schwarzman","slug":"stephen-schwarzman","wealth":38.3,"company":"Blackstone","country":"United States","sector":"Finance & Investments","origin":"built","history":"Co-founded the private-equity firm Blackstone in 1985.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Real estate and construction: materials and building energy."},"politics":{"value":2,"basis":"documented","reason":"With his wife, gave about $40 million to political causes in the 2024 cycle."},"social":{"value":2,"basis":"estimate","reason":"Blackstone is one of the largest owners of rental housing; its role in housing costs is contested."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","qz-donors","oxfam"]},{"id":53,"rank":53,"name":"Paolo Ardoino","slug":"paolo-ardoino","wealth":38,"company":"Tether","country":"Italy","sector":"Finance & Investments","origin":"executive","history":"Chief executive and shareholder of Tether.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":1,"basis":"documented","reason":"The CFTC fined Tether and Bitfinex in 2021 over misleading claims about Tether’s reserves. A company case; no personal finding."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","cftc"]},{"id":54,"rank":53,"name":"Jean-Louis van der Velde","slug":"jean-louis-van-der-velde","wealth":38,"company":"Tether / Bitfinex","country":"Netherlands","sector":"Finance & Investments","origin":"executive","history":"Chief executive of Bitfinex and shareholder of Tether.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":1,"basis":"documented","reason":"The CFTC fined Tether and Bitfinex in 2021 over misleading claims about Tether’s reserves. A company case; no personal finding."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","cftc"]},{"id":55,"rank":55,"name":"William Ding","slug":"william-ding","wealth":37.9,"company":"NetEase","country":"China","sector":"Technology","origin":"built","history":"Founded the games and internet company NetEase in 1997.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":56,"rank":56,"name":"Miriam Adelson & family","slug":"miriam-adelson-and-family","wealth":37.5,"company":"Las Vegas Sands","country":"United States","sector":"Gambling & Casinos","origin":"spouse","history":"Widow of Sheldon Adelson, founder of Las Vegas Sands.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Casinos and resorts: energy-intensive buildings."},"politics":{"value":3,"basis":"documented","reason":"Gave $148.3 million in the 2024 cycle, the third-largest US donor."},"social":{"value":2,"basis":"estimate","reason":"Gambling: documented public-health costs at sector level."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","elb-2024","opensecrets-2024"]},{"id":57,"rank":57,"name":"Alexey Mordashov & family","slug":"alexey-mordashov-and-family","wealth":37,"company":"Severstal","country":"Russia","sector":"Metals & Mining","origin":"privatisation","history":"Took control of the Severstal steel group during 1990s privatisation.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":3,"basis":"documented","reason":"Named in the US Treasury’s 2018 list of oligarchs close to the Kremlin. The list did not by itself impose sanctions; later sanctions are still to be checked here."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","reuters-2018-list"]},{"id":58,"rank":58,"name":"Colin Huang","slug":"colin-huang","wealth":36.6,"company":"PDD Holdings / Temu","country":"China","sector":"Technology","origin":"built","history":"Founded PDD Holdings (Pinduoduo, Temu) in 2015.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Fast fashion at global scale: textile volume, water, chemicals and waste."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"documented","reason":"A US House committee reported in 2023 that Temu lacked a system to keep forced labour out of its supply chain."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","temu"]},{"id":59,"rank":59,"name":"Eduardo Saverin","slug":"eduardo-saverin","wealth":35.9,"company":"Meta / investments","country":"Brazil","sector":"Technology","origin":"built","history":"Co-founded Facebook; now an investor based in Singapore.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":60,"rank":60,"name":"Eric Schmidt","slug":"eric-schmidt","wealth":35.5,"company":"Google / investments","country":"United States","sector":"Technology","origin":"executive","history":"Chief executive of Google from 2001 to 2011, then executive chairman.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":2,"basis":"estimate","reason":"Advises governments on AI and defence technology; not checked in detail."},"social":{"value":3,"basis":"documented","reason":"US courts found that Google illegally maintained monopolies in search and online advertising."},"legal":{"value":1,"basis":"documented","reason":"Company findings; no personal case."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","google","ap-meta-ftc"]},{"id":61,"rank":61,"name":"Idan Ofer","slug":"idan-ofer","wealth":34.6,"company":"Shipping / energy","country":"Israel","sector":"Diversified","origin":"inherited","history":"Son of shipping magnate Sammy Ofer.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Conglomerate with heavy-industry or fossil-linked assets."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":62,"rank":62,"name":"Eyal Ofer","slug":"eyal-ofer","wealth":33.6,"company":"Shipping / real estate","country":"Israel","sector":"Diversified","origin":"inherited","history":"Son of shipping magnate Sammy Ofer.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Global shipping and logistics: heavy-fuel transport at scale."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":63,"rank":63,"name":"He Xiangjian & family","slug":"he-xiangjian-and-family","wealth":33.2,"company":"Midea Group","country":"China","sector":"Manufacturing","origin":"built","history":"Founded the appliance maker Midea in 1968.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial manufacturing: material and energy use."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":64,"rank":63,"name":"Abigail Johnson","slug":"abigail-johnson","wealth":33.2,"company":"Fidelity","country":"United States","sector":"Finance & Investments","origin":"inherited","history":"Granddaughter of Fidelity founder Edward Johnson II.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":65,"rank":63,"name":"Zheng Shuliang & family","slug":"zheng-shuliang-and-family","wealth":33.2,"company":"China Hongqiao Aluminum","country":"China","sector":"Metals & Mining","origin":"built","history":"Founded China Hongqiao, the world’s largest aluminium producer.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":66,"rank":66,"name":"Marilyn Simons & family","slug":"marilyn-simons-and-family","wealth":32.5,"company":"Renaissance / Simons Foundation","country":"United States","sector":"Finance & Investments","origin":"spouse","history":"Widow of Jim Simons, founder of the hedge fund Renaissance Technologies.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":2,"basis":"documented","reason":"Renaissance executives, including Jim Simons, agreed in 2021 to pay up to $7 billion to the IRS to settle a dispute over trades that a Senate report said avoided about $6.8 billion in taxes. Jim Simons paid an extra $670 million."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"The Simons Foundation is a major funder of basic science.","status_note":"","sources":["forbes","cnbc-renaissance"]},{"id":67,"rank":67,"name":"Robert Pera","slug":"robert-pera","wealth":31.7,"company":"Ubiquiti","country":"United States","sector":"Technology","origin":"built","history":"Founded the networking company Ubiquiti in 2005.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":68,"rank":68,"name":"Phil Knight & family","slug":"phil-knight-and-family","wealth":31.1,"company":"Nike","country":"United States","sector":"Fashion & Retail","origin":"built","history":"Co-founded Nike in 1964.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Luxury goods: leather, textiles, metals and global retail."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":69,"rank":68,"name":"Michal Strnad","slug":"michal-strnad","wealth":31.1,"company":"Czechoslovak Group","country":"Czech Republic","sector":"Manufacturing","origin":"family-business","history":"Expanded the arms group CSG founded by his father.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Arms and heavy manufacturing."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":3,"basis":"estimate","reason":"Arms and ammunition production."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":70,"rank":70,"name":"Lakshmi Mittal","slug":"lakshmi-mittal","wealth":31,"company":"ArcelorMittal","country":"India","sector":"Metals & Mining","origin":"built","history":"Built ArcelorMittal, the world’s second-largest steelmaker.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":4,"basis":"documented","reason":"A methane blast and fire at ArcelorMittal’s Kostenko coal mine in Kazakhstan killed at least 45 people in October 2023, after a 2006 accident at another of its mines killed 41. Kazakhstan’s president called it the worst enterprise in the country’s history, and the state took over the local unit."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","afp-arcelormittal"]},{"id":71,"rank":71,"name":"Elaine Marshall & family","slug":"elaine-marshall-and-family","wealth":30.9,"company":"Koch Inc.","country":"United States","sector":"Diversified","origin":"spouse","history":"Widow of E. Pierce Marshall, whose family holds a large stake in Koch Industries.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":72,"rank":71,"name":"Shiv Nadar","slug":"shiv-nadar","wealth":30.9,"company":"HCL / Shiv Nadar Foundation","country":"India","sector":"Technology","origin":"built","history":"Founded the IT company HCL in 1976.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Large education philanthropy through the Shiv Nadar Foundation.","status_note":"","sources":["forbes"]},{"id":73,"rank":73,"name":"Henry Samueli","slug":"henry-samueli","wealth":30.8,"company":"Broadcom","country":"United States","sector":"Technology","origin":"built","history":"Co-founded the chipmaker Broadcom in 1991.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":74,"rank":74,"name":"Melinda French Gates","slug":"melinda-french-gates","wealth":30.3,"company":"Microsoft-related / Pivotal","country":"United States","sector":"Technology","origin":"divorce","history":"Received Microsoft-derived wealth in her 2021 divorce from Bill Gates.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Gives through Pivotal Ventures and the Gates Foundation.","status_note":"","sources":["forbes"]},{"id":75,"rank":75,"name":"Stefan Quandt","slug":"stefan-quandt","wealth":30.1,"company":"BMW","country":"Germany","sector":"Automotive","origin":"inherited","history":"Heir to the Quandt industrial fortune; the family controls BMW. A 2011 study commissioned by the family found that Günther Quandt’s factories used more than 50,000 forced and slave labourers under the Nazis.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Car manufacturing: lifetime vehicle emissions and materials."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","jta-quandt"]},{"id":76,"rank":75,"name":"Reinhold Würth & family","slug":"reinhold-wurth-and-family","wealth":30.1,"company":"Würth Group","country":"Germany","sector":"Manufacturing","origin":"family-business","history":"Took over his father’s two-person screw business at 19 and built the Würth Group.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial manufacturing: material and energy use."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":4,"basis":"documented","reason":"Accepted a criminal penalty for tax evasion in 2008, a fine reported at up to €3.5 million. The conviction was removed from his record in 2012."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"Runs a foundation and one of Europe’s largest private art collections.","status_note":"","sources":["forbes","wiki-wurth"]},{"id":77,"rank":77,"name":"Lyndal Stephens Greth & family","slug":"lyndal-stephens-greth-and-family","wealth":30,"company":"Endeavor Energy / oil","country":"United States","sector":"Energy","origin":"spouse","history":"Widow of Autry Stephens, founder of the oil producer Endeavor Energy.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":78,"rank":78,"name":"Len Blavatnik","slug":"len-blavatnik","wealth":29.9,"company":"Access Industries","country":"United States","sector":"Diversified","origin":"privatisation","history":"Made his first fortune in Russian oil and aluminium during the 1990s; owns Access Industries.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Conglomerate with heavy-industry or fossil-linked assets."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":79,"rank":79,"name":"Susanne Klatten","slug":"susanne-klatten","wealth":29.7,"company":"BMW / Altana","country":"Germany","sector":"Automotive","origin":"inherited","history":"Heir to the Quandt industrial fortune; the family controls BMW. A 2011 study commissioned by the family found that Günther Quandt’s factories used more than 50,000 forced and slave labourers under the Nazis.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Car manufacturing: lifetime vehicle emissions and materials."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","jta-quandt"]},{"id":80,"rank":79,"name":"Vladimir Potanin","slug":"vladimir-potanin","wealth":29.7,"company":"Norilsk Nickel","country":"Russia","sector":"Metals & Mining","origin":"privatisation","history":"Gained control of Norilsk Nickel through the 1990s loans-for-shares privatisation; a former deputy prime minister of Russia.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Mining and metals: energy-intensive extraction with land and water impacts."},"politics":{"value":3,"basis":"documented","reason":"Former deputy prime minister. Personally sanctioned by the UK and the US in 2022 after the invasion of Ukraine."},"social":{"value":2,"basis":"estimate","reason":"Mining carries sector-wide safety and community risks; not checked for this company."},"legal":{"value":3,"basis":"documented","reason":"Personal sanctions designations by the UK and US (2022)."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","ap-potanin"]},{"id":81,"rank":81,"name":"Vagit Alekperov","slug":"vagit-alekperov","wealth":29.5,"company":"Lukoil","country":"Russia","sector":"Energy","origin":"privatisation","history":"Former Soviet deputy oil minister who set up Lukoil in the early 1990s.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":3,"basis":"documented","reason":"Personally under UK sanctions since 2022. Lukoil itself was sanctioned by the UK, the US and the EU in October 2025."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":3,"basis":"documented","reason":"Personal sanctions designation (UK, 2022)."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","mt-lukoil","bne-lukoil"]},{"id":82,"rank":81,"name":"François Pinault & family","slug":"francois-pinault-and-family","wealth":29.5,"company":"Kering","country":"France","sector":"Fashion & Retail","origin":"built","history":"Founded the group now called Kering as a timber business in 1963.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Luxury goods: leather, textiles, metals and global retail."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Garment supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":2,"basis":"documented","reason":"Kering paid €1.25 billion in 2019 to settle Italian claims that Gucci profits were booked in Switzerland to avoid Italian tax, then the largest such settlement in Italy."},"unresolved":{"value":2,"basis":"documented","reason":"French financial prosecutors opened a related tax inquiry; no outcome found."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","reuters-kering","wwd-kering"]},{"id":83,"rank":83,"name":"Jack Ma","slug":"jack-ma","wealth":29.1,"company":"Alibaba","country":"China","sector":"Technology","origin":"built","history":"Co-founded Alibaba in 1999.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":84,"rank":84,"name":"Prajogo Pangestu","slug":"prajogo-pangestu","wealth":28.6,"company":"Barito Pacific","country":"Indonesia","sector":"Diversified","origin":"built","history":"Built Barito Pacific from timber into petrochemicals and energy.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Cement, refining or petrochemicals: among the most carbon-intensive industries."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":85,"rank":84,"name":"MacKenzie Scott","slug":"mackenzie-scott","wealth":28.6,"company":"Amazon stake / Yield Giving","country":"United States","sector":"Technology","origin":"divorce","history":"Received a 4% stake in Amazon in her 2019 divorce from Jeff Bezos.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":0,"basis":"estimate","reason":"No notable political spending found."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Has given more than $26 billion to over 2,700 organisations as unrestricted gifts.","status_note":"","sources":["forbes","yield","panorama-scott"]},{"id":86,"rank":86,"name":"Aliko Dangote","slug":"aliko-dangote","wealth":28.5,"company":"Dangote Cement / refinery","country":"Nigeria","sector":"Manufacturing","origin":"built","history":"Built the Dangote Group in cement, sugar and, since 2023, oil refining.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Cement, refining or petrochemicals: among the most carbon-intensive industries."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":87,"rank":87,"name":"Peter Thiel","slug":"peter-thiel","wealth":28.4,"company":"Palantir / Founders Fund","country":"United States","sector":"Finance & Investments","origin":"built","history":"Co-founded PayPal and Palantir; early Facebook investor.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":3,"basis":"estimate","reason":"Major Republican donor and political patron; amounts not checked here."},"social":{"value":3,"basis":"estimate","reason":"Military and surveillance technology."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes","oxfam-power"]},{"id":88,"rank":88,"name":"Emmanuel Besnier","slug":"emmanuel-besnier","wealth":28.3,"company":"Lactalis","country":"France","sector":"Food & Beverage","origin":"inherited","history":"Grandson of the founder of Lactalis, the world’s largest dairy group.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Industrial food and drink: farmland, water and packaging."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"estimate","reason":"Agricultural supply chains carry documented sector-wide labour risks; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":89,"rank":88,"name":"Leonid Mikhelson & family","slug":"leonid-mikhelson-and-family","wealth":28.3,"company":"Novatek gas","country":"Russia","sector":"Energy","origin":"privatisation","history":"Built the gas producer Novatek in post-Soviet Russia.","scores":{"ecology":{"value":4,"basis":"estimate","reason":"Oil and gas extraction or processing is the core business."},"politics":{"value":3,"basis":"documented","reason":"Named in the US Treasury’s 2018 list of oligarchs close to the Kremlin. The list did not by itself impose sanctions; later sanctions are still to be checked here."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","reuters-2018-list"]},{"id":90,"rank":90,"name":"Daniel Gilbert","slug":"daniel-gilbert","wealth":27.9,"company":"Rocket Mortgage","country":"United States","sector":"Finance & Investments","origin":"built","history":"Founded Quicken Loans, now Rocket, in 1985.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Large investment and philanthropy in Detroit.","status_note":"","sources":["forbes"]},{"id":91,"rank":90,"name":"Lei Jun","slug":"lei-jun","wealth":27.9,"company":"Xiaomi / EVs","country":"China","sector":"Technology","origin":"built","history":"Co-founded Xiaomi in 2010.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":92,"rank":90,"name":"Andreas von Bechtolsheim & family","slug":"andreas-von-bechtolsheim-and-family","wealth":27.9,"company":"Arista Networks","country":"Germany","sector":"Technology","origin":"built","history":"Co-founded Sun Microsystems and Arista Networks; early Google investor.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":3,"basis":"documented","reason":"Paid a personal civil penalty to settle SEC insider-trading charges, without admitting wrongdoing."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","sec"]},{"id":93,"rank":93,"name":"Pham Nhat Vuong","slug":"pham-nhat-vuong","wealth":27.7,"company":"Vingroup / VinFast","country":"Vietnam","sector":"Diversified","origin":"built","history":"Founded Vingroup, Vietnam’s largest conglomerate.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Real estate and construction: materials and building energy."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":94,"rank":94,"name":"Vicky Safra & family","slug":"vicky-safra-and-family","wealth":27.1,"company":"Safra banking","country":"Greece","sector":"Finance & Investments","origin":"spouse","history":"Widow of banker Joseph Safra.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":95,"rank":95,"name":"Jay Y. Lee","slug":"jay-y-lee","wealth":27,"company":"Samsung","country":"South Korea","sector":"Technology","origin":"inherited","history":"Grandson of Samsung founder Lee Byung-chul; chairman since 2022.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Technology and platforms: data-centre electricity and electronics supply chains."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Tech-sector concerns such as market power, data and working conditions; not checked for this company."},"legal":{"value":4,"basis":"documented","reason":"Convicted of bribery in a case linked to former president Park Geun-hye. He served about 18 months in prison, was paroled in 2021 and pardoned in 2022. Separately, the Supreme Court upheld his acquittal of fraud charges over a 2015 Samsung merger in July 2025."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","ap-lee","afp-lee-pardon"]},{"id":96,"rank":95,"name":"Cyrus Poonawalla","slug":"cyrus-poonawalla","wealth":27,"company":"Serum Institute / vaccines","country":"India","sector":"Healthcare","origin":"built","history":"Founded the Serum Institute of India in 1966, now the world’s largest vaccine maker by volume.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Healthcare and pharmaceuticals: moderate direct footprint."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"Vaccine production contributes directly to public health.","status_note":"","sources":["forbes","serum"]},{"id":97,"rank":97,"name":"Rick Cohen & family","slug":"rick-cohen-and-family","wealth":26.3,"company":"C&S Wholesale / automation","country":"United States","sector":"Technology","origin":"family-business","history":"Runs his family’s grocery wholesaler C&S and founded the warehouse robotics firm Symbotic.","scores":{"ecology":{"value":2,"basis":"estimate","reason":"Mass retail and logistics: freight, packaging and supplier emissions."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Retail labour and supplier pressure; not checked for this company."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":98,"rank":98,"name":"Israel Englander","slug":"israel-englander","wealth":25.8,"company":"Millennium Management","country":"United States","sector":"Finance & Investments","origin":"built","history":"Founded the hedge fund Millennium Management in 1989.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Finance: the footprint depends on what the money funds; holdings not assessed."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":1,"basis":"estimate","reason":"Social effects depend on how capital is allocated; not checked."},"legal":{"value":0,"basis":"estimate","reason":"No record checked yet."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":false,"counterweights":"","status_note":"","sources":["forbes"]},{"id":99,"rank":99,"name":"Suleiman Kerimov & family","slug":"suleiman-kerimov-and-family","wealth":25.7,"company":"Investments / Russian politics","country":"Russia","sector":"Finance & Investments","origin":"privatisation","history":"Built a fortune in Russian investments; a member of Russia’s political elite.","scores":{"ecology":{"value":3,"basis":"estimate","reason":"Conglomerate with heavy-industry or fossil-linked assets."},"politics":{"value":3,"basis":"documented","reason":"US sanctions target him as part of Russia’s elite."},"social":{"value":1,"basis":"estimate","reason":"No specific concern checked yet."},"legal":{"value":3,"basis":"documented","reason":"Personal US sanctions; the Treasury identified a network of assets used to hide his ownership."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","kerimov"]},{"id":100,"rank":100,"name":"Dilip Shanghvi","slug":"dilip-shanghvi","wealth":25.6,"company":"Sun Pharma","country":"India","sector":"Healthcare","origin":"built","history":"Founded Sun Pharmaceutical in 1983.","scores":{"ecology":{"value":1,"basis":"estimate","reason":"Healthcare and pharmaceuticals: moderate direct footprint."},"politics":{"value":1,"basis":"estimate","reason":"Not checked individually. Default for a large company."},"social":{"value":2,"basis":"documented","reason":"The FDA issued a warning letter to Sun Pharma about manufacturing quality in 2024."},"legal":{"value":1,"basis":"documented","reason":"Corporate regulatory action; no personal finding."},"unresolved":{"value":0,"basis":"estimate","reason":"Not checked yet."}},"checked":true,"counterweights":"","status_note":"","sources":["forbes","sun-pharma"]}],"dimensions":{"ecology":{"label":"Ecology","short":"Eco","scale":["Small physical footprint and no documented incident.","Indirect footprint: data centres, electronics, consumer goods, pharmaceuticals or finance.","Material footprint: mass retail, food, logistics platforms, cars, real estate or manufacturing.","Heavy footprint: mining, metals, cement, chemicals, shipping or fast fashion at global scale.","Fossil fuels as the core business, or a documented major environmental disaster."]},"politics":{"label":"Politics","short":"Pol","scale":["No notable political activity found.","Ordinary corporate lobbying or occasional donations.","Major donor, owner of influential media, or documented political favours.","Among the largest donors of their country, or documented proximity to an authoritarian state.","Direct exercise of public power combined with top-scale election spending or platform control."]},"social":{"label":"Social","short":"Soc","scale":["No concern found.","Ordinary sector-level concerns about labour, consumers or competition.","Documented company-level problems: labour findings, consumer settlements, market power.","Serious documented harm: court-established monopoly, forced or child labour findings, large health-harm settlements, arms or surveillance.","Deaths or mass harm documented in operations they control."]},"legal":{"label":"Legal record","short":"Leg","scale":["No legal or regulatory record found.","Regulatory action, modest settlement or private disciplinary sanction.","Major company outcome: court finding, corporate plea, court administration or settlement above $1 billion.","Personal civil liability or penalty, personal sanctions, or a personal indictment even if later dropped.","Personal criminal conviction or guilty plea. A pardon or expungement is recorded, not erased."]},"unresolved":{"label":"Open questions","short":"Open","scale":["Nothing open found.","Opacity: private structures, little disclosure, or concerns raised only by reporting.","Pending case or investigation at company level.","Pending personal matter, or released documents raise unanswered questions about the person. Denials are recorded.","Several serious unresolved personal matters."]}},"bands":[{"key":"low","label":"Lower concern","max":4},{"key":"mixed","label":"Mixed","max":8},{"key":"high","label":"High concern","max":20}],"origins":{"built":"Built or co-founded the business","family-business":"Built on a family business","executive":"Executive or early shareholder","inherited":"Inherited","spouse":"Inherited from a spouse","divorce":"Divorce settlement","privatisation":"Post-Soviet privatisation"}};</script>
+<script>
+// Follow the Money. Vanilla JavaScript, no dependencies.
+// Data comes from window.FTM_DATA (standalone build) or data/research.json (normal site).
+(async function () {
+  'use strict';
+
+  const $ = (sel, ctx = document) => ctx.querySelector(sel);
+  const $$ = (sel, ctx = document) => [...ctx.querySelectorAll(sel)];
+
+  let data = window.FTM_DATA;
+  if (!data) {
+    try {
+      const response = await fetch('data/research.json');
+      if (!response.ok) throw new Error(response.status);
+      data = await response.json();
+    } catch (error) {
+      $('#results').textContent = 'The data file could not be loaded. If you opened index.html directly from your disk, start a local server instead (see README).';
+      return;
+    }
+  }
+
+  const { meta, people, sources, dimensions, bands, origins } = data;
+  const DIMS = Object.keys(dimensions);
+
+  /* Helpers */
+  const esc = (value) => String(value).replace(/[&<>"']/g, (ch) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
+  const billions = (n) => '$' + (n >= 100 ? Math.round(n) : n.toFixed(1)) + 'B';
+  const trillions = (n) => '$' + (n / 1000).toFixed(2) + 'tn';
+  const money = (n) => (n >= 1000 ? trillions(n) : billions(n));
+  const pad = (n) => String(n).padStart(2, '0');
+  const normalise = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const baseUrl = () => location.href.split('#')[0];
+  const totalOf = (p) => DIMS.reduce((sum, d) => sum + p.scores[d].value, 0);
+  const bandOf = (p) => (p.checked ? bands.find((b) => totalOf(p) <= b.max).key : 'unchecked');
+  const BAND_LABEL = Object.fromEntries([...bands.map((b) => [b.key, b.label]), ['unchecked', 'Not yet checked']]);
+
+  for (const p of people) {
+    p.total = totalOf(p);
+    p.band = bandOf(p);
+    p.haystack = normalise([p.name, p.company, p.country, p.sector].join(' '));
+  }
+  const wealthTotal = people.reduce((sum, p) => sum + p.wealth, 0);
+
+  /* Figures in the prose. The HTML holds fallback values; these keep them in sync with the data. */
+  function fillStats() {
+    let tailSum = 0;
+    let tail = 0;
+    for (let i = people.length - 1; i > 0 && tailSum + people[i].wealth < people[0].wealth; i--) {
+      tailSum += people[i].wealth;
+      tail++;
+    }
+    const n = (fn) => people.filter(fn).length;
+    const sum = (fn) => people.filter(fn).reduce((s, p) => s + p.wealth, 0);
+    const inheritedFn = (p) => p.origin === 'inherited' || p.origin === 'spouse';
+    const [low, mixed] = bands;
+    const stats = {
+      total: trillions(wealthTotal),
+      share: ((wealthTotal / meta.forbes_total_billions) * 100).toFixed(1) + '%',
+      'forbes-total': trillions(meta.forbes_total_billions).replace(/0tn$/, 'tn'),
+      checked: n((p) => p.checked),
+      tail,
+      'band-rule': `0 to ${low.max} is lower concern, ${low.max + 1} to ${mixed.max} mixed, ${mixed.max + 1} or more high concern`,
+      'origin-sentence': `Of these hundred fortunes, ${n((p) => p.origin === 'built')} were founded or co-founded by their holder, ${n((p) => p.origin === 'family-business')} were built on a family business, and ${n(inheritedFn)} were inherited from a parent or a spouse, together ${Math.round((sum(inheritedFn) / wealthTotal) * 100)}% of the combined wealth. ${n((p) => p.origin === 'privatisation')} came out of post-Soviet privatisation.`,
+    };
+    for (const el of $$('[data-stat]')) {
+      if (el.dataset.stat in stats) el.textContent = stats[el.dataset.stat];
+    }
+  }
+
+  /* Hero chart: purely visual; the register below is the accessible path to every profile. */
+  function renderChart() {
+    const max = people[0].wealth;
+    $('#chart').innerHTML = people.map((p, i) =>
+      `<span class="bar" style="--h:${(p.wealth / max * 100).toFixed(2)}%;--i:${i}" data-band="${p.band}" data-slug="${p.slug}" title="${esc(`#${p.rank} ${p.name}, ${billions(p.wealth)}, ${BAND_LABEL[p.band]}`)}"></span>`
+    ).join('');
+    $('#chart').addEventListener('click', (event) => {
+      const bar = event.target.closest('.bar');
+      if (bar) location.hash = bar.dataset.slug;
+    });
+  }
+
+  /* Spread: how the hundred distribute on each dimension, documented solid, estimates hatched. */
+  function renderSpread() {
+    $('#spread').innerHTML = DIMS.map((d) => {
+      const segs = [];
+      for (let v = 0; v <= 4; v++) {
+        const doc = people.filter((p) => p.scores[d].value === v && p.scores[d].basis === 'documented').length;
+        const est = people.filter((p) => p.scores[d].value === v && p.scores[d].basis === 'estimate').length;
+        if (doc) segs.push(`<span class="seg" data-v="${v}" style="flex:${doc}" title="${doc} documented at ${v}">${doc > 3 ? doc : ''}</span>`);
+        if (est) segs.push(`<span class="seg est" data-v="${v}" style="flex:${est}" title="${est} estimated at ${v}">${est > 3 ? est : ''}</span>`);
+      }
+      const docCount = people.filter((p) => p.scores[d].basis === 'documented').length;
+      const label = `${dimensions[d].label}: ${[0, 1, 2, 3, 4].map((v) => `${people.filter((p) => p.scores[d].value === v).length} at ${v}`).join(', ')}`;
+      return `<div class="spread-row"><span class="name">${esc(dimensions[d].label)}</span><div class="spread-bar" role="img" aria-label="${esc(label)}">${segs.join('')}</div><span class="doc">${docCount} documented</span></div>`;
+    }).join('');
+  }
+
+  /* Register */
+  function sourceItem(key) {
+    const s = sources[key];
+    return s ? `<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)}</a></li>` : '';
+  }
+
+  function stripHTML(p) {
+    const label = DIMS.map((d) => `${dimensions[d].label} ${p.scores[d].value} of 4${p.scores[d].basis === 'estimate' ? ', estimated' : ''}`).join('; ');
+    return `<span class="strip" role="img" aria-label="${esc(label)}">${DIMS.map((d) =>
+      `<span class="cell" data-v="${p.scores[d].value}" data-basis="${p.scores[d].basis}" title="${esc(`${dimensions[d].label}: ${p.scores[d].value}/4 (${p.scores[d].basis})`)}"></span>`).join('')}</span>`;
+  }
+
+  function dimHTML(p, d) {
+    const sc = p.scores[d];
+    const meter = [1, 2, 3, 4].map((i) => `<span class="${i <= sc.value ? 'on' : ''}"></span>`).join('');
+    return `<div class="dim">
+      <div class="dim-head"><span class="dim-name">${esc(dimensions[d].label)}</span><span class="meter" data-basis="${sc.basis}" aria-hidden="true">${meter}</span><span class="dim-value">${sc.value}/4<span class="basis">${sc.basis === 'documented' ? 'Documented' : 'Estimate'}</span></span></div>
+      <p class="dim-reason">${esc(sc.reason)}</p>
+    </div>`;
+  }
+
+  function entryHTML(p) {
+    const overall = p.checked
+      ? `Total ${p.total} of 20: <span class="mark" data-band="${p.band}">${esc(BAND_LABEL[p.band])}</span>`
+      : `Total ${p.total} of 20, from estimates only. <span class="mark" data-band="unchecked">Not yet checked</span>`;
+    return `<details class="entry" id="${p.slug}">
+  <summary>
+    <span class="rank">${pad(p.rank)}</span>
+    <span class="who"><strong>${esc(p.name)}</strong><span>${esc(p.company)}, ${esc(p.country)}</span></span>
+    <span class="worth">${billions(p.wealth)}</span>
+    ${stripHTML(p)}
+  </summary>
+  <div class="entry-body">
+    <p class="history">${esc(p.history)}</p>
+    ${p.status_note ? `<p class="status-note">${esc(p.status_note)}</p>` : ''}
+    <div class="dims">${DIMS.map((d) => dimHTML(p, d)).join('')}</div>
+    <p class="overall">${overall} <span class="small">Origin: ${esc(origins[p.origin])}.</span></p>
+    ${p.counterweights ? `<p class="counterweight"><strong>On the other side:</strong> ${esc(p.counterweights)}</p>` : ''}
+    <ul class="entry-sources">${p.sources.map(sourceItem).join('')}</ul>
+    <p class="caveat">${p.checked
+      ? 'Documented scores rest on the linked sources, which may record a company action, a regulatory step, an allegation or a positive initiative. Estimated scores come from the sector alone.'
+      : 'Every score here is a sector estimate. This profile has not been checked against person-specific sources and must not be read as evidence of anything.'}</p>
+    <button type="button" class="text-button" data-copy="${p.slug}">Copy link to this profile</button>
+  </div>
+</details>`;
+  }
+
+  const register = $('#register');
+  const nodes = new Map();
+
+  function renderRegister() {
+    register.innerHTML = people.map(entryHTML).join('');
+    for (const el of $$('.entry', register)) nodes.set(el.id, el);
+    $('#strip-head').innerHTML = DIMS.map((d) => `<span title="${esc(dimensions[d].label)}">${esc(dimensions[d].short)}</span>`).join('');
+  }
+
+  /* Filters and sorting */
+  const DEFAULTS = { q: '', band: 'all', sort: 'rank' };
+  let state = { ...DEFAULTS };
+  const sorters = {
+    rank: { label: 'Rank', fn: (a, b) => a.rank - b.rank || a.id - b.id },
+    total: { label: 'Total score', fn: (a, b) => b.total - a.total || a.rank - b.rank },
+    ...Object.fromEntries(DIMS.map((d) => [d, { label: dimensions[d].label, fn: (a, b) => b.scores[d].value - a.scores[d].value || (a.scores[d].basis === 'documented' ? -1 : 1) - (b.scores[d].basis === 'documented' ? -1 : 1) || a.rank - b.rank }])),
+    name: { label: 'Name', fn: (a, b) => a.name.localeCompare(b.name) },
+  };
+
+  function buildControls() {
+    $('#sort').innerHTML = Object.entries(sorters).map(([k, s]) => `<option value="${k}">${esc(s.label)}</option>`).join('');
+    const keys = ['all', 'high', 'mixed', 'low', 'unchecked'];
+    const count = (k) => (k === 'all' ? people.length : people.filter((p) => p.band === k).length);
+    $('#band-filter').innerHTML = keys.map((k) =>
+      `<button type="button" data-filter="${k}" ${k === 'all' ? '' : `data-band="${k}"`} aria-pressed="false">${k === 'all' ? 'All' : esc(BAND_LABEL[k])} <span class="count">${count(k)}</span></button>`).join('');
+  }
+
+  function apply() {
+    const q = normalise(state.q.trim());
+    let shown = 0;
+    let sum = 0;
+    for (const p of people) {
+      const match = (state.band === 'all' || p.band === state.band) && (!q || p.haystack.includes(q));
+      nodes.get(p.slug).hidden = !match;
+      if (match) { shown++; sum += p.wealth; }
+    }
+    [...people].sort(sorters[state.sort].fn).forEach((p) => register.appendChild(nodes.get(p.slug)));
+    $('#results').textContent = `${shown} ${shown === 1 ? 'profile' : 'profiles'}, ${money(sum)} combined.`;
+    $('#clear').hidden = JSON.stringify(state) === JSON.stringify(DEFAULTS);
+    $('#empty').hidden = shown > 0;
+    for (const b of $$('#band-filter button')) b.setAttribute('aria-pressed', String(b.dataset.filter === state.band));
+    $('#search').value = state.q;
+    $('#sort').value = state.sort;
+    writeURL();
+  }
+
+  function clearFilters() { state = { ...DEFAULTS }; apply(); }
+
+  /* Filters live in the query string so a view can be shared. Profiles live in the hash. */
+  function readURL() {
+    const params = new URLSearchParams(location.search);
+    const pick = (key, allowed) => (allowed.includes(params.get(key)) ? params.get(key) : DEFAULTS[key]);
+    state = {
+      q: (params.get('q') || '').slice(0, 100),
+      band: pick('band', ['all', 'high', 'mixed', 'low', 'unchecked']),
+      sort: pick('sort', Object.keys(sorters)),
+    };
+  }
+
+  function writeURL() {
+    const params = new URLSearchParams();
+    for (const [key, value] of Object.entries(state)) {
+      if (value && value !== DEFAULTS[key]) params.set(key, key === 'q' ? value.trim() : value);
+    }
+    const query = params.toString();
+    try { history.replaceState(null, '', location.pathname + (query ? '?' + query : '') + location.hash); } catch (e) { /* file:// may refuse */ }
+  }
+
+  function openFromHash() {
+    const el = nodes.get(decodeURIComponent(location.hash.slice(1)));
+    if (!el) return;
+    if (el.hidden) clearFilters();
+    el.open = true;
+    el.scrollIntoView({ block: 'start' });
+    $('summary', el).focus({ preventScroll: true });
+  }
+
+  /* Method: render each scale from the data, so the rubric and the site never drift apart. */
+  function renderScales() {
+    $('#scales').innerHTML = DIMS.map((d) => `<details><summary>${esc(dimensions[d].label)}</summary><ol>${dimensions[d].scale.map((t, i) => `<li><b>${i}</b><span>${esc(t)}</span></li>`).join('')}</ol></details>`).join('');
+  }
+
+  /* Copy and download */
+  async function copy(text, button) {
+    const original = button.textContent;
+    try { await navigator.clipboard.writeText(text); button.textContent = 'Link copied'; }
+    catch (error) { button.textContent = 'Copy failed. Use the address bar.'; }
+    setTimeout(() => { button.textContent = original; }, 2000);
+  }
+
+  function download(kind) {
+    let body;
+    let type;
+    if (kind === 'json') {
+      body = JSON.stringify(data, (key, value) => (['haystack', 'total', 'band'].includes(key) ? undefined : value), 1);
+      type = 'application/json';
+    } else {
+      const cell = (v) => '"' + String(v).replace(/"/g, '""') + '"';
+      const header = ['rank', 'name', 'wealth_usd_billions', 'company', 'country', 'sector', 'origin', 'checked',
+        ...DIMS.flatMap((d) => [d, `${d}_basis`, `${d}_reason`]), 'total', 'history', 'source_urls'];
+      const rows = people.map((p) => [p.rank, p.name, p.wealth, p.company, p.country, p.sector, p.origin, p.checked,
+        ...DIMS.flatMap((d) => [p.scores[d].value, p.scores[d].basis, p.scores[d].reason]), p.total, p.history,
+        p.sources.map((k) => sources[k] && sources[k].url).join(' ')]);
+      body = [header, ...rows].map((r) => r.map(cell).join(',')).join('\r\n');
+      type = 'text/csv';
+    }
+    const url = URL.createObjectURL(new Blob([body], { type: type + ';charset=utf-8' }));
+    const a = Object.assign(document.createElement('a'), { href: url, download: `follow-the-money-${meta.edition}.${kind}` });
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 5000);
+  }
+
+  /* Levy thought experiment */
+  function setupLevy() {
+    const rate = $('#rate');
+    const maxRevenue = wealthTotal * Number(rate.max) / 100;
+    const need = meta.adaptation_need_billions[0];
+    $('.gauge-mark').style.setProperty('--mark', (need / maxRevenue * 100).toFixed(1) + '%');
+    const update = () => {
+      const r = Number(rate.value);
+      const revenue = wealthTotal * r / 100;
+      $('#rate-out').textContent = r + '%';
+      $('#levy-result').textContent = `At ${r}% a year, the levy would raise about ${billions(revenue)}, which is ${Math.round(revenue / need * 100)}% of the lower estimate of yearly adaptation needs.`;
+      $('#gauge').style.width = (revenue / maxRevenue * 100).toFixed(1) + '%';
+    };
+    rate.addEventListener('input', update);
+    update();
+  }
+
+  /* Sources, grouped by role */
+  function renderSources() {
+    const used = new Set(people.flatMap((p) => p.sources));
+    const groups = [['data', 'Wealth data'], ['research', 'Research and context'], ['case', 'Case documents and reporting']];
+    $('#source-list').innerHTML = groups.map(([kind, title]) => {
+      const items = Object.entries(sources)
+        .filter(([key, s]) => s.kind === kind && (kind === 'research' || used.has(key)))
+        .sort((a, b) => a[1].label.localeCompare(b[1].label))
+        .map(([key]) => sourceItem(key)).join('');
+      return items ? `<h3>${title}</h3><ul>${items}</ul>` : '';
+    }).join('');
+    if (meta.repo) $('#repo-link').innerHTML = `<a href="${esc(meta.repo)}/issues">Report an error</a>. `;
+  }
+
+  /* Wiring */
+  fillStats();
+  renderChart();
+  renderSpread();
+  renderRegister();
+  buildControls();
+  renderScales();
+  renderSources();
+  setupLevy();
+  readURL();
+  apply();
+  openFromHash();
+
+  $('#search').addEventListener('input', (e) => { state.q = e.target.value; apply(); });
+  $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; apply(); });
+  $('#band-filter').addEventListener('click', (e) => {
+    const b = e.target.closest('button');
+    if (b) { state.band = b.dataset.filter; apply(); }
+  });
+  $('#clear').addEventListener('click', clearFilters);
+  $('#empty-clear').addEventListener('click', clearFilters);
+  window.addEventListener('hashchange', openFromHash);
+  register.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-copy]');
+    if (b) copy(baseUrl() + '#' + b.dataset.copy, b);
+  });
+  register.addEventListener('toggle', (e) => {
+    const el = e.target;
+    if (el.open && location.hash !== '#' + el.id) { try { history.replaceState(null, '', '#' + el.id); } catch (err) { /* ignore */ } }
+  }, true);
+  for (const b of $$('[data-download]')) b.addEventListener('click', () => download(b.dataset.download));
+})();
+</script>
+</body>
+</html>
