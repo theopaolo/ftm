@@ -5407,19 +5407,29 @@
           ]
         },
         "social": {
-          "value": 2,
-          "basis": "estimate",
-          "reason": "Mining carries sector-wide safety and community risks; not checked for this company."
+          "value": 4,
+          "basis": "documented",
+          "reason": "A 2006 explosion at Grupo México's Pasta de Conchos coal mine killed 65 miners; the company halted the rescue in 2007, no company representative or official had been held legally responsible as of 2024, and by 2026 a federal recovery had located 26 bodies. The 2014 Sonora spill affected about 22,000 people. A strike at Cananea that began in 2007 ended under a 2025 agreement with the government.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Personal civil liability: Delaware courts held in 2011 and 2012 that Grupo México's Americas Mining and its affiliated directors, including Germán Larrea, breached their duty of loyalty to Southern Peru, with a $2.03 billion judgment the court said Grupo México could satisfy by returning shares. At company level: a 2015 Profepa fine, a 2020 Supreme Court ruling voiding the Río Sonora trust's closure, Asarco's $1.79 billion settlement in 2009 and a 2025 agreement with the government.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Semarnat's 2023 criminal complaint against three Grupo México subsidiaries over the unremediated Sonora spill is an allegation. In 2026 the president said the federal government's case against Grupo México, before the courts, should close through an alternative resolution, and 1,000 million pesos of the agreed 1,500 million was still unpaid in April 2026. Whether the complaint is closed was not confirmed. No pending personal matter was found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,

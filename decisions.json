@@ -612,6 +612,23 @@
         "accept": true,
         "why": "R6: named defendant in the pending Tether/Bitfinex class action in New York (classes certified February 2026)."
       }
+    },
+    "german-larrea-and-family": {
+      "social": {
+        "value": 4,
+        "accept": true,
+        "why": "R1, read literally: level 4 is 'deaths or mass harm documented in operations they control'. 65 miners died at Grupo México's Pasta de Conchos mine (2006), and the 2014 Sonora spill affected about 22,000 people. The reason states that no one has been held legally responsible."
+      },
+      "legal": {
+        "value": 3,
+        "accept": true,
+        "why": "Personal civil liability: Delaware courts (2011, affirmed 2012) held the affiliated directors, Larrea among them, liable for breach of the duty of loyalty in the $2.03bn Southern Peru case."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Company-level criminal complaint by Semarnat (2023), status unconfirmed, and the unpaid balance under the 2025 Sonora agreement."
+      }
     }
   },
   "counterweights": {
