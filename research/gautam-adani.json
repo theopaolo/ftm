@@ -1,0 +1,316 @@
+{
+  "id": 31,
+  "slug": "gautam-adani",
+  "name": "Gautam Adani",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "Adani criminal case dismissed August 2026 judge Justice Department SEC settlement $6 million",
+    "SEC final judgment Gautam Adani civil penalty $6 million Sagar Adani $12 million litigation release",
+    "OFAC settlement Adani Enterprises $275 million Iran LPG apparent violations enforcement release",
+    "SEBI order Adani Hindenburg related party allegations dismissed September 2025 remaining investigations status 2026",
+    "SEBI Adani minimum public shareholding insider trading probe order 2026",
+    "Adani co-defendants Cabanes Azure FCPA count remaining after August 31 2026 Garaufis",
+    "Gautam Adani indicted New York $265 million bribes Indian officials solar contracts November 2024 AP",
+    "Bangladesh Adani Power Godda contract review committee findings 2026 renegotiation arbitration",
+    "Adani Hasdeo Arand forest coal mine tribal consent gram sabha forged NCST report 2025",
+    "Adani worker deaths accident site labour safety investigation 2025 2026",
+    "Adani Enterprises annual report 2024-25 fatalities employees contractors number safety BRSR",
+    "Adani Group CSR spend FY2024-25 crore Adani Foundation annual report amount spent",
+    "\"Adani\" group CSR \"crore\" FY25 spent group-wide Adani Foundation 2025 total social spend",
+    "Adani Green Energy operational renewable capacity GW 2026 Khavda; Adani Power thermal capacity GW coal",
+    "Adani Group still under investigation October 2026 SEBI pending probe insider trading Hindenburg remaining",
+    "Kenya Adani JKIA KETRACO cancelled deal court case 2026 status",
+    "Garaufis September 2026 Adani indictment remaining defendants Ranjit Gupta Rupesh Agarwal charges dismissed",
+    "Adani group companies electoral bonds purchases Election Commission data 2024"
+  ],
+  "sources": [
+    {
+      "id": "theweek-indictment-2024",
+      "label": "The Week: Details of the US indictment against Gautam Adani (2024)",
+      "url": "https://www.theweek.in/news/biz-tech/2024/11/21/bribery-lying-to-investors-details-of-the-us-indictment-against-numero-uno-gautam-adani-associates.html",
+      "publisher": "The Week",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2024-11-21",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theprint-dismissal-2026",
+      "label": "ThePrint (PTI): US court permanently dismisses criminal case against Gautam Adani (2026)",
+      "url": "https://theprint.in/economy/us-court-permanently-dismisses-criminal-case-against-gautam-adani/3011686/",
+      "publisher": "ThePrint (PTI)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-08-11",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-lr26554-2026",
+      "label": "SEC: Litigation release on proposed consent judgments, Gautam and Sagar Adani (2026)",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26554",
+      "publisher": "US Securities and Exchange Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-05-14",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "edny-judgment-2026",
+      "label": "US District Court EDNY: Final judgment as to Gautam Adani, SEC v. Adani (2026)",
+      "url": "https://www.sec.gov/files/judg24-cv-08080adanigautam.pdf",
+      "publisher": "US District Court for the Eastern District of New York (published by the SEC)",
+      "publisher_type": "court",
+      "names_subject": true,
+      "published": "2026-08-10",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "ofac-adani-2026",
+      "label": "OFAC: Settlement with Adani Enterprises over Iran sanctions violations (2026)",
+      "url": "https://ofac.treasury.gov/recent-actions/20260518",
+      "publisher": "US Treasury, Office of Foreign Assets Control",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2026-05-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "deccanchronicle-sebi-2026",
+      "label": "Deccan Chronicle (PTI): Adani, 4 group firms settle SEBI shareholding case (2026)",
+      "url": "https://www.deccanchronicle.com/amp/business/gautam-adani-4-group-companies-settle-shareholding-norm-violation-case-with-sebi-for-rs-148-cr-1991372",
+      "publisher": "Deccan Chronicle (PTI)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "outlookmoney-sebi-2025",
+      "label": "Outlook Money: SEBI dismisses Hindenburg's allegations against Adani group (2025)",
+      "url": "https://www.outlookmoney.com/news/sebi-dismisses-hindenburgs-allegations-against-adani-group-companies",
+      "publisher": "Outlook Money",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-09-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "rsf-india-2026",
+      "label": "RSF: India country profile, World Press Freedom Index (2026)",
+      "url": "https://rsf.org/en/country/india",
+      "publisher": "Reporters Without Borders (RSF)",
+      "publisher_type": "ngo",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "theprint-bangladesh-2026",
+      "label": "ThePrint (Reuters): Bangladesh panel flags anomalies in Adani power deal (2026)",
+      "url": "https://theprint.in/world/bangladesh-panel-flags-serious-anomalies-in-adani-jharkhand-coal-power-deal/2836798",
+      "publisher": "ThePrint (Reuters)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-01-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "apsez-safety-2025",
+      "label": "Adani Ports and SEZ: Annual Report 2024-25, emergency preparedness and safety (2025)",
+      "url": "https://connect.adani.com/annual_report/2025/apsez/emergency-preparedness-and-response.html",
+      "publisher": "Adani Ports and Special Economic Zone Ltd",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2025",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "apsez-csr-2026",
+      "label": "Adani Ports and SEZ: Annual Report 2025-26, corporate social responsibility (2026)",
+      "url": "https://www.adaniports.com/digital-reports/ports/2026/corporate-social-responsibility.html",
+      "publisher": "Adani Ports and Special Economic Zone Ltd",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "indiacsr-apsez-2026",
+      "label": "India CSR: Adani Ports spent Rs 199 crore on CSR in FY2025-26 (2026)",
+      "url": "https://indiacsr.in/adani-ports-spent-rs-199-crore-corporate-social-responsibility-csr-fy2025-26/",
+      "publisher": "India CSR",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Gautam Adani",
+      "claim": "Indicted in Brooklyn in November 2024, with Sagar Adani and Vneet Jaain, on securities and wire fraud charges tied to an alleged scheme to offer about $265 million in bribes to Indian officials for solar contracts. On 10 August 2026 a judge dismissed those counts with prejudice at the Justice Department's request, stating no view on the allegations and calling the process irregular.",
+      "evidence_type": "indictment",
+      "date": "2026-08-10",
+      "source_ids": [
+        "theweek-indictment-2024",
+        "theprint-dismissal-2026"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Gautam Adani",
+      "claim": "Gautam Adani settled the SEC's civil fraud case over allegedly misleading anti-bribery statements in Adani Green's 2021 bond offering. On 10 August 2026 the court entered a consent judgment imposing a $6 million civil penalty and permanent anti-fraud injunctions, without his admitting the allegations; Sagar Adani agreed to pay $12 million.",
+      "evidence_type": "settlement",
+      "date": "2026-08-10",
+      "source_ids": [
+        "sec-lr26554-2026",
+        "edny-judgment-2026"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Adani Enterprises",
+      "claim": "Adani Enterprises agreed in May 2026 to pay $275 million to settle its potential civil liability for 32 apparent violations of US Iran sanctions: purchases from November 2023 to June 2025 of LPG sold by a Dubai trader as Omani and Iraqi that OFAC says came from Iran. OFAC called the violations egregious and not voluntarily disclosed.",
+      "evidence_type": "settlement",
+      "date": "2026-05-18",
+      "source_ids": [
+        "ofac-adani-2026"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "individual",
+      "entity": "Gautam Adani, four Adani group companies and 13 others",
+      "claim": "In September 2026 Gautam Adani, Adani Enterprises, Adani Power, Adani Ports and Adani Transmission, with 13 others, settled SEBI proceedings over alleged breaches of minimum public shareholding rules, paying ₹1.48 crore in total without admitting or denying the allegations.",
+      "evidence_type": "settlement",
+      "date": "2026-09-28",
+      "source_ids": [
+        "deccanchronicle-sebi-2026"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Adani group companies",
+      "claim": "In September 2025 SEBI dropped proceedings over Hindenburg Research's allegations that the Adani group hid related-party dealings, finding no violation under the rules then in force and no fraud. In September 2026 five group companies settled separate proceedings over alleged related-party disclosure lapses for ₹1.51 crore.",
+      "evidence_type": "settlement",
+      "date": "2026-09",
+      "source_ids": [
+        "outlookmoney-sebi-2025",
+        "deccanchronicle-sebi-2026"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Gautam Adani",
+      "claim": "Reporters Without Borders, in its India profile for the 2026 index, describes Gautam Adani as close to Prime Minister Narendra Modi and says his group took control of the broadcaster NDTV through a hostile takeover at the end of 2022. This is the NGO's characterisation, not an official finding.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026",
+      "source_ids": [
+        "rsf-india-2026"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "public-money",
+      "level": "company",
+      "entity": "Adani Power (Godda plant)",
+      "claim": "A Bangladesh government review committee reported in January 2026 that Adani Power's Godda plant sells electricity to Bangladesh at a 39.7% premium over its nearest private competitor, found serious anomalies in how the contract was awarded, and urged renegotiation. The report, reviewed by Reuters, is unpublished; Adani said it was not consulted.",
+      "evidence_type": "official_report",
+      "date": "2026-01",
+      "source_ids": [
+        "theprint-bangladesh-2026"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "labour",
+      "level": "company",
+      "entity": "Adani Ports and Special Economic Zone",
+      "claim": "Adani Ports and SEZ reports that six contractor workers died in its operations in 2024-25. It describes fatal incidents including a container toppling onto a truck cabin, an electrocution from an overhead line and a collapsed piling tripod.",
+      "evidence_type": "company_disclosure",
+      "date": "2025",
+      "source_ids": [
+        "apsez-safety-2025"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "company",
+      "entity": "Adani Ports and Special Economic Zone",
+      "claim": "Adani Ports and SEZ reports corporate social responsibility spending of about ₹199 crore in 2025-26, about 70% more than the year before, mostly on education, delivered through the Adani Foundation.",
+      "evidence_type": "documented_giving",
+      "date": "2026",
+      "source_ids": [
+        "apsez-csr-2026",
+        "indiacsr-apsez-2026"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "legal": {
+        "value": 3,
+        "basis": "documented",
+        "reason": "Indicted in New York in 2024 on fraud charges tied to an alleged $265 million bribery scheme; in August 2026 a judge dismissed them with prejudice at the Justice Department’s request without ruling on the allegations. He settled the SEC civil case with a $6 million penalty and a 2026 SEBI shareholding case, both without admitting the allegations. Adani Enterprises paid $275 million to settle a US Iran sanctions matter. SEBI dropped Hindenburg’s related-party allegations in 2025.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f4",
+          "f3",
+          "f5"
+        ]
+      },
+      "politics": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Reporters Without Borders describes Gautam Adani as close to Prime Minister Narendra Modi and says his group took control of the broadcaster NDTV through a hostile takeover in 2022. This is the NGO’s characterisation, not an official finding. No political donation by Adani or his companies is documented here.",
+        "finding_ids": [
+          "f6"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level labour harm is documented: Adani Ports reports that six contractor workers died in its operations in 2024-25. No regulator finding on these deaths, and no mass-harm event, was found in the sources checked.",
+        "finding_ids": [
+          "f8"
+        ]
+      },
+      "unresolved": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "No personal case is pending after the 2026 dismissal and settlements. A Bangladesh government committee reported in January 2026 that Adani Power’s Godda supply deal was overpriced and awarded through anomalous procedures, and urged renegotiation; the report is unpublished and no case was found.",
+        "finding_ids": [
+          "f7",
+          "f1",
+          "f2"
+        ]
+      }
+    },
+    "counterweights": "Adani Ports reports spending about ₹199 crore on corporate social responsibility in 2025-26, mostly on education, through the Adani Foundation (a company figure).",
+    "rationale": "Legal stays 3 (R2: dropped personal indictment, personal SEC penalty). Status changes: dismissal with prejudice (Aug 2026), SEC judgment entered, new SEBI settlement. The DOJ and Business Standard sources returned 403 or empty and are not re-cited; their facts are re-sourced. Politics 1 to 2: owner of influential media (NDTV), as for Ambani. Social 1 to 2: company fatalities, as for Mars (OSHA). Unresolved 0 to 1: Bangladesh review is not a pending case; SEBI's residual probes could not be confirmed open or closed. Ecology not reviewed."
+  }
+}
