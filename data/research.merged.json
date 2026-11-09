@@ -6591,6 +6591,95 @@
         "giancarlo-devasini-fortune-doj",
         "giancarlo-devasini-coindesk-adecoagro",
         "giancarlo-devasini-reuters-uruguay"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-02-23",
+          "nature": "Class action alleging USDT inflated bitcoin prices (with Tether, Bitfinex)",
+          "outcome": "Pending; racketeering claims dismissed 2021, narrowed classes certified 2026; no liability decided",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Giancarlo Devasini, Tether and Bitfinex",
+          "summary": "Devasini is a named defendant, with Tether and Bitfinex entities, in a New York class action filed in 2019 alleging that unbacked USDT was used to inflate bitcoin prices. In 2021 the judge dismissed the racketeering claims but kept market-manipulation and antitrust claims; in February 2026 she certified narrowed classes. No liability has been decided.",
+          "sources": [
+            "giancarlo-devasini-sdny-classcert",
+            "giancarlo-devasini-theblock-mtd"
+          ]
+        },
+        {
+          "date": "2025-10-14",
+          "nature": "Celsius bankruptcy estate suit over liquidated bitcoins (Tether)",
+          "outcome": "Settled 2025: $299.5m; about $4.3bn sought, no admission of wrongdoing reported",
+          "status": "settled",
+          "level": "company",
+          "entity": "Tether",
+          "summary": "In October 2025 Tether agreed to pay $299.5 million to settle the Celsius bankruptcy estate’s suit, which alleged that Tether improperly liquidated about 39,500 bitcoins pledged by Celsius in 2022 and sought about $4.3 billion. Tether had called the suit baseless; no admission of wrongdoing was reported.",
+          "sources": [
+            "giancarlo-devasini-theblock-celsius"
+          ]
+        },
+        {
+          "date": "2025-09",
+          "nature": "European Public Prosecutor's Office VAT fraud probe (Northern Data, Peak Mining)",
+          "outcome": "Searches and four arrests 2025; no charges reported, fraud denied; Devasini not reported a suspect",
+          "status": "pending",
+          "level": "company",
+          "entity": "Northern Data (Tether-controlled)",
+          "summary": "In September 2025 German and Swedish police, coordinated by the European Public Prosecutor’s Office, searched Tether-controlled Northern Data and made four arrests over suspected VAT fraud above €100 million at Peak Mining, then its unit, probing whether chips were used for crypto mining, not AI. Tether and the companies deny fraud. Devasini is not reported as a suspect; no charges were reported.",
+          "sources": [
+            "giancarlo-devasini-ifq-northern"
+          ]
+        },
+        {
+          "date": "2024-10-25",
+          "nature": "Federal probe into money-laundering and sanctions breaches (Tether), reported",
+          "outcome": "Reported 2024 as a Manhattan prosecutors' probe; Tether denied it; no charges or closure found",
+          "status": "reported",
+          "level": "company",
+          "entity": "Tether",
+          "summary": "In October 2024 the Wall Street Journal reported that Manhattan federal prosecutors were investigating whether Tether breached anti-money-laundering and sanctions laws, alongside an older probe into possible bank fraud by its backers. Tether denied being under investigation; prosecutors declined to comment. No charges or closure were found as of November 2026.",
+          "sources": [
+            "giancarlo-devasini-fortune-doj"
+          ]
+        },
+        {
+          "date": "2021-10-15",
+          "nature": "CFTC orders over USDT backing claims and retail trading (Tether, Bitfinex)",
+          "outcome": "Settled 2021: $41m fine on Tether, $1.5m on Bitfinex; no individual named",
+          "status": "settled",
+          "level": "company",
+          "entity": "Tether and Bitfinex",
+          "summary": "In October 2021 the CFTC fined Tether $41 million for untrue or misleading claims that USDT was fully backed by fiat reserves (2016 to 2019), and fined Bitfinex $1.5 million for illegal off-exchange retail trading and for breaching a 2016 CFTC order. Both orders were settled; no individual was named. No appeal or later change was found.",
+          "sources": [
+            "cftc"
+          ]
+        },
+        {
+          "date": "2021-02-23",
+          "nature": "New York attorney general case over USDT reserves (Tether, Bitfinex)",
+          "outcome": "Settled 2021: $18.5m, quarterly reserve reports, stop serving New Yorkers; no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Tether and Bitfinex (iFinex)",
+          "summary": "In February 2021 Tether and Bitfinex agreed to pay $18.5 million to settle New York’s case, stop serving New Yorkers and file quarterly reserve reports, without admitting wrongdoing. The attorney general said Tether at times held no reserves backing USDT one-to-one despite saying so, and that Bitfinex hid an apparent $850 million loss.",
+          "sources": [
+            "giancarlo-devasini-nyag",
+            "giancarlo-devasini-cnbc-nyag"
+          ]
+        },
+        {
+          "date": "1995",
+          "nature": "Milan prosecutors' software piracy case over Microsoft software, reported",
+          "outcome": "Plea bargain reported in the 1995 case: 100 million lire fine; no court record found",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Giancarlo Devasini",
+          "summary": "Two Italian-language papers report a 1995 Microsoft software case. Il Fatto Quotidiano says Devasini, accused of software piracy, agreed a patteggiamento (plea bargain) for a 100 million lire fine with Milan prosecutors; Corriere del Ticino says he was held among organisers of a large counterfeiting operation and plea-bargained a fine to avoid trial. Over 30 years old; no court record found.",
+          "sources": [
+            "giancarlo-devasini-ifq-northern",
+            "giancarlo-devasini-cdt-devasini"
+          ]
+        }
       ]
     },
     {
@@ -7419,6 +7508,85 @@
         "german-larrea-and-family-bloomberglinea-larrea-2023",
         "german-larrea-and-family-mnd-ferrosur-2023",
         "german-larrea-and-family-gmexico-results-1q-2024"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-04-20",
+          "nature": "Agreement with the federal government on Río Sonora remediation (Grupo México)",
+          "outcome": "Agreed 2025: 1,500m pesos, 500m paid by 2026; president said federal case should close",
+          "status": "settled",
+          "level": "company",
+          "entity": "Grupo México",
+          "summary": "Under a December 2025 agreement with the federal government, Grupo México committed 1,500 million pesos to Río Sonora remediation and to ending the Cananea strike begun in 2007. The president said 500 million had been paid by February 2026 and 1,000 million was still due in April 2026, and that the federal case should close through an alternative resolution.",
+          "sources": [
+            "german-larrea-and-family-elimparcial-plan-cananea-2025",
+            "german-larrea-and-family-elimparcial-deposit-2026",
+            "german-larrea-and-family-elimparcial-pending-2026"
+          ]
+        },
+        {
+          "date": "2023-08-17",
+          "nature": "Semarnat criminal complaint over unremediated 2014 spill (Grupo México units)",
+          "outcome": "Pending; filed 2023, an allegation; Grupo México says remediation was successful",
+          "status": "pending",
+          "level": "company",
+          "entity": "Mexicana de Cananea, Buenavista del Cobre and Operadora de Minas e Instalaciones Mineras (Grupo México)",
+          "summary": "Semarnat filed a criminal complaint on 17 August 2023 against three Grupo México subsidiaries, alleging they had failed to remediate the 2014 spill; its own 2023 assessment found the clean-up insufficient. Grupo México disputed the findings and said the remediation was successful. This is an allegation, not a finding of guilt.",
+          "sources": [
+            "german-larrea-and-family-mnd-semarnat-2023",
+            "german-larrea-and-family-elimparcial-semarnat-2023"
+          ]
+        },
+        {
+          "date": "2023-06-01",
+          "nature": "Navy occupation of rail sections under a government decree (Ferrosur)",
+          "outcome": "Deal 2023: 120 km section given up for a concession extension to 2044, no cash compensation",
+          "status": "settled",
+          "level": "company",
+          "entity": "Ferrosur (Grupo México)",
+          "summary": "On 19 May 2023 the navy occupied Ferrosur rail sections under a government decree. Under a deal announced on 1 June 2023, Ferrosur gave up a 120 km section in Veracruz for an eight-year extension of another concession to 2044, with no cash compensation, and Grupo México dropped legal action over a cancelled Maya Train contract.",
+          "sources": [
+            "german-larrea-and-family-mnd-ferrosur-2023"
+          ]
+        },
+        {
+          "date": "2015-03-02",
+          "nature": "Profepa fine over the 2014 Sonora river spill (Buenavista del Cobre)",
+          "outcome": "Fined 2015: 22.96m pesos, alongside a 2,000m peso trust",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Buenavista del Cobre (Grupo México)",
+          "summary": "On 6 August 2014 about 40,000 cubic metres of acidic copper sulphate solution from Grupo México's Buenavista del Cobre mine spilled into the Bacanuchi and Sonora rivers, affecting about 22,000 people. Profepa fined the mine 22.96 million pesos in March 2015, which it called the highest fine under Mexican environmental law, alongside a 2,000 million peso trust.",
+          "sources": [
+            "german-larrea-and-family-elfinanciero-profepa-2015",
+            "german-larrea-and-family-mnd-semarnat-2023"
+          ]
+        },
+        {
+          "date": "2012-08-27",
+          "nature": "Southern Peru overpayment for Minera México (with Americas Mining)",
+          "outcome": "Duty of loyalty breach found 2011 against Larrea and others: $2.03bn judgment, affirmed 2012",
+          "status": "finding",
+          "level": "individual",
+          "entity": "Germán Larrea, Americas Mining Corporation (Grupo México)",
+          "summary": "In 2011 Delaware's Court of Chancery held that Americas Mining, a Grupo México subsidiary, and the Grupo México-affiliated directors of Southern Peru, Germán Larrea among them, breached their duty of loyalty by making Southern Peru overpay for Minera México in 2005, and entered a $2.03 billion judgment against them, affirmed in 2012. It said Grupo México could satisfy it by returning shares.",
+          "sources": [
+            "german-larrea-and-family-delaware-theriault-2012"
+          ]
+        },
+        {
+          "date": "2009-12-10",
+          "nature": "Environmental claims in its bankruptcy (Asarco)",
+          "outcome": "Settled 2009: $1.79bn, covering more than 80 polluted sites in 19 US states",
+          "status": "settled",
+          "level": "company",
+          "entity": "Asarco (Grupo México)",
+          "summary": "Asarco, bought by Grupo México in 1999, paid $1.79 billion in December 2009 to settle environmental claims in its bankruptcy, covering more than 80 polluted sites in 19 US states; Grupo México funded the reorganisation plan and regained control. Officials called it the largest environmental clean-up recovery in US history.",
+          "sources": [
+            "german-larrea-and-family-epa-asarco-2009",
+            "german-larrea-and-family-ap-asarco-2009"
+          ]
+        }
       ]
     },
     {
@@ -7492,6 +7660,83 @@
         "gautam-adani-apsez-safety-2025",
         "gautam-adani-apsez-csr-2026",
         "gautam-adani-indiacsr-apsez-2026"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-09-28",
+          "nature": "SEBI proceedings over minimum public shareholding rules (with group companies)",
+          "outcome": "Settled 2026: ₹1.48 crore in total, without admitting or denying; no split by party",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Gautam Adani, four Adani group companies and 13 others",
+          "summary": "In September 2026 Gautam Adani, Adani Enterprises, Adani Power, Adani Ports and Adani Transmission, with 13 others, settled SEBI proceedings over alleged breaches of minimum public shareholding rules without admitting or denying them. The applicants paid ₹1.48 crore in total; the report gives no split by party.",
+          "sources": [
+            "gautam-adani-deccanchronicle-sebi-2026"
+          ]
+        },
+        {
+          "date": "2026-09",
+          "nature": "SEBI proceedings over related-party dealings (Adani group companies)",
+          "outcome": "Dropped 2025, no violation or fraud found; separate disclosure lapses settled 2026 for ₹1.51 crore",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Adani group companies",
+          "summary": "In September 2025 SEBI dropped proceedings over Hindenburg Research's allegations that the Adani group hid related-party dealings, finding no violation under the rules then in force and no fraud. In September 2026 five group companies settled separate proceedings over alleged related-party disclosure lapses for ₹1.51 crore.",
+          "sources": [
+            "gautam-adani-outlookmoney-sebi-2025",
+            "gautam-adani-deccanchronicle-sebi-2026"
+          ]
+        },
+        {
+          "date": "2026-08-10",
+          "nature": "US securities and wire fraud charges over an alleged bribery scheme",
+          "outcome": "Dismissed with prejudice 2026 at the Justice Department's request; judge called it no verdict",
+          "status": "dismissed",
+          "level": "individual",
+          "entity": "Gautam Adani",
+          "summary": "Indicted in Brooklyn in November 2024, with Sagar Adani and Vneet Jaain, on securities and wire fraud charges tied to an alleged scheme to offer about $265 million in bribes to Indian officials for solar contracts. On 10 August 2026 a judge dismissed those counts with prejudice at the Justice Department’s request, calling it no verdict on the allegations and faulting the department’s process.",
+          "sources": [
+            "gautam-adani-theweek-indictment-2024",
+            "gautam-adani-theprint-dismissal-2026"
+          ]
+        },
+        {
+          "date": "2026-08-10",
+          "nature": "SEC civil fraud case over anti-bribery statements in Adani Green's bond offering",
+          "outcome": "Consent judgment 2026: $6m civil penalty, injunctions, no admission; Sagar Adani $12m",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Gautam Adani",
+          "summary": "Gautam Adani settled the SEC's civil fraud case over allegedly misleading anti-bribery statements in Adani Green's 2021 bond offering. On 10 August 2026 the court entered a consent judgment imposing a $6 million civil penalty and permanent anti-fraud injunctions, without his admitting the allegations; Sagar Adani agreed to pay $12 million.",
+          "sources": [
+            "gautam-adani-sec-lr26554-2026",
+            "gautam-adani-edny-judgment-2026"
+          ]
+        },
+        {
+          "date": "2026-05-18",
+          "nature": "Apparent US Iran sanctions violations over LPG purchases (Adani Enterprises)",
+          "outcome": "Settled 2026: $275m for 32 apparent violations OFAC called egregious",
+          "status": "settled",
+          "level": "company",
+          "entity": "Adani Enterprises",
+          "summary": "Adani Enterprises agreed in May 2026 to pay $275 million to settle its potential civil liability for 32 apparent violations of US Iran sanctions: purchases from November 2023 to June 2025 of LPG sold by a Dubai trader as Omani and Iraqi that OFAC says came from Iran. OFAC called the violations egregious and not voluntarily disclosed.",
+          "sources": [
+            "gautam-adani-ofac-adani-2026"
+          ]
+        },
+        {
+          "date": "2026-01",
+          "nature": "Bangladesh government review of the Godda power contract (Adani Power)",
+          "outcome": "Report 2026: 39.7% premium, serious anomalies in the award; unpublished, Adani not consulted",
+          "status": "other",
+          "level": "company",
+          "entity": "Adani Power (Godda plant)",
+          "summary": "A Bangladesh government-appointed review committee reported in January 2026 that Adani Power's Godda plant sells power to Bangladesh at a 39.7% premium over its nearest private competitor and found serious anomalies in how the contract was awarded. The report, reviewed by Reuters, is unpublished; Adani said it was not consulted.",
+          "sources": [
+            "gautam-adani-theprint-bangladesh-2026"
+          ]
+        }
       ]
     },
     {
@@ -8025,6 +8270,109 @@
         "ken-griffin-elb-2026",
         "ken-griffin-fos-2026",
         "ken-griffin-crimson-2023"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-09-17",
+          "nature": "Pro se racketeering and monopolisation suit over GameStop and AMC trading",
+          "outcome": "Dismissal affirmed 2025; denial of relief from judgment affirmed 2026",
+          "status": "dismissed",
+          "level": "individual",
+          "entity": "Ken Griffin",
+          "summary": "A pro se investor sued Griffin personally, Citadel entities, Robinhood, FINRA and DTCC in 2021, alleging racketeering and monopolisation around the January 2021 GameStop and AMC trading. The suit was dismissed for failure to state a claim, affirmed by the Eleventh Circuit in November 2025; denial of relief from judgment was affirmed in September 2026.",
+          "sources": [
+            "ken-griffin-ca11-2025",
+            "ken-griffin-ca11-2026"
+          ]
+        },
+        {
+          "date": "2026-08-20",
+          "nature": "Final regulatory events listed on BrokerCheck (Citadel Securities)",
+          "outcome": "76 from 2006 to 2026, none pending; incl. $3.5m SEC penalty 2018, $1m FINRA fine 2024",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Citadel Securities LLC",
+          "summary": "FINRA's BrokerCheck lists 76 final regulatory events, none pending, for Citadel Securities from 2006 to August 2026, most with fines under $100,000 and many brought by exchanges. They include a $3.5 million SEC penalty in 2018 over faulty blue sheet data for about 80 million trades, findings the firm admitted, and a $1 million FINRA fine in 2024 over audit-trail reporting.",
+          "sources": [
+            "ken-griffin-finra-brokercheck",
+            "ken-griffin-sec-2018"
+          ]
+        },
+        {
+          "date": "2026-04-29",
+          "nature": "South Korean market-disruption fine (Citadel Securities' Hong Kong unit)",
+          "outcome": "Pending; about $9.7m fine 2023, lower court ruled for Citadel, regulator appealed",
+          "status": "pending",
+          "level": "company",
+          "entity": "Citadel Securities (Hong Kong) Limited",
+          "summary": "In January 2023 South Korea's financial regulator fined Citadel Securities' Hong Kong unit about $9.7 million for disrupting the market through trading in 2017-2018, plus about $0.9 million for short-sale breaches it did not contest. A lower court ruled for Citadel against the market-disruption fine by April 2026; the regulator has appealed and no appeal ruling is reported, so it is pending.",
+          "sources": [
+            "ken-griffin-finra-brokercheck",
+            "ken-griffin-koreatimes-2026"
+          ]
+        },
+        {
+          "date": "2024-06-26",
+          "nature": "Meme-stock antitrust class action alleging conspiracy with Robinhood (Citadel)",
+          "outcome": "Dismissal affirmed 2024: no unreasonable restraint of trade plausibly alleged",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Citadel LLC (Citadel Securities)",
+          "summary": "Investors alleged that Robinhood restricted meme-stock purchases in January 2021 in a conspiracy with its market maker Citadel; the defendants rejected this. The district court dismissed the antitrust class action, and in June 2024 the Eleventh Circuit affirmed, holding that no unreasonable restraint of trade was plausibly alleged.",
+          "sources": [
+            "ken-griffin-ca11-2024"
+          ]
+        },
+        {
+          "date": "2024-06-25",
+          "nature": "His suit as plaintiff against the IRS over his leaked tax data",
+          "outcome": "Resolved 2024 with a public IRS apology; no payment to him reported",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Ken Griffin",
+          "summary": "Griffin sued the IRS in federal court in Florida (case 22-cv-24023) after an IRS contractor leaked his tax data to ProPublica; he was the plaintiff and was accused of nothing. The case was resolved in June 2024 with a public IRS apology admitting it failed to prevent the contractor's criminal conduct; no payment to him was reported.",
+          "sources": [
+            "ken-griffin-irs-2024",
+            "ken-griffin-fortune-2024"
+          ]
+        },
+        {
+          "date": "2023-09-22",
+          "nature": "SEC case over mismarked sale orders (Citadel Securities)",
+          "outcome": "Censured 2023: $7m penalty, neither admitted nor denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Citadel Securities LLC",
+          "summary": "In September 2023 the SEC censured Citadel Securities and imposed a $7 million penalty for mismarking millions of sale orders as long or short over about five years, a coding error, and passing the wrong data to regulators. The firm neither admitted nor denied the findings.",
+          "sources": [
+            "ken-griffin-sec-2023"
+          ]
+        },
+        {
+          "date": "2020-07-16",
+          "nature": "FINRA case over trading ahead of customer orders (Citadel Securities)",
+          "outcome": "Censured 2020: $700,000 fine and restitution, consented without admitting or denying",
+          "status": "settled",
+          "level": "company",
+          "entity": "Citadel Securities LLC",
+          "summary": "In July 2020 FINRA censured and fined Citadel Securities $700,000 and ordered restitution, finding that its OTC desk traded for its own account ahead of inactive customer orders and failed to display some customer limit orders. The firm consented without admitting or denying the findings.",
+          "sources": [
+            "ken-griffin-finra-brokercheck"
+          ]
+        },
+        {
+          "date": "2017-01-13",
+          "nature": "SEC case over misleading clients on retail order pricing (Citadel Securities)",
+          "outcome": "Paid 2017: $22.6m including a $16m penalty, neither admitted nor denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Citadel Securities LLC",
+          "summary": "In January 2017 Citadel Securities paid $22.6 million, including a $16 million penalty, after the SEC found it misled broker-dealer clients about how it priced their retail orders, using two algorithms from late 2007 to January 2010. It neither admitted nor denied the findings; the SEC said it handled about 35% of US retail equity volume.",
+          "sources": [
+            "ken-griffin-sec-2017",
+            "ken-griffin-finra-brokercheck"
+          ]
+        }
       ]
     },
     {
@@ -8452,6 +8800,60 @@
         "giovanni-ferrero-rtbf-2025",
         "giovanni-ferrero-guardian-yahoo-2020",
         "giovanni-ferrero-cuneodice-2018"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-04-13",
+          "nature": "European Commission antitrust inspections over market segmentation (Ferrero)",
+          "outcome": "Inspected 2026; no formal proceedings found; inspections do not mean guilt",
+          "status": "pending",
+          "level": "company",
+          "entity": "Ferrero",
+          "summary": "In April 2026 the European Commission carried out unannounced antitrust inspections at a chocolate company in two EU states over possible market segmentation and obstacles to cross-border purchases; Ferrero confirmed it was the company. The Commission said inspections do not mean a company is guilty; no formal proceedings were found.",
+          "sources": [
+            "giovanni-ferrero-justfood-2026",
+            "giovanni-ferrero-peninsula-afp-2026"
+          ]
+        },
+        {
+          "date": "2024-10-17",
+          "nature": "Belgian judicial investigation and Paris inquiry into the outbreak (Ferrero)",
+          "outcome": "Pending; opened 2022, ongoing 2024; no charge, ruling or closure found",
+          "status": "pending",
+          "level": "company",
+          "entity": "Ferrero",
+          "summary": "In 2022 a judicial investigation into the outbreak was opened in Belgium, with police raids on six Ferrero sites in Belgium and Luxembourg, and Paris prosecutors opened a preliminary inquiry into suspected aggravated deceit and endangerment. AFP reported both investigations still ongoing in October 2024; no charge, ruling or closure was found by November 2026.",
+          "sources": [
+            "giovanni-ferrero-brusselstimes-2022-raids",
+            "giovanni-ferrero-thelocal-2022",
+            "giovanni-ferrero-dhnet-2024"
+          ]
+        },
+        {
+          "date": "2022-04-08",
+          "nature": "Belgian food safety action over Salmonella at the Arlon plant (Ferrero)",
+          "outcome": "Authorisation temporarily withdrawn 2022, Kinder products recalled; 324 cases counted",
+          "status": "other",
+          "level": "company",
+          "entity": "Ferrero",
+          "summary": "In April 2022 Belgium's food safety agency temporarily withdrew the authorisation of Ferrero's Arlon plant, saying Ferrero could not give it full information, and all Kinder products made there were recalled. By May 2022 ECDC and EFSA counted 324 Salmonella cases in the EU/EEA and UK linked to Arlon chocolate products, 86% in children aged 10 or under; no deaths were reported.",
+          "sources": [
+            "giovanni-ferrero-brusselstimes-2022-shut",
+            "giovanni-ferrero-ecdc-2022"
+          ]
+        },
+        {
+          "date": "2012-04",
+          "nature": "Class action over Nutella advertised as a healthy breakfast (Ferrero USA)",
+          "outcome": "Settled 2012: $3m for consumer refunds; agreed to change label and advertising",
+          "status": "settled",
+          "level": "company",
+          "entity": "Ferrero USA",
+          "summary": "In 2012 Ferrero USA settled a US class action alleging that Nutella was advertised as a healthy children's breakfast, setting aside $3 million for consumer refunds and agreeing to change its label and advertising. The report does not mention any admission of wrongdoing.",
+          "sources": [
+            "giovanni-ferrero-foodnavigator-2012"
+          ]
+        }
       ]
     },
     {
@@ -9017,6 +9419,58 @@
         "klaus-michael-kuhne-bundestag-cdu-2023",
         "klaus-michael-kuhne-blick-donations",
         "klaus-michael-kuhne-euronews-foundation"
+      ],
+      "legal_record": [
+        {
+          "date": "2018-02",
+          "nature": "European Commission air freight surcharge cartel case (Kuehne + Nagel)",
+          "outcome": "Fined 2012: €53.7m; upheld 2016, appeal dismissed 2018",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Kuehne + Nagel",
+          "summary": "In March 2012 the European Commission fined Kuehne + Nagel €53.7 million, part of €169 million in fines on 14 forwarders for four air freight surcharge cartels run from 2002 to 2007. The General Court upheld the decision in 2016 and the Court of Justice dismissed Kuehne + Nagel's appeal in February 2018.",
+          "sources": [
+            "klaus-michael-kuhne-logisticsmanager-eu-fine",
+            "klaus-michael-kuhne-aircargonews-cjeu-appeal"
+          ]
+        },
+        {
+          "date": "2014-04-08",
+          "nature": "UK-to-New Zealand air freight surcharge cartel (Kuehne + Nagel)",
+          "outcome": "Ordered 2014: NZ$3.1m penalty plus costs after admission",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Kuehne + Nagel International AG",
+          "summary": "In April 2014 New Zealand's High Court ordered Kuehne + Nagel International AG to pay a NZ$3.1 million penalty plus costs; the company admitted taking part in a cartel that fixed surcharges on UK-to-New Zealand air freight, after losing a challenge to the Commerce Commission's jurisdiction.",
+          "sources": [
+            "klaus-michael-kuhne-comcom-nz-penalty"
+          ]
+        },
+        {
+          "date": "2012-12-11",
+          "nature": "Swiss Competition Commission air freight price-fixing case (Kühne + Nagel)",
+          "outcome": "Settled 2012: CHF 1,173,767 fine",
+          "status": "settled",
+          "level": "company",
+          "entity": "Kühne + Nagel International AG",
+          "summary": "In December 2012 the Swiss Competition Commission fined Kühne + Nagel International AG CHF 1,173,767 for horizontal price-fixing of air freight fees and surcharges between 2003 and 2007. The case was closed by a negotiated settlement with the authority.",
+          "sources": [
+            "klaus-michael-kuhne-weko-airfreight-2012"
+          ]
+        },
+        {
+          "date": "2011-11",
+          "nature": "US Sherman Act counts over air freight fees and surcharges (Kühne + Nagel)",
+          "outcome": "Guilty plea approved 2011: five counts, $9,865,044 criminal fine",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Kühne + Nagel International AG",
+          "summary": "Kühne + Nagel International AG pleaded guilty in the US District Court for the District of Columbia to five Sherman Act counts over air freight fees and surcharges in 2002 to 2007, with an agreed criminal fine of $9,865,044. The plea agreement, signed in September 2010, was approved by the court in November 2011.",
+          "sources": [
+            "klaus-michael-kuhne-doj-plea-agreement",
+            "klaus-michael-kuhne-kn-plea-approved"
+          ]
+        }
       ]
     },
     {

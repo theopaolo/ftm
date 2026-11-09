@@ -2126,6 +2126,228 @@
         "outcome": "Settled 2009, neither admitted nor denied; its share not stated",
         "status": "settled"
       }
+    ],
+    "giancarlo-devasini": [
+      {
+        "f": "f1",
+        "nature": "CFTC orders over USDT backing claims and retail trading (Tether, Bitfinex)",
+        "outcome": "Settled 2021: $41m fine on Tether, $1.5m on Bitfinex; no individual named",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "New York attorney general case over USDT reserves (Tether, Bitfinex)",
+        "outcome": "Settled 2021: $18.5m, quarterly reserve reports, stop serving New Yorkers; no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Milan prosecutors' software piracy case over Microsoft software, reported",
+        "outcome": "Plea bargain reported in the 1995 case: 100 million lire fine; no court record found",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Class action alleging USDT inflated bitcoin prices (with Tether, Bitfinex)",
+        "outcome": "Pending; racketeering claims dismissed 2021, narrowed classes certified 2026; no liability decided",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "Celsius bankruptcy estate suit over liquidated bitcoins (Tether)",
+        "outcome": "Settled 2025: $299.5m; about $4.3bn sought, no admission of wrongdoing reported",
+        "status": "settled"
+      },
+      {
+        "f": "f9",
+        "nature": "Federal probe into money-laundering and sanctions breaches (Tether), reported",
+        "outcome": "Reported 2024 as a Manhattan prosecutors' probe; Tether denied it; no charges or closure found",
+        "status": "reported"
+      },
+      {
+        "f": "f10",
+        "nature": "European Public Prosecutor's Office VAT fraud probe (Northern Data, Peak Mining)",
+        "outcome": "Searches and four arrests 2025; no charges reported, fraud denied; Devasini not reported a suspect",
+        "status": "pending"
+      }
+    ],
+    "german-larrea-and-family": [
+      {
+        "f": "f1",
+        "nature": "Profepa fine over the 2014 Sonora river spill (Buenavista del Cobre)",
+        "outcome": "Fined 2015: 22.96m pesos, alongside a 2,000m peso trust",
+        "status": "penalty"
+      },
+      {
+        "f": "f3",
+        "nature": "Semarnat criminal complaint over unremediated 2014 spill (Grupo México units)",
+        "outcome": "Pending; filed 2023, an allegation; Grupo México says remediation was successful",
+        "status": "pending"
+      },
+      {
+        "f": "f4",
+        "nature": "Agreement with the federal government on Río Sonora remediation (Grupo México)",
+        "outcome": "Agreed 2025: 1,500m pesos, 500m paid by 2026; president said federal case should close",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "Southern Peru overpayment for Minera México (with Americas Mining)",
+        "outcome": "Duty of loyalty breach found 2011 against Larrea and others: $2.03bn judgment, affirmed 2012",
+        "status": "finding"
+      },
+      {
+        "f": "f7",
+        "nature": "Environmental claims in its bankruptcy (Asarco)",
+        "outcome": "Settled 2009: $1.79bn, covering more than 80 polluted sites in 19 US states",
+        "status": "settled"
+      },
+      {
+        "f": "f9",
+        "nature": "Navy occupation of rail sections under a government decree (Ferrosur)",
+        "outcome": "Deal 2023: 120 km section given up for a concession extension to 2044, no cash compensation",
+        "status": "settled"
+      }
+    ],
+    "gautam-adani": [
+      {
+        "f": "f1",
+        "nature": "US securities and wire fraud charges over an alleged bribery scheme",
+        "outcome": "Dismissed with prejudice 2026 at the Justice Department's request; judge called it no verdict",
+        "status": "dismissed"
+      },
+      {
+        "f": "f2",
+        "nature": "SEC civil fraud case over anti-bribery statements in Adani Green's bond offering",
+        "outcome": "Consent judgment 2026: $6m civil penalty, injunctions, no admission; Sagar Adani $12m",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Apparent US Iran sanctions violations over LPG purchases (Adani Enterprises)",
+        "outcome": "Settled 2026: $275m for 32 apparent violations OFAC called egregious",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "SEBI proceedings over minimum public shareholding rules (with group companies)",
+        "outcome": "Settled 2026: ₹1.48 crore in total, without admitting or denying; no split by party",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "SEBI proceedings over related-party dealings (Adani group companies)",
+        "outcome": "Dropped 2025, no violation or fraud found; separate disclosure lapses settled 2026 for ₹1.51 crore",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "Bangladesh government review of the Godda power contract (Adani Power)",
+        "outcome": "Report 2026: 39.7% premium, serious anomalies in the award; unpublished, Adani not consulted",
+        "status": "other"
+      }
+    ],
+    "ken-griffin": [
+      {
+        "f": "f1",
+        "nature": "SEC case over misleading clients on retail order pricing (Citadel Securities)",
+        "outcome": "Paid 2017: $22.6m including a $16m penalty, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "FINRA case over trading ahead of customer orders (Citadel Securities)",
+        "outcome": "Censured 2020: $700,000 fine and restitution, consented without admitting or denying",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "SEC case over mismarked sale orders (Citadel Securities)",
+        "outcome": "Censured 2023: $7m penalty, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Final regulatory events listed on BrokerCheck (Citadel Securities)",
+        "outcome": "76 from 2006 to 2026, none pending; incl. $3.5m SEC penalty 2018, $1m FINRA fine 2024",
+        "status": "penalty"
+      },
+      {
+        "f": "f5",
+        "nature": "South Korean market-disruption fine (Citadel Securities' Hong Kong unit)",
+        "outcome": "Pending; about $9.7m fine 2023, lower court ruled for Citadel, regulator appealed",
+        "status": "pending"
+      },
+      {
+        "f": "f6",
+        "nature": "Meme-stock antitrust class action alleging conspiracy with Robinhood (Citadel)",
+        "outcome": "Dismissal affirmed 2024: no unreasonable restraint of trade plausibly alleged",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "Pro se racketeering and monopolisation suit over GameStop and AMC trading",
+        "outcome": "Dismissal affirmed 2025; denial of relief from judgment affirmed 2026",
+        "status": "dismissed"
+      },
+      {
+        "f": "f8",
+        "nature": "His suit as plaintiff against the IRS over his leaked tax data",
+        "outcome": "Resolved 2024 with a public IRS apology; no payment to him reported",
+        "status": "settled"
+      }
+    ],
+    "klaus-michael-kuhne": [
+      {
+        "f": "f1",
+        "nature": "US Sherman Act counts over air freight fees and surcharges (Kühne + Nagel)",
+        "outcome": "Guilty plea approved 2011: five counts, $9,865,044 criminal fine",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f2",
+        "nature": "European Commission air freight surcharge cartel case (Kuehne + Nagel)",
+        "outcome": "Fined 2012: €53.7m; upheld 2016, appeal dismissed 2018",
+        "status": "penalty"
+      },
+      {
+        "f": "f3",
+        "nature": "UK-to-New Zealand air freight surcharge cartel (Kuehne + Nagel)",
+        "outcome": "Ordered 2014: NZ$3.1m penalty plus costs after admission",
+        "status": "penalty"
+      },
+      {
+        "f": "f4",
+        "nature": "Swiss Competition Commission air freight price-fixing case (Kühne + Nagel)",
+        "outcome": "Settled 2012: CHF 1,173,767 fine",
+        "status": "settled"
+      }
+    ],
+    "giovanni-ferrero": [
+      {
+        "f": "f2",
+        "nature": "Belgian food safety action over Salmonella at the Arlon plant (Ferrero)",
+        "outcome": "Authorisation temporarily withdrawn 2022, Kinder products recalled; 324 cases counted",
+        "status": "other"
+      },
+      {
+        "f": "f3",
+        "nature": "Belgian judicial investigation and Paris inquiry into the outbreak (Ferrero)",
+        "outcome": "Pending; opened 2022, ongoing 2024; no charge, ruling or closure found",
+        "status": "pending"
+      },
+      {
+        "f": "f4",
+        "nature": "Class action over Nutella advertised as a healthy breakfast (Ferrero USA)",
+        "outcome": "Settled 2012: $3m for consumer refunds; agreed to change label and advertising",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "European Commission antitrust inspections over market segmentation (Ferrero)",
+        "outcome": "Inspected 2026; no formal proceedings found; inspections do not mean guilt",
+        "status": "pending"
+      }
     ]
   },
   "legal_status": {
