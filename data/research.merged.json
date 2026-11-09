@@ -1793,6 +1793,91 @@
       "url": "https://www.ril.com/ar2024-25/social-and-relationship-capital.html",
       "kind": "case"
     },
+    "giancarlo-devasini-nyag": {
+      "label": "New York AG: Bitfinex and Tether settlement (2021)",
+      "url": "https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal",
+      "kind": "case"
+    },
+    "giancarlo-devasini-cnbc-nyag": {
+      "label": "CNBC: Tether and Bitfinex pay $18.5 million to end New York probe (2021)",
+      "url": "https://www.cnbc.com/2021/02/23/tether-bitfinex-reach-settlement-with-new-york-attorney-general.html",
+      "kind": "case"
+    },
+    "giancarlo-devasini-sdny-classcert": {
+      "label": "SDNY: In re Tether and Bitfinex, class certification order (2026)",
+      "url": "https://blogs.duanemorris.com/classactiondefense/wp-content/uploads/sites/56/2026/03/In-re-Tether-Class-Cert-Order.pdf",
+      "kind": "case"
+    },
+    "giancarlo-devasini-theblock-mtd": {
+      "label": "The Block: judge dismisses some claims against Bitfinex and Tether (2021)",
+      "url": "https://www.theblock.co/post/119054/judge-dismisses-some-claims-against-bitfinex-and-tether-but-class-action-lawsuit-continues",
+      "kind": "case"
+    },
+    "giancarlo-devasini-theblock-celsius": {
+      "label": "The Block: Celsius wins nearly $300 million from Tether (2025)",
+      "url": "https://www.theblock.co/post/374625/celsius-wins-300-million-tether-bankruptcy-case-fraction-4-3-billion-claim",
+      "kind": "case"
+    },
+    "giancarlo-devasini-ifq-northern": {
+      "label": "Il Fatto Quotidiano: Tether, the Swedish mining probe (2025)",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/19/tether-indagine-svezia-mining-bitcoin-news-dettagli/8233594/",
+      "kind": "case"
+    },
+    "giancarlo-devasini-cdt-devasini": {
+      "label": "Corriere del Ticino: Giancarlo Devasini, the man behind Tether (2024)",
+      "url": "https://www.cdt.ch/news/plan-b-giancarlo-devasini-luomo-dietro-a-tether-tra-i-piu-ricchi-ditalia-347898",
+      "kind": "case"
+    },
+    "giancarlo-devasini-lespresso-2026": {
+      "label": "L’Espresso: Tether, who is Giancarlo Devasini (2026)",
+      "url": "https://lespresso.it/c/inchieste/2026/8/12/tether-giancarlo-devasini-chi-e-uomo-piu-ricco-d-italia/63905",
+      "kind": "case"
+    },
+    "giancarlo-devasini-fortune-lutnick": {
+      "label": "Fortune: Commerce nominee Lutnick is a Tether booster (2024)",
+      "url": "https://fortune.com/crypto/2024/11/25/commerce-nominee-howard-lutnick-tether-booster-cantor-fitzgerald",
+      "kind": "case"
+    },
+    "giancarlo-devasini-coindesk-loan": {
+      "label": "CoinDesk: senators question Lutnick on Tether loan to family (2026)",
+      "url": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+      "kind": "case"
+    },
+    "giancarlo-devasini-cointelegraph-hines": {
+      "label": "Cointelegraph: senator probes Tether deal tied to Bo Hines (2026)",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
+      "kind": "case"
+    },
+    "giancarlo-devasini-decrypt-hines": {
+      "label": "Decrypt: Senate Democrat probes Tether payments to ex-adviser (2026)",
+      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "kind": "case"
+    },
+    "giancarlo-devasini-reuters-iran": {
+      "label": "Reuters: Tether USDT aids Iran funding, Senate report says (2026)",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/tether-usdt-aids-iran-funding-senate-report-says",
+      "kind": "case"
+    },
+    "giancarlo-devasini-theblock-iran": {
+      "label": "The Block: USDT at centre of Iran shadow banking, Senate report (2026)",
+      "url": "https://theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+      "kind": "case"
+    },
+    "giancarlo-devasini-fortune-doj": {
+      "label": "Fortune: Tether reportedly under federal probe (2024)",
+      "url": "https://fortune.com/crypto/2024/10/25/tether-department-justice-probe-money-laundering-sanctions-binance-crypto/",
+      "kind": "case"
+    },
+    "giancarlo-devasini-coindesk-adecoagro": {
+      "label": "CoinDesk: Tether finalises 70% stake in Adecoagro (2025)",
+      "url": "https://www.coindesk.com/markets/2025/04/30/tether-finalizes-buying-70-of-adecoagro-stake-securing-tokenization-ambition",
+      "kind": "case"
+    },
+    "giancarlo-devasini-reuters-uruguay": {
+      "label": "Reuters: how Tether’s bitcoin mining plans in Uruguay unravelled (2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/21/how-tether039s-bitcoin-mining-plans-in-uruguay-unraveled",
+      "kind": "case"
+    },
     "thomas-peterffy-sec-2020": {
       "label": "SEC: Interactive Brokers charged over failure to file suspicious activity reports (2020)",
       "url": "https://www.sec.gov/news/press-release/2020-178",
@@ -2046,6 +2131,86 @@
     "dieter-schwarz-tum-2019": {
       "label": "TUM: Dieter Schwarz Foundation hands over new building to TUM (2019)",
       "url": "https://www.tum.de/en/about-tum/news/press-releases/details/35230",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elfinanciero-profepa-2015": {
+      "label": "El Financiero: Profepa fines Grupo México 22 million pesos over Sonora spill (2015)",
+      "url": "https://www.elfinanciero.com.mx/empresas/profepa-multa-a-gmexico-con-22-mdp-por-contaminar-rio-en-sonora/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-mnd-semarnat-2023": {
+      "label": "Mexico News Daily: Environment ministry takes Grupo México to court over spill (2023)",
+      "url": "https://mexiconewsdaily.com/business/environment-grupo-mexico-sonora-river-spill",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elimparcial-semarnat-2023": {
+      "label": "El Imparcial: Semarnat files criminal complaint against Grupo México (2023)",
+      "url": "https://www.elimparcial.com/mexico/2023/10/12/semarnat-denuncia-penalmente-a-grupo-mexico-porque-no-remedio-el-rio-sonora-fideicomiso-es-una-burla-albores/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-scjn-ar-640-2019": {
+      "label": "Supreme Court of Mexico: Amparo en revisión 640/2019, Río Sonora trust (2020)",
+      "url": "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/sentencia/2021-10/AR%20640-2019.pdf",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elimparcial-plan-cananea-2025": {
+      "label": "El Imparcial: What the Cananea justice plan with Grupo México includes (2025)",
+      "url": "https://www.elimparcial.com/mexico/2025/12/29/plan-de-justicia-de-cananea-que-incluye-el-acuerdo-con-grupo-mexico-y-como-impactara-a-sonora/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elimparcial-deposit-2026": {
+      "label": "El Imparcial: Grupo México deposits first 500 million pesos, says Sheinbaum (2026)",
+      "url": "https://www.elimparcial.com/mexico/2026/02/13/deposita-grupo-mexico-los-primeros-500-mdp-para-construccion-del-uveas-en-ures-sheinbaum/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elimparcial-pending-2026": {
+      "label": "El Imparcial: Sheinbaum says Grupo México about to pay remaining 1,000m pesos (2026)",
+      "url": "https://www.elimparcial.com/son/sonora/2026/04/20/sheinbaum-anuncia-visita-a-sonora-en-mayo-para-informar-a-comunidades-del-rio-sonora-acuerdo-con-grupo-mexico/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-mnd-pasta-de-conchos-2024": {
+      "label": "Mexico News Daily: More remains recovered at Pasta de Conchos mine (2024)",
+      "url": "https://mexiconewsdaily.com/news/more-remains-found-2006-pasta-de-conchos-mine-explosion/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-elimparcial-pasta-de-conchos-2026": {
+      "label": "El Imparcial: Body 26 recovered at Pasta de Conchos (2026)",
+      "url": "https://www.elimparcial.com/mexico/2026/04/18/recuperan-cuerpo-26-en-pasta-de-conchos-continuan-rescates-a-mas-de-20-anos-de-la-explosion-minera-en-coahuila/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-delaware-theriault-2012": {
+      "label": "Delaware Supreme Court: Americas Mining Corp. v. Theriault (2012)",
+      "url": "https://courts.delaware.gov/opinions/download.aspx?ID=177520",
+      "kind": "case"
+    },
+    "german-larrea-and-family-epa-asarco-2009": {
+      "label": "US EPA: Asarco bankruptcy yields $1.79 billion for environmental cleanup (2009)",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/c40dd49b8eebe5ff85257688006c9c7f.html",
+      "kind": "case"
+    },
+    "german-larrea-and-family-ap-asarco-2009": {
+      "label": "AP (via NBC News): Record $1.79 billion paid to clean up mines (2009)",
+      "url": "https://www.nbcnews.com/id/wbna34369729",
+      "kind": "case"
+    },
+    "german-larrea-and-family-expansion-letter-2018": {
+      "label": "Expansión: Coparmex backs Germán Larrea after AMLO criticism (2018)",
+      "url": "https://expansion.mx/empresas/2018/05/30/la-coparmex-respalda-a-german-larrea-tras-critica-de-amlo",
+      "kind": "case"
+    },
+    "german-larrea-and-family-bloomberglinea-larrea-2023": {
+      "label": "Bloomberg Línea: Who is Germán Larrea, the mining tycoon targeted by AMLO? (2023)",
+      "url": "https://www.bloomberglinea.com/english/who-is-german-larrea-the-mexican-mining-tycoon-targeted-by-amlo/",
+      "kind": "case"
+    },
+    "german-larrea-and-family-mnd-ferrosur-2023": {
+      "label": "Mexico News Daily: AMLO says deal reached with Grupo México over seized railway (2023)",
+      "url": "https://mexiconewsdaily.com/news/deal-reached-with-grupo-mexico-over-seized-railway",
+      "kind": "case"
+    },
+    "german-larrea-and-family-gmexico-results-1q-2024": {
+      "label": "Grupo México: First-quarter 2024 results (2024)",
+      "url": "https://ferromex.mx/wp-content/uploads/2024/05/RF_ES_2024_1T.pdf",
       "kind": "case"
     },
     "tadashi-yanai-and-family-gtr-cbp-2021": {
@@ -4472,29 +4637,47 @@
       "history": "Early executive and shareholder of the Bitfinex exchange and the Tether stablecoin.",
       "scores": {
         "ecology": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Finance: the footprint depends on what the money funds; holdings not assessed."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Tether is mainly a stablecoin issuer, but its holdings now include about 70% of Adecoagro, a South American producer of sugar, rice, dairy and bioenergy, reached in 2025, and bitcoin mining: its CEO says it has invested over $2 billion in energy and mining. It abandoned its Uruguay mining sites in 2025 after a power dispute. Emissions are not quantified here.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level ties to the Trump administration: Cantor Fitzgerald, led by Howard Lutnick until he became Commerce Secretary, is main custodian of Tether’s Treasury bills, a 5% stake in Tether was reported in 2024, and senators asked in 2026 about a reported Tether loan to his children’s trust. A senator is seeking records on a Tether deal with a firm part-owned by a White House crypto adviser while in office; Tether says counsel found no wrongdoing. Devasini became a Salvadoran citizen in 2025.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Social effects depend on how capital is allocated; not checked."
+          "value": 2,
+          "basis": "documented",
+          "reason": "New York’s attorney general said in 2021 that Tether at times lacked the reserves it told customers backed USDT. In 2026 a partisan report by Senate Democrats said 84% of 846 sanctioned Iran-linked wallets studied used USDT and that Tether failed to freeze suspect wallets; Tether says it helped freeze about $550 million. These are company-level problems.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 1,
+          "value": 3,
           "basis": "documented",
-          "reason": "The CFTC fined Tether and Bitfinex in 2021 over misleading claims about Tether’s reserves. A company case; no personal finding."
+          "reason": "Two Italian-language papers report that he plea-bargained (patteggiamento) a personal fine in a 1995 case over counterfeit or pirated Microsoft software; this is over 30 years old and no court record was found. At company level, the CFTC fined Tether $41 million and Bitfinex $1.5 million in 2021 over misleading reserve claims and illegal trading, the firms paid $18.5 million to settle New York’s case without admission, and Tether paid $299.5 million in 2025 to settle Celsius’s suit.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 3,
+          "basis": "documented",
+          "reason": "Named defendant, with Tether and Bitfinex, in a pending New York class action alleging unbacked USDT was used to inflate bitcoin prices; classes were certified in 2026 and no liability is decided. At company level, US prosecutors were reported in 2024 to be investigating Tether, which denied it; a Senate Democrat urged Treasury and DOJ to investigate in 2026; in 2025 EU-coordinated police probed suspected VAT fraud at a unit of Tether-controlled Northern Data.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
@@ -4502,7 +4685,24 @@
       "status_note": "",
       "sources": [
         "forbes",
-        "cftc"
+        "cftc",
+        "giancarlo-devasini-nyag",
+        "giancarlo-devasini-cnbc-nyag",
+        "giancarlo-devasini-sdny-classcert",
+        "giancarlo-devasini-theblock-mtd",
+        "giancarlo-devasini-theblock-celsius",
+        "giancarlo-devasini-ifq-northern",
+        "giancarlo-devasini-cdt-devasini",
+        "giancarlo-devasini-lespresso-2026",
+        "giancarlo-devasini-fortune-lutnick",
+        "giancarlo-devasini-coindesk-loan",
+        "giancarlo-devasini-cointelegraph-hines",
+        "giancarlo-devasini-decrypt-hines",
+        "giancarlo-devasini-reuters-iran",
+        "giancarlo-devasini-theblock-iran",
+        "giancarlo-devasini-fortune-doj",
+        "giancarlo-devasini-coindesk-adecoagro",
+        "giancarlo-devasini-reuters-uruguay"
       ]
     },
     {
@@ -5192,12 +5392,19 @@
         "ecology": {
           "value": 4,
           "basis": "documented",
-          "reason": "A Grupo México mine spilled toxic copper solution into the Sonora River in 2014, one of Mexico’s worst environmental disasters."
+          "reason": "A Grupo México mine spilled about 40,000 cubic metres of toxic copper solution into the Sonora River in 2014, described as the worst disaster in Mexican mining. Profepa fined the mine 22.96 million pesos in 2015. Its US unit Asarco paid $1.79 billion in 2009 to settle clean-up claims at more than 80 polluted sites. The company reports more renewable power since 2023.",
+          "levels": [
+            "company"
+          ]
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Germán Larrea urged Grupo México's workers and shareholders in 2018 not to vote for a populist government, read as aimed at López Obrador. In 2023 the government occupied Ferrosur rail sections and settled by extending another concession. No political donations, media ownership or documented political favours were found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "social": {
           "value": 2,
@@ -5216,11 +5423,27 @@
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "Grupo México reported that renewable electricity rose from 19% to 32% of its use in 2023, mainly through clean-energy certificates in Peru, and that group emissions fell about 4% (company figures).",
       "status_note": "",
       "sources": [
         "forbes",
-        "grupo-mexico"
+        "grupo-mexico",
+        "german-larrea-and-family-elfinanciero-profepa-2015",
+        "german-larrea-and-family-mnd-semarnat-2023",
+        "german-larrea-and-family-elimparcial-semarnat-2023",
+        "german-larrea-and-family-scjn-ar-640-2019",
+        "german-larrea-and-family-elimparcial-plan-cananea-2025",
+        "german-larrea-and-family-elimparcial-deposit-2026",
+        "german-larrea-and-family-elimparcial-pending-2026",
+        "german-larrea-and-family-mnd-pasta-de-conchos-2024",
+        "german-larrea-and-family-elimparcial-pasta-de-conchos-2026",
+        "german-larrea-and-family-delaware-theriault-2012",
+        "german-larrea-and-family-epa-asarco-2009",
+        "german-larrea-and-family-ap-asarco-2009",
+        "german-larrea-and-family-expansion-letter-2018",
+        "german-larrea-and-family-bloomberglinea-larrea-2023",
+        "german-larrea-and-family-mnd-ferrosur-2023",
+        "german-larrea-and-family-gmexico-results-1q-2024"
       ]
     },
     {

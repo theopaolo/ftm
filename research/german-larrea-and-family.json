@@ -248,7 +248,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Industrial Minera México (Grupo México)",
-      "claim": "A methane explosion on 19 February 2006 at the Pasta de Conchos coal mine, run by Grupo México, killed 65 miners; the company recovered two bodies and halted the rescue in 2007. No company or government official was held legally responsible as of 2024, and by April 2026 a federal recovery had found 26 bodies.",
+      "claim": "A methane explosion on 19 February 2006, more than ten years ago, at the Pasta de Conchos coal mine, run by Grupo México, killed 65 miners; two bodies were recovered soon after and Grupo México halted the rescue in April 2007. As of 2024 no company representative or government official had been held legally responsible, and by April 2026 a federal recovery had located 26 bodies.",
       "evidence_type": "investigative_reporting",
       "date": "2026-04-18",
       "source_ids": [
@@ -262,7 +262,7 @@
       "theme": "finance",
       "level": "individual",
       "entity": "Germán Larrea, Americas Mining Corporation (Grupo México)",
-      "claim": "In 2011 Delaware's Court of Chancery held that Americas Mining and the Grupo México-affiliated directors of Southern Peru, named defendants including Germán Larrea, breached their duty of loyalty by making Southern Peru overpay for Minera México in 2005. It entered a $2.03 billion judgment, which the Delaware Supreme Court affirmed on 27 August 2012.",
+      "claim": "In 2011 Delaware's Court of Chancery held that Americas Mining, a Grupo México subsidiary, and the Grupo México-affiliated directors of Southern Peru, Germán Larrea among them, breached their duty of loyalty by making Southern Peru overpay for Minera México in 2005, and entered a $2.03 billion judgment against them, affirmed in 2012. It said Grupo México could satisfy it by returning shares.",
       "evidence_type": "final_ruling",
       "date": "2012-08-27",
       "source_ids": [
@@ -275,7 +275,7 @@
       "theme": "climate",
       "level": "company",
       "entity": "Asarco (Grupo México)",
-      "claim": "Asarco, owned by Grupo México since 1999, paid $1.79 billion in December 2009 to settle environmental claims in its bankruptcy, covering more than 80 polluted sites in 19 US states; Grupo México funded the reorganisation plan and regained control. Officials called it the largest environmental clean-up recovery in US history.",
+      "claim": "Asarco, bought by Grupo México in 1999, paid $1.79 billion in December 2009 to settle environmental claims in its bankruptcy, covering more than 80 polluted sites in 19 US states; Grupo México funded the reorganisation plan and regained control. Officials called it the largest environmental clean-up recovery in US history.",
       "evidence_type": "settlement",
       "date": "2009-12-10",
       "source_ids": [
@@ -303,7 +303,7 @@
       "theme": "public-money",
       "level": "company",
       "entity": "Ferrosur (Grupo México)",
-      "claim": "On 19 May 2023 the navy occupied about 120 km of Grupo México's Ferrosur rail concession under a government decree. Under a deal announced on 1 June 2023, Ferrosur gave up the section for an eight-year extension of another concession to 2044, with no cash compensation, and dropped legal action over a cancelled Maya Train contract.",
+      "claim": "On 19 May 2023 the navy occupied Ferrosur rail sections under a government decree. Under a deal announced on 1 June 2023, Ferrosur gave up a 120 km section in Veracruz for an eight-year extension of another concession to 2044, with no cash compensation, and Grupo México dropped legal action over a cancelled Maya Train contract.",
       "evidence_type": "investigative_reporting",
       "date": "2023-06-01",
       "source_ids": [
@@ -339,7 +339,7 @@
       "politics": {
         "value": 1,
         "basis": "documented",
-        "reason": "Germán Larrea urged Grupo México's workers and shareholders in 2018 not to vote for a populist government, read as aimed at López Obrador. In 2023 the government seized a Ferrosur rail section and settled by extending another concession. No political donations, media ownership or documented political favours were found.",
+        "reason": "Germán Larrea urged Grupo México's workers and shareholders in 2018 not to vote for a populist government, read as aimed at López Obrador. In 2023 the government occupied Ferrosur rail sections and settled by extending another concession. No political donations, media ownership or documented political favours were found.",
         "finding_ids": [
           "f8",
           "f9"
@@ -348,7 +348,7 @@
       "social": {
         "value": 4,
         "basis": "documented",
-        "reason": "A 2006 explosion at Grupo México's Pasta de Conchos coal mine killed 65 miners; the company halted the rescue in 2007, no one was held legally responsible, and by 2026 a federal recovery had found 26 bodies. The 2014 Sonora spill affected about 22,000 people. A strike at Cananea that began in 2007 ended under a 2025 agreement with the government.",
+        "reason": "A 2006 explosion at Grupo México's Pasta de Conchos coal mine killed 65 miners; the company halted the rescue in 2007, no company representative or official had been held legally responsible as of 2024, and by 2026 a federal recovery had located 26 bodies. The 2014 Sonora spill affected about 22,000 people. A strike at Cananea that began in 2007 ended under a 2025 agreement with the government.",
         "finding_ids": [
           "f1",
           "f4",
@@ -358,7 +358,7 @@
       "legal": {
         "value": 3,
         "basis": "documented",
-        "reason": "Personal civil liability: Delaware courts held in 2011 and 2012 that Grupo México's Americas Mining and affiliated directors, including Germán Larrea, breached their duty of loyalty to Southern Peru, with a $2.03 billion judgment. At company level: a 2015 Profepa fine, a 2020 Supreme Court ruling voiding the Río Sonora trust's closure, Asarco's $1.79 billion settlement in 2009 and a 2025 agreement with the government.",
+        "reason": "Personal civil liability: Delaware courts held in 2011 and 2012 that Grupo México's Americas Mining and its affiliated directors, including Germán Larrea, breached their duty of loyalty to Southern Peru, with a $2.03 billion judgment the court said Grupo México could satisfy by returning shares. At company level: a 2015 Profepa fine, a 2020 Supreme Court ruling voiding the Río Sonora trust's closure, Asarco's $1.79 billion settlement in 2009 and a 2025 agreement with the government.",
         "finding_ids": [
           "f1",
           "f2",
@@ -370,7 +370,7 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "Semarnat's 2023 criminal complaint against three Grupo México subsidiaries over the unremediated Sonora spill is an allegation; the president said in 2026 it should close through an alternative resolution, and 1,000 million pesos of the agreed 1,500 million was still unpaid in April 2026. Whether the case is closed was not confirmed. No pending personal matter was found.",
+        "reason": "Semarnat's 2023 criminal complaint against three Grupo México subsidiaries over the unremediated Sonora spill is an allegation. In 2026 the president said the federal government's case against Grupo México, before the courts, should close through an alternative resolution, and 1,000 million pesos of the agreed 1,500 million was still unpaid in April 2026. Whether the complaint is closed was not confirmed. No pending personal matter was found.",
         "finding_ids": [
           "f3",
           "f4"
@@ -378,6 +378,62 @@
       }
     },
     "counterweights": "Grupo México reported that renewable electricity rose from 19% to 32% of its use in 2023, mainly through clean-energy certificates in Peru, and that group emissions fell about 4% (company figures).",
-    "rationale": "Ecology stays 4. The AP source could not be opened; the spill is re-sourced. Politics stays 1: a personal election letter, no donations. Social 2 to 4: 65 deaths at Pasta de Conchos, a mine Grupo México ran (Mittal precedent). Legal 0 to 3: a Delaware ruling held named directors, Larrea among them, liable for breach of loyalty (Musk precedent); who paid the judgment was not found. Unresolved 0 to 2: company-level complaint pending; a reported 2026 withdrawal rests on one advocacy outlet only, not cited."
+    "rationale": "Ecology stays 4: the 2014 Sonora spill, Profepa fine, Asarco settlement. Politics stays 1: a personal election letter, no donations. Social 2 to 4: 65 deaths at Pasta de Conchos, a mine Grupo México ran (Mittal precedent). Legal 0 to 3: a Delaware ruling held named directors, Larrea among them, liable for breach of loyalty (Musk precedent); who paid the judgment was not found. Unresolved 0 to 2: company-level complaint pending; a reported 2026 withdrawal rests on one advocacy outlet only, not cited."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "El Financiero gives 22,959,386 pesos, 40,000 m3, 6 August 2014, about 22,000 people, highest fine under environmental law, on top of the 2,000m peso trust; Mexico News Daily confirms the spill details."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Opinion text read via pdftotext: Second Chamber, 15 January 2020, amparo granted to Lares Domínguez and others; paras 147-148 void the February 2017 extinction agreement and fund reversion and order residents heard before a new determination."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Mexico News Daily: complaint filed 17 August 2023 against Mexicana de Cananea, Buenavista del Cobre and Operadora de Minas; October 2023 Semarnat report found remediation insufficient; company said it was successful. Company level, allegation. No reliable source on later status of the complaint; the 2026 withdrawal claim appears only in an advocacy outlet and is not used."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "El Imparcial: 1,500m pesos from Grupo México in the December 2025 plan (strike closure and Río Sonora); Sheinbaum said 500m deposited and 1,000m pending (February 2026), the federal case against the company should close through an alternative way out, and in April 2026 that the company was about to deposit the remaining 1,000m."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the two early bodies are no longer attributed to the company (source says rescuers), the suspension is dated April 2007, 'no one held responsible' is narrowed to company representatives and officials as of 2024, and the age of the event is stated. No official finding on company responsibility is in the sources."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: Delaware Supreme Court opinion lists Germán Larrea among the individual Grupo México-affiliated director defendants held in breach of loyalty with AMC (judgment of $2.0316bn, affirmed 27 August 2012; the Chancery conclusion enters judgment against the defendants). Added that the Chancery said Grupo México could satisfy the judgment by returning shares; who actually paid is not sourced and not claimed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: 'owned since 1999' changed to 'bought in 1999', since AP says Grupo México lost control during the bankruptcy. EPA and AP support the amount, sites, states, funding and the officials' 'largest recovery' statement."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Expansión (30 May 2018) supports the letter to workers, suppliers and shareholders, the implied reference to López Obrador, his 'traficante de influencias' remark and Coparmex's support; Bloomberg Línea confirms the letter."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Rewritten: the source puts the occupied Medias Aguas-Coatzacoalcos section at 91 km per GMXT; 120 km is the Veracruz section ceded in the deal. Claim now says the navy occupied rail sections and Ferrosur ceded the 120 km section."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "1Q 2024 report dated 25 April 2024 states renewable electricity rose from 19% to 32% after clean-energy certificates from a Peruvian supplier, and group GHG emissions fell about 4% in 2023 versus 2022."
+      }
+    ],
+    "passed": true
   }
 }

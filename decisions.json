@@ -585,6 +585,33 @@
         "accept": true,
         "why": "Tax concerns raised by reporting (ProPublica, 2022), disputed by Susquehanna."
       }
+    },
+    "giancarlo-devasini": {
+      "ecology": {
+        "value": 2,
+        "accept": true,
+        "why": "Material footprint through Tether's 70% stake in Adecoagro (food and agribusiness) and bitcoin mining."
+      },
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Documented commercial ties to the administration: Cantor Fitzgerald (Lutnick's former firm) is custodian and reported shareholder, and a former White House crypto adviser became CEO of Tether U.S. The senators' questions remain allegations, as the reason says."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "New York attorney general's findings on misleading reserve claims (settled 2021): documented company-level problems."
+      },
+      "legal": {
+        "value": 3,
+        "accept": true,
+        "why": "R2: two Italian papers report a personal fine agreed by patteggiamento in a 1995 case. An Italian plea bargain is not an admission of guilt, and no court record was found, so this is scored as a personal penalty (3), not a guilty plea (4). More than 30 years old."
+      },
+      "unresolved": {
+        "value": 3,
+        "accept": true,
+        "why": "R6: named defendant in the pending Tether/Bitfinex class action in New York (classes certified February 2026)."
+      }
     }
   },
   "counterweights": {
