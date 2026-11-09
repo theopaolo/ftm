@@ -153,7 +153,7 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Gautam Adani",
-      "claim": "Indicted in Brooklyn in November 2024, with Sagar Adani and Vneet Jaain, on securities and wire fraud charges tied to an alleged scheme to offer about $265 million in bribes to Indian officials for solar contracts. On 10 August 2026 a judge dismissed those counts with prejudice at the Justice Department's request, stating no view on the allegations and calling the process irregular.",
+      "claim": "Indicted in Brooklyn in November 2024, with Sagar Adani and Vneet Jaain, on securities and wire fraud charges tied to an alleged scheme to offer about $265 million in bribes to Indian officials for solar contracts. On 10 August 2026 a judge dismissed those counts with prejudice at the Justice Department’s request, calling it no verdict on the allegations and faulting the department’s process.",
       "evidence_type": "indictment",
       "date": "2026-08-10",
       "source_ids": [
@@ -194,7 +194,7 @@
       "theme": "legal",
       "level": "individual",
       "entity": "Gautam Adani, four Adani group companies and 13 others",
-      "claim": "In September 2026 Gautam Adani, Adani Enterprises, Adani Power, Adani Ports and Adani Transmission, with 13 others, settled SEBI proceedings over alleged breaches of minimum public shareholding rules, paying ₹1.48 crore in total without admitting or denying the allegations.",
+      "claim": "In September 2026 Gautam Adani, Adani Enterprises, Adani Power, Adani Ports and Adani Transmission, with 13 others, settled SEBI proceedings over alleged breaches of minimum public shareholding rules without admitting or denying them. The applicants paid ₹1.48 crore in total; the report gives no split by party.",
       "evidence_type": "settlement",
       "date": "2026-09-28",
       "source_ids": [
@@ -221,7 +221,7 @@
       "theme": "politics",
       "level": "individual",
       "entity": "Gautam Adani",
-      "claim": "Reporters Without Borders, in its India profile for the 2026 index, describes Gautam Adani as close to Prime Minister Narendra Modi and says his group took control of the broadcaster NDTV through a hostile takeover at the end of 2022. This is the NGO's characterisation, not an official finding.",
+      "claim": "Adani's group took control of the broadcaster NDTV at the end of 2022, a takeover Reporters Without Borders describes as hostile. RSF's 2026 India profile also describes Gautam Adani as close to Prime Minister Narendra Modi; that is the NGO's characterisation, not an official finding.",
       "evidence_type": "investigative_reporting",
       "date": "2026",
       "source_ids": [
@@ -234,7 +234,7 @@
       "theme": "public-money",
       "level": "company",
       "entity": "Adani Power (Godda plant)",
-      "claim": "A Bangladesh government review committee reported in January 2026 that Adani Power's Godda plant sells electricity to Bangladesh at a 39.7% premium over its nearest private competitor, found serious anomalies in how the contract was awarded, and urged renegotiation. The report, reviewed by Reuters, is unpublished; Adani said it was not consulted.",
+      "claim": "A Bangladesh government-appointed review committee reported in January 2026 that Adani Power's Godda plant sells power to Bangladesh at a 39.7% premium over its nearest private competitor and found serious anomalies in how the contract was awarded. The report, reviewed by Reuters, is unpublished; Adani said it was not consulted.",
       "evidence_type": "official_report",
       "date": "2026-01",
       "source_ids": [
@@ -274,7 +274,7 @@
       "legal": {
         "value": 3,
         "basis": "documented",
-        "reason": "Indicted in New York in 2024 on fraud charges tied to an alleged $265 million bribery scheme; in August 2026 a judge dismissed them with prejudice at the Justice Department’s request without ruling on the allegations. He settled the SEC civil case with a $6 million penalty and a 2026 SEBI shareholding case, both without admitting the allegations. Adani Enterprises paid $275 million to settle a US Iran sanctions matter. SEBI dropped Hindenburg’s related-party allegations in 2025.",
+        "reason": "Indicted in New York in 2024 on fraud charges tied to an alleged $265 million bribery scheme; in August 2026 a judge dismissed them with prejudice at the Justice Department’s request without ruling on the allegations. He settled the SEC civil case with a $6 million penalty and a 2026 SEBI shareholding case, both without admitting the allegations. Adani Enterprises agreed to pay $275 million to settle a US Iran sanctions matter. SEBI dropped Hindenburg’s related-party allegations in 2025.",
         "finding_ids": [
           "f1",
           "f2",
@@ -286,7 +286,7 @@
       "politics": {
         "value": 2,
         "basis": "documented",
-        "reason": "Reporters Without Borders describes Gautam Adani as close to Prime Minister Narendra Modi and says his group took control of the broadcaster NDTV through a hostile takeover in 2022. This is the NGO’s characterisation, not an official finding. No political donation by Adani or his companies is documented here.",
+        "reason": "Adani’s group took control of the broadcaster NDTV at the end of 2022, a takeover Reporters Without Borders describes as hostile. RSF also describes him as close to Prime Minister Narendra Modi; that is the NGO’s characterisation, not an official finding. No political donation by Adani or his companies is documented here.",
         "finding_ids": [
           "f6"
         ]
@@ -302,7 +302,7 @@
       "unresolved": {
         "value": 1,
         "basis": "documented",
-        "reason": "No personal case is pending after the 2026 dismissal and settlements. A Bangladesh government committee reported in January 2026 that Adani Power’s Godda supply deal was overpriced and awarded through anomalous procedures, and urged renegotiation; the report is unpublished and no case was found.",
+        "reason": "The US criminal case against him was dismissed and the SEC case settled in 2026. A Bangladesh government committee reported in January 2026 that Adani Power’s Godda supply deal carries a 39.7% price premium over its nearest private competitor and was awarded through anomalous procedures; the report is unpublished and no case over it was found.",
         "finding_ids": [
           "f7",
           "f1",
@@ -312,5 +312,56 @@
     },
     "counterweights": "Adani Ports reports spending about ₹199 crore on corporate social responsibility in 2025-26, mostly on education, through the Adani Foundation (a company figure).",
     "rationale": "Legal stays 3 (R2: dropped personal indictment, personal SEC penalty). Status changes: dismissal with prejudice (Aug 2026), SEC judgment entered, new SEBI settlement. The DOJ and Business Standard sources returned 403 or empty and are not re-cited; their facts are re-sourced. Politics 1 to 2: owner of influential media (NDTV), as for Ambani. Social 1 to 2: company fatalities, as for Mars (OSHA). Unresolved 0 to 1: Bangladesh review is not a pending case; SEBI's residual probes could not be confirmed open or closed. Ecology not reviewed."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: 'calling the process irregular' replaced by the judge's actual points (no verdict on the allegations; irregularities in the DOJ's internal process). Indictment (Week) and with-prejudice dismissal of counts 2-4 for the three defendants (ThePrint/PTI) confirmed. Not added: counts against five co-defendants stayed open (judge denied DOJ dismissal bid on 3 Sept 2026 per later reports)."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Final judgment (EDNY, filed 10 Aug 2026, Garaufis) confirms consent without admitting, 10(b)/10b-5 and 17(a) injunctions, $6m penalty; SEC LR-26554 confirms the 2021 bond-offering allegations and Sagar Adani's $12m consent."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "OFAC recent action of 18 May 2026 confirms $275m, 32 apparent violations, Nov 2023-Jun 2025, Dubai trader, egregious, not voluntarily self-disclosed. Company level; Gautam Adani not named."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: made explicit that ₹1.48 crore is the total paid by all applicants and the source gives no split by party; 'without admitting or denying' kept. Gautam Adani is named as a settling party."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Outlook Money confirms the September 2025 SEBI orders dropping the related-party proceedings (no violation under the definition then in force, no fraud); Deccan Chronicle confirms five group companies settled related-party disclosure lapses for ₹1.51 crore the week before 28 Sept 2026."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: NDTV takeover stated as fact with 'hostile' attributed to RSF; closeness to Modi labelled as RSF's characterisation. RSF India page (2026 index) confirms both statements."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: removed 'urged renegotiation' because the report's call to review contracts for renegotiation is general to electricity contracts, not specific to Godda; 'government-appointed' made explicit. Premium, anomalies, unpublished status and Adani's response confirmed."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Company-reported, labelled as such. APSEZ 2024-25 annual report states six contractors died and describes the three incidents named."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "APSEZ 2025-26 report gives 70% increase and table summing to ₹199.40 crore with education ₹127.82 crore; implemented through the Adani Foundation. India CSR confirms ₹199 crore. Company figure."
+      }
+    ],
+    "passed": true
   }
 }
