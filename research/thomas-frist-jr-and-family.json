@@ -1,0 +1,303 @@
+{
+  "id": 48,
+  "slug": "thomas-frist-jr-and-family",
+  "name": "Thomas Frist Jr. & family",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "North Carolina attorney general lawsuit HCA Mission Health ruling 2025",
+    "HCA Mission Hospital attorney general Jackson lawsuit trial date October 2026",
+    "Thomas Frist Jr. political donations Republican super PAC",
+    "HCA Mission Health antitrust settlement Buncombe County cities $ million 2025",
+    "HCA Healthcare data breach class action settlement 2026 11 million patients",
+    "HCA $215 million settlement shareholders IPO securities class action 2016 Nashville",
+    "\"Thomas Frist\" OR \"Tommy Frist\" donor 2024 campaign contribution Tennessee",
+    "HCA Healthcare lobbying spending 2025 opensecrets",
+    "HCA Healthcare political participation overview 2025 PAC contributions lobbying",
+    "HCA founder Thomas Frist Jr. donated million political committee",
+    "HCA Healthcare federal lobbying 2025 total million Federation of American Hospitals site budget reconciliation Medicaid",
+    "justice.gov HCA False Claims Act settlement agrees to pay 2024 OR 2025 OR 2026",
+    "Davis v. HCA class action Mission Health antitrust patients class certification Asheville 2026",
+    "HCA Healthcare 10-Q 2026 \"legal proceedings\" government investigation civil investigative demand",
+    "Frist Foundation Nashville grants paid annual total 990 propublica",
+    "HCA Healthcare Scope 1 and 2 greenhouse gas emissions 2024 metric tons sustainability report",
+    "ncdoj.gov Attorney General Jeff Jackson HCA Mission ruling trial press release",
+    "\"Frist\" named defendant lawsuit HCA 2006 buyout shareholders Bain KKR Merrill"
+  ],
+  "sources": [
+    {
+      "id": "hca",
+      "label": "U.S. DOJ: HCA healthcare fraud settlement (2003)",
+      "url": "https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm",
+      "publisher": "U.S. Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2003-06-26",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-8k-ipo-2015",
+      "label": "SEC (HCA 8-K): HCA to pay $215m to settle IPO shareholder suit (2015)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000860730/000119312515365292/d63083d8k.htm",
+      "publisher": "HCA Holdings, Inc., filed with the U.S. Securities and Exchange Commission",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2015-11-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "rgrd-schuh",
+      "label": "Robbins Geller: Schuh v. HCA Holdings, $215m settlement approved (2016)",
+      "url": "https://www.rgrdlaw.com/cases-schuh-v-hca-holdings-inc.html",
+      "publisher": "Robbins Geller Rudman & Dowd LLP (plaintiffs' counsel)",
+      "publisher_type": "other",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "sec-merger-2006",
+      "label": "SEC (HCA press release): HCA settles merger-related litigation (2006)",
+      "url": "https://www.sec.gov/Archives/edgar/data/860730/000095014406010515/g04181exv99w1.htm",
+      "publisher": "HCA Inc., filed with the U.S. Securities and Exchange Commission",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2006-11-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "wfae-ag-trial-2026",
+      "label": "WFAE: Judge sends NC attorney general's HCA lawsuit to trial (2026)",
+      "url": "https://www.wfae.org/2026-07-28/judge-allows-nc-attorney-generals-lawsuit-against-hca-over-mission-hospital-to-proceed-to-trial",
+      "publisher": "WFAE (NPR member station, Charlotte)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-07-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "nchn-antitrust-2025",
+      "label": "NC Health News: HCA settles antitrust suit with western NC governments (2025)",
+      "url": "https://www.northcarolinahealthnews.org/2025/08/16/hca-settles-antitrust-lawsuit-with-western-nc-local-governments/",
+      "publisher": "North Carolina Health News (with Carolina Public Press)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-08-16",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "duanemorris-davis-2026",
+      "label": "Duane Morris: NC court denies class certification in HCA monopoly case (2026)",
+      "url": "https://blogs.duanemorris.com/classactiondefense/2026/09/17/north-carolina-superior-court-denies-class-certification-in-hospital-monopoly-case/",
+      "publisher": "Duane Morris LLP, Class Action Defense Blog",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2026-09-17",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "stb-davis-2026",
+      "label": "Simpson Thacher: Class certification defeated in HCA antitrust case (2026)",
+      "url": "https://www.stblaw.com/about-us/news/view/2026/09/08/stb-defeats-class-certification-in-long-running-antitrust-litigation-against-hca-healthcare",
+      "publisher": "Simpson Thacher & Bartlett LLP (HCA's counsel)",
+      "publisher_type": "other",
+      "names_subject": true,
+      "published": "2026-09-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "govinfosec-breach-2025",
+      "label": "GovInfoSecurity: Court finalizes HCA data breach class settlement (2025)",
+      "url": "https://www.govinfosecurity.com/court-finalizes-hca-data-breach-class-action-settlement-a-29908",
+      "publisher": "Information Security Media Group (GovInfoSecurity)",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-10-31",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "hca-political-2025",
+      "label": "HCA Healthcare: Political participation overview, July–December 2025 (2026)",
+      "url": "https://www.hcadam.com/api/public/content/fe83f306a1e14f9e8e3c96286a71f608?v=d465032f",
+      "publisher": "HCA Healthcare, Inc.",
+      "publisher_type": "company",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "propublica-frist-foundation",
+      "label": "ProPublica: Nonprofit Explorer, The Frist Foundation 990-PF filings (2026)",
+      "url": "https://projects.propublica.org/nonprofits/organizations/621134070",
+      "publisher": "ProPublica, from IRS Form 990-PF filings",
+      "publisher_type": "press",
+      "names_subject": true,
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "HCA Inc. (formerly Columbia/HCA)",
+      "claim": "In 2000 and 2001, more than twenty years ago, HCA subsidiaries pleaded guilty to false-statement and Medicare kickback charges; by June 2003 HCA had paid the U.S. $1.7 billion in criminal fines, civil settlements and Medicare repayments, which the Justice Department called its largest health care fraud recovery. No personal charge against Thomas Frist Jr. appears, and no later change was found.",
+      "evidence_type": "guilty_plea",
+      "date": "2003-06-26",
+      "source_ids": [
+        "hca"
+      ]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "HCA Holdings, Inc.",
+      "claim": "In November 2015 HCA agreed to pay $215 million to settle a shareholder class action alleging misleading statements in its 2011 IPO, without admitting wrongdoing; a federal court in Tennessee approved it in April 2016. HCA put its net cost, with related derivative suits, at about $120 million after insurance.",
+      "evidence_type": "settlement",
+      "date": "2016-04-14",
+      "source_ids": [
+        "sec-8k-ipo-2015",
+        "rgrd-schuh"
+      ]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "finance",
+      "level": "company",
+      "entity": "HCA Inc.",
+      "claim": "Six consolidated Tennessee class actions over the 2006 buyout of HCA by Bain Capital, KKR, Merrill Lynch and Thomas Frist Jr. were settled in November 2006 with extra disclosure and a cap on the termination fee, subject to court approval; HCA and the other defendants denied the allegations. The filing does not say whether Frist was himself a defendant.",
+      "evidence_type": "settlement",
+      "date": "2006-11-08",
+      "source_ids": [
+        "sec-merger-2006"
+      ]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "health",
+      "level": "company",
+      "entity": "HCA Healthcare",
+      "claim": "North Carolina's attorney general sued HCA in December 2023, alleging it breached its 2019 purchase agreement for Mission Health by cutting emergency and cancer care; HCA says it complies. On 27 July 2026 the Business Court denied both sides' summary judgment motions, so the case goes to trial; no trial date had been reported.",
+      "evidence_type": "pending_case",
+      "date": "2026-07-27",
+      "source_ids": [
+        "wfae-ag-trial-2026"
+      ]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "HCA Healthcare and Mission Health",
+      "claim": "In August 2025 HCA and Mission Health settled a 2022 antitrust suit by Brevard, Asheville, Buncombe County and Madison County alleging monopolistic tactics, agreeing to fund a $1 million charity fund and keep a Brevard hospital open to 2032. They denied the allegations; a Buncombe County suit over emergency-room staffing was still pending.",
+      "evidence_type": "settlement",
+      "date": "2025-08-16",
+      "source_ids": [
+        "nchn-antitrust-2025"
+      ]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "HCA Healthcare",
+      "claim": "On 8 September 2026 the North Carolina Business Court denied class certification in Davis v. HCA Healthcare, a 2021 suit alleging HCA monopolised western North Carolina hospital care and pushed up insurance premiums, finding class-wide harm was not shown. Whether individual claims continue was not reported.",
+      "evidence_type": "final_ruling",
+      "date": "2026-09-08",
+      "source_ids": [
+        "duanemorris-davis-2026",
+        "stb-davis-2026"
+      ]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "health",
+      "level": "company",
+      "entity": "HCA Healthcare",
+      "claim": "In October 2025 a federal court in Tennessee gave final approval to HCA's settlement of 27 consolidated suits over a 2023 data breach affecting more than 11 million patients; the total was not disclosed and HCA denied wrongdoing.",
+      "evidence_type": "settlement",
+      "date": "2025-10-31",
+      "source_ids": [
+        "govinfosec-breach-2025"
+      ]
+    },
+    {
+      "id": "f8",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "company",
+      "entity": "HCA Healthcare",
+      "claim": "HCA reports that in 2025 it and its affiliates gave $450,000 to party governors' and attorneys-general groups of both parties and paid $2.0 million in trade-association dues allocated to lobbying; in the second half of 2025 they gave $4.2 million to state candidates, committees and PACs. No personal political spending by Thomas Frist Jr. was found.",
+      "evidence_type": "company_disclosure",
+      "date": "2025-12-31",
+      "source_ids": [
+        "hca-political-2025"
+      ]
+    },
+    {
+      "id": "f9",
+      "direction": "counterweight",
+      "theme": "philanthropy",
+      "level": "foundation",
+      "entity": "The Frist Foundation",
+      "claim": "The Frist Foundation, a Nashville private foundation run by the Frist family with Thomas Frist Jr. as director emeritus (chairman 2012 to 2018), reported charitable disbursements of $59.2 million in 2024 and $19.1 million in 2023 on its IRS 990-PF returns.",
+      "evidence_type": "documented_giving",
+      "date": "2024",
+      "source_ids": [
+        "propublica-frist-foundation"
+      ]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "HCA reports ordinary corporate political activity: in 2025 it gave $450,000 to party groups of both parties and paid $2.0 million in trade-association dues allocated to lobbying, and in the second half of the year its affiliates gave $4.2 million to state candidates and PACs. No personal political spending by Thomas Frist Jr. was found.",
+        "finding_ids": [
+          "f8"
+        ]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "HCA settled major federal fraud cases over hospital billing and kickbacks to doctors, after its subsidiaries pleaded guilty in 2000 and 2001. North Carolina's attorney general alleges HCA cut emergency and cancer care at Mission Health, which HCA denies; the case is going to trial. HCA also settled class suits over a 2023 data breach affecting 11 million patients, denying wrongdoing.",
+        "finding_ids": [
+          "f1",
+          "f4",
+          "f7"
+        ]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level record, no personal charge: HCA subsidiaries pleaded guilty in 2000 and 2001, and HCA paid $1.7 billion in fraud settlements and repayments by 2003. Later settlements without admission: $215 million to IPO shareholders (2016), a 2025 municipal antitrust suit and a 2025 data breach case. A 2026 ruling refused class status in a patients' antitrust suit.",
+        "finding_ids": [
+          "f1",
+          "f2",
+          "f3",
+          "f5",
+          "f6",
+          "f7"
+        ]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Pending at company level: North Carolina's attorney general's suit alleging HCA breached its Mission Health purchase agreement by cutting emergency and cancer care was cleared for trial in July 2026; HCA says it complies. A Buncombe County suit over emergency-room staffing was also pending in 2025. No pending matter naming Thomas Frist Jr. was found.",
+        "finding_ids": [
+          "f4",
+          "f5"
+        ]
+      }
+    },
+    "counterweights": "The Frist Foundation, the family's private foundation, on whose board Thomas Frist Jr. sits as director emeritus, reported charitable disbursements of $59.2 million in 2024 and $19.1 million in 2023 (IRS 990-PF returns).",
+    "rationale": "Unresolved 0 to 2: the 'Not checked yet' default; the NC attorney general's suit is a pending company-level case (rubric 2). Politics stays 1, now documented: HCA's own disclosures show ordinary corporate giving and lobbying, and no personal donor record was found. Legal stays 2 under R5 (corporate guilty pleas, $1.7bn). The DOJ page was read via plain curl, as WebFetch got 403. Ecology not re-examined."
+  }
+}

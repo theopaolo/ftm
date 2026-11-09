@@ -179,7 +179,7 @@
       "theme": "labour",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "In 2019 the New York Times and the Guardian reported that hazelnuts bought by Ferrero in Turkey were picked by low-paid seasonal workers, including Syrian refugees and children as young as 11. Ferrero said it does not tolerate child labour; it then traced about 49% of its hazelnuts.",
+      "claim": "In 2019 the New York Times reported that hazelnuts bought in Turkey by Ferrero and others were picked by low-paid seasonal workers, many of them Syrian refugees; the Guardian reported filmed accounts of child workers allegedly as young as 11 on farms selling to Ferrero via intermediaries. Ferrero said it aimed to eliminate child labour and traced about 49% of its hazelnuts.",
       "evidence_type": "investigative_reporting",
       "date": "2019-12",
       "source_ids": [
@@ -194,7 +194,7 @@
       "theme": "health",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "In April 2022 Belgium's food safety agency withdrew the authorisation of Ferrero's Arlon plant, citing incomplete information from Ferrero, and all Kinder products made there were recalled. ECDC and EFSA counted 324 Salmonella cases linked to the plant by May 2022, mostly children aged 10 or under; no deaths were reported.",
+      "claim": "In April 2022 Belgium's food safety agency temporarily withdrew the authorisation of Ferrero's Arlon plant, saying Ferrero could not give it full information, and all Kinder products made there were recalled. By May 2022 ECDC and EFSA counted 324 Salmonella cases in the EU/EEA and UK linked to Arlon chocolate products, 86% in children aged 10 or under; no deaths were reported.",
       "evidence_type": "regulatory_penalty",
       "date": "2022-04-08",
       "source_ids": [
@@ -208,7 +208,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "Judicial investigations into the 2022 outbreak were opened in Belgium, with raids on six Ferrero sites, and in France, where Paris prosecutors cited suspected aggravated deceit and endangerment. They were reported still ongoing in October 2024; no charge, ruling or closure was found by November 2026.",
+      "claim": "In 2022 a judicial investigation into the outbreak was opened in Belgium, with police raids on six Ferrero sites in Belgium and Luxembourg, and Paris prosecutors opened a preliminary inquiry into suspected aggravated deceit and endangerment. AFP reported both investigations still ongoing in October 2024; no charge, ruling or closure was found by November 2026.",
       "evidence_type": "pending_case",
       "date": "2024-10-17",
       "source_ids": [
@@ -223,7 +223,7 @@
       "theme": "health",
       "level": "company",
       "entity": "Ferrero USA",
-      "claim": "In 2012 Ferrero USA settled US class actions alleging that Nutella was marketed as a healthy breakfast, setting aside $3 million for refunds and agreeing to change its label and advertising. The report states no admission of wrongdoing.",
+      "claim": "In 2012 Ferrero USA settled a US class action alleging that Nutella was advertised as a healthy children's breakfast, setting aside $3 million for consumer refunds and agreeing to change its label and advertising. The report does not mention any admission of wrongdoing.",
       "evidence_type": "settlement",
       "date": "2012-04",
       "source_ids": [
@@ -236,7 +236,7 @@
       "theme": "legal",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "In April 2026 the European Commission carried out unannounced antitrust inspections at Ferrero offices, which Ferrero confirmed, over possible market segmentation and obstacles to cross-border purchasing. The Commission said inspections do not prejudge the outcome; no formal proceedings were found.",
+      "claim": "In April 2026 the European Commission carried out unannounced antitrust inspections at a chocolate company in two EU states over possible market segmentation and obstacles to cross-border purchases; Ferrero confirmed it was the company. The Commission said inspections do not mean a company is guilty; no formal proceedings were found.",
       "evidence_type": "pending_case",
       "date": "2026-04-13",
       "source_ids": [
@@ -250,7 +250,7 @@
       "theme": "politics",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "RTBF reported in 2025 that Ferrero, which has not adopted the Nutri-Score label, works through intermediaries, including an Italian food industry platform co-founded by a Ferrero lobbyist whose events hosted criticism of the label. Ferrero said it neither funds nor manages that platform.",
+      "claim": "RTBF reported in 2025 that Ferrero has not adopted the Nutri-Score label and quoted a journalist saying it acts through intermediaries. A Ferrero lobbyist co-founded IT Food, an Italian food industry network whose events several media described as a forum against the label; Ferrero said it neither funds nor manages it.",
       "evidence_type": "investigative_reporting",
       "date": "2025-10-22",
       "source_ids": [
@@ -263,7 +263,7 @@
       "theme": "tax",
       "level": "company",
       "entity": "Ferrero",
-      "claim": "The Guardian reported in 2020 that Ferrero's UK business paid about £110,000 in UK tax on £419m of sales after a £334m charge to the group's Luxembourg holding, as Giovanni Ferrero approved a €642m family dividend. Tax experts called the structure complex; no rule breach was alleged.",
+      "claim": "The Guardian reported in 2020 that Ferrero's UK business paid £110,000 in UK tax on £419m of sales after a £334m cost-of-sales charge to the group's Luxembourg holding, as Giovanni Ferrero approved a €642m family dividend. Tax experts accused it of a complex structure that minimised tax; no breach of law was alleged.",
       "evidence_type": "investigative_reporting",
       "date": "2020-01-24",
       "source_ids": [
@@ -289,7 +289,7 @@
       "politics": {
         "value": 1,
         "basis": "documented",
-        "reason": "Ordinary corporate lobbying: RTBF reported in 2025 that Ferrero, which has not adopted the Nutri-Score label, acts on it through intermediaries, including an industry platform co-founded by a Ferrero lobbyist whose events hosted criticism of the label; Ferrero says it neither funds nor manages it. No political donation or office by Giovanni Ferrero was found.",
+        "reason": "Ordinary corporate lobbying: RTBF reported in 2025 that Ferrero has not adopted the Nutri-Score label and that a Ferrero lobbyist co-founded an Italian food industry network whose events several media described as a forum against the label; Ferrero says it neither funds nor manages it. No political donation or office by Giovanni Ferrero was found.",
         "finding_ids": [
           "f6"
         ]
@@ -297,7 +297,7 @@
       "social": {
         "value": 2,
         "basis": "documented",
-        "reason": "Reporting has linked hazelnut supply chains used by Ferrero to child labour and low pay in Turkey (New York Times and Guardian, 2019); Ferrero says it does not tolerate child labour. In 2022 a Salmonella outbreak traced to Ferrero's Arlon plant caused 324 recorded cases, mostly young children. No court or regulator finding of child labour was found.",
+        "reason": "Reporting has linked hazelnut supply chains used by Ferrero in Turkey to low pay and, allegedly, child labour (New York Times and Guardian, 2019); Ferrero said it aimed to eliminate child labour. In 2022 ECDC and EFSA linked 324 Salmonella cases, mostly young children, to chocolate from Ferrero's Arlon plant. No court or regulator finding of child labour was found.",
         "finding_ids": [
           "f1",
           "f2"
@@ -306,7 +306,7 @@
       "legal": {
         "value": 1,
         "basis": "documented",
-        "reason": "Company-level regulatory action: Belgium's food safety agency withdrew the Arlon plant's authorisation in 2022 during the Salmonella outbreak. In 2012 Ferrero USA settled US class actions over Nutella health claims for about $3 million. No court finding against the company and no personal record were found.",
+        "reason": "Company-level regulatory action: Belgium's food safety agency temporarily withdrew the Arlon plant's authorisation in 2022 during the Salmonella outbreak. In 2012 Ferrero USA settled a US class action over Nutella health claims for $3 million. No court finding against the company and no personal record were found.",
         "finding_ids": [
           "f2",
           "f4"
@@ -315,7 +315,7 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "Pending at company level: judicial investigations in Belgium and France into the 2022 Salmonella outbreak, last reported ongoing in October 2024, and EU antitrust inspections of Ferrero in April 2026, with no finding yet. Reporting in 2020 also questioned the group's Luxembourg tax structure. No personal matter was found.",
+        "reason": "Pending at company level: investigations in Belgium and France into the 2022 Salmonella outbreak, last reported ongoing in October 2024, and EU antitrust inspections of Ferrero in April 2026, which are not a finding of wrongdoing. Reporting in 2020 also questioned the group's Luxembourg tax structure. No personal matter was found.",
         "finding_ids": [
           "f3",
           "f5",
@@ -324,6 +324,52 @@
       }
     },
     "counterweights": "In 2018 the Ferrero family gave €5 million for the operating theatres of the new Alba-Bra hospital at Verduno.",
-    "rationale": "Legal 0 to 1: a regulator withdrew a plant licence and a modest US settlement exists (R5: no major outcome). Unresolved 0 to 2: two judicial investigations and an EU antitrust probe are pending at company level; none names Giovanni Ferrero (R6 not met). Social stays 2. The Guardian's 2019 article could not be fetched; the fact is re-sourced via its BHRRC republication and New York Times coverage. Politics stays 1, now documented. Ecology not researched."
+    "rationale": "Legal 0 to 1: a regulator temporarily withdrew a plant licence and a modest US settlement exists (R5: no major outcome). Unresolved 0 to 2: two investigations into the outbreak and an EU antitrust inquiry are pending at company level; none names Giovanni Ferrero (R6 not met). Social stays 2. The Guardian's 2019 article could not be fetched; the fact is re-sourced via its BHRRC republication and New York Times coverage. Politics stays 1, now documented. Ecology not researched."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "Rewritten: 'children as young as 11' is now attributed to the Guardian and marked 'allegedly', as BHRRC's republication of the Guardian (Tondo, 20 Dec 2019) has it, with farmers selling via intermediaries; Ferrero's 'does not tolerate child labour' replaced by its stated aim to eliminate it. BHRRC confirms the 49% traced figure; The New Arab (NYT, Apr 2019) confirms Syrian refugees and low pay; ESM confirms NYT coverage."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "Rewritten: the withdrawal was 'temporary' (Brussels Times, 8 Apr 2022; reason: company could not give full information; all Arlon Kinder products recalled). ECDC/EFSA (18 May 2022) gives 324 cases in EU/EEA and UK, 86.3% aged 10 or under, no deaths, Arlon chocolate as likely vehicle; it does not name Ferrero (names_subject false is correct)."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "Rewritten: the six raided sites were in Belgium and Luxembourg (Brussels Times, 9 Jun 2022); the French probe was a Paris prosecutors' preliminary inquiry after a foodwatch complaint (The Local, 9 Jun 2022). DH/AFP (17 Oct 2024) confirms investigations in both countries ongoing, no charge. Company level, pending_case correct. A search found no later charge or closure."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: one class action, not several (FoodNavigator, 30 Apr 2012); $3m set aside, $4 per jar up to $20, label and ads changed. 'States no admission' became 'does not mention any admission', since the report is silent on it. Settlement, company level, correct."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: the Commission did not name the company; Ferrero confirmed (Just Food and AFP via The Peninsula, 15 Apr 2026). Its wording is that inspections do not mean a company is guilty, a preliminary step. Pending_case at company level is correct; a search found no formal proceedings since."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Rewritten: 'works through intermediaries' is a journalist's view quoted by RTBF (22 Oct 2025), now attributed; the anti-Nutri-Score character of IT Food events is what several media say, per RTBF. Non-adoption of Nutri-Score, Ferrero lobbyist among founders and Ferrero's denial of funding or managing confirmed."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Rewritten: the £334m was a 'cost of sales' charge, and the experts' view is now stated as reported (structured in a complex manner to minimise tax), not just 'complex'. Guardian (Rupert Neate, 24 Jan 2020) via Yahoo Finance, credited: £110,000 tax, £419m sales, €642m (£542m) dividend approved by Giovanni Ferrero; no breach of law alleged."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Cuneodice (29 Jun 2018): the Ferrero family donated and handed over €5m on 28 June 2018 for the operating theatres of the Verduno hospital, an amount paid, not pledged; Giovanni Ferrero spoke as executive chairman. More than eight years old; the counterweight text gives the year."
+      }
+    ],
+    "passed": true
   }
 }
