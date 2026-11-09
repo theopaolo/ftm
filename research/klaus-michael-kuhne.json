@@ -1,0 +1,238 @@
+{
+  "id": 47,
+  "slug": "klaus-michael-kuhne",
+  "name": "Klaus-Michael Kühne",
+  "researched_at": "2026-11-08",
+  "outcome": "specific_sources_found",
+  "queries": [
+    "European Commission fines freight forwarders cartel Kuehne + Nagel 2012",
+    "Kühne+Nagel Nazi past study after Kühne death 2026",
+    "ec.europa.eu press release Commission fines 14 international freight forwarders €169 million IP/12/314",
+    "\"Antitrust: Commission fines freight forwarders\" cartels surcharges 2012 presscorner",
+    "Court of Justice dismisses appeal Kuehne + Nagel freight forwarding fine judgment",
+    "Commerce Commission New Zealand Kuehne + Nagel fined price fixing High Court 2014",
+    "Kuehne + Nagel fined OR penalty OR settlement 2024 OR 2025 OR 2026 regulator",
+    "justice.gov Kuehne + Nagel plead guilty freight forwarding price fixing fine",
+    "Kühne Parteispende Bundestag CDU FDP Kühne Holding Spende",
+    "Hamburg opera house Kühne Foundation contract city Bürgerschaft approved 2025",
+    "Kühne-Stiftung Ausgaben Millionen Euro Förderung jährlich Logistik Medizin Kultur",
+    "Kuehne+Nagel Science Based Targets validated emissions reduction achieved scope 1 2 2024",
+    "Kühne Foundation annual report 2024 funding volume CHF million spent",
+    "WEKO Speditionskartell Kühne + Nagel Busse Luftfracht Bundesverwaltungsgericht",
+    "Klaus-Michael Kühne lawsuit OR court OR investigation personally",
+    "Bundesverwaltungsgericht Urteil Kühne + Nagel WEKO Spediteure Zuschläge Beschwerde abgewiesen",
+    "Kühne+Nagel Verwaltungsrat Historiker Studie NS-Zeit beauftragt Oktober 2026",
+    "Kuehne+Nagel Russia sanctions OR forced labour OR labour violation investigation"
+  ],
+  "sources": [
+    {
+      "id": "doj-plea-agreement",
+      "label": "US Justice Department: plea agreement, US v. Kühne + Nagel International AG (2011)",
+      "url": "https://www.justice.gov/atr/case-document/file/500906/dl",
+      "publisher": "US Department of Justice",
+      "publisher_type": "government",
+      "names_subject": true,
+      "published": "2011-11-04",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "kn-plea-approved",
+      "label": "Kuehne + Nagel: plea agreement approved by US court (2011)",
+      "url": "https://newsroom.kuehne-nagel.com/plea-agreement-approved-by-us-court/",
+      "publisher": "Kuehne + Nagel",
+      "publisher_type": "company",
+      "names_subject": true,
+      "published": "2011-11-05",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "logisticsmanager-eu-fine",
+      "label": "Logistics Manager: EU fines freight forwarders €169m (2012)",
+      "url": "https://www.logisticsmanager.com/18148-eu-fines-freight-forwarders-169m-euros/",
+      "publisher": "Logistics Manager",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2012-03-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "aircargonews-cjeu-appeal",
+      "label": "Air Cargo News: forwarders lose appeal against €169m cartel fines (2018)",
+      "url": "https://www.aircargonews.net/forwarders-lose-appeal-against-169m-fines-for-air-cargo-cartel-between-2002-and-2007/21503.article",
+      "publisher": "Air Cargo News",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2018-02-02",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "comcom-nz-penalty",
+      "label": "NZ Commerce Commission: air freight cartel nets almost $12 million in penalties (2014)",
+      "url": "https://www.comcom.govt.nz/news-and-media/news-and-events/2014/air-freight-cartel-nets-almost-12-million-in-penalties/",
+      "publisher": "New Zealand Commerce Commission",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2014-04-08",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "weko-airfreight-2012",
+      "label": "WEKO: fines for the international air freight forwarders cartel (2012)",
+      "url": "https://www.newsd.admin.ch/newsd/message/attachments/29119.pdf",
+      "publisher": "Swiss Competition Commission (WEKO)",
+      "publisher_type": "regulator",
+      "names_subject": true,
+      "published": "2012-12-18",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "bundestag-cdu-2023",
+      "label": "Bundestag: party donations above €50,000, including Kühne to CDU (2023)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-959262",
+      "publisher": "Deutscher Bundestag",
+      "publisher_type": "legislature",
+      "names_subject": true,
+      "published": "2023-07-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "blick-donations",
+      "label": "Blick: how much the Schwyz billionaire puts into German politics (2025)",
+      "url": "https://www.blick.ch/politik/und-was-ist-mit-der-schweiz-so-viel-geld-steckt-schwyzer-milliardaer-in-deutsche-politik-id21002423.html",
+      "publisher": "Blick",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2025-06-28",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "swissinfo-kuehne",
+      "label": "Swissinfo: Kühne+Nagel to examine its Nazi-era past (2026)",
+      "url": "https://www.swissinfo.ch/eng/various/k%C3%BChnenagel-wants-to-shed-light-on-its-nazi-past/92113951",
+      "publisher": "Swissinfo",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-24",
+      "accessed": "2026-11-08"
+    },
+    {
+      "id": "euronews-foundation",
+      "label": "Euronews: German billionaire's death creates one of Europe's largest foundations (2026)",
+      "url": "https://fr.euronews.com/business/2026/09/01/la-mort-du-milliardaire-allemand-cree-une-des-plus-grandes-fondations-deurope",
+      "publisher": "Euronews",
+      "publisher_type": "press",
+      "names_subject": true,
+      "published": "2026-09-01",
+      "accessed": "2026-11-08"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f1",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Kühne + Nagel International AG",
+      "claim": "Kühne + Nagel International AG pleaded guilty in the US District Court for the District of Columbia to five Sherman Act counts over air freight forwarding surcharges, with an agreed criminal fine of $9,865,044. The plea, entered into in 2010, was approved by the court in November 2011.",
+      "evidence_type": "guilty_plea",
+      "date": "2011-11",
+      "source_ids": ["doj-plea-agreement", "kn-plea-approved"]
+    },
+    {
+      "id": "f2",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Kuehne + Nagel",
+      "claim": "In March 2012 the European Commission fined Kuehne + Nagel €53.7 million, the largest fine in a €169 million decision on four air freight surcharge cartels run from 2002 to 2007. The General Court upheld the decision in 2016 and the Court of Justice dismissed Kuehne + Nagel's appeal in February 2018.",
+      "evidence_type": "final_ruling",
+      "date": "2018-02",
+      "source_ids": ["logisticsmanager-eu-fine", "aircargonews-cjeu-appeal"]
+    },
+    {
+      "id": "f3",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Kuehne + Nagel International AG",
+      "claim": "In April 2014 New Zealand's High Court ordered Kuehne + Nagel to pay a NZ$3.1 million penalty plus costs; the company admitted taking part in a cartel that fixed surcharges on UK-to-New Zealand air freight, after losing a challenge to the court's jurisdiction.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2014-04-08",
+      "source_ids": ["comcom-nz-penalty"]
+    },
+    {
+      "id": "f4",
+      "direction": "concern",
+      "theme": "legal",
+      "level": "company",
+      "entity": "Kühne + Nagel International AG",
+      "claim": "In December 2012 the Swiss Competition Commission fined Kühne + Nagel International AG CHF 1,173,767 for horizontal price-fixing of air freight fees and surcharges between 2003 and 2007. The case was closed by a negotiated settlement with the authority.",
+      "evidence_type": "regulatory_penalty",
+      "date": "2012-12-11",
+      "source_ids": ["weko-airfreight-2012"]
+    },
+    {
+      "id": "f5",
+      "direction": "concern",
+      "theme": "politics",
+      "level": "individual",
+      "entity": "Klaus-Michael Kühne",
+      "claim": "The Bundestag published a personal donation of €65,000 from Kühne to the CDU on 3 May 2023. Blick reported in June 2025 that he gave the CDU €65,000 to €70,000 a year in 2021 to 2023 and €70,000 in 2025, and at least €550,000 to German parties over 20 years, citing a LobbyControl analysis.",
+      "evidence_type": "official_report",
+      "date": "2025-06",
+      "source_ids": ["bundestag-cdu-2023", "blick-donations"]
+    },
+    {
+      "id": "f6",
+      "direction": "concern",
+      "theme": "inheritance",
+      "level": "company",
+      "entity": "Kühne+Nagel",
+      "claim": "In September 2026 Kühne+Nagel's chair said the company would examine its Nazi-era role, including the expropriation of Jewish property; details and a start date were not yet set. Bilanz reported that Kühne had opposed an in-depth study, notably one examining his father's role.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-09-24",
+      "source_ids": ["swissinfo-kuehne"]
+    },
+    {
+      "id": "f7",
+      "direction": "concern",
+      "theme": "tax",
+      "level": "individual",
+      "entity": "Klaus-Michael Kühne (estate)",
+      "claim": "After Kühne died on 24 August 2026, his estate, including Kühne Holding's stakes in Kuehne+Nagel, Hapag-Lloyd and Lufthansa, passed to the Kühne Foundation. Euronews reported that no succession tax applied, as Schwyz levies no inheritance tax, and that Swiss law does not require private companies to publish accounts.",
+      "evidence_type": "investigative_reporting",
+      "date": "2026-09-01",
+      "source_ids": ["euronews-foundation"]
+    }
+  ],
+  "proposal": {
+    "scores": {
+      "politics": {
+        "value": 1,
+        "basis": "documented",
+        "reason": "Regular personal donations to Germany's CDU, published by the Bundestag: €65,000 in May 2023; €65,000 to €70,000 a year in 2021 to 2023 and €70,000 in 2025 as reported by Blick; and at least €550,000 to German parties over 20 years according to a LobbyControl analysis. No Swiss political donations were found.",
+        "finding_ids": ["f5"]
+      },
+      "social": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Documented company-level competition problem: authorities in the US, the EU, New Zealand and Switzerland found that Kuehne + Nagel took part in cartels fixing air freight surcharges between 2002 and 2007. No specific labour or consumer finding was found.",
+        "finding_ids": ["f1", "f2", "f3", "f4"]
+      },
+      "legal": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Company-level record on air freight surcharge cartels (2002 to 2007): a US guilty plea with a $9.9 million fine (2011); a €53.7 million EU fine (2012), upheld by the EU courts in 2016 and 2018; a NZ$3.1 million penalty in New Zealand (2014); and a CHF 1.17 million Swiss fine in a settlement (2012). No personal legal record for Klaus-Michael Kühne was found.",
+        "finding_ids": ["f1", "f2", "f3", "f4"]
+      },
+      "unresolved": {
+        "value": 2,
+        "basis": "documented",
+        "reason": "Kühne opposed an in-depth study of the firm’s Nazi-era past during his lifetime. After his death in August 2026 the company said it would examine it; in late September 2026 its details and start date were not yet set. His holdings passed to the Kühne Foundation; Swiss private companies need not publish accounts.",
+        "finding_ids": ["f6", "f7"]
+      }
+    },
+    "counterweights": "",
+    "rationale": "Legal 0 to 2: R5, a corporate guilty plea in a US federal court is a major company outcome, and the EU fine was upheld in contested appeals. Social 1 to 2: court-upheld cartel fines in four jurisdictions, as for L'Oréal. Politics stays 1: personal donations of about €70,000 a year are regular but modest for a major donor. Unresolved stays 2, re-sourced and updated. Ecology not researched. No counterweight: the foundation figures found were budgets, not amounts disbursed."
+  }
+}
