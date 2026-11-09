@@ -629,6 +629,23 @@
         "accept": true,
         "why": "Company-level criminal complaint by Semarnat (2023), status unconfirmed, and the unpaid balance under the 2025 Sonora agreement."
       }
+    },
+    "gautam-adani": {
+      "politics": {
+        "value": 2,
+        "accept": true,
+        "why": "Owner of influential media: the group took control of NDTV. RSF's description of his closeness to Modi is attributed as an NGO view, not counted as documented proximity to an authoritarian state."
+      },
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Six contractor deaths in 2024-25 reported by Adani Ports itself: documented company-level labour problems."
+      },
+      "unresolved": {
+        "value": 1,
+        "accept": true,
+        "why": "A Bangladesh government committee called the Godda power deal overpriced: concerns raised by an official report, with no pending case found against the company or the person."
+      }
     }
   },
   "counterweights": {

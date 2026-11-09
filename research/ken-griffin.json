@@ -95,10 +95,10 @@
       "accessed": "2026-11-08"
     },
     {
-      "id": "leagle-2026",
-      "label": "Leagle: George v. Griffin, Eleventh Circuit No. 26-10435 (2026)",
-      "url": "https://www.leagle.com/decision/infco20260917055",
-      "publisher": "Leagle (opinion of the U.S. Court of Appeals for the Eleventh Circuit)",
+      "id": "ca11-2026",
+      "label": "Eleventh Circuit: George v. Griffin, No. 26-10435 (2026)",
+      "url": "https://media.ca11.uscourts.gov/opinions/unpub/files/202610435.pdf",
+      "publisher": "U.S. Court of Appeals for the Eleventh Circuit",
       "publisher_type": "court",
       "names_subject": true,
       "published": "2026-09-17",
@@ -126,11 +126,12 @@
     },
     {
       "id": "elb-2024",
-      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data",
+      "label": "Election Law Blog: the six $100m+ donors of 2024, from OpenSecrets data (2025)",
       "url": "https://electionlawblog.org/?p=149186",
       "publisher": "Election Law Blog",
       "publisher_type": "academic",
       "names_subject": true,
+      "published": "2025-03-27",
       "accessed": "2026-11-08"
     },
     {
@@ -150,7 +151,7 @@
       "publisher": "Front Office Sports",
       "publisher_type": "press",
       "names_subject": true,
-      "published": "2026",
+      "published": "2026-10-28",
       "accessed": "2026-11-08"
     },
     {
@@ -211,7 +212,7 @@
       "theme": "finance",
       "level": "company",
       "entity": "Citadel Securities LLC",
-      "claim": "FINRA's BrokerCheck lists 76 final regulatory events against Citadel Securities from 2006 to August 2026 and none pending, mostly exchange fines under $100,000. They include a $3.5 million SEC penalty in 2018 over faulty blue sheet data for about 80 million trades, findings the firm admitted, and a $1 million FINRA fine in 2024 over audit-trail reporting.",
+      "claim": "FINRA's BrokerCheck lists 76 final regulatory events, none pending, for Citadel Securities from 2006 to August 2026, most with fines under $100,000 and many brought by exchanges. They include a $3.5 million SEC penalty in 2018 over faulty blue sheet data for about 80 million trades, findings the firm admitted, and a $1 million FINRA fine in 2024 over audit-trail reporting.",
       "evidence_type": "regulatory_penalty",
       "date": "2026-08-20",
       "source_ids": [
@@ -225,7 +226,7 @@
       "theme": "finance",
       "level": "company",
       "entity": "Citadel Securities (Hong Kong) Limited",
-      "claim": "In January 2023 South Korea's financial regulator fined Citadel Securities' Hong Kong unit about $9.7 million for disrupting the market through trading in 2017-2018, plus about $0.9 million for short-sale breaches the firm did not contest. A lower court overturned the market-disruption fine by April 2026; the regulator has appealed, so the matter is pending.",
+      "claim": "In January 2023 South Korea's financial regulator fined Citadel Securities' Hong Kong unit about $9.7 million for disrupting the market through trading in 2017-2018, plus about $0.9 million for short-sale breaches the firm did not contest. A lower court ruled for Citadel against the market-disruption fine by April 2026; the regulator has appealed, with no appeal ruling reported, so the matter is pending.",
       "evidence_type": "pending_case",
       "date": "2026-04-29",
       "source_ids": [
@@ -257,16 +258,16 @@
       "date": "2026-09-17",
       "source_ids": [
         "ca11-2025",
-        "leagle-2026"
+        "ca11-2026"
       ]
     },
     {
       "id": "f8",
-      "direction": "concern",
-      "theme": "tax",
+      "direction": "counterweight",
+      "theme": "legal",
       "level": "individual",
       "entity": "Ken Griffin",
-      "claim": "Griffin sued the IRS in federal court in Florida (case 22-cv-24023) over its failure to stop a contractor leaking his tax data to ProPublica; he was the plaintiff, not accused of wrongdoing. The case settled in June 2024 with a public IRS apology; no payment to him was reported.",
+      "claim": "Griffin sued the IRS in federal court in Florida (case 22-cv-24023) after an IRS contractor leaked his tax data to ProPublica; he was the plaintiff and was accused of nothing. The case was resolved in June 2024 with a public IRS apology admitting it failed to prevent the contractor's criminal conduct; no payment to him was reported.",
       "evidence_type": "settlement",
       "date": "2024-06-25",
       "source_ids": [
@@ -295,7 +296,7 @@
       "theme": "philanthropy",
       "level": "individual",
       "entity": "Ken Griffin",
-      "claim": "In April 2023 Griffin made an unrestricted $300 million gift to Harvard's Faculty of Arts and Sciences, bringing his giving to Harvard above $500 million. The Harvard Crimson reported he had donated over $1.5 billion to charities, including the Art Institute of Chicago.",
+      "claim": "In April 2023 Harvard announced an unrestricted $300 million gift from Griffin to its Faculty of Arts and Sciences, which the Harvard Crimson said brought his giving to Harvard above $500 million; whether it has been paid in full is not public. The Crimson reported he had given over $1.5 billion to charities, including the Art Institute of Chicago.",
       "evidence_type": "documented_giving",
       "date": "2023-04-11",
       "source_ids": [
@@ -339,14 +340,70 @@
       "unresolved": {
         "value": 2,
         "basis": "documented",
-        "reason": "South Korea's regulator fined Citadel Securities' Hong Kong unit about $9.7 million in 2023 for market disruption; a lower court overturned the fine by April 2026 and the regulator has appealed, so the company-level case is pending. FINRA's BrokerCheck lists no pending US regulatory event against the broker-dealer. No pending matter against Griffin personally was found.",
+        "reason": "South Korea's regulator fined Citadel Securities' Hong Kong unit about $9.7 million in 2023 for market disruption; a lower court ruled against the fine by April 2026 and the regulator has appealed, so the company-level case is pending. FINRA's BrokerCheck lists no pending US regulatory event against the broker-dealer. No pending matter against Griffin personally was found.",
         "finding_ids": [
           "f5",
           "f4"
         ]
       }
     },
-    "counterweights": "Made an unrestricted $300 million gift to Harvard in 2023, bringing his giving there above $500 million; the Harvard Crimson reported over $1.5 billion donated to charities, including the Art Institute of Chicago.",
-    "rationale": "Legal 0 to 1: company regulatory settlements only, largest $22.6M, no court finding, nothing personal. Unresolved 0 to 2: a pending company-level case in Korea (regulator's appeal). Social 1 to 2: SEC and FINRA findings on client order handling, as in the Peterffy and Bloomberg precedents; 1 is defensible as findings are old and modest. Politics stays 3; OpenSecrets could not be reopened, so the $108.4M rests on Election Law Blog. The Harvard pledge-vs-paid schedule is not public. f8 (Griffin as plaintiff) supports no score."
+    "counterweights": "Harvard announced an unrestricted $300 million gift from him in 2023, which the Harvard Crimson said brought his giving there above $500 million; the Crimson reported over $1.5 billion donated to charities, including the Art Institute of Chicago.",
+    "rationale": "Legal 0 to 1: company regulatory settlements only, largest $22.6M, no court finding, nothing personal. Unresolved 0 to 2: a pending company-level case in Korea (regulator's appeal). Social 1 to 2: SEC and FINRA findings on client order handling, as in the Peterffy and Bloomberg precedents; 1 is defensible as findings are old and modest. Politics stays 3; OpenSecrets could not be reopened, so the $108.4M rests on Election Law Blog. Harvard gift is announced, payment not public. f8 (Griffin as plaintiff against the IRS) is not a concern and supports no score."
+  },
+  "verification": {
+    "checked_at": "2026-11-08",
+    "results": [
+      {
+        "finding_id": "f1",
+        "verdict": "supported",
+        "comment": "SEC release 2017-11: $22.6M total incl. $16M penalty, FastFill and SmartProvide algorithms, late 2007 to Jan 2010, neither admitted nor denied, ~35% of US retail volume; BrokerCheck disclosure 38 matches. Company level."
+      },
+      {
+        "finding_id": "f2",
+        "verdict": "supported",
+        "comment": "BrokerCheck disclosure 21: FINRA AWC 16 July 2020, censure, $700,000 fine, restitution to clients, trading ahead while OTC customer orders were inactive pending manual review, limit order display failures, without admitting or denying. Company level."
+      },
+      {
+        "finding_id": "f3",
+        "verdict": "supported",
+        "comment": "SEC release 2023-192: censure and $7M penalty, millions of sale orders mismarked long/short over about five years due to a coding error, inaccurate data to regulators, neither admitted nor denied."
+      },
+      {
+        "finding_id": "f4",
+        "verdict": "supported",
+        "comment": "Rewritten: BrokerCheck shows 76 final, 0 pending regulatory events (dates 2006 to 20 Aug 2026); about 58 carry fines under $100,000, but FINRA brought 26 and the SEC 3, so \"mostly exchange fines\" became \"most with fines under $100,000 and many brought by exchanges\". SEC release 2018-275 confirms $3.5M and that the firms admitted the findings; BrokerCheck disclosure 2 confirms the $1M FINRA CAT fine (Oct 2024)."
+      },
+      {
+        "finding_id": "f5",
+        "verdict": "supported",
+        "comment": "Rewritten: BrokerCheck affiliate disclosure gives KRW 11.88bn (~$9.66M) and KRW 1.1bn (~$0.89M), 26 Jan 2023, trading Oct 2017 to May 2018, short-sale findings not contested. Korea Times (29 Apr 2026) says Citadel won in a lower court and regulators appealed, without naming the court or an appeal outcome; \"overturned\" softened to \"ruled for Citadel against\" and \"no appeal ruling reported\" added. No later report found. Company level, pending."
+      },
+      {
+        "finding_id": "f6",
+        "verdict": "supported",
+        "comment": "Eleventh Circuit No. 22-11873, 26 June 2024 (published): plaintiffs alleged a Robinhood-Citadel conspiracy, defendants rejected it, district court dismissal affirmed for failure to plausibly allege an unreasonable restraint of trade. Company level (Citadel LLC d/b/a Citadel Securities)."
+      },
+      {
+        "finding_id": "f7",
+        "verdict": "supported",
+        "comment": "Eleventh Circuit No. 24-13718 (13 Nov 2025) names Griffin as defendant in the 2021 pro se suit (RICO, Sherman Act s.2) and affirms the 12(b)(6) dismissal; No. 26-10435 (17 Sept 2026) affirms denial of Rule 60(b) relief. Leagle copy replaced with the court's own PDF of the same opinion, which also notes cert. denied June 2026."
+      },
+      {
+        "finding_id": "f8",
+        "verdict": "supported",
+        "comment": "Rewritten: IRS statement IR-2024-172 (25 June 2024) and Fortune/Bloomberg (26 June 2024) confirm Griffin v. IRS, S.D. Fla. 22-cv-24023, a contractor (Littlejohn) leaking his data to ProPublica, an IRS apology acknowledging it failed to prevent the criminal conduct, and no reported payment. Griffin is the plaintiff, so direction changed from concern to counterweight (no neutral option in the schema) and theme from tax to legal; it is kept out of every score."
+      },
+      {
+        "finding_id": "f9",
+        "verdict": "supported",
+        "comment": "Election Law Blog (Hasen, 27 Mar 2025, OpenSecrets data) lists Griffin at $108.4M, fifth of six $100M+ donors in descending order; Front Office Sports (28 Oct 2026) cites the NYT for more than $32M in 2025-26 through July, almost entirely Republican; Election Law Blog (14 July 2026) excerpts WSJ on roughly $40M. Source dates added."
+      },
+      {
+        "finding_id": "f10",
+        "verdict": "supported",
+        "comment": "Rewritten: the Crimson (11 Apr 2023) reports a $300M unrestricted gift to FAS, more than $500M to Harvard in total and over $1.5B to charities including the Art Institute of Chicago, but not whether it was paid; claim and counterweights now say \"announced\" and that payment is not public."
+      }
+    ],
+    "passed": true
   }
 }
