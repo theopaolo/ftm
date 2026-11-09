@@ -159,7 +159,7 @@ Each row is one proposed dimension. "Decided" is what the merged data now holds.
 | Masayoshi Son (#36) | Open questions | 0 est | 1 doc | 1 doc | The FT's reporting on his debts to SoftBank, and lawmakers' questions that do not amount to an investigation. |
 | Ken Griffin (#37) | Social | 1 est | 2 doc | 2 doc | SEC and FINRA findings that Citadel Securities mishandled client orders: documented company-level problems, as for Peterffy and Bloomberg. |
 | Ken Griffin (#37) | Legal record | 0 est | 1 doc | 1 doc | Regulatory settlements at company level (SEC 2017, 2018, 2023; FINRA 2020), none above $1bn and none personal. |
-| Ken Griffin (#37) | Open questions | 0 est | 2 doc | 2 doc | Korea's fine on Citadel's Hong Kong unit was ruled against on first instance and is under appeal: a pending case at company level. |
+| Ken Griffin (#37) | Open questions | 0 est | 2 doc | 2 doc | A lower court ruled for Citadel against Korea's fine on its Hong Kong unit (2026); the regulator has appealed, so the case is pending at company level. |
 | Jacqueline Mars (#38) | Legal record | 0 est | 1 doc | 1 doc | An OSHA fine and an FTC consent order: regulatory action. |
 | Jacqueline Mars (#38) | Open questions | 0 est | 1 doc | 1 doc | Child-labour concerns raised by reporting; a private company with little disclosure. |
 | John Mars (#38) | Legal record | 0 est | 1 doc | 1 doc | Same company-level record as Jacqueline Mars. |
