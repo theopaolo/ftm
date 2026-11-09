@@ -646,6 +646,35 @@
         "accept": true,
         "why": "A Bangladesh government committee called the Godda power deal overpriced: concerns raised by an official report, with no pending case found against the company or the person."
       }
+    },
+    "klaus-michael-kuhne": {
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "Cartel findings against Kühne + Nagel in four jurisdictions: documented company-level competition problems, as for L'Oréal."
+      },
+      "legal": {
+        "value": 2,
+        "accept": true,
+        "why": "R5: corporate guilty plea in the US (Sherman Act, 2010-2011), plus EU fines upheld on appeal. More than ten years old."
+      }
+    },
+    "ken-griffin": {
+      "social": {
+        "value": 2,
+        "accept": true,
+        "why": "SEC and FINRA findings that Citadel Securities mishandled client orders: documented company-level problems, as for Peterffy and Bloomberg."
+      },
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "Regulatory settlements at company level (SEC 2017, 2018, 2023; FINRA 2020), none above $1bn and none personal."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Korea's fine on Citadel's Hong Kong unit was ruled against on first instance and is under appeal: a pending case at company level."
+      }
     }
   },
   "counterweights": {

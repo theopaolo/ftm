@@ -2213,6 +2213,61 @@
       "url": "https://ferromex.mx/wp-content/uploads/2024/05/RF_ES_2024_1T.pdf",
       "kind": "case"
     },
+    "gautam-adani-theweek-indictment-2024": {
+      "label": "The Week: Details of the US indictment against Gautam Adani (2024)",
+      "url": "https://www.theweek.in/news/biz-tech/2024/11/21/bribery-lying-to-investors-details-of-the-us-indictment-against-numero-uno-gautam-adani-associates.html",
+      "kind": "case"
+    },
+    "gautam-adani-theprint-dismissal-2026": {
+      "label": "ThePrint (PTI): US court permanently dismisses criminal case against Gautam Adani (2026)",
+      "url": "https://theprint.in/economy/us-court-permanently-dismisses-criminal-case-against-gautam-adani/3011686/",
+      "kind": "case"
+    },
+    "gautam-adani-sec-lr26554-2026": {
+      "label": "SEC: Litigation release on proposed consent judgments, Gautam and Sagar Adani (2026)",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26554",
+      "kind": "case"
+    },
+    "gautam-adani-edny-judgment-2026": {
+      "label": "US District Court EDNY: Final judgment as to Gautam Adani, SEC v. Adani (2026)",
+      "url": "https://www.sec.gov/files/judg24-cv-08080adanigautam.pdf",
+      "kind": "case"
+    },
+    "gautam-adani-ofac-adani-2026": {
+      "label": "OFAC: Settlement with Adani Enterprises over Iran sanctions violations (2026)",
+      "url": "https://ofac.treasury.gov/recent-actions/20260518",
+      "kind": "case"
+    },
+    "gautam-adani-deccanchronicle-sebi-2026": {
+      "label": "Deccan Chronicle (PTI): Adani, 4 group firms settle SEBI shareholding case (2026)",
+      "url": "https://www.deccanchronicle.com/amp/business/gautam-adani-4-group-companies-settle-shareholding-norm-violation-case-with-sebi-for-rs-148-cr-1991372",
+      "kind": "case"
+    },
+    "gautam-adani-outlookmoney-sebi-2025": {
+      "label": "Outlook Money: SEBI dismisses Hindenburg's allegations against Adani group (2025)",
+      "url": "https://www.outlookmoney.com/news/sebi-dismisses-hindenburgs-allegations-against-adani-group-companies",
+      "kind": "case"
+    },
+    "gautam-adani-theprint-bangladesh-2026": {
+      "label": "ThePrint (Reuters): Bangladesh panel flags anomalies in Adani power deal (2026)",
+      "url": "https://theprint.in/world/bangladesh-panel-flags-serious-anomalies-in-adani-jharkhand-coal-power-deal/2836798",
+      "kind": "case"
+    },
+    "gautam-adani-apsez-safety-2025": {
+      "label": "Adani Ports and SEZ: Annual Report 2024-25, emergency preparedness and safety (2025)",
+      "url": "https://connect.adani.com/annual_report/2025/apsez/emergency-preparedness-and-response.html",
+      "kind": "case"
+    },
+    "gautam-adani-apsez-csr-2026": {
+      "label": "Adani Ports and SEZ: Annual Report 2025-26, corporate social responsibility (2026)",
+      "url": "https://www.adaniports.com/digital-reports/ports/2026/corporate-social-responsibility.html",
+      "kind": "case"
+    },
+    "gautam-adani-indiacsr-apsez-2026": {
+      "label": "India CSR: Adani Ports spent Rs 199 crore on CSR in FY2025-26 (2026)",
+      "url": "https://indiacsr.in/adani-ports-spent-rs-199-crore-corporate-social-responsibility-csr-fy2025-26/",
+      "kind": "case"
+    },
     "tadashi-yanai-and-family-gtr-cbp-2021": {
       "label": "GTR: Uniqlo's Washington spat a Xinjiang alarm bell for clothing supply chains (2021)",
       "url": "https://www.gtreview.com/news/asia/95059/",
@@ -2413,6 +2468,71 @@
       "url": "https://group.softbank/donations/list_son",
       "kind": "case"
     },
+    "ken-griffin-sec-2017": {
+      "label": "SEC: Citadel Securities paying $22 million for misleading clients about pricing (2017)",
+      "url": "https://www.sec.gov/news/press-release/2017-11",
+      "kind": "case"
+    },
+    "ken-griffin-sec-2018": {
+      "label": "SEC: Three broker-dealers to pay over $6 million for deficient blue sheet data (2018)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2018-275",
+      "kind": "case"
+    },
+    "ken-griffin-sec-2023": {
+      "label": "SEC: Citadel Securities charged over short sale order marking (2023)",
+      "url": "https://www.sec.gov/news/press-release/2023-192",
+      "kind": "case"
+    },
+    "ken-griffin-finra-brokercheck": {
+      "label": "FINRA: BrokerCheck report on Citadel Securities LLC (2026)",
+      "url": "https://files.brokercheck.finra.org/firm/firm_116797.pdf",
+      "kind": "case"
+    },
+    "ken-griffin-koreatimes-2026": {
+      "label": "Korea Times: Financial regulators' sanctions tested in court (2026)",
+      "url": "https://www.koreatimes.co.kr/economy/policy/20260429/financial-regulators-sanctions-tested-by-mounting-wave-of-courtroom-battles",
+      "kind": "case"
+    },
+    "ken-griffin-ca11-2024": {
+      "label": "Eleventh Circuit: In re January 2021 Short Squeeze Trading Litigation (2024)",
+      "url": "https://media.ca11.uscourts.gov/opinions/pub/files/202211873.pdf",
+      "kind": "case"
+    },
+    "ken-griffin-ca11-2025": {
+      "label": "Eleventh Circuit: George v. Griffin, No. 24-13718 (2025)",
+      "url": "https://media.ca11.uscourts.gov/opinions/unpub/files/202413718.pdf",
+      "kind": "case"
+    },
+    "ken-griffin-ca11-2026": {
+      "label": "Eleventh Circuit: George v. Griffin, No. 26-10435 (2026)",
+      "url": "https://media.ca11.uscourts.gov/opinions/unpub/files/202610435.pdf",
+      "kind": "case"
+    },
+    "ken-griffin-irs-2024": {
+      "label": "IRS: Statement on the resolution of Griffin v. IRS (2024)",
+      "url": "https://content.govdelivery.com/accounts/USIRS/bulletins/3a4df38",
+      "kind": "case"
+    },
+    "ken-griffin-fortune-2024": {
+      "label": "Fortune: IRS apologizes to Ken Griffin over leaked tax returns (2024)",
+      "url": "https://www.fortune.com/2024/06/26/ken-griffin-apology-irs-tax-returns-leaked-journalists",
+      "kind": "case"
+    },
+    "ken-griffin-elb-2026": {
+      "label": "Election Law Blog: Griffin has put $40 million into the midterms, per WSJ (2026)",
+      "url": "https://electionlawblog.org/?p=157343",
+      "kind": "case"
+    },
+    "ken-griffin-fos-2026": {
+      "label": "Front Office Sports: Biggest political donors of the 2026 midterms (2026)",
+      "url": "https://frontofficesports.com/article/soccer-biggest-political-donations-2026-midterms/",
+      "kind": "case"
+    },
+    "ken-griffin-crimson-2023": {
+      "label": "Harvard Crimson: Graduate school renamed after $300 million Griffin gift (2023)",
+      "url": "https://www.thecrimson.com/article/2023/4/11/gsas-renamed-ken-griffin/",
+      "kind": "case"
+    },
     "mars-ap-osha-chocolate-tank": {
       "label": "AP via CBS News: OSHA fines Mars Wrigley after workers fall into chocolate tank (2023)",
       "url": "https://www.cbsnews.com/amp/pittsburgh/news/osha-mars-wrigley-candy-factory-fined-elizabethtown-pennsylvania",
@@ -2576,6 +2696,51 @@
     "andrea-pignataro-reuters-2024-03": {
       "label": "Reuters: Italy approves Prelios deal after ION discloses loan terms (2024)",
       "url": "https://swissinfo.ch/eng/exclusive-italy-approves-prelios-deal-after-ion-discloses-loan-terms,-sources-say/73612472",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-doj-plea-agreement": {
+      "label": "US Justice Department: plea agreement, US v. Kühne + Nagel International AG (2011)",
+      "url": "https://www.justice.gov/atr/case-document/file/500906/dl",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-kn-plea-approved": {
+      "label": "Kuehne + Nagel: plea agreement approved by US court (2011)",
+      "url": "https://newsroom.kuehne-nagel.com/plea-agreement-approved-by-us-court/",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-logisticsmanager-eu-fine": {
+      "label": "Logistics Manager: EU fines freight forwarders €169m (2012)",
+      "url": "https://www.logisticsmanager.com/18148-eu-fines-freight-forwarders-169m-euros/",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-aircargonews-cjeu-appeal": {
+      "label": "Air Cargo News: forwarders lose appeal against €169m cartel fines (2018)",
+      "url": "https://www.aircargonews.net/forwarders-lose-appeal-against-169m-fines-for-air-cargo-cartel-between-2002-and-2007/21503.article",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-comcom-nz-penalty": {
+      "label": "NZ Commerce Commission: air freight cartel nets almost $12 million in penalties (2014)",
+      "url": "https://www.comcom.govt.nz/news-and-media/news-and-events/2014/air-freight-cartel-nets-almost-12-million-in-penalties/",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-weko-airfreight-2012": {
+      "label": "WEKO: fines for the international air freight forwarders cartel (2012)",
+      "url": "https://www.newsd.admin.ch/newsd/message/attachments/29119.pdf",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-bundestag-cdu-2023": {
+      "label": "Bundestag: party donations above €50,000, including Kühne to CDU (2023)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-959262",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-blick-donations": {
+      "label": "Blick: how much the Schwyz billionaire puts into German politics (2025)",
+      "url": "https://www.blick.ch/politik/und-was-ist-mit-der-schweiz-so-viel-geld-steckt-schwyzer-milliardaer-in-deutsche-politik-id21002423.html",
+      "kind": "case"
+    },
+    "klaus-michael-kuhne-euronews-foundation": {
+      "label": "Euronews: German billionaire's death creates one of Europe's largest foundations (2026)",
+      "url": "https://fr.euronews.com/business/2026/09/01/la-mort-du-milliardaire-allemand-cree-une-des-plus-grandes-fondations-deurope",
       "kind": "case"
     },
     "chanel-adlc-perfume-2006": {
@@ -5474,33 +5639,59 @@
           "reason": "The group mines and burns coal alongside large renewable projects."
         },
         "politics": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Adani’s group took control of the broadcaster NDTV at the end of 2022, a takeover Reporters Without Borders describes as hostile. RSF also describes him as close to Prime Minister Narendra Modi; that is the NGO’s characterisation, not an official finding. No political donation by Adani or his companies is documented here.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level labour harm is documented: Adani Ports reports that six contractor workers died in its operations in 2024-25. No regulator finding on these deaths, and no mass-harm event, was found in the sources checked.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
           "value": 3,
           "basis": "documented",
-          "reason": "Indicted in New York in 2024 over an alleged $265 million bribery scheme. In August 2026 a judge dismissed the criminal case at the Justice Department’s request without ruling the allegations false; he settled the SEC civil case with a $6 million penalty without admitting the allegations. Adani Enterprises separately paid $275 million to settle a US sanctions matter."
+          "reason": "Indicted in New York in 2024 on fraud charges tied to an alleged $265 million bribery scheme; in August 2026 a judge dismissed them with prejudice at the Justice Department’s request without ruling on the allegations. He settled the SEC civil case with a $6 million penalty and a 2026 SEBI shareholding case, both without admitting the allegations. Adani Enterprises agreed to pay $275 million to settle a US Iran sanctions matter. SEBI dropped Hindenburg’s related-party allegations in 2025.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "The US criminal case against him was dismissed and the SEC case settled in 2026. A Bangladesh government committee reported in January 2026 that Adani Power’s Godda supply deal carries a 39.7% price premium over its nearest private competitor and was awarded through anomalous procedures; the report is unpublished and no case over it was found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "Adani Ports reports spending about ₹199 crore on corporate social responsibility in 2025-26, mostly on education, through the Adani Foundation (a company figure).",
       "status_note": "",
       "sources": [
         "forbes",
         "adani",
-        "bs-adani-2026"
+        "bs-adani-2026",
+        "gautam-adani-theweek-indictment-2024",
+        "gautam-adani-theprint-dismissal-2026",
+        "gautam-adani-sec-lr26554-2026",
+        "gautam-adani-edny-judgment-2026",
+        "gautam-adani-ofac-adani-2026",
+        "gautam-adani-deccanchronicle-sebi-2026",
+        "gautam-adani-outlookmoney-sebi-2025",
+        "mukesh-ambani-rsf-india-2026",
+        "gautam-adani-theprint-bangladesh-2026",
+        "gautam-adani-apsez-safety-2025",
+        "gautam-adani-apsez-csr-2026",
+        "gautam-adani-indiacsr-apsez-2026"
       ]
     },
     {
@@ -5983,31 +6174,57 @@
         "politics": {
           "value": 3,
           "basis": "documented",
-          "reason": "Gave $108.4 million in the 2024 cycle, the fifth-largest US donor."
+          "reason": "Gave $108.4 million in the 2024 cycle, the fifth-largest US donor on OpenSecrets data. Press reports put his 2026 midterm giving at more than $32 million by July 2026, almost all to Republican causes, with the Wall Street Journal reporting about $40 million. Lobbying by Citadel was not assessed.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "Social effects depend on how capital is allocated; not checked."
+          "value": 2,
+          "basis": "documented",
+          "reason": "The SEC found in 2017 that Citadel Securities, then handling about 35% of US retail equity volume, misled broker-dealer clients about the pricing of retail orders (2007 to 2010). FINRA found in 2020 that it traded ahead of customer orders and ordered restitution. Both were settled without admission. Claims that Citadel conspired with Robinhood to curb meme-stock buying in 2021 were dismissed. Labour conditions were not checked.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Citadel Securities settled regulatory actions: $22.6 million with the SEC in 2017, $3.5 million in 2018 (findings admitted), $7 million in 2023 and smaller FINRA and exchange fines; BrokerCheck lists 76 final events. A meme-stock antitrust suit against Citadel was dismissed (affirmed 2024), as was a pro se suit naming Griffin (affirmed 2025). No penalty or charge against Griffin personally was found.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "South Korea's regulator fined Citadel Securities' Hong Kong unit about $9.7 million in 2023 for market disruption; a lower court ruled against the fine by April 2026 and the regulator has appealed, so the company-level case is pending. FINRA's BrokerCheck lists no pending US regulatory event against the broker-dealer. No pending matter against Griffin personally was found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "Large university and museum gifts.",
+      "counterweights": "Harvard announced an unrestricted $300 million gift from him in 2023, which the Harvard Crimson said brought his giving there above $500 million; the Crimson reported over $1.5 billion donated to charities, including the Art Institute of Chicago.",
       "status_note": "",
       "sources": [
         "forbes",
         "elb-2024",
-        "opensecrets-2024"
+        "opensecrets-2024",
+        "ken-griffin-sec-2017",
+        "ken-griffin-sec-2018",
+        "ken-griffin-sec-2023",
+        "ken-griffin-finra-brokercheck",
+        "ken-griffin-koreatimes-2026",
+        "ken-griffin-ca11-2024",
+        "ken-griffin-ca11-2025",
+        "ken-griffin-ca11-2026",
+        "ken-griffin-irs-2024",
+        "ken-griffin-fortune-2024",
+        "ken-griffin-elb-2026",
+        "ken-griffin-fos-2026",
+        "ken-griffin-crimson-2023"
       ]
     },
     {
@@ -6823,23 +7040,36 @@
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Regular personal donations to Germany's CDU: the Bundestag published €65,000 received in May 2023; Blick reported €65,000 to €70,000 a year in 2021 to 2023, €70,000 in 2025, and at least €550,000 to German parties over 20 years, citing a LobbyControl analysis of Bundestag data. Blick found no registered Swiss political donations.",
+          "levels": [
+            "individual"
+          ]
         },
         "social": {
-          "value": 1,
-          "basis": "estimate",
-          "reason": "No specific concern checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Documented company-level competition problem: in the US, the EU, New Zealand and Switzerland, Kuehne + Nagel pleaded guilty, was fined or admitted taking part in cartels fixing air freight fees and surcharges, in conduct dating from 2002 to 2007. No specific labour or consumer finding was found.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Company-level record on air freight surcharge cartels (2002 to 2007): a US guilty plea with a $9.9 million fine (2011); a €53.7 million EU fine (2012), upheld by the EU courts in 2016 and 2018; a NZ$3.1 million penalty in New Zealand (2014); and a CHF 1.17 million Swiss fine in a settlement (2012). No personal legal record for Klaus-Michael Kühne was found.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
           "value": 2,
           "basis": "documented",
-          "reason": "Kühne opposed an in-depth study of the firm’s Nazi-era past during his lifetime. After his death in August 2026 the company said it would examine it."
+          "reason": "According to Bilanz, Kühne opposed an in-depth study of the firm’s Nazi-era past during his lifetime. After his death in August 2026 the company said it needed to address it; in late September 2026 the study's details and start date were not yet set. His fortune passed to the Kühne Foundation; Swiss private companies need not publish annual reports.",
+          "levels": [
+            "individual",
+            "company"
+          ]
         }
       },
       "checked": true,
@@ -6848,7 +7078,16 @@
       "sources": [
         "forbes",
         "swissinfo-kuehne",
-        "tt-kuehne-death"
+        "tt-kuehne-death",
+        "klaus-michael-kuhne-doj-plea-agreement",
+        "klaus-michael-kuhne-kn-plea-approved",
+        "klaus-michael-kuhne-logisticsmanager-eu-fine",
+        "klaus-michael-kuhne-aircargonews-cjeu-appeal",
+        "klaus-michael-kuhne-comcom-nz-penalty",
+        "klaus-michael-kuhne-weko-airfreight-2012",
+        "klaus-michael-kuhne-bundestag-cdu-2023",
+        "klaus-michael-kuhne-blick-donations",
+        "klaus-michael-kuhne-euronews-foundation"
       ]
     },
     {
