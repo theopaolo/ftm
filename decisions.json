@@ -687,6 +687,13 @@
         "accept": true,
         "why": "Company-level investigations pending: Belgian judicial investigation and French preliminary inquiry into the 2022 outbreak, and EU antitrust inspections (2026). None names Giovanni Ferrero."
       }
+    },
+    "thomas-frist-jr-and-family": {
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Company-level cases pending: North Carolina's suit over Mission Health (cleared for trial July 2026) and the Davis antitrust class suit (settlement agreed in principle, not final)."
+      }
     }
   },
   "counterweights": {
@@ -2347,6 +2354,50 @@
         "nature": "European Commission antitrust inspections over market segmentation (Ferrero)",
         "outcome": "Inspected 2026; no formal proceedings found; inspections do not mean guilt",
         "status": "pending"
+      }
+    ],
+    "thomas-frist-jr-and-family": [
+      {
+        "f": "f1",
+        "nature": "Health care fraud cases (HCA subsidiaries)",
+        "outcome": "Guilty pleas 2000 and 2001; $1.7bn total recovery from HCA put by DOJ in 2003",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f2",
+        "nature": "Shareholder class action over 2011 IPO disclosures (HCA)",
+        "outcome": "Settled 2016: $215m, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Class actions over the 2006 buyout (HCA and buyers)",
+        "outcome": "Settled 2006: extra disclosure, termination fee capped; allegations denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "North Carolina suit over Mission Health commitments (HCA)",
+        "outcome": "Pending; summary judgment denied July 2026, case goes to trial",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "Antitrust suit by western North Carolina local governments (HCA, Mission)",
+        "outcome": "Settled 2025: $1m charity fund, Brevard hospital kept open; allegations denied",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "Davis antitrust class suit over insurer terms (HCA, Mission)",
+        "outcome": "Pending; certification denied without prejudice 2026, settlement agreed in principle",
+        "status": "pending"
+      },
+      {
+        "f": "f7",
+        "nature": "Data breach suits over 2023 breach (HCA)",
+        "outcome": "Settled 2025: total undisclosed, wrongdoing denied",
+        "status": "settled"
       }
     ]
   },
