@@ -675,6 +675,18 @@
         "accept": true,
         "why": "A lower court ruled for Citadel against Korea's fine on its Hong Kong unit (2026); the regulator has appealed, so the case is pending at company level."
       }
+    },
+    "giovanni-ferrero": {
+      "legal": {
+        "value": 1,
+        "accept": true,
+        "why": "R5: a temporary licence withdrawal by Belgium's food-safety agency (2022) and a small US class settlement (2012): regulatory action and a modest settlement at company level."
+      },
+      "unresolved": {
+        "value": 2,
+        "accept": true,
+        "why": "Company-level investigations pending: Belgian judicial investigation and French preliminary inquiry into the 2022 outbreak, and EU antitrust inspections (2026). None names Giovanni Ferrero."
+      }
     }
   },
   "counterweights": {

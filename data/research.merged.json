@@ -2568,6 +2568,76 @@
       "url": "https://projects.propublica.org/nonprofits/organizations/821503941",
       "kind": "case"
     },
+    "giovanni-ferrero-bhrrc-guardian-2019": {
+      "label": "BHRRC (Guardian): Hazelnuts in Ferrero Rocher supply chain linked to child labour (2019)",
+      "url": "https://www.business-humanrights.org/en/turkey-hazelnuts-in-ferrero-rocher-supply-chain-linked-to-child-labour-includes-company-comments",
+      "kind": "case"
+    },
+    "giovanni-ferrero-newarab-2019": {
+      "label": "The New Arab: Syrian refugees exploited harvesting hazelnuts for chocolate giants (2019)",
+      "url": "https://www.newarab.com/news/syrian-refugees-exploited-harvesting-hazelnuts-chocolate-giants",
+      "kind": "case"
+    },
+    "giovanni-ferrero-esm-2019": {
+      "label": "ESM Magazine: Ferrero reiterates hazelnut commitments after NYT report (2019)",
+      "url": "https://www.esmmagazine.com/retail/ferrero-reiterates-hazelnut-farming-commitments-following-new-york-times-report-74528",
+      "kind": "case"
+    },
+    "giovanni-ferrero-brusselstimes-2022-shut": {
+      "label": "Brussels Times: Ferrero factory shut after salmonella incident, Kinder recalled (2022)",
+      "url": "https://www.brusselstimes.com/216015/ferrero-factory-in-wallonia-shut-after-salmonella-incident-all-kinder-products-recalled",
+      "kind": "case"
+    },
+    "giovanni-ferrero-ecdc-2022": {
+      "label": "ECDC: Rapid outbreak assessment, Salmonella outbreak linked to chocolate (2022)",
+      "url": "https://ecdc.europa.eu/en/news-events/rapid-outbreak-assessment-first-update-multi-country-salmonella-outbreak-linked",
+      "kind": "case"
+    },
+    "giovanni-ferrero-brusselstimes-2022-raids": {
+      "label": "Brussels Times: Police raid Ferrero offices after salmonella scandal (2022)",
+      "url": "https://www.brusselstimes.com/brussels-2/235902/brussels-ferrero-offices-raided-following-salmonella-scandal/",
+      "kind": "case"
+    },
+    "giovanni-ferrero-thelocal-2022": {
+      "label": "The Local: France opens probe into Kinder candy salmonella cases (2022)",
+      "url": "https://www.thelocal.fr/20220609/france-opens-probe-into-kinder-candy-salmonella-cases",
+      "kind": "case"
+    },
+    "giovanni-ferrero-dhnet-2024": {
+      "label": "DH: Ferrero accusé d'avoir minimisé les contaminations aux salmonelles (2024)",
+      "url": "https://www.dhnet.be/conso/2024/10/17/le-geant-italien-ferrero-nutella-kinder-accuse-davoir-minimise-les-contaminations-aux-salmonelles-en-2022-FB6OJR536NEGFPGWUBETLGTFKA/",
+      "kind": "case"
+    },
+    "giovanni-ferrero-foodnavigator-2012": {
+      "label": "FoodNavigator: Ferrero settles Nutella health-claims class action for $3m (2012)",
+      "url": "https://www.foodnavigator.com/Article/2012/04/30/Ferrero-backs-away-from-Nutella-health-claims-in-3m-class-action-settlement/",
+      "kind": "case"
+    },
+    "giovanni-ferrero-justfood-2026": {
+      "label": "Just Food: Ferrero emerges as subject of EU antitrust raid (2026)",
+      "url": "https://www.just-food.com/news/ferrero-emerges-as-subject-of-eu-anti-trust-raid/",
+      "kind": "case"
+    },
+    "giovanni-ferrero-peninsula-afp-2026": {
+      "label": "The Peninsula (AFP): Nutella maker says targeted in EU antitrust probe (2026)",
+      "url": "https://thepeninsulaqatar.com/article/15/04/2026/nutella-maker-says-targeted-in-eu-antitrust-probe",
+      "kind": "case"
+    },
+    "giovanni-ferrero-rtbf-2025": {
+      "label": "RTBF: Nutri-Score, sabotage au menu (2025)",
+      "url": "https://www.rtbf.be/article/nutri-score-sabotage-au-menu-11615370",
+      "kind": "case"
+    },
+    "giovanni-ferrero-guardian-yahoo-2020": {
+      "label": "Guardian (via Yahoo Finance): Ferrero scion's £542m dividend and UK tax (2020)",
+      "url": "https://ca.finance.yahoo.com/news/ferrero-scion-apos-542m-dividend-150839889.html",
+      "kind": "case"
+    },
+    "giovanni-ferrero-cuneodice-2018": {
+      "label": "Cuneodice: Dalla famiglia Ferrero 5 milioni di euro per l'ospedale di Verduno (2018)",
+      "url": "https://www.cuneodice.it/attualita/alba-e-langhe/dalla-famiglia-ferrero-5-milioni-di-euro-per-l-ospedale-di-verduno_16423.html",
+      "kind": "case"
+    },
     "li-ka-shing-ap-panama-ruling": {
       "label": "AP (via NBC News): Panama court rules CK Hutchison port concession unconstitutional (2026)",
       "url": "https://www.nbcnews.com/world/asia/hong-kong-company-concession-panama-canal-ports-ruled-unconstitutional-rcna256664",
@@ -6498,31 +6568,57 @@
         },
         "politics": {
           "value": 1,
-          "basis": "estimate",
-          "reason": "Not checked individually. Default for a large company."
+          "basis": "documented",
+          "reason": "Ordinary corporate lobbying: RTBF reported in 2025 that Ferrero has not adopted the Nutri-Score label and that a Ferrero lobbyist co-founded an Italian food industry network whose events several media described as a forum against the label; Ferrero says it neither funds nor manages it. No political donation or office by Giovanni Ferrero was found.",
+          "levels": [
+            "company"
+          ]
         },
         "social": {
           "value": 2,
           "basis": "documented",
-          "reason": "Reporting has linked hazelnut supply chains used by Ferrero to child labour in Turkey."
+          "reason": "Reporting has linked hazelnut supply chains used by Ferrero in Turkey to low pay and, allegedly, child labour (New York Times and Guardian, 2019); Ferrero said it aimed to eliminate child labour. In 2022 ECDC and EFSA linked 324 Salmonella cases, mostly young children, to chocolate from Ferrero's Arlon plant. No court or regulator finding of child labour was found.",
+          "levels": [
+            "company"
+          ]
         },
         "legal": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "No record checked yet."
+          "value": 1,
+          "basis": "documented",
+          "reason": "Company-level regulatory action: Belgium's food safety agency temporarily withdrew the Arlon plant's authorisation in 2022 during the Salmonella outbreak. In 2012 Ferrero USA settled a US class action over Nutella health claims for $3 million. No court finding against the company and no personal record were found.",
+          "levels": [
+            "company"
+          ]
         },
         "unresolved": {
-          "value": 0,
-          "basis": "estimate",
-          "reason": "Not checked yet."
+          "value": 2,
+          "basis": "documented",
+          "reason": "Pending at company level: investigations in Belgium and France into the 2022 Salmonella outbreak, last reported ongoing in October 2024, and EU antitrust inspections of Ferrero in April 2026, which are not a finding of wrongdoing. Reporting in 2020 also questioned the group's Luxembourg tax structure. No personal matter was found.",
+          "levels": [
+            "company"
+          ]
         }
       },
       "checked": true,
-      "counterweights": "",
+      "counterweights": "In 2018 the Ferrero family gave €5 million for the operating theatres of the new Alba-Bra hospital at Verduno.",
       "status_note": "",
       "sources": [
         "forbes",
-        "ferrero"
+        "ferrero",
+        "giovanni-ferrero-bhrrc-guardian-2019",
+        "giovanni-ferrero-newarab-2019",
+        "giovanni-ferrero-esm-2019",
+        "giovanni-ferrero-brusselstimes-2022-shut",
+        "giovanni-ferrero-ecdc-2022",
+        "giovanni-ferrero-brusselstimes-2022-raids",
+        "giovanni-ferrero-thelocal-2022",
+        "giovanni-ferrero-dhnet-2024",
+        "giovanni-ferrero-foodnavigator-2012",
+        "giovanni-ferrero-justfood-2026",
+        "giovanni-ferrero-peninsula-afp-2026",
+        "giovanni-ferrero-rtbf-2025",
+        "giovanni-ferrero-guardian-yahoo-2020",
+        "giovanni-ferrero-cuneodice-2018"
       ]
     },
     {
