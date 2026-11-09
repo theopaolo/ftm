@@ -1242,6 +1242,890 @@
         "outcome": "Offices searched 2026; Chanel not under investigation",
         "status": "other"
       }
+    ],
+    "elon-musk": [
+      {
+        "f": "f1",
+        "nature": "Twitter shareholder suit over false May 2022 statements",
+        "outcome": "Jury found him liable 2026 on two statements, one later set aside; appeal pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "SEC securities fraud charges over his post on taking Tesla private",
+        "outcome": "Settled 2018: $20m penalty, stepped down as chairman, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "SEC suit over late disclosure of his Twitter stake",
+        "outcome": "Settled 2026: $1.5m civil penalty, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "Tesla shareholder suit over 'funding secured' posts",
+        "outcome": "Jury found him not liable 2023; judge had ruled the posts false and reckless",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f5",
+        "nature": "Case over his 2018 Tesla pay package",
+        "outcome": "Cancellation reversed 2025, $1 nominal damages; control findings not overturned",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f9",
+        "nature": "Voter class actions over the $1m petition giveaway (with America PAC)",
+        "outcome": "Settlement notices filed 2026; terms undisclosed, court approval needed",
+        "status": "pending"
+      },
+      {
+        "f": "f10",
+        "nature": "Racial discrimination suit by California's Civil Rights Department (Tesla)",
+        "outcome": "Pending; bench trial opened 2026; separate EEOC suit pending",
+        "status": "pending"
+      },
+      {
+        "f": "f11",
+        "nature": "Fatal Autopilot crash suit (Tesla)",
+        "outcome": "Jury verdict 2025: $42.6m compensatory, $200m punitive; upheld 2026, appeal expected",
+        "status": "finding"
+      },
+      {
+        "f": "f12",
+        "nature": "California DMV case over misleading 'Autopilot' marketing (Tesla)",
+        "outcome": "Finding adopted 2025, suspension stayed; avoided after Tesla dropped the term",
+        "status": "finding"
+      },
+      {
+        "f": "f13",
+        "nature": "NLRB case over a 2018 tweet on unionising and a firing (Tesla)",
+        "outcome": "NLRB finding 2021; orders vacated by the Fifth Circuit 2024, case sent back",
+        "status": "pending"
+      },
+      {
+        "f": "f14",
+        "nature": "Digital Services Act fine (X)",
+        "outcome": "€120m, 2025; further investigation into Grok opened 2026",
+        "status": "penalty"
+      },
+      {
+        "f": "f15",
+        "nature": "Clean Air Act suit by the NAACP over gas turbines (xAI)",
+        "outcome": "Pending; dismissal refused 2026",
+        "status": "pending"
+      }
+    ],
+    "larry-page": [
+      {
+        "f": "f1",
+        "nature": "Search monopolisation case (Google)",
+        "outcome": "Monopoly ruling 2024; remedies 2025 without a Chrome sale; cross-appeals pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "Ad tech monopolisation case (Google)",
+        "outcome": "Ruled illegal 2025; 2026 remedies: conduct changes and a monitor, no AdX sale; appeal planned",
+        "status": "finding"
+      },
+      {
+        "f": "f3",
+        "nature": "Play Store monopoly suits by Epic, states and consumers (Google)",
+        "outcome": "Verdict upheld 2025; Epic settled 2025; $700m settlement approved 2026, wrongdoing denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "EU fine for favouring Google Shopping (Google)",
+        "outcome": "€2.4bn, upheld by the EU Court of Justice 2024",
+        "status": "finding"
+      },
+      {
+        "f": "f5",
+        "nature": "EU Android fine (Google, Alphabet)",
+        "outcome": "About €4.1bn, confirmed by the EU Court of Justice 2026",
+        "status": "finding"
+      },
+      {
+        "f": "f6",
+        "nature": "EU ad tech abuse-of-dominance fine (Google)",
+        "outcome": "€2.95bn, 2025; appeal announced",
+        "status": "penalty"
+      },
+      {
+        "f": "f7",
+        "nature": "EU AdSense fine (Google)",
+        "outcome": "€1.49bn fine annulled 2024; Commission's appeal pending",
+        "status": "pending"
+      },
+      {
+        "f": "f8",
+        "nature": "Texas suits over location, incognito and biometric data (Google)",
+        "outcome": "Settled 2025: $1.375bn, no admission reported",
+        "status": "settled"
+      },
+      {
+        "f": "f9",
+        "nature": "Shareholder derivative suits over antitrust exposure",
+        "outcome": "Settled 2025: $500m on compliance over ten years, no payment to shareholders",
+        "status": "settled"
+      },
+      {
+        "f": "f10",
+        "nature": "Shareholder suit alleging the board shielded executives accused of misconduct",
+        "outcome": "Settled 2020: $310m diversity commitment, policy changes; no personal payment",
+        "status": "settled"
+      },
+      {
+        "f": "f12",
+        "nature": "Trump suit over his 2021 account suspension (YouTube, Alphabet)",
+        "outcome": "Settled 2025: $24.5m, $22m to the White House ballroom trust",
+        "status": "settled"
+      }
+    ],
+    "sergey-brin": [
+      {
+        "f": "f1",
+        "nature": "Search monopolisation case (Google)",
+        "outcome": "Monopoly ruling 2024; remedies 2025; appeal and cross-appeals pending",
+        "status": "pending"
+      },
+      {
+        "f": "f2",
+        "nature": "Publisher ad tech exclusion case (Google)",
+        "outcome": "Ruled against 2025; 2026 conduct remedies and a monitor, no AdX sale; appeal planned",
+        "status": "finding"
+      },
+      {
+        "f": "f3",
+        "nature": "EU Android fine (Google, Alphabet)",
+        "outcome": "€4.125bn, confirmed by the EU Court of Justice 2026; $5.2bn paid with interest",
+        "status": "finding"
+      },
+      {
+        "f": "f4",
+        "nature": "EU Google Shopping fine and PriceRunner damages suit (Google)",
+        "outcome": "€2.4bn fine upheld 2024; about $2.1bn damages awarded 2026, under appeal",
+        "status": "finding"
+      },
+      {
+        "f": "f5",
+        "nature": "EU ad tech self-preferencing fine (Google)",
+        "outcome": "About €3bn, 2025; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f6",
+        "nature": "Digital Markets Act fines over Play and Search (Google)",
+        "outcome": "€430m and €460m, 2026; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f7",
+        "nature": "EU AdSense fine (Google)",
+        "outcome": "€1.5bn fine annulled 2024; Commission's appeal pending",
+        "status": "pending"
+      },
+      {
+        "f": "f8",
+        "nature": "Play Store suit by Epic Games (Google)",
+        "outcome": "Jury verdict 2023, upheld 2025; Google complying with 2024 remedies",
+        "status": "finding"
+      },
+      {
+        "f": "f9",
+        "nature": "Texas suits over location, incognito and biometric data (Google)",
+        "outcome": "Settled 2025: $1.375bn, no admission stated",
+        "status": "settled"
+      },
+      {
+        "f": "f10",
+        "nature": "Shareholder derivative suits over antitrust exposure",
+        "outcome": "Agreed 2025: $500m on compliance over ten years, wrongdoing denied; court approval required",
+        "status": "settled"
+      },
+      {
+        "f": "f11",
+        "nature": "Shareholder suit over Andy Rubin's quiet resignation",
+        "outcome": "Settled 2020: $310m diversity commitment, policy changes; no personal payment",
+        "status": "settled"
+      },
+      {
+        "f": "f12",
+        "nature": "Suits by the pilots' families over the 2023 seaplane crash",
+        "outcome": "One family settled by 2025, terms unreported; widow's suit last reported pending 2024",
+        "status": "pending"
+      },
+      {
+        "f": "f17",
+        "nature": "Trump suit over his 2021 account suspension (YouTube)",
+        "outcome": "Settled 2025: $24.5m, $22m to the White House ballroom trust",
+        "status": "settled"
+      }
+    ],
+    "jeff-bezos": [
+      {
+        "f": "f1",
+        "nature": "FTC charges over Prime enrolment and cancellation (Amazon)",
+        "outcome": "Settled 2025: $2.5bn ($1bn penalty, $1.5bn refunds), no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Online retail monopoly suit by the FTC and states (Amazon)",
+        "outcome": "Pending; trial set for March 2027",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "FTC and 22-state suit over a hidden ad-auction surcharge (Amazon)",
+        "outcome": "Pending; filed 2026",
+        "status": "pending"
+      },
+      {
+        "f": "f4",
+        "nature": "California suit alleging pricing policies kept prices high (Amazon)",
+        "outcome": "Pending; summary judgment denied 2026 on a key crossclaim",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "Italian abuse-of-dominance fine over logistics (Amazon)",
+        "outcome": "€1.13bn 2021, cut to €752.4m 2026; appeals reported",
+        "status": "pending"
+      },
+      {
+        "f": "f6",
+        "nature": "GDPR fine over ad targeting (Amazon)",
+        "outcome": "€746m fine annulled 2026 on procedure; breaches confirmed, back to the regulator",
+        "status": "pending"
+      },
+      {
+        "f": "f7",
+        "nature": "EU state-aid decision on Luxembourg tax treatment (Amazon)",
+        "outcome": "Annulled; Commission's appeal dismissed 2023",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f8",
+        "nature": "Class action over unrefunded returns (Amazon)",
+        "outcome": "Settled 2026: $309.5m plus over $600m paid; final hearing March 2027",
+        "status": "settled"
+      },
+      {
+        "f": "f9",
+        "nature": "OSHA ergonomics cases (Amazon)",
+        "outcome": "Settled 2024: $145,000 and a two-year ergonomics programme",
+        "status": "settled"
+      }
+    ],
+    "mark-zuckerberg": [
+      {
+        "f": "f1",
+        "nature": "FTC charges of violating a 2012 privacy order (Facebook)",
+        "outcome": "Settled 2019: $5bn penalty; he must certify privacy compliance quarterly",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "FTC monopoly case over Instagram and WhatsApp (Meta)",
+        "outcome": "Ruled for Meta 2025; FTC appeal pending",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "Shareholder suit over privacy failures and alleged insider trading",
+        "outcome": "Settled 2026: $190m paid to Meta by insurers, allegations denied",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "D.C. consumer protection suit over Cambridge Analytica",
+        "outcome": "Pending; motion to dismiss denied 2026",
+        "status": "pending"
+      },
+      {
+        "f": "f5",
+        "nature": "D.C. Cambridge Analytica suit (Meta)",
+        "outcome": "Meta's 2023 win reversed 2025; up to $1.7bn sought; pending",
+        "status": "pending"
+      },
+      {
+        "f": "f6",
+        "nature": "Claims he was personally liable for concealing social media risks to children",
+        "outcome": "Rejected 2024 in 25 lawsuits; claims against Meta unaffected",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f7",
+        "nature": "Teen mental health suits by 52 attorneys general (Meta)",
+        "outcome": "Settled 2026: up to about $18.6bn, no admission reported",
+        "status": "settled"
+      },
+      {
+        "f": "f8",
+        "nature": "New Mexico child safety case (Meta)",
+        "outcome": "Jury verdict 2026: $375m penalty, about $567m abatement; stayed, Meta seeks vacatur",
+        "status": "pending"
+      },
+      {
+        "f": "f9",
+        "nature": "New Mexico case over statements on user data and Cambridge Analytica (Meta)",
+        "outcome": "Penalty 2026: $25bn after jury found about 44m violations; appeal planned",
+        "status": "penalty"
+      },
+      {
+        "f": "f10",
+        "nature": "Social media addiction suit (Meta, YouTube)",
+        "outcome": "Jury found negligence 2026: $6m, 70% assigned to Meta; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f11",
+        "nature": "EU abuse-of-dominance fine over Facebook Marketplace (Meta)",
+        "outcome": "€797.72m, 2024; under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f12",
+        "nature": "GDPR fine over data transfers and Digital Markets Act fine (Meta)",
+        "outcome": "€1.2bn, 2023; €200m, 2025, under appeal",
+        "status": "penalty"
+      },
+      {
+        "f": "f13",
+        "nature": "Biometric data suits in Texas and Illinois (Meta)",
+        "outcome": "Settled 2024: $1.4bn to Texas; $650m in Illinois 2021; no admission reported",
+        "status": "settled"
+      },
+      {
+        "f": "f15",
+        "nature": "Trump suit over his account suspension (Meta)",
+        "outcome": "Settled 2025: $25m, $22m to his presidential library nonprofit",
+        "status": "settled"
+      },
+      {
+        "f": "f19",
+        "nature": "Securities class actions over data disclosures and content enforcement (Meta)",
+        "outcome": "Pending; part of the 2018 case allowed to proceed 2026",
+        "status": "pending"
+      }
+    ],
+    "bernard-arnault-and-family": [
+      {
+        "f": "f1",
+        "nature": "Judicial administration over subcontractor labour abuses (Manufactures Dior)",
+        "outcome": "Imposed 2024, lifted early 2025; Dior faced no criminal probe",
+        "status": "other"
+      },
+      {
+        "f": "f2",
+        "nature": "Italian consumer-law probe into ethical claims (Dior)",
+        "outcome": "Closed 2025 without a finding; commitments incl. €2m over five years",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Judicial administration over labour exploitation at subcontractors (Loro Piana)",
+        "outcome": "Negligence found 2025; measure ended early 2026",
+        "status": "finding"
+      },
+      {
+        "f": "f4",
+        "nature": "Milan labour inquiries into subcontractors (Givenchy Italia; Bulgari)",
+        "outcome": "Documents sought 2025; offices searched 2026; no formal investigation or charges",
+        "status": "other"
+      },
+      {
+        "f": "f5",
+        "nature": "Influence-peddling investigation (LVMH)",
+        "outcome": "CJIP 2021: €10m public-interest fine, not a declaration of guilt",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "Squarcini case: confidential information obtained for LVMH",
+        "outcome": "Consultant convicted 2025, appeal announced; Arnault a witness, never charged",
+        "status": "other"
+      },
+      {
+        "f": "f7",
+        "nature": "Ruffin privacy suit over alleged surveillance (LVMH)",
+        "outcome": "Pending; allowed to proceed to trial 2025",
+        "status": "pending"
+      },
+      {
+        "f": "f8",
+        "nature": "AMF fine over undisclosed Hermès stake-building (LVMH)",
+        "outcome": "€8m, 2013; not appealed",
+        "status": "penalty"
+      },
+      {
+        "f": "f9",
+        "nature": "Civil suit by Nicolas Puech over diverted Hermès shares (with LVMH)",
+        "outcome": "Pending; about €14bn claimed; diversion denied",
+        "status": "pending"
+      },
+      {
+        "f": "f10",
+        "nature": "Paris criminal investigation into the diversion of Puech's shares",
+        "outcome": "Swiss lawyers under formal investigation 2026; no charge against LVMH or Arnault",
+        "status": "other"
+      },
+      {
+        "f": "f12",
+        "nature": "Inaccurate statement to the Senate media inquiry",
+        "outcome": "Corrected by letter the same day, 2022; commission to bring no legal action",
+        "status": "other"
+      }
+    ],
+    "rob-walton-and-family": [
+      {
+        "f": "f1",
+        "nature": "Opioid suits by state and local governments (Walmart)",
+        "outcome": "Settled 2022: $3.1bn, no admission of liability",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Justice Department opioid dispensing suit (Walmart)",
+        "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+        "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+        "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+        "outcome": "Settled 2025: $10m judgment",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+        "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+        "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f8",
+        "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+        "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+        "status": "pending"
+      },
+      {
+        "f": "f12",
+        "nature": "Derivative suit over oversight of opioid dispensing",
+        "outcome": "Settled 2024: $123m paid by insurers to Walmart, wrongdoing denied",
+        "status": "settled"
+      }
+    ],
+    "jim-walton-and-family": [
+      {
+        "f": "f1",
+        "nature": "Opioid suits by state and local governments (Walmart)",
+        "outcome": "Settled 2022: $3.1bn, no admission of liability",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Justice Department opioid dispensing suit (Walmart)",
+        "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+        "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+        "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+        "outcome": "Settled 2025: $10m judgment",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+        "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+        "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f8",
+        "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+        "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+        "status": "pending"
+      }
+    ],
+    "alice-walton": [
+      {
+        "f": "f1",
+        "nature": "Opioid suits by state and local governments (Walmart)",
+        "outcome": "Settled 2022: $3.1bn, no admission of liability",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Justice Department opioid dispensing suit (Walmart)",
+        "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+        "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+        "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+        "outcome": "Settled 2025: $10m judgment",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+        "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+        "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f8",
+        "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+        "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+        "status": "pending"
+      }
+    ],
+    "lukas-walton": [
+      {
+        "f": "f1",
+        "nature": "Opioid suits by state and local governments (Walmart)",
+        "outcome": "Settled 2022: $3.1bn, no admission of liability",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Justice Department opioid dispensing suit (Walmart)",
+        "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+        "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+        "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+        "outcome": "Settled 2025: $10m judgment",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+        "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+        "status": "dismissed"
+      },
+      {
+        "f": "f7",
+        "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+        "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f8",
+        "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+        "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+        "status": "pending"
+      }
+    ],
+    "michael-dell": [
+      {
+        "f": "f1",
+        "nature": "SEC charges over disclosures hiding Intel payments",
+        "outcome": "Settled 2010: $4m personal penalty, injunction, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Class V shareholder suit over the 2018 share swap",
+        "outcome": "Settled 2022: $1bn paid by Dell Technologies, no admission reported",
+        "status": "settled"
+      },
+      {
+        "f": "f3",
+        "nature": "Appraisal case over the 2013 buyout",
+        "outcome": "Higher valuation reversed 2017; no wrongdoing found, his conduct called praiseworthy",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f4",
+        "nature": "Overstated discounts on monitors (Dell Australia)",
+        "outcome": "Ordered 2023: A$10m penalty after admission; refunds ordered",
+        "status": "penalty"
+      },
+      {
+        "f": "f5",
+        "nature": "New York Attorney General suit over deceptive advertising (Dell)",
+        "outcome": "Found deceptive 2008; agreed 2009 to pay $4m and change practices",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "401(k) class action over underperforming funds (Dell Technologies)",
+        "outcome": "Pending; over $270m sought",
+        "status": "pending"
+      }
+    ],
+    "steve-ballmer": [
+      {
+        "f": "f1",
+        "nature": "NBA discipline for salary-cap circumvention (private league, not a court)",
+        "outcome": "Suspended one year 2026; Clippers fined $30m, lost five first-round picks; paid",
+        "status": "penalty"
+      },
+      {
+        "f": "f2",
+        "nature": "Fraud complaint by Aspiration investors",
+        "outcome": "Pending; he denies the allegations and moved to dismiss",
+        "status": "pending"
+      },
+      {
+        "f": "f3",
+        "nature": "Brooklyn criminal inquiry into Leonard endorsement deals (Clippers), reported",
+        "outcome": "Reported 2026, early stage; no charges; Ballmer not reported as a target",
+        "status": "reported"
+      },
+      {
+        "f": "f4",
+        "nature": "Monopolisation case (Microsoft)",
+        "outcome": "Monopoly finding upheld in part 2001; break-up order vacated",
+        "status": "finding"
+      },
+      {
+        "f": "f5",
+        "nature": "EU browser-choice fine (Microsoft)",
+        "outcome": "€561m, 2013",
+        "status": "penalty"
+      }
+    ],
+    "changpeng-zhao": [
+      {
+        "f": "f1",
+        "nature": "Bank Secrecy Act violation over Binance's anti-money-laundering programme",
+        "outcome": "Guilty plea 2023; four months in prison 2024, served; $50m fine; pardoned 2025 (see below)",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f2",
+        "nature": "Bank Secrecy Act, money-transmitting and sanctions violations (Binance)",
+        "outcome": "Guilty plea 2023: $4.3bn and an independent monitor",
+        "status": "plea_or_conviction"
+      },
+      {
+        "f": "f3",
+        "nature": "CFTC derivatives case (with Binance)",
+        "outcome": "Consent order 2023: $150m personal penalty; Binance paid $2.7bn",
+        "status": "settled"
+      },
+      {
+        "f": "f4",
+        "nature": "SEC suit alleging inflated volumes, diverted funds, unregistered trading",
+        "outcome": "Dismissed with prejudice 2025; no ruling on the allegations",
+        "status": "dismissed"
+      },
+      {
+        "f": "f5",
+        "nature": "Presidential pardon",
+        "outcome": "Pardoned by President Trump 2025; senators tied it to Trump family business ties",
+        "status": "other"
+      },
+      {
+        "f": "f7",
+        "nature": "FTX estate clawback suit over a 2021 share buyback (with Binance)",
+        "outcome": "Pending; $1.76bn clawback claims allowed to proceed 2026, others dismissed",
+        "status": "pending"
+      },
+      {
+        "f": "f8",
+        "nature": "Anti-terrorism suits by attack victims (with Binance)",
+        "outcome": "Pending; one survived dismissal 2025; a third dismissed 2026 with leave to amend",
+        "status": "pending"
+      },
+      {
+        "f": "f9",
+        "nature": "UK investor suit over unauthorised derivatives sales (with Binance)",
+        "outcome": "Pending; at least £150m claimed",
+        "status": "pending"
+      },
+      {
+        "f": "f10",
+        "nature": "Senator's preliminary inquiry over Iran-linked flows (Binance)",
+        "outcome": "Opened 2026; Binance denies violating sanctions",
+        "status": "pending"
+      },
+      {
+        "f": "f11",
+        "nature": "Nigerian tax evasion and money-laundering prosecutions (Binance)",
+        "outcome": "Pending; not-guilty plea 2024; adjourned 2026 for a report on settlement talks",
+        "status": "pending"
+      }
+    ],
+    "michael-bloomberg": [
+      {
+        "f": "f3",
+        "nature": "FEC complaints over his campaign's $18m transfer to the DNC",
+        "outcome": "Dismissed 2023 as a matter of prosecutorial discretion",
+        "status": "dismissed"
+      },
+      {
+        "f": "f4",
+        "nature": "SEC charges over undisclosed order routing (Bloomberg Tradebook)",
+        "outcome": "Settled 2020: censure and $5m penalty, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "SEC case over undisclosed BVAL valuation inputs (Bloomberg Finance)",
+        "outcome": "Settled 2023: $5m penalty, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f6",
+        "nature": "EEOC pregnancy discrimination suit (his company)",
+        "outcome": "Pattern-or-practice claim rejected 2011; individual claims could proceed",
+        "status": "ruled_for"
+      },
+      {
+        "f": "f7",
+        "nature": "Sexual harassment and discrimination suit by a former saleswoman",
+        "outcome": "Settled confidentially 2000, no admission",
+        "status": "settled"
+      },
+      {
+        "f": "f8",
+        "nature": "Field organizer's suit over a broken job promise (2020 campaign)",
+        "outcome": "Jury verdict 2025: about $53,750; both sides appealed",
+        "status": "pending"
+      },
+      {
+        "f": "f9",
+        "nature": "Former campaign worker's claim of a personal job promise",
+        "outcome": "Allowed to proceed 2026; dismissed personally from the Doty case 2026",
+        "status": "pending"
+      },
+      {
+        "f": "f10",
+        "nature": "Copyright suit over BloombergGPT training (Bloomberg)",
+        "outcome": "Pending; motion to dismiss denied 2025",
+        "status": "pending"
+      }
+    ],
+    "bill-gates": [
+      {
+        "f": "f1",
+        "nature": "Premerger filing violation (Hart-Scott-Rodino Act)",
+        "outcome": "Agreed 2004: $800,000 civil penalty",
+        "status": "settled"
+      },
+      {
+        "f": "f2",
+        "nature": "Monopolisation case (Microsoft)",
+        "outcome": "Monopoly finding upheld 2001; remedy vacated",
+        "status": "finding"
+      },
+      {
+        "f": "f3",
+        "nature": "EU competition fines (Microsoft)",
+        "outcome": "€497m 2004, €280.5m 2006, €899m 2008 (cut to €860m), €561m 2013",
+        "status": "penalty"
+      }
+    ],
+    "jeff-yass": [
+      {
+        "f": "f1",
+        "nature": "Tax Court case over a loan guarantee by foreign subsidiaries (SIH Partners)",
+        "outcome": "Tax owed on about $377m, upheld 2019; no penalty reported",
+        "status": "finding"
+      },
+      {
+        "f": "f2",
+        "nature": "Tax Court case over Swiss dividends and a swap (SIH Partners)",
+        "outcome": "Ruled against 2026: about $170.8m dividends, $25.6m tax credits; no penalty",
+        "status": "finding"
+      },
+      {
+        "f": "f3",
+        "nature": "Irish group relief dispute (Susquehanna's Irish units)",
+        "outcome": "Relief refused; refusal upheld by the High Court 2024 and Court of Appeal 2025",
+        "status": "finding"
+      },
+      {
+        "f": "f4",
+        "nature": "FINRA trade-reporting violations (Susquehanna Financial Group)",
+        "outcome": "Censured 2025: $100,000 fine, neither admitted nor denied",
+        "status": "settled"
+      },
+      {
+        "f": "f5",
+        "nature": "Options position-limit breaches (Susquehanna Securities)",
+        "outcome": "Censured 2023: $80,000 fine",
+        "status": "penalty"
+      },
+      {
+        "f": "f6",
+        "nature": "SEC charges of improper proprietary trading (Susquehanna Investment Group)",
+        "outcome": "Settled 2009, neither admitted nor denied; its share not stated",
+        "status": "settled"
+      }
     ]
   },
   "legal_status": {

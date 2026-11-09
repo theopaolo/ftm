@@ -2937,6 +2937,158 @@
         "elon-musk-wlbt-naacp-xai",
         "elon-musk-tnw-xai-dismissal",
         "elon-musk-bloomberglinea-foundation"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10-15",
+          "nature": "Voter class actions over the $1m petition giveaway (with America PAC)",
+          "outcome": "Settlement notices filed 2026; terms undisclosed, court approval needed",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Elon Musk and America PAC",
+          "summary": "Two Arizona voters filed proposed class actions against Musk and America PAC, alleging the 2024 $1 million petition giveaway was falsely presented as a random lottery. Settlement notices were filed in October 2026 in federal court in Austin; terms were not disclosed, the judge must approve them, and no admission of liability was reported.",
+          "sources": [
+            "elon-musk-bgov-america-pac"
+          ]
+        },
+        {
+          "date": "2026-10",
+          "nature": "Clean Air Act suit by the NAACP over gas turbines (xAI)",
+          "outcome": "Pending; dismissal refused 2026",
+          "status": "pending",
+          "level": "company",
+          "entity": "xAI (now part of SpaceX)",
+          "summary": "The NAACP sued xAI in April 2026 under the Clean Air Act, alleging it installed gas turbines at its Southaven, Mississippi data-centre plant between August and December 2025 without permits (at least 27 by April 2026), with potential emissions it puts at about 1,700 tons of nitrogen oxides a year. A federal judge refused to dismiss the suit in October 2026; it is pending.",
+          "sources": [
+            "elon-musk-wlbt-naacp-xai",
+            "elon-musk-tnw-xai-dismissal"
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "nature": "Racial discrimination suit by California's Civil Rights Department (Tesla)",
+          "outcome": "Pending; bench trial opened 2026; separate EEOC suit pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Tesla",
+          "summary": "California’s Civil Rights Department alleges that Black workers at Tesla’s Fremont plant faced racial slurs, graffiti, lower pay and segregation into the worst jobs; a bench trial opened in September 2026 and no ruling has been reported. Tesla denies wrongdoing. A separate EEOC suit is pending, and a 2021 jury verdict for one worker was later reduced.",
+          "sources": [
+            "elon-musk-ij-crd-trial",
+            "elon-musk-electrek-crd-trial"
+          ]
+        },
+        {
+          "date": "2026-07-30",
+          "nature": "Twitter shareholder suit over false May 2022 statements",
+          "outcome": "Jury found him liable 2026 on two statements, one later set aside; appeal pending",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Elon Musk",
+          "summary": "In March 2026 a San Francisco federal jury found Musk liable to Twitter shareholders over two false May 2022 statements, clearing him on a third and on scheme claims; partial judgment against him personally followed on 3 April 2026. On 6 July the judge set aside the verdict on one of the two statements, and on 30 July Musk appealed to the Ninth Circuit, where the appeal is pending.",
+          "sources": [
+            "elon-musk-tesla-proxy-2026",
+            "elon-musk-afp-twitter-verdict"
+          ]
+        },
+        {
+          "date": "2026-07",
+          "nature": "SEC suit over late disclosure of his Twitter stake",
+          "outcome": "Settled 2026: $1.5m civil penalty, neither admitted nor denied",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Elon Musk",
+          "summary": "The SEC sued Musk in January 2025, alleging he disclosed his Twitter stake 11 days late in 2022, which it said cost other shareholders more than $150 million. He settled in 2026, a trust in his name paying a $1.5 million civil penalty, without admitting or denying wrongdoing; a federal judge approved the deal in July 2026 despite stated misgivings.",
+          "sources": [
+            "bt-musk-sec",
+            "bloomberg-musk-sec"
+          ]
+        },
+        {
+          "date": "2026-02-20",
+          "nature": "Fatal Autopilot crash suit (Tesla)",
+          "outcome": "Jury verdict 2025: $42.6m compensatory, $200m punitive; upheld 2026, appeal expected",
+          "status": "finding",
+          "level": "company",
+          "entity": "Tesla",
+          "summary": "In August 2025 a Miami federal jury found Tesla 33% responsible for a fatal 2019 crash involving Autopilot, awarding $42.6 million in compensatory and $200 million in punitive damages. The judge upheld the verdict in 2026; Tesla was expected to appeal.",
+          "sources": [
+            "elon-musk-reuters-benavides"
+          ]
+        },
+        {
+          "date": "2026-02-17",
+          "nature": "California DMV case over misleading 'Autopilot' marketing (Tesla)",
+          "outcome": "Finding adopted 2025, suspension stayed; avoided after Tesla dropped the term",
+          "status": "finding",
+          "level": "company",
+          "entity": "Tesla",
+          "summary": "In November 2025 an administrative law judge proposed finding that Tesla’s use of “Autopilot” was misleading and broke California law; in December the DMV adopted the finding, stayed the manufacturer licence suspension and gave Tesla 60 days to act. By February 2026 Tesla had dropped the term in its California marketing, avoiding 30-day licence suspensions.",
+          "sources": [
+            "elon-musk-dmv-autopilot"
+          ]
+        },
+        {
+          "date": "2026-01-26",
+          "nature": "Digital Services Act fine (X)",
+          "outcome": "€120m, 2025; further investigation into Grok opened 2026",
+          "status": "penalty",
+          "level": "company",
+          "entity": "X",
+          "summary": "In December 2025 the European Commission fined X €120 million, its first Digital Services Act non-compliance decision, over its deceptive paid blue checkmark, an opaque ad repository and barriers to researcher data access. In January 2026 it opened a further investigation into risks from Grok on X, including sexually explicit manipulated images; that case is open.",
+          "sources": [
+            "elon-musk-ec-x-dsa-fine",
+            "elon-musk-ec-grok-investigation"
+          ]
+        },
+        {
+          "date": "2025-12-19",
+          "nature": "Case over his 2018 Tesla pay package",
+          "outcome": "Cancellation reversed 2025, $1 nominal damages; control findings not overturned",
+          "status": "ruled_for",
+          "level": "individual",
+          "entity": "Elon Musk and Tesla",
+          "summary": "In December 2025 the Delaware Supreme Court reversed the cancellation of Musk’s 2018 Tesla pay package, awarding $1 in nominal damages. It did not overturn the 2024 lower-court findings that Musk controlled Tesla and that the board’s approval process was seriously flawed.",
+          "sources": [
+            "elon-musk-cnbc-tornetta"
+          ]
+        },
+        {
+          "date": "2024-10-25",
+          "nature": "NLRB case over a 2018 tweet on unionising and a firing (Tesla)",
+          "outcome": "NLRB finding 2021; orders vacated by the Fifth Circuit 2024, case sent back",
+          "status": "pending",
+          "level": "company",
+          "entity": "Tesla",
+          "summary": "In 2021 the NLRB found that Musk’s 2018 tweet suggesting workers would lose stock options if they unionised broke labour law, and that Tesla fired a union supporter. In October 2024 the full Fifth Circuit, 9–8, vacated the order to delete the tweet and the reinstatement order, and sent the case back.",
+          "sources": [
+            "elon-musk-hrdive-nlrb"
+          ]
+        },
+        {
+          "date": "2023-02-03",
+          "nature": "Tesla shareholder suit over 'funding secured' posts",
+          "outcome": "Jury found him not liable 2023; judge had ruled the posts false and reckless",
+          "status": "ruled_for",
+          "level": "individual",
+          "entity": "Elon Musk",
+          "summary": "In February 2023 a federal jury in San Francisco found Musk not liable in a suit by Tesla shareholders over his 2018 “funding secured” posts, although the judge had earlier ruled those posts false and reckless.",
+          "sources": [
+            "elon-musk-nbc-funding-secured"
+          ]
+        },
+        {
+          "date": "2018-10-16",
+          "nature": "SEC securities fraud charges over his post on taking Tesla private",
+          "outcome": "Settled 2018: $20m penalty, stepped down as chairman, neither admitted nor denied",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Elon Musk",
+          "summary": "In 2018 the SEC charged Musk with securities fraud over his post on taking Tesla private. He settled without admitting or denying the allegations, paid a $20 million personal penalty and stepped down as Tesla chairman; Tesla paid a further $20 million. The court approved the settlement in October 2018.",
+          "sources": [
+            "elon-musk-sec-2018-settlement",
+            "elon-musk-tesla-proxy-2026"
+          ]
+        }
       ]
     },
     {
@@ -3026,6 +3178,149 @@
         "larry-page-esgtoday-env-2026",
         "larry-page-npq-foundation",
         "larry-page-causeiq-foundation"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-09-16",
+          "nature": "Ad tech monopolisation case (Google)",
+          "outcome": "Ruled illegal 2025; 2026 remedies: conduct changes and a monitor, no AdX sale; appeal planned",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A federal court in Virginia ruled in April 2025 that Google illegally monopolized open-web advertising technology markets. Its remedies opinion, unsealed in September 2026, rejected the DOJ's demand to sell AdX and ordered six years of conduct changes and a compliance monitor; Google said it would appeal the liability ruling.",
+          "sources": [
+            "larry-page-doj-adtech-liability",
+            "larry-page-reuters-adtech-remedies"
+          ]
+        },
+        {
+          "date": "2026-08-19",
+          "nature": "Play Store monopoly suits by Epic, states and consumers (Google)",
+          "outcome": "Verdict upheld 2025; Epic settled 2025; $700m settlement approved 2026, wrongdoing denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A jury found Google's Android app store an illegal monopoly in Epic Games' suit, and the Ninth Circuit unanimously upheld the verdict in July 2025; Epic and Google filed a settlement in November 2025. Separately, a judge gave final approval in August 2026 to a $700 million Play Store settlement with all states and consumers, in which Google denies wrongdoing.",
+          "sources": [
+            "larry-page-ap-epic-settlement",
+            "larry-page-pymnts-play-settlement"
+          ]
+        },
+        {
+          "date": "2026-07-15",
+          "nature": "EU AdSense fine (Google)",
+          "outcome": "€1.49bn fine annulled 2024; Commission's appeal pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In September 2024 the EU General Court annulled the €1.49 billion fine imposed in 2019 over Google's AdSense contracts, while agreeing with most of the Commission's assessment. The Commission appealed; the Court of Justice heard the case in July 2026 and has not ruled.",
+          "sources": [
+            "larry-page-rte-adsense",
+            "larry-page-reuters-adsense-appeal"
+          ]
+        },
+        {
+          "date": "2026-07-02",
+          "nature": "EU Android fine (Google, Alphabet)",
+          "outcome": "About €4.1bn, confirmed by the EU Court of Justice 2026",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google and Alphabet",
+          "summary": "In July 2026 the EU Court of Justice dismissed the appeal of Google and Alphabet and confirmed a fine of about €4.1 billion, as reduced by the General Court in 2022, over Android deals with phone makers that the Commission found favoured Google Search and Chrome.",
+          "sources": [
+            "larry-page-euronews-android"
+          ]
+        },
+        {
+          "date": "2026-04-23",
+          "nature": "Trump suit over his 2021 account suspension (YouTube, Alphabet)",
+          "outcome": "Settled 2025: $24.5m, $22m to the White House ballroom trust",
+          "status": "settled",
+          "level": "company",
+          "entity": "YouTube / Alphabet",
+          "summary": "In September 2025 YouTube and Alphabet agreed to pay $24.5 million to settle Donald Trump's suit over his 2021 account suspension, $22 million of it to the trust funding the White House ballroom; CBS also reported that Google donated to the ballroom, amount not stated. Alphabet spent $4.13 million on federal lobbying in the first quarter of 2026.",
+          "sources": [
+            "larry-page-cbs-youtube-trump",
+            "larry-page-fortune-lobbying"
+          ]
+        },
+        {
+          "date": "2026-02-04",
+          "nature": "Search monopolisation case (Google)",
+          "outcome": "Monopoly ruling 2024; remedies 2025 without a Chrome sale; cross-appeals pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A federal court in Washington ruled in August 2024 that Google illegally maintained a monopoly in search, and in September 2025 barred exclusive distribution deals and ordered data sharing with rivals, without forcing a Chrome sale. Google appealed in January 2026 and the DOJ and 35 states and territories appealed the remedies as too weak; the D.C. Circuit has not ruled.",
+          "sources": [
+            "google",
+            "larry-page-bloomberg-search-appeal",
+            "larry-page-silicon-doj-appeal"
+          ]
+        },
+        {
+          "date": "2025-10-23",
+          "nature": "Shareholder derivative suits over antitrust exposure",
+          "outcome": "Settled 2025: $500m on compliance over ten years, no payment to shareholders",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Larry Page",
+          "summary": "Page, Brin and CEO Sundar Pichai were among Alphabet officials named in shareholder derivative suits alleging they breached fiduciary duties by exposing the company to antitrust liability. In 2025 Alphabet agreed to spend $500 million over ten years on compliance reforms, with no payment to shareholders; Google denied wrongdoing and a federal judge entered judgment in October 2025.",
+          "sources": [
+            "larry-page-reuters-derivative-2025",
+            "larry-page-bloomberglaw-derivative-judgment"
+          ]
+        },
+        {
+          "date": "2025-09-08",
+          "nature": "EU ad tech abuse-of-dominance fine (Google)",
+          "outcome": "€2.95bn, 2025; appeal announced",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In September 2025 the European Commission fined Google €2.95 billion, finding it had abused dominant positions in ad tech since at least 2014 by favouring its own AdX exchange. The Commission said only a sale of part of the business would end the conflict of interest; Google called the fine unjustified and said it would appeal.",
+          "sources": [
+            "larry-page-gazette-eu-adtech"
+          ]
+        },
+        {
+          "date": "2025-05-10",
+          "nature": "Texas suits over location, incognito and biometric data (Google)",
+          "outcome": "Settled 2025: $1.375bn, no admission reported",
+          "status": "settled",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In May 2025 Google agreed to pay Texas $1.375 billion to settle two 2022 state lawsuits alleging it tracked users' location, incognito searches and biometric data such as voiceprints without authorization. No admission of wrongdoing was reported.",
+          "sources": [
+            "larry-page-kron-texas",
+            "larry-page-techmonitor-texas"
+          ]
+        },
+        {
+          "date": "2024-09-10",
+          "nature": "EU fine for favouring Google Shopping (Google)",
+          "outcome": "€2.4bn, upheld by the EU Court of Justice 2024",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In September 2024 the EU Court of Justice dismissed Google's final appeal and upheld the €2.4 billion fine the European Commission imposed in 2017 for favouring its own Shopping service in search results over rival comparison sites.",
+          "sources": [
+            "larry-page-euronews-shopping"
+          ]
+        },
+        {
+          "date": "2020-09-25",
+          "nature": "Shareholder suit alleging the board shielded executives accused of misconduct",
+          "outcome": "Settled 2020: $310m diversity commitment, policy changes; no personal payment",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Larry Page",
+          "summary": "Page and Brin were among executives named in a 2019 shareholder suit alleging that Alphabet's board shielded senior executives accused of sexual misconduct. Alphabet settled in September 2020 by committing $310 million over ten years to diversity initiatives and changing severance, arbitration and NDA policies; no personal payment or admission was reported.",
+          "sources": [
+            "larry-page-cnbc-derivative-2020",
+            "larry-page-nbc-derivative-2020"
+          ]
+        }
       ]
     },
     {
@@ -3112,6 +3407,174 @@
         "larry-page-sec-proxy-2026",
         "larry-page-esgtoday-env-2026",
         "sergey-brin-forbes-philanthropy"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10",
+          "nature": "Digital Markets Act fines over Play and Search (Google)",
+          "outcome": "€430m and €460m, 2026; under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In July 2026 the European Commission issued Digital Markets Act non-compliance decisions fining Google €430 million over Google Play and €460 million over Search. Google appealed both in October 2026; the appeals are pending.",
+          "sources": [
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "nature": "Publisher ad tech exclusion case (Google)",
+          "outcome": "Ruled against 2025; 2026 conduct remedies and a monitor, no AdX sale; appeal planned",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A federal court in Virginia ruled in April 2025 that Google's publisher ad tech tools unfairly excluded rivals, while clearing its advertiser tools and two acquisitions. In September 2026 it rejected a forced sale of AdX and ordered six years of conduct changes and a compliance monitor; Google plans to appeal, and a separate Texas-led state case awaits trial.",
+          "sources": [
+            "larry-page-reuters-adtech-remedies",
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2026-08",
+          "nature": "Play Store suit by Epic Games (Google)",
+          "outcome": "Jury verdict 2023, upheld 2025; Google complying with 2024 remedies",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A California jury found against Google in Epic Games' Play Store case in December 2023, and the appeals court denied Google's appeal in July 2025. A March 2026 settlement sought to modify the remedies, but the parties withdrew that request in July 2026 and Google is complying with the October 2024 remedies order; a court approved Google's Play settlement with the states in August 2026.",
+          "sources": [
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2026-07-02",
+          "nature": "EU Android fine (Google, Alphabet)",
+          "outcome": "€4.125bn, confirmed by the EU Court of Justice 2026; $5.2bn paid with interest",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google and Alphabet",
+          "summary": "On 2 July 2026 the EU Court of Justice dismissed Google and Alphabet's appeal and confirmed the €4.125 billion fine for abusing Google Search's dominance through Android pre-installation and anti-fragmentation agreements, decided by the Commission in 2018. Alphabet reports the decision is now final and that it paid $5.2 billion including interest in July 2026.",
+          "sources": [
+            "sergey-brin-curia-android",
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2026-07",
+          "nature": "EU Google Shopping fine and PriceRunner damages suit (Google)",
+          "outcome": "€2.4bn fine upheld 2024; about $2.1bn damages awarded 2026, under appeal",
+          "status": "finding",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In September 2024 the EU Court of Justice upheld the €2.4 billion fine for favouring Google Shopping in search results. In July 2026 the Stockholm Patent and Market Court awarded PriceRunner about $2.1 billion in principal damages, plus interest and costs, over Google's display and ranking of shopping results; Google's appeal is pending.",
+          "sources": [
+            "larry-page-euronews-shopping",
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2026-05-22",
+          "nature": "Search monopolisation case (Google)",
+          "outcome": "Monopoly ruling 2024; remedies 2025; appeal and cross-appeals pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "A federal court in Washington ruled in August 2024 that Google is a monopolist in search and acted to maintain it, and its September 2025 remedies barred exclusive distribution deals and required data sharing and syndication to rivals. Google appealed the December 2025 final judgment in January 2026 and the DOJ and states cross-appealed in February; the appeals are pending.",
+          "sources": [
+            "google",
+            "ap-meta-ftc",
+            "sergey-brin-reuters-search-appeal",
+            "sergey-brin-reuters-doj-appeal",
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2025-11",
+          "nature": "EU ad tech self-preferencing fine (Google)",
+          "outcome": "About €3bn, 2025; under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In September 2025 the European Commission fined Google about €3 billion for self-preferencing in ad tech and ordered it to stop. Google appealed in November 2025 and the appeal is pending; a UK statement of objections on ad tech from 2024 is also pending.",
+          "sources": [
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2025-09-29",
+          "nature": "Trump suit over his 2021 account suspension (YouTube)",
+          "outcome": "Settled 2025: $24.5m, $22m to the White House ballroom trust",
+          "status": "settled",
+          "level": "company",
+          "entity": "YouTube and Alphabet",
+          "summary": "In September 2025 YouTube agreed to pay $24.5 million to settle Donald Trump's suit over his 2021 account suspension, $22 million of it directed to the trust supporting the White House ballroom. CBS reported that Google was also listed as a ballroom donor, amount not stated.",
+          "sources": [
+            "larry-page-cbs-youtube-trump"
+          ]
+        },
+        {
+          "date": "2025-05-30",
+          "nature": "Shareholder derivative suits over antitrust exposure",
+          "outcome": "Agreed 2025: $500m on compliance over ten years, wrongdoing denied; court approval required",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Sergey Brin and other Alphabet officials",
+          "summary": "Brin, Larry Page and Sundar Pichai were among Alphabet officials named in shareholder derivative suits alleging they breached fiduciary duties by exposing the company to antitrust liability. In May 2025 Google agreed to spend $500 million over ten years on compliance reforms, with no payment to shareholders, and denied wrongdoing; the deal required court approval.",
+          "sources": [
+            "larry-page-reuters-derivative-2025"
+          ]
+        },
+        {
+          "date": "2025-05-16",
+          "nature": "Suits by the pilots' families over the 2023 seaplane crash",
+          "outcome": "One family settled by 2025, terms unreported; widow's suit last reported pending 2024",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Sergey Brin",
+          "summary": "The families of both pilots killed in May 2023 when Brin's seaplane crashed off California sued him and others in Santa Clara County in 2024, alleging an improperly installed fuel system and obstructed recovery of remains. Google was dismissed from the widow's suit in July 2024; the other family settled by May 2025, terms not reported; the widow's suit was last reported pending in September 2024.",
+          "sources": [
+            "sergey-brin-bloomberg-plane-suit",
+            "sergey-brin-bi-plane-suit",
+            "sergey-brin-flying-settlement"
+          ]
+        },
+        {
+          "date": "2025-05-09",
+          "nature": "Texas suits over location, incognito and biometric data (Google)",
+          "outcome": "Settled 2025: $1.375bn, no admission stated",
+          "status": "settled",
+          "level": "company",
+          "entity": "Google",
+          "summary": "In May 2025 Google agreed to pay Texas $1.375 billion to settle 2022 state lawsuits alleging it tracked and collected users' location, incognito search and biometric data without authorisation. The report does not state any admission of wrongdoing.",
+          "sources": [
+            "larry-page-kron-texas"
+          ]
+        },
+        {
+          "date": "2024-09",
+          "nature": "EU AdSense fine (Google)",
+          "outcome": "€1.5bn fine annulled 2024; Commission's appeal pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Google",
+          "summary": "The EU General Court annulled in September 2024 the €1.5 billion fine the Commission imposed in 2019 over Google's AdSense for Search agreements. The Commission's appeal to the Court of Justice is pending.",
+          "sources": [
+            "sergey-brin-alphabet-10q-q3-2026"
+          ]
+        },
+        {
+          "date": "2020-09-25",
+          "nature": "Shareholder suit over Andy Rubin's quiet resignation",
+          "outcome": "Settled 2020: $310m diversity commitment, policy changes; no personal payment",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Sergey Brin and other Alphabet directors",
+          "summary": "A January 2019 shareholder derivative suit named Brin and Page among Alphabet directors, alleging they let Andy Rubin quietly resign after an internal probe found a harassment claim credible; Rubin denied misconduct. Alphabet settled in September 2020 with a $310 million diversity commitment and policy changes; no personal payment was reported.",
+          "sources": [
+            "sergey-brin-bloomberg-derivative-2019",
+            "larry-page-cnbc-derivative-2020"
+          ]
+        }
       ]
     },
     {
@@ -3191,6 +3654,122 @@
         "jeff-bezos-esgdive-emissions",
         "jeff-bezos-fortune-day1",
         "jeff-bezos-fortune-earth-fund"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10-09",
+          "nature": "Online retail monopoly suit by the FTC and states (Amazon)",
+          "outcome": "Pending; trial set for March 2027",
+          "status": "pending",
+          "level": "company",
+          "entity": "Amazon.com, Inc.",
+          "summary": "The FTC, joined by state attorneys general, alleges in a 2023 suit (W.D. Wash. 2:23-cv-01495) that Amazon unlawfully maintains an online retail monopoly. The case is pending; in October 2026 the judge refused Amazon's request to delay the trial set for 29 March 2027.",
+          "sources": [
+            "jeff-bezos-ftc-ecommerce-case",
+            "jeff-bezos-mlex-trial-dates",
+            "jeff-bezos-pymnts-delay-rejected"
+          ]
+        },
+        {
+          "date": "2026-10",
+          "nature": "FTC charges over Prime enrolment and cancellation (Amazon)",
+          "outcome": "Settled 2025: $2.5bn ($1bn penalty, $1.5bn refunds), no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Amazon.com, Inc.",
+          "summary": "In September 2025 Amazon agreed to pay $2.5 billion ($1 billion civil penalty, $1.5 billion in refunds) to settle FTC charges over Prime enrolment and cancellation, without admitting wrongdoing. By September 2026 it had refunded over $845 million; a revised order announced by the FTC that month raised the refund cap from $51 to $200, with all eligible customers to be paid by April 2027.",
+          "sources": [
+            "pbs-amazon-ftc",
+            "jeff-bezos-cbs-prime-refunds"
+          ]
+        },
+        {
+          "date": "2026-09-16",
+          "nature": "California suit alleging pricing policies kept prices high (Amazon)",
+          "outcome": "Pending; summary judgment denied 2026 on a key crossclaim",
+          "status": "pending",
+          "level": "company",
+          "entity": "Amazon.com, Inc.",
+          "summary": "California's attorney general sued Amazon in September 2022, alleging that its pricing policies kept prices high across online retail. In April 2026 the court denied Amazon summary judgment on a key crossclaim; the trial, first set for 19 January 2027, was moved to 22 March.",
+          "sources": [
+            "jeff-bezos-ca-ag-price-case",
+            "jeff-bezos-mlex-trial-dates"
+          ]
+        },
+        {
+          "date": "2026-08-31",
+          "nature": "FTC and 22-state suit over a hidden ad-auction surcharge (Amazon)",
+          "outcome": "Pending; filed 2026",
+          "status": "pending",
+          "level": "company",
+          "entity": "Amazon.com, Inc.",
+          "summary": "On 31 August 2026 the FTC and 22 states sued Amazon, alleging that since 2019 it secretly added a surcharge to its search-ad auctions while presenting them as second-price auctions, overcharging over a million sellers. These are allegations in a pending case; no executive is named as a defendant.",
+          "sources": [
+            "jeff-bezos-ftc-ads-complaint"
+          ]
+        },
+        {
+          "date": "2026-08-18",
+          "nature": "Class action over unrefunded returns (Amazon)",
+          "outcome": "Settled 2026: $309.5m plus over $600m paid; final hearing March 2027",
+          "status": "settled",
+          "level": "company",
+          "entity": "Amazon.com, Inc.",
+          "summary": "In January 2026 Amazon agreed to settle a class action alleging it failed to refund or re-charged customers for returned items: $309.5 million on top of more than $600 million paid or about to be paid, plus practice changes. The court gave preliminary approval in August 2026; final hearing is set for March 2027.",
+          "sources": [
+            "jeff-bezos-returns-motion",
+            "jeff-bezos-classaction-returns"
+          ]
+        },
+        {
+          "date": "2026-03-12",
+          "nature": "GDPR fine over ad targeting (Amazon)",
+          "outcome": "€746m fine annulled 2026 on procedure; breaches confirmed, back to the regulator",
+          "status": "pending",
+          "level": "company",
+          "entity": "Amazon Europe Core",
+          "summary": "In March 2026 Luxembourg's appeal court annulled the €746 million GDPR fine imposed in 2021, for procedural failings, while confirming that Amazon's ad targeting lacked a valid legal basis and breached transparency rules. The case went back to the regulator, which may impose a new penalty.",
+          "sources": [
+            "jeff-bezos-paperjam-cnpd",
+            "jeff-bezos-freevacy-cnpd"
+          ]
+        },
+        {
+          "date": "2026-01-12",
+          "nature": "Italian abuse-of-dominance fine over logistics (Amazon)",
+          "outcome": "€1.13bn 2021, cut to €752.4m 2026; appeals reported",
+          "status": "pending",
+          "level": "company",
+          "entity": "Amazon (Italy)",
+          "summary": "Italy's competition authority fined Amazon €1.13 billion in 2021 for abusing its dominance in e-commerce logistics. After a September 2025 court ruling, the authority cut the fine to €752.4 million in January 2026; Amazon said it would appeal and the regulator was also reported to appeal.",
+          "sources": [
+            "jeff-bezos-reuters-italy-fine"
+          ]
+        },
+        {
+          "date": "2024-12-19",
+          "nature": "OSHA ergonomics cases (Amazon)",
+          "outcome": "Settled 2024: $145,000 and a two-year ergonomics programme",
+          "status": "settled",
+          "level": "company",
+          "entity": "Amazon.com Services LLC",
+          "summary": "In December 2024 Amazon settled OSHA's ergonomics cases from inspections of 10 facilities begun in 2022, paying $145,000 and agreeing to a two-year corporate ergonomics programme covering its facilities under federal OSHA jurisdiction.",
+          "sources": [
+            "jeff-bezos-osha-ergonomics"
+          ]
+        },
+        {
+          "date": "2023-12-14",
+          "nature": "EU state-aid decision on Luxembourg tax treatment (Amazon)",
+          "outcome": "Annulled; Commission's appeal dismissed 2023",
+          "status": "ruled_for",
+          "level": "company",
+          "entity": "Amazon",
+          "summary": "In December 2023 the EU Court of Justice dismissed the European Commission's appeal, leaving annulled its 2017 decision that Luxembourg's tax treatment of two Amazon subsidiaries was illegal state aid. Amazon won this matter.",
+          "sources": [
+            "jeff-bezos-gazette-state-aid"
+          ]
+        }
       ]
     },
     {
@@ -3275,6 +3854,199 @@
         "mark-zuckerberg-afp-pcast",
         "mark-zuckerberg-bloomberg-entergy",
         "mark-zuckerberg-propublica-czi"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10-21",
+          "nature": "New Mexico case over statements on user data and Cambridge Analytica (Meta)",
+          "outcome": "Penalty 2026: $25bn after jury found about 44m violations; appeal planned",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In a second New Mexico case over Facebook's statements on user data, content moderation and Cambridge Analytica, a jury found about 44 million violations in September 2026 and a judge imposed a $25 billion civil penalty on 21 October 2026. Meta says it will appeal.",
+          "sources": [
+            "mark-zuckerberg-sourcenm-25b",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2026-08-26",
+          "nature": "Teen mental health suits by 52 attorneys general (Meta)",
+          "outcome": "Settled 2026: up to about $18.6bn, no admission reported",
+          "status": "settled",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In August 2026 Meta agreed with 52 attorneys general to settle teen mental health suits. Its filing puts payments at up to about $18.6 billion, including about $500 million for related privacy claims: about $12.7 billion over ten years, and about $5.3 billion only if rivals such as YouTube and TikTok take on similar duties. Terms include teen time limits; no admission was reported.",
+          "sources": [
+            "mark-zuckerberg-ap-multistate-settlement",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2026-04-28",
+          "nature": "D.C. consumer protection suit over Cambridge Analytica",
+          "outcome": "Pending; motion to dismiss denied 2026",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Mark Zuckerberg",
+          "summary": "In May 2022 the District of Columbia sued Zuckerberg personally under its consumer protection law, alleging he was personally involved in the privacy failures behind the Cambridge Analytica data leak. A D.C. Superior Court judge denied his motion to dismiss, ruling from the bench on 28 April 2026, so the case proceeds; the claims are allegations.",
+          "sources": [
+            "mark-zuckerberg-politico-dc-suit",
+            "mark-zuckerberg-mlex-dc-ruling"
+          ]
+        },
+        {
+          "date": "2026-04-07",
+          "nature": "Shareholder suit over privacy failures and alleged insider trading",
+          "outcome": "Settled 2026: $190m paid to Meta by insurers, allegations denied",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Mark Zuckerberg",
+          "summary": "Zuckerberg and ten current and former Meta directors and officers settled a Delaware shareholder suit alleging they failed to prevent privacy violations and that he traded on inside information, for $190 million paid to Meta by their liability insurers. The defendants denied the allegations; the Court of Chancery approved the deal in April 2026.",
+          "sources": [
+            "mark-zuckerberg-reuters-derivative",
+            "mark-zuckerberg-scottscott-derivative"
+          ]
+        },
+        {
+          "date": "2026-03-25",
+          "nature": "Social media addiction suit (Meta, YouTube)",
+          "outcome": "Jury found negligence 2026: $6m, 70% assigned to Meta; under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "On 25 March 2026 a Los Angeles jury found Meta and YouTube negligent in a social media addiction case and awarded $6 million, including punitive damages, with 70% assigned to Meta. Meta has filed a notice of appeal.",
+          "sources": [
+            "mark-zuckerberg-ap-kgm-verdict",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2026-03-24",
+          "nature": "New Mexico child safety case (Meta)",
+          "outcome": "Jury verdict 2026: $375m penalty, about $567m abatement; stayed, Meta seeks vacatur",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "A New Mexico jury found in March 2026 that Meta misled the public about child safety and harmed children's mental health, imposing a $375 million penalty; in August a judge found its platforms a public nuisance and ordered about $567 million for abatement. Meta has moved to vacate and the judgment is stayed.",
+          "sources": [
+            "mark-zuckerberg-ap-nm-verdict",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2026-02-27",
+          "nature": "Securities class actions over data disclosures and content enforcement (Meta)",
+          "outcome": "Pending; part of the 2018 case allowed to proceed 2026",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "Securities class actions against Meta and certain directors and officers over 2018 user-data disclosures and over content enforcement and user well-being remain pending; in February 2026 a court let part of the 2018 case proceed. These are allegations.",
+          "sources": [
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "nature": "FTC monopoly case over Instagram and WhatsApp (Meta)",
+          "outcome": "Ruled for Meta 2025; FTC appeal pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "On 18 November 2025 Judge James Boasberg ruled that the FTC had not shown Meta holds a monopoly today, so it need not divest Instagram or WhatsApp. The FTC filed a notice of appeal to the D.C. Circuit on 20 January 2026; the appeal is pending.",
+          "sources": [
+            "ap-meta-ftc",
+            "mark-zuckerberg-ftc-appeal-2026",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2025-07-31",
+          "nature": "D.C. Cambridge Analytica suit (Meta)",
+          "outcome": "Meta's 2023 win reversed 2025; up to $1.7bn sought; pending",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In the District of Columbia's separate Cambridge Analytica suit against the company, Meta won summary judgment in 2023, but an appeals court reversed on procedural grounds in July 2025. Meta's filing says the District seeks up to $1.7 billion in penalties and restitution; the case is pending.",
+          "sources": [
+            "mark-zuckerberg-meta-10q-2026q3",
+            "mark-zuckerberg-politico-dc-suit"
+          ]
+        },
+        {
+          "date": "2025-01-29",
+          "nature": "Trump suit over his account suspension (Meta)",
+          "outcome": "Settled 2025: $25m, $22m to his presidential library nonprofit",
+          "status": "settled",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In January 2025 Meta agreed to pay $25 million to settle Donald Trump's lawsuit over his account suspension after 6 January 2021, with $22 million going to the nonprofit for his future presidential library.",
+          "sources": [
+            "mark-zuckerberg-ap-trump-settlement"
+          ]
+        },
+        {
+          "date": "2024-11-14",
+          "nature": "EU abuse-of-dominance fine over Facebook Marketplace (Meta)",
+          "outcome": "€797.72m, 2024; under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In November 2024 the European Commission fined Meta €797.72 million for abusing dominant positions by tying Facebook Marketplace to Facebook and imposing unfair terms on rival classified-ads services. Meta appealed in January 2025.",
+          "sources": [
+            "mark-zuckerberg-ec-marketplace",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2024-11-07",
+          "nature": "Claims he was personally liable for concealing social media risks to children",
+          "outcome": "Rejected 2024 in 25 lawsuits; claims against Meta unaffected",
+          "status": "ruled_for",
+          "level": "individual",
+          "entity": "Mark Zuckerberg",
+          "summary": "In November 2024 a federal judge in Oakland rejected claims in 25 lawsuits that Zuckerberg was personally liable for concealing risks of social media to children, finding control of a company alone insufficient. Claims against Meta itself were unaffected.",
+          "sources": [
+            "mark-zuckerberg-reuters-mdl-zuckerberg"
+          ]
+        },
+        {
+          "date": "2024-07-30",
+          "nature": "Biometric data suits in Texas and Illinois (Meta)",
+          "outcome": "Settled 2024: $1.4bn to Texas; $650m in Illinois 2021; no admission reported",
+          "status": "settled",
+          "level": "company",
+          "entity": "Meta Platforms",
+          "summary": "In July 2024 Meta agreed to pay Texas $1.4 billion to settle a 2022 suit alleging it captured residents' biometric data without consent. In 2021 it had paid $650 million to settle similar claims in Illinois. No admission was reported.",
+          "sources": [
+            "mark-zuckerberg-ap-texas-biometric"
+          ]
+        },
+        {
+          "date": "2023-05-12",
+          "nature": "GDPR fine over data transfers and Digital Markets Act fine (Meta)",
+          "outcome": "€1.2bn, 2023; €200m, 2025, under appeal",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Meta Platforms Ireland",
+          "summary": "Meta's filing states that Ireland's Data Protection Commission fined it €1.2 billion in May 2023 for transferring EU Facebook user data to the United States in breach of the GDPR, and that the EU fined it €200 million under the Digital Markets Act in April 2025, which it has appealed.",
+          "sources": [
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        },
+        {
+          "date": "2019-07-24",
+          "nature": "FTC charges of violating a 2012 privacy order (Facebook)",
+          "outcome": "Settled 2019: $5bn penalty; he must certify privacy compliance quarterly",
+          "status": "settled",
+          "level": "company",
+          "entity": "Facebook (now Meta)",
+          "summary": "In July 2019 Facebook agreed to a $5 billion FTC penalty over charges that it violated a 2012 order by deceiving users about control of their data; the order requires Zuckerberg to certify privacy compliance quarterly. Meta's October 2026 filing says an FTC bid to tighten the order is stayed and its own court challenge awaits a hearing.",
+          "sources": [
+            "mark-zuckerberg-ftc-2019-order",
+            "mark-zuckerberg-meta-10q-2026q3"
+          ]
+        }
       ]
     },
     {
@@ -3493,6 +4265,150 @@
         "bernard-arnault-and-family-afp-milan-13brands",
         "bernard-arnault-and-family-euronews-raids-2026",
         "bernard-arnault-and-family-lvmh-maisons"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-07",
+          "nature": "Milan labour inquiries into subcontractors (Givenchy Italia; Bulgari)",
+          "outcome": "Documents sought 2025; offices searched 2026; no formal investigation or charges",
+          "status": "other",
+          "level": "company",
+          "entity": "Givenchy Italia and Bulgari (LVMH maisons)",
+          "summary": "In December 2025 Milan prosecutors sought governance and audit documents from 13 brands including Givenchy Italia (part of LVMH, per AFP), suspected of using exploitative subcontractors but not formally investigated. In July 2026 police searched offices of brands including Bulgari, an LVMH maison per LVMH, in a Milan labour probe; that report names no LVMH entity, and no charges are reported.",
+          "sources": [
+            "bernard-arnault-and-family-afp-milan-13brands",
+            "bernard-arnault-and-family-euronews-raids-2026",
+            "bernard-arnault-and-family-lvmh-maisons"
+          ]
+        },
+        {
+          "date": "2026-05-29",
+          "nature": "Paris criminal investigation into the diversion of Puech's shares",
+          "outcome": "Swiss lawyers under formal investigation 2026; no charge against LVMH or Arnault",
+          "status": "other",
+          "level": "company",
+          "entity": "LVMH",
+          "summary": "In a related Paris criminal investigation, prosecutors confirmed in May 2026 that Swiss lawyers had been placed under formal investigation, one suspected of helping divert Puech's shares to LVMH; they contest the facts, and no charge against LVMH or Arnault is reported. Reuters reported in 2026 a 2002 LVMH agreement to buy Puech's shares, which LVMH told a Swiss court was never executed.",
+          "sources": [
+            "bernard-arnault-and-family-afp-hermes-charges",
+            "bernard-arnault-and-family-reuters-puech-2002"
+          ]
+        },
+        {
+          "date": "2025-11",
+          "nature": "Ruffin privacy suit over alleged surveillance (LVMH)",
+          "outcome": "Pending; allowed to proceed to trial 2025",
+          "status": "pending",
+          "level": "company",
+          "entity": "LVMH",
+          "summary": "François Ruffin, whose newspaper Fakir was allegedly surveilled for LVMH in 2013–2016, sued LVMH in civil court for a symbolic euro over intrusion into his private life. In November 2025 a Paris judge allowed the case to proceed to trial; no ruling has been reported.",
+          "sources": [
+            "bernard-arnault-and-family-fu-ruffin-civil",
+            "bernard-arnault-and-family-cdj-ruffin"
+          ]
+        },
+        {
+          "date": "2025-07",
+          "nature": "Judicial administration over labour exploitation at subcontractors (Loro Piana)",
+          "outcome": "Negligence found 2025; measure ended early 2026",
+          "status": "finding",
+          "level": "company",
+          "entity": "Loro Piana (LVMH)",
+          "summary": "In July 2025 a Milan court placed Loro Piana under judicial administration for a year, finding it had negligently facilitated labour exploitation at subcontractors making its clothing; the company was not under criminal investigation. In April 2026 Loro Piana announced that the court had ended the measure ahead of schedule after it strengthened supplier oversight.",
+          "sources": [
+            "bernard-arnault-and-family-irishtimes-loropiana",
+            "bernard-arnault-and-family-fu-loropiana-lifted"
+          ]
+        },
+        {
+          "date": "2025-05-15",
+          "nature": "Civil suit by Nicolas Puech over diverted Hermès shares (with LVMH)",
+          "outcome": "Pending; about €14bn claimed; diversion denied",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Bernard Arnault and LVMH",
+          "summary": "In May 2025 Hermès heir Nicolas Puech filed a civil suit in Paris naming LVMH and Bernard Arnault as defendants, claiming about €14 billion over some six million Hermès shares he says his adviser diverted to LVMH. LVMH and its shareholder stated in December 2025 that they never diverted Hermès shares; the case is pending.",
+          "sources": [
+            "bernard-arnault-and-family-bloomberg-puech",
+            "bernard-arnault-and-family-afp-puech",
+            "bernard-arnault-and-family-reuters-puech-2002"
+          ]
+        },
+        {
+          "date": "2025-05",
+          "nature": "Italian consumer-law probe into ethical claims (Dior)",
+          "outcome": "Closed 2025 without a finding; commitments incl. €2m over five years",
+          "status": "settled",
+          "level": "company",
+          "entity": "Christian Dior Couture, Christian Dior Italia, Manufactures Dior (LVMH)",
+          "summary": "In May 2025 the Italian competition authority closed its consumer-law probe into Dior's ethical claims about working conditions at leather suppliers without a finding of wrongdoing, accepting commitments including supplier controls and €2 million over five years to help victims of labour exploitation.",
+          "sources": [
+            "bernard-arnault-and-family-ilsole-agcm"
+          ]
+        },
+        {
+          "date": "2025-03-07",
+          "nature": "Squarcini case: confidential information obtained for LVMH",
+          "outcome": "Consultant convicted 2025, appeal announced; Arnault a witness, never charged",
+          "status": "other",
+          "level": "company",
+          "entity": "Bernard Squarcini (former intelligence chief, later LVMH consultant)",
+          "summary": "In March 2025 a Paris court convicted former intelligence chief Bernard Squarcini, later mainly an LVMH consultant, of using his security contacts for private gain, including obtaining confidential information for LVMH; he said he would appeal. Bernard Arnault testified in 2024 as a witness, was never charged, and denied knowing of the scheme.",
+          "sources": [
+            "bernard-arnault-and-family-afp-squarcini-verdict",
+            "bernard-arnault-and-family-afp-arnault-witness"
+          ]
+        },
+        {
+          "date": "2024-06",
+          "nature": "Judicial administration over subcontractor labour abuses (Manufactures Dior)",
+          "outcome": "Imposed 2024, lifted early 2025; Dior faced no criminal probe",
+          "status": "other",
+          "level": "company",
+          "entity": "Manufactures Dior Srl (Christian Dior, LVMH)",
+          "summary": "In June 2024 a Milan court placed Manufactures Dior, an Italian Dior subsidiary, under judicial administration over subcontractors alleged to mistreat workers; contractors reportedly charged €53 for a bag Dior sold for €2,600. Dior itself faced no criminal probe, and in early 2025 the court lifted the measure ahead of its one-year term, citing reformed supplier selection.",
+          "sources": [
+            "reuters-dior",
+            "bernard-arnault-and-family-afp-dior-lifted"
+          ]
+        },
+        {
+          "date": "2022-01-20",
+          "nature": "Inaccurate statement to the Senate media inquiry",
+          "outcome": "Corrected by letter the same day, 2022; commission to bring no legal action",
+          "status": "other",
+          "level": "individual",
+          "entity": "Bernard Arnault",
+          "summary": "In January 2022 Bernard Arnault made a statement to the Senate inquiry into media concentration about LVMH's bid for Paris Match and the JDD that he corrected by letter the same day, acknowledging an error: LVMH had sent Lagardère a written offer. The commission said it would bring no legal action on this basis.",
+          "sources": [
+            "bernard-arnault-and-family-publicsenat-arnault"
+          ]
+        },
+        {
+          "date": "2021-12-17",
+          "nature": "Influence-peddling investigation (LVMH)",
+          "outcome": "CJIP 2021: €10m public-interest fine, not a declaration of guilt",
+          "status": "settled",
+          "level": "company",
+          "entity": "LVMH",
+          "summary": "In December 2021 LVMH agreed a CJIP with the Paris prosecutor, validated by a judge, paying a €10 million public-interest fine over possible influence peddling in 2008–2016 revealed by a judicial investigation opened in 2011. The prosecutor stated that the validation is not a declaration of guilt.",
+          "sources": [
+            "bernard-arnault-and-family-parquet-cjip"
+          ]
+        },
+        {
+          "date": "2013-06-25",
+          "nature": "AMF fine over undisclosed Hermès stake-building (LVMH)",
+          "outcome": "€8m, 2013; not appealed",
+          "status": "penalty",
+          "level": "company",
+          "entity": "LVMH",
+          "summary": "In June 2013 the AMF enforcement committee fined LVMH a then-record €8 million for failing to inform the market, including in its 2008 and 2009 accounts, that it was preparing to build a stake in Hermès through equity swaps. LVMH called the fine unjustified but said in September 2013 it would not appeal. This is over ten years old.",
+          "sources": [
+            "bernard-arnault-and-family-fu-amf-2013",
+            "bernard-arnault-and-family-reuters-amf-noappeal"
+          ]
+        }
       ]
     },
     {
@@ -3952,6 +4868,123 @@
         "walmart-ap-derivative",
         "walmart-berman-derivative-approval",
         "walmart-propublica-rmwf"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-08-28",
+          "nature": "Justice Department opioid dispensing suit (Walmart)",
+          "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In August 2026 Walmart settled the Justice Department’s 2020 civil suit alleging its pharmacies unlawfully filled opioid prescriptions from 2013, without admitting liability. Reports put the payment at $50 million, which Walmart called immaterial; it also signed a DEA agreement on monitoring future dispensing.",
+          "sources": [
+            "walmart-reuters-doj-opioid-settlement",
+            "walmart-gray-doj-opioid-settlement",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026-02-26",
+          "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+          "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In February 2026 Walmart agreed, without admitting liability, to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order requires an earnings-verification program, with practices and reporting kept for ten years.",
+          "sources": [
+            "walmart-ftc-spark",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+          "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "A whistleblower False Claims Act case filed in 2019, alleging Walmart breached the Controlled Substances Act and state pharmacy rules, was settled in 2026 for an amount Walmart called immaterial, without admitting liability. The Justice Department had declined to intervene.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+          "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In its filing for the quarter to July 2026, Walmart reported pending matters: opioid cases in the federal MDL and in Canada, equal-pay claims by about 77,000 current and former Asda store staff that it partly indemnifies, its appeal of a Mexican antitrust fine, and Indian competition and investment proceedings against Flipkart.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2025-06-20",
+          "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+          "outcome": "Settled 2025: $10m judgment",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2025 Walmart agreed to a $10 million judgment to settle an FTC suit filed in 2022 alleging that, from 2013 to 2018, it let scammers use its money transfer services by failing to adopt effective anti-fraud measures, train staff or warn customers.",
+          "sources": [
+            "walmart-ftc-money-transfer"
+          ]
+        },
+        {
+          "date": "2025-05-13",
+          "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+          "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In December 2024 the CFPB sued Walmart and Branch Messenger, alleging unfair, deceptive and abusive practices over deposit accounts opened for delivery drivers. The Bureau dismissed the case with prejudice in May 2025; no court ruled on the allegations.",
+          "sources": [
+            "walmart-cfpb-branch"
+          ]
+        },
+        {
+          "date": "2024-12-20",
+          "nature": "Derivative suit over oversight of opioid dispensing",
+          "outcome": "Settled 2024: $123m paid by insurers to Walmart, wrongdoing denied",
+          "status": "settled",
+          "level": "individual",
+          "entity": "S. Robson (Rob) Walton",
+          "summary": "Rob Walton was a named defendant in a Delaware shareholder derivative suit alleging Walmart directors and officers failed to oversee opioid dispensing. It settled for $123 million paid by insurers to Walmart, plus governance commitments, approved in December 2024; defendants denied wrongdoing.",
+          "sources": [
+            "walmart-sec-derivative-notice",
+            "walmart-ap-derivative",
+            "walmart-berman-derivative-approval"
+          ]
+        },
+        {
+          "date": "2022-11-15",
+          "nature": "Opioid suits by state and local governments (Walmart)",
+          "outcome": "Settled 2022: $3.1bn, no admission of liability",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In November 2022 Walmart agreed to pay $3.1 billion to settle opioid lawsuits by state and local governments over prescriptions filled at its pharmacies, without admitting liability. Nebraska’s attorney general noted it had filled significantly fewer opioid prescriptions than CVS or Walgreens.",
+          "sources": [
+            "ap-walmart-opioids",
+            "walmart-reuters-doj-opioid-settlement"
+          ]
+        },
+        {
+          "date": "2019-06-20",
+          "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+          "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2019 Walmart paid about $282.7 million to resolve DOJ and SEC Foreign Corrupt Practices Act investigations into internal controls at subsidiaries in Brazil, Mexico, India and China before 2011, under a non-prosecution agreement; its Brazilian subsidiary pleaded guilty to a books-and-records charge.",
+          "sources": [
+            "walmart-ap-fcpa-2019",
+            "walmart-wmt-8k-fcpa"
+          ]
+        }
       ]
     },
     {
@@ -4029,6 +5062,109 @@
         "walmart-opensecrets-afp-2024",
         "walmart-nwadg-walton-giving",
         "walmart-propublica-townbranch"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-08-28",
+          "nature": "Justice Department opioid dispensing suit (Walmart)",
+          "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In August 2026 Walmart settled the Justice Department’s 2020 civil suit alleging its pharmacies unlawfully filled opioid prescriptions from 2013, without admitting liability. Reports put the payment at $50 million, which Walmart called immaterial; it also signed a DEA agreement on monitoring future dispensing.",
+          "sources": [
+            "walmart-reuters-doj-opioid-settlement",
+            "walmart-gray-doj-opioid-settlement",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026-02-26",
+          "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+          "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In February 2026 Walmart agreed, without admitting liability, to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order requires an earnings-verification program, with practices and reporting kept for ten years.",
+          "sources": [
+            "walmart-ftc-spark",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+          "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "A whistleblower False Claims Act case filed in 2019, alleging Walmart breached the Controlled Substances Act and state pharmacy rules, was settled in 2026 for an amount Walmart called immaterial, without admitting liability. The Justice Department had declined to intervene.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+          "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In its filing for the quarter to July 2026, Walmart reported pending matters: opioid cases in the federal MDL and in Canada, equal-pay claims by about 77,000 current and former Asda store staff that it partly indemnifies, its appeal of a Mexican antitrust fine, and Indian competition and investment proceedings against Flipkart.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2025-06-20",
+          "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+          "outcome": "Settled 2025: $10m judgment",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2025 Walmart agreed to a $10 million judgment to settle an FTC suit filed in 2022 alleging that, from 2013 to 2018, it let scammers use its money transfer services by failing to adopt effective anti-fraud measures, train staff or warn customers.",
+          "sources": [
+            "walmart-ftc-money-transfer"
+          ]
+        },
+        {
+          "date": "2025-05-13",
+          "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+          "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In December 2024 the CFPB sued Walmart and Branch Messenger, alleging unfair, deceptive and abusive practices over deposit accounts opened for delivery drivers. The Bureau dismissed the case with prejudice in May 2025; no court ruled on the allegations.",
+          "sources": [
+            "walmart-cfpb-branch"
+          ]
+        },
+        {
+          "date": "2022-11-15",
+          "nature": "Opioid suits by state and local governments (Walmart)",
+          "outcome": "Settled 2022: $3.1bn, no admission of liability",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In November 2022 Walmart agreed to pay $3.1 billion to settle opioid lawsuits by state and local governments over prescriptions filled at its pharmacies, without admitting liability. Nebraska’s attorney general noted it had filled significantly fewer opioid prescriptions than CVS or Walgreens.",
+          "sources": [
+            "ap-walmart-opioids",
+            "walmart-reuters-doj-opioid-settlement"
+          ]
+        },
+        {
+          "date": "2019-06-20",
+          "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+          "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2019 Walmart paid about $282.7 million to resolve DOJ and SEC Foreign Corrupt Practices Act investigations into internal controls at subsidiaries in Brazil, Mexico, India and China before 2011, under a non-prosecution agreement; its Brazilian subsidiary pleaded guilty to a books-and-records charge.",
+          "sources": [
+            "walmart-ap-fcpa-2019",
+            "walmart-wmt-8k-fcpa"
+          ]
+        }
       ]
     },
     {
@@ -4106,6 +5242,83 @@
         "michael-dell-alcom-deposits",
         "michael-dell-msdf-990pf-2024",
         "michael-dell-dell-fy25-impact"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-01-28",
+          "nature": "401(k) class action over underperforming funds (Dell Technologies)",
+          "outcome": "Pending; over $270m sought",
+          "status": "pending",
+          "level": "company",
+          "entity": "Dell Technologies",
+          "summary": "Five former employees filed a proposed class action against Dell Technologies in federal court in Austin, Texas, in January 2026, alleging that its 401(k) plan kept underperforming funds, including Dell’s in-house target-date series, at a claimed cost of over $318 million; a July 2026 amended complaint seeks over $270 million. These are allegations; no ruling was found.",
+          "sources": [
+            "michael-dell-americanbazaar-erisa",
+            "michael-dell-ksf-erisa-amended"
+          ]
+        },
+        {
+          "date": "2023-08-14",
+          "nature": "Overstated discounts on monitors (Dell Australia)",
+          "outcome": "Ordered 2023: A$10m penalty after admission; refunds ordered",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Dell Australia",
+          "summary": "In August 2023 Australia’s Federal Court ordered Dell Australia, a Dell Technologies subsidiary, to pay a A$10 million penalty after it admitted overstating discounts on more than 5,300 add-on monitors sold on its website; it had also been ordered to offer refunds to affected customers.",
+          "sources": [
+            "michael-dell-accc-2023"
+          ]
+        },
+        {
+          "date": "2022-11-16",
+          "nature": "Class V shareholder suit over the 2018 share swap",
+          "outcome": "Settled 2022: $1bn paid by Dell Technologies, no admission reported",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Michael Dell and Dell Technologies",
+          "summary": "In November 2022 Dell Technologies agreed to pay $1 billion in cash to settle a Delaware suit alleging that controlling shareholders, including Michael Dell and Silver Lake, shortchanged Class V holders in a 2018 share swap; plaintiffs had sought $10.7 billion. No admission was reported, and in August 2024 the Delaware Supreme Court affirmed the $266.7 million legal fee award.",
+          "sources": [
+            "michael-dell-reuters-classv",
+            "michael-dell-dclb-classv-fee"
+          ]
+        },
+        {
+          "date": "2017-12-14",
+          "nature": "Appraisal case over the 2013 buyout",
+          "outcome": "Higher valuation reversed 2017; no wrongdoing found, his conduct called praiseworthy",
+          "status": "ruled_for",
+          "level": "company",
+          "entity": "Dell Inc.",
+          "summary": "In December 2017 the Delaware Supreme Court reversed and sent back a 2016 Chancery appraisal that had valued Dell shares at $17.62, about 28% above the $13.75 paid in the 2013 buyout led by Michael Dell and Silver Lake. It was a valuation case with no finding of wrongdoing, and the court called both the sale process and Michael Dell’s conduct praiseworthy.",
+          "sources": [
+            "michael-dell-cooley-appraisal"
+          ]
+        },
+        {
+          "date": "2010-07-22",
+          "nature": "SEC charges over disclosures hiding Intel payments",
+          "outcome": "Settled 2010: $4m personal penalty, injunction, neither admitted nor denied",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Michael Dell",
+          "summary": "In July 2010, more than fifteen years ago, Michael Dell agreed to pay a personal $4 million penalty and to a permanent injunction to settle SEC charges over disclosures that hid how much Intel payments drove Dell's earnings; Dell Inc. paid $100 million. Both settled without admitting or denying the charges, and no later change to this outcome was found.",
+          "sources": [
+            "sec-dell"
+          ]
+        },
+        {
+          "date": "2008-05-27",
+          "nature": "New York Attorney General suit over deceptive advertising (Dell)",
+          "outcome": "Found deceptive 2008; agreed 2009 to pay $4m and change practices",
+          "status": "settled",
+          "level": "company",
+          "entity": "Dell Inc. and Dell Financial Services",
+          "summary": "In May 2008, over fifteen years ago, a New York State Supreme Court judge found in a suit by the state Attorney General that Dell used false and deceptive advertising of financing and warranty terms. Dell, which disputed the ruling, agreed in 2009 to pay $4 million in restitution, penalties and costs and to change its sales practices.",
+          "sources": [
+            "michael-dell-nbc-nyag-2008",
+            "michael-dell-olshan-nyag-2009"
+          ]
+        }
       ]
     },
     {
@@ -4185,6 +5398,109 @@
         "walmart-bloomberglaw-cuomo-pac",
         "walmart-propublica-artbridges",
         "walmart-newser-medschool"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-08-28",
+          "nature": "Justice Department opioid dispensing suit (Walmart)",
+          "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In August 2026 Walmart settled the Justice Department’s 2020 civil suit alleging its pharmacies unlawfully filled opioid prescriptions from 2013, without admitting liability. Reports put the payment at $50 million, which Walmart called immaterial; it also signed a DEA agreement on monitoring future dispensing.",
+          "sources": [
+            "walmart-reuters-doj-opioid-settlement",
+            "walmart-gray-doj-opioid-settlement",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026-02-26",
+          "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+          "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In February 2026 Walmart agreed, without admitting liability, to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order requires an earnings-verification program, with practices and reporting kept for ten years.",
+          "sources": [
+            "walmart-ftc-spark",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+          "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "A whistleblower False Claims Act case filed in 2019, alleging Walmart breached the Controlled Substances Act and state pharmacy rules, was settled in 2026 for an amount Walmart called immaterial, without admitting liability. The Justice Department had declined to intervene.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+          "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In its filing for the quarter to July 2026, Walmart reported pending matters: opioid cases in the federal MDL and in Canada, equal-pay claims by about 77,000 current and former Asda store staff that it partly indemnifies, its appeal of a Mexican antitrust fine, and Indian competition and investment proceedings against Flipkart.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2025-06-20",
+          "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+          "outcome": "Settled 2025: $10m judgment",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2025 Walmart agreed to a $10 million judgment to settle an FTC suit filed in 2022 alleging that, from 2013 to 2018, it let scammers use its money transfer services by failing to adopt effective anti-fraud measures, train staff or warn customers.",
+          "sources": [
+            "walmart-ftc-money-transfer"
+          ]
+        },
+        {
+          "date": "2025-05-13",
+          "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+          "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In December 2024 the CFPB sued Walmart and Branch Messenger, alleging unfair, deceptive and abusive practices over deposit accounts opened for delivery drivers. The Bureau dismissed the case with prejudice in May 2025; no court ruled on the allegations.",
+          "sources": [
+            "walmart-cfpb-branch"
+          ]
+        },
+        {
+          "date": "2022-11-15",
+          "nature": "Opioid suits by state and local governments (Walmart)",
+          "outcome": "Settled 2022: $3.1bn, no admission of liability",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In November 2022 Walmart agreed to pay $3.1 billion to settle opioid lawsuits by state and local governments over prescriptions filled at its pharmacies, without admitting liability. Nebraska’s attorney general noted it had filled significantly fewer opioid prescriptions than CVS or Walgreens.",
+          "sources": [
+            "ap-walmart-opioids",
+            "walmart-reuters-doj-opioid-settlement"
+          ]
+        },
+        {
+          "date": "2019-06-20",
+          "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+          "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2019 Walmart paid about $282.7 million to resolve DOJ and SEC Foreign Corrupt Practices Act investigations into internal controls at subsidiaries in Brazil, Mexico, India and China before 2011, under a non-prosecution agreement; its Brazilian subsidiary pleaded guilty to a books-and-records charge.",
+          "sources": [
+            "walmart-ap-fcpa-2019",
+            "walmart-wmt-8k-fcpa"
+          ]
+        }
       ]
     },
     {
@@ -4256,6 +5572,70 @@
         "steve-ballmer-herald-i594",
         "steve-ballmer-cbs-60-minutes",
         "steve-ballmer-fortune-ballmer-2026"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-10",
+          "nature": "Fraud complaint by Aspiration investors",
+          "outcome": "Pending; he denies the allegations and moved to dismiss",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Steve Ballmer",
+          "summary": "Eleven Aspiration investors named Ballmer in November 2025 in an amended fraud complaint before Los Angeles County Superior Court, alleging he took part in Sanberg's fraud and that his investment served to get around the salary cap via Leonard's deal. These are allegations: he denies them, says he was a victim and moved to dismiss; he remained a defendant in October 2026, with no ruling found.",
+          "sources": [
+            "steve-ballmer-espn-aspiration-suit",
+            "steve-ballmer-fos-ballmer-counsel"
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "nature": "Brooklyn criminal inquiry into Leonard endorsement deals (Clippers), reported",
+          "outcome": "Reported 2026, early stage; no charges; Ballmer not reported as a target",
+          "status": "reported",
+          "level": "company",
+          "entity": "Los Angeles Clippers",
+          "summary": "The New York Times reported in September 2026 that federal prosecutors in Brooklyn had opened a criminal investigation into the Clippers' efforts to obtain no-show endorsement deals for Leonard. It is at an early stage, no charges have been brought, and Ballmer is not reported as a target; the team and Ballmer deny wrongdoing.",
+          "sources": [
+            "steve-ballmer-nbc-doj-clippers"
+          ]
+        },
+        {
+          "date": "2026-09",
+          "nature": "NBA discipline for salary-cap circumvention (private league, not a court)",
+          "outcome": "Suspended one year 2026; Clippers fined $30m, lost five first-round picks; paid",
+          "status": "penalty",
+          "level": "individual",
+          "entity": "Steve Ballmer and the Los Angeles Clippers",
+          "summary": "On 2 September 2026 the NBA suspended Ballmer for one year, saying he knowingly sought to help Leonard obtain off-court income, and fined the Clippers $30 million and took five first-round picks for cap circumvention; this is private league discipline, not a court finding. After the team first rejected the findings, Ballmer said on 13 September it would comply and had paid the fine.",
+          "sources": [
+            "npr-ballmer",
+            "steve-ballmer-ap-ballmer-complies"
+          ]
+        },
+        {
+          "date": "2013-03-06",
+          "nature": "EU browser-choice fine (Microsoft)",
+          "outcome": "€561m, 2013",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Microsoft",
+          "summary": "In March 2013 the European Commission fined Microsoft €561 million for failing to show the browser choice screen it had committed to in 2009, from May 2011 to July 2012. Microsoft acknowledged the lapse and cooperated, which the Commission counted in mitigation; the decision is more than ten years old.",
+          "sources": [
+            "steve-ballmer-ec-microsoft-2013"
+          ]
+        },
+        {
+          "date": "2001-06-28",
+          "nature": "Monopolisation case (Microsoft)",
+          "outcome": "Monopoly finding upheld in part 2001; break-up order vacated",
+          "status": "finding",
+          "level": "company",
+          "entity": "Microsoft",
+          "summary": "In June 2001 the full D.C. Circuit upheld in part the finding that Microsoft illegally maintained its monopoly in PC operating systems, reversed the attempted-monopolisation finding and vacated the break-up order; the opinion refers to Ballmer as Microsoft's president and CEO. The conduct dates from the 1990s and the ruling is more than twenty years old.",
+          "sources": [
+            "steve-ballmer-dc-circuit-microsoft"
+          ]
+        }
       ]
     },
     {
@@ -4467,6 +5847,138 @@
         "changpeng-zhao-fortune-iran-inquiry",
         "changpeng-zhao-fortune-monitors",
         "changpeng-zhao-sahara-nigeria"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-07-24",
+          "nature": "FTX estate clawback suit over a 2021 share buyback (with Binance)",
+          "outcome": "Pending; $1.76bn clawback claims allowed to proceed 2026, others dismissed",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Changpeng Zhao and Binance",
+          "summary": "In November 2024 the FTX estate sued Binance and Zhao to recover $1.76 billion paid in a July 2021 share buyback, alleging a fraudulent transfer; Binance called the claims meritless. On 24 July 2026 a Delaware bankruptcy judge let the clawback claims against Zhao and Binance proceed and dismissed claims tied to FTX's collapse. No liability has been decided.",
+          "sources": [
+            "changpeng-zhao-theblock-ftx-suit",
+            "changpeng-zhao-bloomberglaw-ftx-ruling"
+          ]
+        },
+        {
+          "date": "2026-07-09",
+          "nature": "Nigerian tax evasion and money-laundering prosecutions (Binance)",
+          "outcome": "Pending; not-guilty plea 2024; adjourned 2026 for a report on settlement talks",
+          "status": "pending",
+          "level": "company",
+          "entity": "Binance",
+          "summary": "Binance faces a four-count tax evasion charge in Nigeria, to which it pleaded not guilty in 2024, and a separate money-laundering prosecution over $35.4 million. In July 2026 the Abuja court adjourned the tax case to September for a report on settlement talks; the outcome was not established.",
+          "sources": [
+            "changpeng-zhao-sahara-nigeria"
+          ]
+        },
+        {
+          "date": "2026-07-01",
+          "nature": "UK investor suit over unauthorised derivatives sales (with Binance)",
+          "outcome": "Pending; at least £150m claimed",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Changpeng Zhao and Binance",
+          "summary": "Reuters reported on 1 July 2026 that almost 1,700 UK investors were suing Binance entities and Zhao in London's High Court for at least £150 million, alleging Binance sold leveraged derivatives to them from late 2019 without UK authorisation. Binance said it would defend itself. No ruling has been reported.",
+          "sources": [
+            "changpeng-zhao-reuters-uk-claim"
+          ]
+        },
+        {
+          "date": "2026-04-17",
+          "nature": "Senator's preliminary inquiry over Iran-linked flows (Binance)",
+          "outcome": "Opened 2026; Binance denies violating sanctions",
+          "status": "pending",
+          "level": "company",
+          "entity": "Binance",
+          "summary": "In February 2026 Fortune reported that Binance fired internal investigators who had shown executives evidence of over $1 billion flowing to Iran-linked entities. Binance denies violating sanctions and says the firings were unrelated. Senator Blumenthal opened a preliminary inquiry that month and in April asked the DOJ and FinCEN about the status of Binance's monitors.",
+          "sources": [
+            "changpeng-zhao-fortune-iran-inquiry",
+            "changpeng-zhao-fortune-monitors"
+          ]
+        },
+        {
+          "date": "2026-03-06",
+          "nature": "Anti-terrorism suits by attack victims (with Binance)",
+          "outcome": "Pending; one survived dismissal 2025; a third dismissed 2026 with leave to amend",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Changpeng Zhao and Binance",
+          "summary": "Victims of Hamas and other attacks have sued Binance and Zhao under US anti-terrorism law, alleging the exchange moved funds for designated groups. A Manhattan suit survived dismissal in February 2025 and a North Dakota suit was filed in November 2025; both were last reported active in March 2026. That month a Manhattan judge dismissed a third suit, by 535 plaintiffs, with 60 days to amend.",
+          "sources": [
+            "changpeng-zhao-reuters-nd-suit",
+            "changpeng-zhao-theblock-terror-dismissal"
+          ]
+        },
+        {
+          "date": "2025-10-23",
+          "nature": "Presidential pardon",
+          "outcome": "Pardoned by President Trump 2025; senators tied it to Trump family business ties",
+          "status": "other",
+          "level": "individual",
+          "entity": "Changpeng Zhao",
+          "summary": "President Trump pardoned Zhao in October 2025; the White House said the Biden administration had prosecuted him in a war on cryptocurrency. A UAE-backed fund had used $2 billion of World Liberty Financial's stablecoin, a Trump family venture, to buy a Binance stake; Senators Warren and Schiff tied the pardon to Zhao's Trump family business ties and urged Congress to stop corruption.",
+          "sources": [
+            "changpeng-zhao-reuters-pardon",
+            "changpeng-zhao-ap-pardon",
+            "changpeng-zhao-decrypt-senators"
+          ]
+        },
+        {
+          "date": "2025-05-29",
+          "nature": "SEC suit alleging inflated volumes, diverted funds, unregistered trading",
+          "outcome": "Dismissed with prejudice 2025; no ruling on the allegations",
+          "status": "dismissed",
+          "level": "individual",
+          "entity": "Changpeng Zhao and Binance",
+          "summary": "The SEC sued Binance and Zhao in June 2023, alleging inflated trading volumes, diverted customer funds and unregistered securities trading. In May 2025 the SEC and the defendants jointly dismissed the case with prejudice, the SEC citing its discretion and policy; no court ruled on the allegations.",
+          "sources": [
+            "changpeng-zhao-sec-dismissal",
+            "changpeng-zhao-reuters-sec-dismissal"
+          ]
+        },
+        {
+          "date": "2024-04-30",
+          "nature": "Bank Secrecy Act violation over Binance's anti-money-laundering programme",
+          "outcome": "Guilty plea 2023; four months in prison 2024, served; $50m fine; pardoned 2025 (see below)",
+          "status": "plea_or_conviction",
+          "level": "individual",
+          "entity": "Changpeng Zhao",
+          "summary": "In November 2023 Zhao pleaded guilty to violating the Bank Secrecy Act by failing to maintain an effective anti-money-laundering programme at Binance, and stepped down as CEO. On 30 April 2024 a federal judge in the Western District of Washington sentenced him to four months in prison, against the three years prosecutors sought; he had agreed to a $50 million fine. He served the term.",
+          "sources": [
+            "binance",
+            "changpeng-zhao-cbs-plea",
+            "changpeng-zhao-bankingdive-sentence",
+            "changpeng-zhao-ap-pardon"
+          ]
+        },
+        {
+          "date": "2023-12-18",
+          "nature": "CFTC derivatives case (with Binance)",
+          "outcome": "Consent order 2023: $150m personal penalty; Binance paid $2.7bn",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Changpeng Zhao",
+          "summary": "In December 2023 a federal court in Illinois entered a consent order in the CFTC's case, finding that Zhao and Binance violated the Commodity Exchange Act by soliciting US customers for derivatives and concealing their presence. Zhao was ordered to pay a $150 million personal civil penalty; Binance paid $2.7 billion in disgorgement and penalties.",
+          "sources": [
+            "changpeng-zhao-cftc-order"
+          ]
+        },
+        {
+          "date": "2023-11-21",
+          "nature": "Bank Secrecy Act, money-transmitting and sanctions violations (Binance)",
+          "outcome": "Guilty plea 2023: $4.3bn and an independent monitor",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Binance",
+          "summary": "In November 2023 Binance pleaded guilty to Bank Secrecy Act, unlicensed money-transmitting and sanctions (IEEPA) violations, agreeing to pay $4.3 billion and retain an independent monitor. US officials said it let illicit actors transact, citing about $900 million in transactions between US users and people believed to be in Iran, and flows linked to Hamas's armed wing, al-Qaeda and ISIS.",
+          "sources": [
+            "binance",
+            "changpeng-zhao-cbs-plea"
+          ]
+        }
       ]
     },
     {
@@ -4544,6 +6056,108 @@
         "michael-bloomberg-sdny-huckabee-2025",
         "michael-bloomberg-propublica-bff",
         "michael-bloomberg-ejp-2026"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-06-18",
+          "nature": "Former campaign worker's claim of a personal job promise",
+          "outcome": "Allowed to proceed 2026; dismissed personally from the Doty case 2026",
+          "status": "pending",
+          "level": "individual",
+          "entity": "Michael Bloomberg",
+          "summary": "In June 2026 Judge Patti Saris (D. Mass.) let a former campaign worker pursue a claim that Bloomberg personally made an oral job promise on a call with staff; this is a pleading-stage ruling and he denies the promise under oath. In March 2026 a state judge had dismissed him personally from the related Doty case for lack of jurisdiction.",
+          "sources": [
+            "michael-bloomberg-amny-2026",
+            "michael-bloomberg-dmass-sipp-2026"
+          ]
+        },
+        {
+          "date": "2025-11-24",
+          "nature": "Copyright suit over BloombergGPT training (Bloomberg)",
+          "outcome": "Pending; motion to dismiss denied 2025",
+          "status": "pending",
+          "level": "company",
+          "entity": "Bloomberg L.P.; Bloomberg Finance L.P.",
+          "summary": "Authors led by Mike Huckabee allege that Bloomberg trained its BloombergGPT model on their copyrighted books without permission. In November 2025 a federal judge in New York denied Bloomberg’s motion to dismiss, saying fair use needs a factual record; the case is pending and nothing has been decided on the merits.",
+          "sources": [
+            "michael-bloomberg-sdny-huckabee-2025"
+          ]
+        },
+        {
+          "date": "2025-05-23",
+          "nature": "Field organizer's suit over a broken job promise (2020 campaign)",
+          "outcome": "Jury verdict 2025: about $53,750; both sides appealed",
+          "status": "pending",
+          "level": "company",
+          "entity": "Mike Bloomberg 2020, Inc.",
+          "summary": "In May 2025 a Middlesex County jury found that Bloomberg’s 2020 campaign broke an oral promise of work through November 2020 to field organizer Nygel O’Bannon; the judgment, with interest and costs, was later set at about $53,750, and both sides appealed. In a related state case, Doty, a contract claim against the campaign is pending.",
+          "sources": [
+            "michael-bloomberg-globe-2025",
+            "michael-bloomberg-amny-2026"
+          ]
+        },
+        {
+          "date": "2023-05-31",
+          "nature": "FEC complaints over his campaign's $18m transfer to the DNC",
+          "outcome": "Dismissed 2023 as a matter of prosecutorial discretion",
+          "status": "dismissed",
+          "level": "individual",
+          "entity": "Michael Bloomberg; Mike Bloomberg 2020, Inc.",
+          "summary": "FEC data show about $1.09 billion of Bloomberg’s own money went into his 2020 campaign. Complaints said its $18 million transfer to the DNC evaded contribution limits; in May 2023 the FEC dismissed them as a matter of prosecutorial discretion, and commissioners saw no sign he meant to evade the limits.",
+          "sources": [
+            "michael-bloomberg-fec-mur7722"
+          ]
+        },
+        {
+          "date": "2023-01-23",
+          "nature": "SEC case over undisclosed BVAL valuation inputs (Bloomberg Finance)",
+          "outcome": "Settled 2023: $5m penalty, neither admitted nor denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Bloomberg Finance L.P.",
+          "summary": "In January 2023 Bloomberg Finance paid a $5 million SEC penalty. The SEC said that from 2016 to 2022 it did not tell BVAL customers that some bond valuations could rest on a single input such as one broker quote; it settled without admitting or denying the findings.",
+          "sources": [
+            "michael-bloomberg-sec-bval-2023"
+          ]
+        },
+        {
+          "date": "2020-05-06",
+          "nature": "SEC charges over undisclosed order routing (Bloomberg Tradebook)",
+          "outcome": "Settled 2020: censure and $5m penalty, neither admitted nor denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Bloomberg Tradebook LLC",
+          "summary": "In May 2020 the SEC found that Bloomberg Tradebook, then a broker unit, misled customers about an undisclosed order-routing arrangement used from 2010 to 2018. It was censured and paid a $5 million penalty, without admitting or denying the findings.",
+          "sources": [
+            "michael-bloomberg-sec-tradebook-2020"
+          ]
+        },
+        {
+          "date": "2011-08-17",
+          "nature": "EEOC pregnancy discrimination suit (his company)",
+          "outcome": "Pattern-or-practice claim rejected 2011; individual claims could proceed",
+          "status": "ruled_for",
+          "level": "company",
+          "entity": "Bloomberg L.P.",
+          "summary": "The EEOC sued Bloomberg’s company in 2007, alleging a pattern of discrimination against pregnant employees. In August 2011 Judge Loretta Preska granted summary judgment against that pattern-or-practice claim, finding the evidence insufficient; individual claims could proceed, and Bloomberg was not named personally.",
+          "sources": [
+            "michael-bloomberg-bi-eeoc-2011"
+          ]
+        },
+        {
+          "date": "2000",
+          "nature": "Sexual harassment and discrimination suit by a former saleswoman",
+          "outcome": "Settled confidentially 2000, no admission",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Michael Bloomberg; Bloomberg L.P.",
+          "summary": "Former saleswoman Sekiko Sakai Garrison sued Bloomberg personally and his company in 1997 over alleged sexual harassment and discrimination, including a 1995 remark on her pregnancy he denied under oath; it was settled confidentially in 2000, without admission, over 25 years ago. In 2020 he released three women from NDAs over comments they said he made.",
+          "sources": [
+            "michael-bloomberg-wapo-2020",
+            "michael-bloomberg-ap-2007",
+            "michael-bloomberg-ap-nda-2020"
+          ]
+        }
       ]
     },
     {
@@ -4623,6 +6237,45 @@
         "bill-gates-aljazeera-review",
         "bill-gates-foxbiz-foundation-2045",
         "bill-gates-deseret-foundation-2045"
+      ],
+      "legal_record": [
+        {
+          "date": "2013-03-06",
+          "nature": "EU competition fines (Microsoft)",
+          "outcome": "€497m 2004, €280.5m 2006, €899m 2008 (cut to €860m), €561m 2013",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Microsoft",
+          "summary": "The European Commission fined Microsoft €497 million in 2004 for withholding data from rivals and tying Media Player to Windows, then €280.5 million (2006) and €899 million (2008) for not complying; an EU court cut the 2008 fine to €860 million in 2012. In 2013 it fined Microsoft €561 million for breaking a browser-choice commitment, which Microsoft blamed on a technical error.",
+          "sources": [
+            "bill-gates-reuters-eu-timeline",
+            "bill-gates-aljazeera-eu-browser"
+          ]
+        },
+        {
+          "date": "2004-05-03",
+          "nature": "Premerger filing violation (Hart-Scott-Rodino Act)",
+          "outcome": "Agreed 2004: $800,000 civil penalty",
+          "status": "settled",
+          "level": "individual",
+          "entity": "Bill Gates",
+          "summary": "In May 2004 Gates agreed to pay an $800,000 civil penalty, in a complaint the FTC had the Justice Department file, for buying ICOS shares in 2002 without the premerger filing the Hart-Scott-Rodino Act requires. The FTC had sought no penalty for an earlier 2001 filing lapse over Republic Services shares; the matter is more than 20 years old.",
+          "sources": [
+            "bill-gates-ftc-hsr-penalty"
+          ]
+        },
+        {
+          "date": "2001-06-28",
+          "nature": "Monopolisation case (Microsoft)",
+          "outcome": "Monopoly finding upheld 2001; remedy vacated",
+          "status": "finding",
+          "level": "company",
+          "entity": "Microsoft",
+          "summary": "In June 2001 the full D.C. Circuit upheld a finding that Microsoft illegally maintained its monopoly in PC operating systems, reversed the attempted-monopolisation finding, sent the tying claim back and vacated the remedy. The opinion describes conduct by Gates himself in dealings with Apple and Intel; the ruling is 25 years old.",
+          "sources": [
+            "steve-ballmer-dc-circuit-microsoft"
+          ]
+        }
       ]
     },
     {
@@ -5517,6 +7170,83 @@
         "jeff-yass-sec-2009",
         "jeff-yass-fortune-2024",
         "jeff-yass-texastribune-2025"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-08-06",
+          "nature": "Tax Court case over Swiss dividends and a swap (SIH Partners)",
+          "outcome": "Ruled against 2026: about $170.8m dividends, $25.6m tax credits; no penalty",
+          "status": "finding",
+          "level": "company",
+          "entity": "SIH Partners LLLP (Susquehanna International Group affiliate)",
+          "summary": "On 6 August 2026 the US Tax Court ruled that SIH Partners could not claim qualified-dividend treatment on about $170.8 million of 2012 Swiss dividends, or about $25.6 million of foreign tax credits, because an anti-abuse rule applied to its offsetting Morgan Stanley swap. No penalty is mentioned and no appeal was found.",
+          "sources": [
+            "jeff-yass-alston-2026",
+            "jeff-yass-ey-2026"
+          ]
+        },
+        {
+          "date": "2025-06-09",
+          "nature": "FINRA trade-reporting violations (Susquehanna Financial Group)",
+          "outcome": "Censured 2025: $100,000 fine, neither admitted nor denied",
+          "status": "settled",
+          "level": "company",
+          "entity": "Susquehanna Financial Group, LLLP",
+          "summary": "In June 2025 FINRA censured Susquehanna Financial Group and fined it $100,000 for reporting TRACE-eligible trades without a required indicator and having no supervisory system for that reporting. The firm neither admitted nor denied the findings and fixed the error after FINRA flagged it.",
+          "sources": [
+            "jeff-yass-finra-2025"
+          ]
+        },
+        {
+          "date": "2025-05-27",
+          "nature": "Irish group relief dispute (Susquehanna's Irish units)",
+          "outcome": "Relief refused; refusal upheld by the High Court 2024 and Court of Appeal 2025",
+          "status": "finding",
+          "level": "company",
+          "entity": "Susquehanna International Group Limited and Irish affiliates",
+          "summary": "Ireland's Revenue refused group relief that Susquehanna's Irish units claimed for 2010 and 2011, which the Tax Appeals Commission allowed in April 2019; the Irish Times put the losses at €46.6 million. The High Court reversed that in October 2024 and the Court of Appeal dismissed the units' appeal on 27 May 2025, holding their fiscally transparent US parent was not US-resident under the treaty.",
+          "sources": [
+            "jeff-yass-ie-coa-2025",
+            "jeff-yass-irishtimes-2020"
+          ]
+        },
+        {
+          "date": "2023-04-13",
+          "nature": "Options position-limit breaches (Susquehanna Securities)",
+          "outcome": "Censured 2023: $80,000 fine",
+          "status": "penalty",
+          "level": "company",
+          "entity": "Susquehanna Securities, LLC",
+          "summary": "In 2023 BOX Exchange censured Susquehanna Securities and fined it $80,000 after a FINRA review found it exceeded options position limits four times between January and March 2021.",
+          "sources": [
+            "jeff-yass-box-2023"
+          ]
+        },
+        {
+          "date": "2019-05-07",
+          "nature": "Tax Court case over a loan guarantee by foreign subsidiaries (SIH Partners)",
+          "outcome": "Tax owed on about $377m, upheld 2019; no penalty reported",
+          "status": "finding",
+          "level": "company",
+          "entity": "SIH Partners LLLP (Susquehanna International Group affiliate)",
+          "summary": "In May 2019 the Third Circuit upheld a Tax Court ruling that SIH Partners, a Susquehanna affiliate, owed tax on about $377 million of income because its foreign subsidiaries had guaranteed a $1.5 billion Merrill Lynch loan to the group. The case was a contested dispute over the validity of IRS regulations; no penalty is reported.",
+          "sources": [
+            "jeff-yass-ca3-2019",
+            "jeff-yass-tpcases-2019"
+          ]
+        },
+        {
+          "date": "2009-03-04",
+          "nature": "SEC charges of improper proprietary trading (Susquehanna Investment Group)",
+          "outcome": "Settled 2009, neither admitted nor denied; its share not stated",
+          "status": "settled",
+          "level": "company",
+          "entity": "Susquehanna Investment Group",
+          "summary": "In March 2009, more than ten years ago, Susquehanna Investment Group was among specialist firms that settled SEC charges of improper proprietary trading from 1999 to 2005, without admitting or denying the findings. The SEC gave only a combined total for the settling firms, not Susquehanna's share.",
+          "sources": [
+            "jeff-yass-sec-2009"
+          ]
+        }
       ]
     },
     {
@@ -6547,6 +8277,109 @@
         "walmart-trellis-climate-targets",
         "walmart-nwadg-walton-giving",
         "walmart-propublica-builders"
+      ],
+      "legal_record": [
+        {
+          "date": "2026-08-28",
+          "nature": "Justice Department opioid dispensing suit (Walmart)",
+          "outcome": "Settled 2026: reported $50m, no admission; DEA monitoring agreement",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In August 2026 Walmart settled the Justice Department’s 2020 civil suit alleging its pharmacies unlawfully filled opioid prescriptions from 2013, without admitting liability. Reports put the payment at $50 million, which Walmart called immaterial; it also signed a DEA agreement on monitoring future dispensing.",
+          "sources": [
+            "walmart-reuters-doj-opioid-settlement",
+            "walmart-gray-doj-opioid-settlement",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026-02-26",
+          "nature": "FTC and 11-state charges over Spark driver pay and tips (Walmart)",
+          "outcome": "Settled 2026: $100m judgment, about $63m suspended, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In February 2026 Walmart agreed, without admitting liability, to a $100 million judgment, about $63 million of it suspended, to settle FTC and 11-state charges that it misled Spark delivery drivers about pay and tips and told customers all tips went to drivers. The order requires an earnings-verification program, with practices and reporting kept for ten years.",
+          "sources": [
+            "walmart-ftc-spark",
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Whistleblower False Claims Act case over controlled substances (Walmart)",
+          "outcome": "Settled 2026 for an amount Walmart called immaterial, no admission",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "A whistleblower False Claims Act case filed in 2019, alleging Walmart breached the Controlled Substances Act and state pharmacy rules, was settled in 2026 for an amount Walmart called immaterial, without admitting liability. The Justice Department had declined to intervene.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2026",
+          "nature": "Opioid, Asda equal-pay, Mexican antitrust and Flipkart proceedings (Walmart)",
+          "outcome": "Pending at July 2026 filing; Mexican antitrust fine under appeal",
+          "status": "pending",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In its filing for the quarter to July 2026, Walmart reported pending matters: opioid cases in the federal MDL and in Canada, equal-pay claims by about 77,000 current and former Asda store staff that it partly indemnifies, its appeal of a Mexican antitrust fine, and Indian competition and investment proceedings against Flipkart.",
+          "sources": [
+            "walmart-wmt-10q-2026q2"
+          ]
+        },
+        {
+          "date": "2025-06-20",
+          "nature": "FTC suit over scammers' use of its money transfer services (Walmart)",
+          "outcome": "Settled 2025: $10m judgment",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2025 Walmart agreed to a $10 million judgment to settle an FTC suit filed in 2022 alleging that, from 2013 to 2018, it let scammers use its money transfer services by failing to adopt effective anti-fraud measures, train staff or warn customers.",
+          "sources": [
+            "walmart-ftc-money-transfer"
+          ]
+        },
+        {
+          "date": "2025-05-13",
+          "nature": "CFPB suit over deposit accounts for delivery drivers (Walmart)",
+          "outcome": "Dismissed with prejudice by the CFPB 2025; no court ruling",
+          "status": "dismissed",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In December 2024 the CFPB sued Walmart and Branch Messenger, alleging unfair, deceptive and abusive practices over deposit accounts opened for delivery drivers. The Bureau dismissed the case with prejudice in May 2025; no court ruled on the allegations.",
+          "sources": [
+            "walmart-cfpb-branch"
+          ]
+        },
+        {
+          "date": "2022-11-15",
+          "nature": "Opioid suits by state and local governments (Walmart)",
+          "outcome": "Settled 2022: $3.1bn, no admission of liability",
+          "status": "settled",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In November 2022 Walmart agreed to pay $3.1 billion to settle opioid lawsuits by state and local governments over prescriptions filled at its pharmacies, without admitting liability. Nebraska’s attorney general noted it had filled significantly fewer opioid prescriptions than CVS or Walgreens.",
+          "sources": [
+            "ap-walmart-opioids",
+            "walmart-reuters-doj-opioid-settlement"
+          ]
+        },
+        {
+          "date": "2019-06-20",
+          "nature": "DOJ and SEC foreign-bribery investigations into internal controls (Walmart)",
+          "outcome": "Resolved 2019: about $282.7m; Walmart non-prosecution agreement, Brazilian unit pleaded guilty",
+          "status": "plea_or_conviction",
+          "level": "company",
+          "entity": "Walmart",
+          "summary": "In June 2019 Walmart paid about $282.7 million to resolve DOJ and SEC Foreign Corrupt Practices Act investigations into internal controls at subsidiaries in Brazil, Mexico, India and China before 2011, under a non-prosecution agreement; its Brazilian subsidiary pleaded guilty to a books-and-records charge.",
+          "sources": [
+            "walmart-ap-fcpa-2019",
+            "walmart-wmt-8k-fcpa"
+          ]
+        }
       ]
     },
     {
