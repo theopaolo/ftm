@@ -531,7 +531,7 @@ Every legal matter found, including those dropped, dismissed, set aside or decid
   - 2026-03-06 · Anti-terrorism suits by attack victims (with Binance) · individual: Pending; one survived dismissal 2025; a third dismissed 2026 with leave to amend.
   - 2025-10-23 · Presidential pardon · individual: Pardoned by President Trump 2025; senators tied it to Trump family business ties.
   - 2025-05-29 · SEC suit alleging inflated volumes, diverted funds, unregistered trading · individual: Dismissed with prejudice 2025; no ruling on the allegations.
-  - 2024-04-30 · Bank Secrecy Act violation over Binance's anti-money-laundering programme · individual: Guilty plea 2023; four months in prison 2024, served; $50m fine; pardoned 2025 (see below).
+  - 2024-04-30 · Bank Secrecy Act violation over Binance's anti-money-laundering programme · individual: Guilty plea 2023; four months in prison 2024, served; $50m fine; later pardoned (2025).
   - 2023-12-18 · CFTC derivatives case (with Binance) · individual: Consent order 2023: $150m personal penalty; Binance paid $2.7bn.
   - 2023-11-21 · Bank Secrecy Act, money-transmitting and sanctions violations (Binance) · company: Guilty plea 2023: $4.3bn and an independent monitor.
 - **Michael Bloomberg (#18)**
